@@ -522,8 +522,16 @@
         }
       },
       {
+        "district": "Evacuees*",
+        "confirmed": 3,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 0
+        }
+      },
+      {
         "district": "Evacuees",
-        "confirmed": 52,
+        "confirmed": 51,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -643,14 +651,6 @@
       },
       {
         "district": "Hanumangarh",
-        "confirmed": 2,
-        "lastupdatedtime": "",
-        "delta": {
-          "confirmed": 0
-        }
-      },
-      {
-        "district": "Evacuees*",
         "confirmed": 2,
         "lastupdatedtime": "",
         "delta": {
@@ -2821,10 +2821,10 @@
       },
       {
         "district": "Indore",
-        "confirmed": 544,
+        "confirmed": 586,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 42
         }
       },
       {
