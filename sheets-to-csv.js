@@ -35,6 +35,7 @@ const all_sheets = [
 ];
 
 all_sheets.forEach(element => {
+    console.log("Reading: "+element[0]);
     var temp_url = "https://docs.google.com/spreadsheets/d/e/" + PUBLISHED_SHEET_ID + "/pub?gid=" + element[1] + "&single=false&output=csv";
     console.log(temp_url);
     url = encodeURI(temp_url);
@@ -43,5 +44,6 @@ all_sheets.forEach(element => {
         .then(csv => {
             fs.writeFileSync(today_dir + "/"+element[0]+".csv", csv);
             fs.writeFileSync(latest_dir + "/"+element[0]+".csv", csv);
+            console.log("Write completed: "+element[0]);
         });
 });
