@@ -1618,14 +1618,14 @@
     "districtData": {
       "Chamba": {
         "notes": "",
-        "active": 2,
+        "active": 1,
         "confirmed": 6,
         "deceased": 0,
-        "recovered": 4,
+        "recovered": 5,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 1
         }
       },
       "Hamirpur": {
@@ -1682,6 +1682,18 @@
         "confirmed": 16,
         "deceased": 0,
         "recovered": 12,
+        "delta": {
+          "confirmed": 0,
+          "deceased": 0,
+          "recovered": 0
+        }
+      },
+      "Unknown": {
+        "notes": "",
+        "active": 0,
+        "confirmed": 0,
+        "deceased": 0,
+        "recovered": 1,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
@@ -4237,36 +4249,36 @@
     "districtData": {
       "Ariyalur": {
         "notes": "",
-        "active": 1,
-        "confirmed": 5,
+        "active": 2,
+        "confirmed": 6,
         "deceased": 0,
         "recovered": 4,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
       },
       "Chengalpattu": {
         "notes": "",
-        "active": 27,
-        "confirmed": 71,
+        "active": 32,
+        "confirmed": 76,
         "deceased": 1,
         "recovered": 43,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 5,
           "deceased": 0,
           "recovered": 0
         }
       },
       "Chennai": {
         "notes": "",
-        "active": 547,
-        "confirmed": 772,
+        "active": 685,
+        "confirmed": 910,
         "deceased": 15,
         "recovered": 210,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 138,
           "deceased": 0,
           "recovered": 0
         }
@@ -4285,12 +4297,12 @@
       },
       "Cuddalore": {
         "notes": "",
-        "active": 8,
-        "confirmed": 26,
+        "active": 9,
+        "confirmed": 27,
         "deceased": 0,
         "recovered": 18,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
@@ -4345,12 +4357,12 @@
       },
       "Kancheepuram": {
         "notes": "",
-        "active": 12,
-        "confirmed": 22,
+        "active": 15,
+        "confirmed": 25,
         "deceased": 1,
         "recovered": 9,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 3,
           "deceased": 0,
           "recovered": 0
         }
@@ -4381,12 +4393,12 @@
       },
       "Madurai": {
         "notes": "",
-        "active": 37,
-        "confirmed": 79,
+        "active": 42,
+        "confirmed": 84,
         "deceased": 2,
         "recovered": 40,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 5,
           "deceased": 0,
           "recovered": 0
         }
@@ -4661,6 +4673,18 @@
         "confirmed": 32,
         "deceased": 0,
         "recovered": 16,
+        "delta": {
+          "confirmed": 0,
+          "deceased": 0,
+          "recovered": 0
+        }
+      },
+      "Unknown": {
+        "notes": "",
+        "active": 0,
+        "confirmed": 8,
+        "deceased": 0,
+        "recovered": 0,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
