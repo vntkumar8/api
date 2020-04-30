@@ -724,12 +724,12 @@
     "districtData": {
       "Chandigarh": {
         "notes": "",
-        "active": 51,
-        "confirmed": 68,
+        "active": 57,
+        "confirmed": 74,
         "deceased": 0,
         "recovered": 17,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 6,
           "deceased": 0,
           "recovered": 0
         }
@@ -2358,12 +2358,12 @@
       },
       "Kasaragod": {
         "notes": "",
-        "active": 13,
-        "confirmed": 178,
+        "active": 14,
+        "confirmed": 179,
         "deceased": 0,
         "recovered": 165,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
@@ -2406,12 +2406,12 @@
       },
       "Malappuram": {
         "notes": "",
-        "active": 6,
-        "confirmed": 23,
+        "active": 7,
+        "confirmed": 24,
         "deceased": 0,
         "recovered": 17,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
@@ -2470,6 +2470,18 @@
         "confirmed": 3,
         "deceased": 0,
         "recovered": 3,
+        "delta": {
+          "confirmed": 0,
+          "deceased": 0,
+          "recovered": 0
+        }
+      },
+      "Unknown": {
+        "notes": "",
+        "active": 0,
+        "confirmed": 0,
+        "deceased": 0,
+        "recovered": 14,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
@@ -3558,7 +3570,7 @@
       "Unknown": {
         "notes": "",
         "active": 0,
-        "confirmed": 1,
+        "confirmed": 15,
         "deceased": 0,
         "recovered": 0,
         "delta": {
