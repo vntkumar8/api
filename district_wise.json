@@ -1585,11 +1585,11 @@
 			"statecode": "BR"
 		},
 		{
-			"active": "36",
-			"confirmed": "42",
+			"active": "38",
+			"confirmed": "44",
 			"deceased": "0",
-			"deltaactive": "-1",
-			"deltaconfirmed": "0",
+			"deltaactive": "1",
+			"deltaconfirmed": "2",
 			"deltadeceased": "0",
 			"deltarecovered": "1",
 			"district": "Patna",
@@ -1617,11 +1617,11 @@
 			"statecode": "BR"
 		},
 		{
-			"active": "36",
-			"confirmed": "36",
+			"active": "45",
+			"confirmed": "45",
 			"deceased": "0",
-			"deltaactive": "2",
-			"deltaconfirmed": "2",
+			"deltaactive": "11",
+			"deltaconfirmed": "11",
 			"deltadeceased": "0",
 			"deltarecovered": "0",
 			"district": "Rohtas",
@@ -1665,11 +1665,11 @@
 			"statecode": "BR"
 		},
 		{
-			"active": "3",
-			"confirmed": "4",
+			"active": "5",
+			"confirmed": "6",
 			"deceased": "0",
-			"deltaactive": "0",
-			"deltaconfirmed": "0",
+			"deltaactive": "2",
+			"deltaconfirmed": "2",
 			"deltadeceased": "0",
 			"deltarecovered": "0",
 			"district": "Saran",
@@ -3585,11 +3585,11 @@
 			"statecode": "HP"
 		},
 		{
-			"active": "70",
-			"confirmed": "71",
+			"active": "82",
+			"confirmed": "83",
 			"deceased": "1",
-			"deltaactive": "0",
-			"deltaconfirmed": "0",
+			"deltaactive": "12",
+			"deltaconfirmed": "12",
 			"deltadeceased": "0",
 			"deltarecovered": "0",
 			"district": "Anantnag",
@@ -3602,16 +3602,16 @@
 		},
 		{
 			"active": "10",
-			"confirmed": "19",
+			"confirmed": "20",
 			"deceased": "0",
 			"deltaactive": "0",
-			"deltaconfirmed": "0",
+			"deltaconfirmed": "1",
 			"deltadeceased": "0",
-			"deltarecovered": "0",
+			"deltarecovered": "1",
 			"district": "Badgam",
 			"districtkey": "JK_Badgam",
 			"districtnotes": "",
-			"recovered": "9",
+			"recovered": "10",
 			"slno": "225",
 			"state": "Jammu and Kashmir",
 			"statecode": "JK"
@@ -3633,11 +3633,11 @@
 			"statecode": "JK"
 		},
 		{
-			"active": "49",
-			"confirmed": "73",
+			"active": "60",
+			"confirmed": "84",
 			"deceased": "3",
-			"deltaactive": "0",
-			"deltaconfirmed": "0",
+			"deltaactive": "11",
+			"deltaconfirmed": "11",
 			"deltadeceased": "0",
 			"deltarecovered": "0",
 			"district": "Baramula",
@@ -3681,17 +3681,17 @@
 			"statecode": "JK"
 		},
 		{
-			"active": "3",
+			"active": "0",
 			"confirmed": "26",
 			"deceased": "0",
-			"deltaactive": "0",
+			"deltaactive": "-3",
 			"deltaconfirmed": "0",
 			"deltadeceased": "0",
-			"deltarecovered": "0",
+			"deltarecovered": "3",
 			"district": "Jammu",
 			"districtkey": "JK_Jammu",
 			"districtnotes": "",
-			"recovered": "23",
+			"recovered": "26",
 			"slno": "230",
 			"state": "Jammu and Kashmir",
 			"statecode": "JK"
@@ -3729,17 +3729,17 @@
 			"statecode": "JK"
 		},
 		{
-			"active": "7",
-			"confirmed": "7",
+			"active": "9",
+			"confirmed": "11",
 			"deceased": "0",
-			"deltaactive": "0",
-			"deltaconfirmed": "0",
+			"deltaactive": "2",
+			"deltaconfirmed": "4",
 			"deltadeceased": "0",
-			"deltarecovered": "0",
+			"deltarecovered": "2",
 			"district": "Kulgam",
 			"districtkey": "JK_Kulgam",
 			"districtnotes": "",
-			"recovered": "0",
+			"recovered": "2",
 			"slno": "233",
 			"state": "Jammu and Kashmir",
 			"statecode": "JK"
@@ -3793,11 +3793,11 @@
 			"statecode": "JK"
 		},
 		{
-			"active": "2",
-			"confirmed": "5",
+			"active": "4",
+			"confirmed": "7",
 			"deceased": "0",
-			"deltaactive": "0",
-			"deltaconfirmed": "0",
+			"deltaactive": "2",
+			"deltaconfirmed": "2",
 			"deltadeceased": "0",
 			"deltarecovered": "0",
 			"district": "Pulwama",
@@ -3889,11 +3889,11 @@
 			"statecode": "JK"
 		},
 		{
-			"active": "58",
-			"confirmed": "71",
+			"active": "59",
+			"confirmed": "72",
 			"deceased": "0",
-			"deltaactive": "0",
-			"deltaconfirmed": "0",
+			"deltaactive": "1",
+			"deltaconfirmed": "1",
 			"deltadeceased": "0",
 			"deltarecovered": "0",
 			"district": "Shupiyan",
@@ -3905,33 +3905,33 @@
 			"statecode": "JK"
 		},
 		{
-			"active": "34",
-			"confirmed": "87",
+			"active": "19",
+			"confirmed": "89",
 			"deceased": "2",
-			"deltaactive": "0",
-			"deltaconfirmed": "0",
+			"deltaactive": "-15",
+			"deltaconfirmed": "2",
 			"deltadeceased": "0",
-			"deltarecovered": "0",
+			"deltarecovered": "17",
 			"district": "Srinagar",
 			"districtkey": "JK_Srinagar",
 			"districtnotes": "",
-			"recovered": "51",
+			"recovered": "68",
 			"slno": "244",
 			"state": "Jammu and Kashmir",
 			"statecode": "JK"
 		},
 		{
-			"active": "3",
+			"active": "2",
 			"confirmed": "20",
 			"deceased": "1",
-			"deltaactive": "0",
+			"deltaactive": "-1",
 			"deltaconfirmed": "0",
 			"deltadeceased": "0",
-			"deltarecovered": "0",
+			"deltarecovered": "1",
 			"district": "Udhampur",
 			"districtkey": "JK_Udhampur",
 			"districtnotes": "",
-			"recovered": "16",
+			"recovered": "17",
 			"slno": "245",
 			"state": "Jammu and Kashmir",
 			"statecode": "JK"
@@ -10081,9 +10081,9 @@
 			"statecode": "TR"
 		},
 		{
-			"active": "347",
+			"active": "325",
 			"confirmed": "430",
-			"deceased": "12",
+			"deceased": "14",
 			"deltaactive": "0",
 			"deltaconfirmed": "0",
 			"deltadeceased": "0",
@@ -10091,7 +10091,7 @@
 			"district": "Agra",
 			"districtkey": "UP_Agra",
 			"districtnotes": "",
-			"recovered": "71",
+			"recovered": "91",
 			"slno": "617",
 			"state": "Uttar Pradesh",
 			"statecode": "UP"
@@ -10193,7 +10193,7 @@
 			"statecode": "UP"
 		},
 		{
-			"active": "4",
+			"active": "2",
 			"confirmed": "15",
 			"deceased": "0",
 			"deltaactive": "0",
@@ -10203,7 +10203,7 @@
 			"district": "Baghpat",
 			"districtkey": "UP_Baghpat",
 			"districtnotes": "",
-			"recovered": "11",
+			"recovered": "13",
 			"slno": "624",
 			"state": "Uttar Pradesh",
 			"statecode": "UP"
@@ -10289,9 +10289,9 @@
 			"statecode": "UP"
 		},
 		{
-			"active": "2",
+			"active": "1",
 			"confirmed": "8",
-			"deceased": "0",
+			"deceased": "1",
 			"deltaactive": "0",
 			"deltaconfirmed": "0",
 			"deltadeceased": "0",
@@ -10321,7 +10321,7 @@
 			"statecode": "UP"
 		},
 		{
-			"active": "1",
+			"active": "0",
 			"confirmed": "1",
 			"deceased": "0",
 			"deltaactive": "0",
@@ -10331,7 +10331,7 @@
 			"district": "Bhadohi",
 			"districtkey": "UP_Bhadohi",
 			"districtnotes": "",
-			"recovered": "0",
+			"recovered": "1",
 			"slno": "632",
 			"state": "Uttar Pradesh",
 			"statecode": "UP"
@@ -10513,9 +10513,9 @@
 			"statecode": "UP"
 		},
 		{
-			"active": "106",
+			"active": "98",
 			"confirmed": "110",
-			"deceased": "1",
+			"deceased": "2",
 			"deltaactive": "0",
 			"deltaconfirmed": "0",
 			"deltadeceased": "0",
@@ -10523,13 +10523,13 @@
 			"district": "Firozabad",
 			"districtkey": "UP_Firozabad",
 			"districtnotes": "",
-			"recovered": "3",
+			"recovered": "10",
 			"slno": "644",
 			"state": "Uttar Pradesh",
 			"statecode": "UP"
 		},
 		{
-			"active": "58",
+			"active": "56",
 			"confirmed": "137",
 			"deceased": "0",
 			"deltaactive": "0",
@@ -10539,7 +10539,7 @@
 			"district": "Gautam Buddha Nagar",
 			"districtkey": "UP_Gautam Buddha Nagar",
 			"districtnotes": "",
-			"recovered": "79",
+			"recovered": "81",
 			"slno": "645",
 			"state": "Uttar Pradesh",
 			"statecode": "UP"
@@ -10849,7 +10849,7 @@
 			"statecode": "UP"
 		},
 		{
-			"active": "164",
+			"active": "154",
 			"confirmed": "205",
 			"deceased": "1",
 			"deltaactive": "0",
@@ -10859,7 +10859,7 @@
 			"district": "Lucknow",
 			"districtkey": "UP_Lucknow",
 			"districtnotes": "",
-			"recovered": "40",
+			"recovered": "50",
 			"slno": "665",
 			"state": "Uttar Pradesh",
 			"statecode": "UP"
@@ -10913,9 +10913,9 @@
 			"statecode": "UP"
 		},
 		{
-			"active": "12",
+			"active": "11",
 			"confirmed": "13",
-			"deceased": "0",
+			"deceased": "1",
 			"deltaactive": "0",
 			"deltaconfirmed": "0",
 			"deltadeceased": "0",
@@ -10961,7 +10961,7 @@
 			"statecode": "UP"
 		},
 		{
-			"active": "2",
+			"active": "1",
 			"confirmed": "3",
 			"deceased": "0",
 			"deltaactive": "0",
@@ -10971,7 +10971,7 @@
 			"district": "Mirzapur",
 			"districtkey": "UP_Mirzapur",
 			"districtnotes": "",
-			"recovered": "1",
+			"recovered": "2",
 			"slno": "672",
 			"state": "Uttar Pradesh",
 			"statecode": "UP"
@@ -10993,7 +10993,7 @@
 			"statecode": "UP"
 		},
 		{
-			"active": "17",
+			"active": "14",
 			"confirmed": "23",
 			"deceased": "0",
 			"deltaactive": "0",
@@ -11003,7 +11003,7 @@
 			"district": "Muzaffarnagar",
 			"districtkey": "UP_Muzaffarnagar",
 			"districtnotes": "",
-			"recovered": "6",
+			"recovered": "9",
 			"slno": "674",
 			"state": "Uttar Pradesh",
 			"statecode": "UP"
@@ -11089,7 +11089,7 @@
 			"statecode": "UP"
 		},
 		{
-			"active": "171",
+			"active": "169",
 			"confirmed": "182",
 			"deceased": "0",
 			"deltaactive": "0",
@@ -11099,7 +11099,7 @@
 			"district": "Saharanpur",
 			"districtkey": "UP_Saharanpur",
 			"districtnotes": "",
-			"recovered": "11",
+			"recovered": "13",
 			"slno": "680",
 			"state": "Uttar Pradesh",
 			"statecode": "UP"
@@ -12419,7 +12419,7 @@
 		{
 			"active": "",
 			"confirmed": "0",
-			"deceased": "5",
+			"deceased": "0",
 			"deltaactive": "0",
 			"deltaconfirmed": "0",
 			"deltadeceased": "0",
@@ -12427,7 +12427,7 @@
 			"district": "Unknown",
 			"districtkey": "UP_Unknown",
 			"districtnotes": "",
-			"recovered": "48",
+			"recovered": "0",
 			"slno": "762",
 			"state": "Uttar Pradesh",
 			"statecode": "UP"
