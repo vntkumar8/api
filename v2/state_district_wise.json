@@ -2553,9 +2553,9 @@
       {
         "district": "Kannur",
         "notes": "",
-        "active": 44,
+        "active": 45,
         "confirmed": 115,
-        "deceased": 2,
+        "deceased": 1,
         "recovered": 69,
         "delta": {
           "confirmed": 0,
@@ -2579,8 +2579,8 @@
       {
         "district": "Kollam",
         "notes": "",
-        "active": 9,
-        "confirmed": 20,
+        "active": 12,
+        "confirmed": 23,
         "deceased": 0,
         "recovered": 11,
         "delta": {
@@ -2605,10 +2605,10 @@
       {
         "district": "Kozhikode",
         "notes": "",
-        "active": -1,
+        "active": 1,
         "confirmed": 24,
         "deceased": 0,
-        "recovered": 25,
+        "recovered": 23,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
@@ -2618,10 +2618,10 @@
       {
         "district": "Malappuram",
         "notes": "",
-        "active": 6,
+        "active": 2,
         "confirmed": 24,
-        "deceased": 0,
-        "recovered": 18,
+        "deceased": 1,
+        "recovered": 21,
         "delta": {
           "confirmed": 1,
           "deceased": 0,
@@ -2657,10 +2657,10 @@
       {
         "district": "Thiruvananthapuram",
         "notes": "",
-        "active": 4,
+        "active": 1,
         "confirmed": 17,
         "deceased": 1,
-        "recovered": 12,
+        "recovered": 15,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
@@ -2687,6 +2687,19 @@
         "confirmed": 3,
         "deceased": 0,
         "recovered": 3,
+        "delta": {
+          "confirmed": 0,
+          "deceased": 0,
+          "recovered": 0
+        }
+      },
+      {
+        "district": "Unknown",
+        "notes": "",
+        "active": 0,
+        "confirmed": -3,
+        "deceased": 0,
+        "recovered": -4,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
@@ -2799,13 +2812,13 @@
       {
         "district": "Bhopal",
         "notes": "",
-        "active": 332,
+        "active": 331,
         "confirmed": 508,
-        "deceased": 14,
+        "deceased": 15,
         "recovered": 162,
         "delta": {
           "confirmed": 25,
-          "deceased": 0,
+          "deceased": 1,
           "recovered": 0
         }
       },
@@ -2838,27 +2851,27 @@
       {
         "district": "Dewas",
         "notes": "MP bulletin dated 28 Apr reduced total cases in Dewas by 1 upon reconcilation with Indore district",
-        "active": 11,
+        "active": 10,
         "confirmed": 24,
         "deceased": 7,
-        "recovered": 6,
+        "recovered": 7,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 1
         }
       },
       {
         "district": "Dhar",
         "notes": "State bulletin on 20th Apr reported 5 extra cases in Dhar distrct. This has been reconciled - MP Health Dept Bulletin, 22 Apr",
-        "active": 47,
+        "active": 46,
         "confirmed": 48,
         "deceased": 1,
-        "recovered": 0,
+        "recovered": 1,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 1
         }
       },
       {
@@ -2903,26 +2916,26 @@
       {
         "district": "Hoshangabad",
         "notes": "",
-        "active": 19,
+        "active": 18,
         "confirmed": 35,
-        "deceased": 2,
+        "deceased": 3,
         "recovered": 14,
         "delta": {
           "confirmed": 0,
-          "deceased": 0,
+          "deceased": 1,
           "recovered": 0
         }
       },
       {
         "district": "Indore",
         "notes": "",
-        "active": 1244,
+        "active": 1241,
         "confirmed": 1486,
-        "deceased": 65,
+        "deceased": 68,
         "recovered": 177,
         "delta": {
           "confirmed": 10,
-          "deceased": 0,
+          "deceased": 3,
           "recovered": 0
         }
       },
@@ -2942,14 +2955,14 @@
       {
         "district": "Khandwa",
         "notes": "",
-        "active": 31,
+        "active": 11,
         "confirmed": 46,
-        "deceased": 3,
-        "recovered": 12,
+        "deceased": 4,
+        "recovered": 31,
         "delta": {
           "confirmed": 0,
-          "deceased": 0,
-          "recovered": 0
+          "deceased": 1,
+          "recovered": 19
         }
       },
       {
@@ -3111,13 +3124,13 @@
       {
         "district": "Ujjain",
         "notes": "",
-        "active": 110,
+        "active": 109,
         "confirmed": 138,
-        "deceased": 23,
+        "deceased": 24,
         "recovered": 5,
         "delta": {
           "confirmed": 11,
-          "deceased": 0,
+          "deceased": 1,
           "recovered": 0
         }
       },
