@@ -38,14 +38,14 @@
       {
         "district": "Anantapur",
         "notes": "",
-        "active": 40,
+        "active": 37,
         "confirmed": 61,
         "deceased": 4,
-        "recovered": 17,
+        "recovered": 20,
         "delta": {
           "confirmed": 3,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 3
         }
       },
       {
@@ -64,27 +64,27 @@
       {
         "district": "East Godavari",
         "notes": "",
-        "active": 30,
+        "active": 28,
         "confirmed": 42,
         "deceased": 0,
-        "recovered": 12,
+        "recovered": 14,
         "delta": {
           "confirmed": 2,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 2
         }
       },
       {
         "district": "Guntur",
         "notes": "",
-        "active": 220,
+        "active": 192,
         "confirmed": 287,
         "deceased": 8,
-        "recovered": 59,
+        "recovered": 87,
         "delta": {
           "confirmed": 4,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 28
         }
       },
       {
@@ -155,14 +155,14 @@
       {
         "district": "Visakhapatnam",
         "notes": "",
-        "active": 4,
+        "active": 3,
         "confirmed": 23,
         "deceased": 0,
-        "recovered": 19,
+        "recovered": 20,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 1
         }
       },
       {
@@ -4634,9 +4634,9 @@
       {
         "district": "Chengalpattu",
         "notes": "",
-        "active": 28,
+        "active": 27,
         "confirmed": 71,
-        "deceased": 0,
+        "deceased": 1,
         "recovered": 43,
         "delta": {
           "confirmed": 0,
@@ -4647,9 +4647,9 @@
       {
         "district": "Chennai",
         "notes": "",
-        "active": 548,
+        "active": 547,
         "confirmed": 772,
-        "deceased": 14,
+        "deceased": 15,
         "recovered": 210,
         "delta": {
           "confirmed": 0,
@@ -4738,9 +4738,9 @@
       {
         "district": "Kancheepuram",
         "notes": "",
-        "active": 13,
+        "active": 12,
         "confirmed": 22,
-        "deceased": 0,
+        "deceased": 1,
         "recovered": 9,
         "delta": {
           "confirmed": 0,
@@ -4777,9 +4777,9 @@
       {
         "district": "Madurai",
         "notes": "",
-        "active": 38,
+        "active": 37,
         "confirmed": 79,
-        "deceased": 1,
+        "deceased": 2,
         "recovered": 40,
         "delta": {
           "confirmed": 0,
@@ -5080,19 +5080,6 @@
         "confirmed": 32,
         "deceased": 0,
         "recovered": 16,
-        "delta": {
-          "confirmed": 0,
-          "deceased": 0,
-          "recovered": 0
-        }
-      },
-      {
-        "district": "Unknown",
-        "notes": "",
-        "active": 0,
-        "confirmed": 0,
-        "deceased": 4,
-        "recovered": 0,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
