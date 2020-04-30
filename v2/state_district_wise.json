@@ -1522,13 +1522,13 @@
       {
         "district": "Faridabad",
         "notes": "",
-        "active": 9,
-        "confirmed": 50,
-        "deceased": 0,
+        "active": 11,
+        "confirmed": 53,
+        "deceased": 1,
         "recovered": 41,
         "delta": {
-          "confirmed": 4,
-          "deceased": 0,
+          "confirmed": 7,
+          "deceased": 1,
           "recovered": 0
         }
       },
@@ -1574,12 +1574,12 @@
       {
         "district": "Jhajjar",
         "notes": "",
-        "active": 17,
-        "confirmed": 17,
+        "active": 24,
+        "confirmed": 24,
         "deceased": 0,
         "recovered": 0,
         "delta": {
-          "confirmed": 11,
+          "confirmed": 18,
           "deceased": 0,
           "recovered": 0
         }
@@ -1639,14 +1639,14 @@
       {
         "district": "Nuh",
         "notes": "",
-        "active": 12,
+        "active": 8,
         "confirmed": 58,
         "deceased": 0,
-        "recovered": 46,
+        "recovered": 50,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 4
         }
       },
       {
@@ -1665,14 +1665,14 @@
       {
         "district": "Panchkula",
         "notes": "",
-        "active": 5,
+        "active": 1,
         "confirmed": 18,
         "deceased": 0,
-        "recovered": 13,
+        "recovered": 17,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 4
         }
       },
       {
@@ -2498,7 +2498,7 @@
         "active": 0,
         "confirmed": 0,
         "deceased": 0,
-        "recovered": 8,
+        "recovered": 14,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
