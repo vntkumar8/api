@@ -2497,11 +2497,11 @@
 			"statecode": "GA"
 		},
 		{
-			"active": "2377",
-			"confirmed": "2777",
+			"active": "2626",
+			"confirmed": "3026",
 			"deceased": "137",
-			"deltaactive": "0",
-			"deltaconfirmed": "0",
+			"deltaactive": "249",
+			"deltaconfirmed": "249",
 			"deltadeceased": "0",
 			"deltarecovered": "0",
 			"district": "Ahmadabad",
@@ -2529,11 +2529,11 @@
 			"statecode": "GJ"
 		},
 		{
-			"active": "45",
-			"confirmed": "71",
+			"active": "48",
+			"confirmed": "74",
 			"deceased": "3",
-			"deltaactive": "0",
-			"deltaconfirmed": "0",
+			"deltaactive": "3",
+			"deltaconfirmed": "3",
 			"deltadeceased": "0",
 			"deltarecovered": "0",
 			"district": "Anand",
@@ -2545,11 +2545,11 @@
 			"statecode": "GJ"
 		},
 		{
-			"active": "17",
-			"confirmed": "18",
+			"active": "18",
+			"confirmed": "19",
 			"deceased": "1",
-			"deltaactive": "0",
-			"deltaconfirmed": "0",
+			"deltaactive": "1",
+			"deltaconfirmed": "1",
 			"deltadeceased": "0",
 			"deltarecovered": "0",
 			"district": "Aravalli",
@@ -2593,11 +2593,11 @@
 			"statecode": "GJ"
 		},
 		{
-			"active": "17",
-			"confirmed": "43",
+			"active": "21",
+			"confirmed": "47",
 			"deceased": "5",
-			"deltaactive": "0",
-			"deltaconfirmed": "0",
+			"deltaactive": "4",
+			"deltaconfirmed": "4",
 			"deltadeceased": "0",
 			"deltarecovered": "0",
 			"district": "Bhavnagar",
@@ -2657,11 +2657,11 @@
 			"statecode": "GJ"
 		},
 		{
-			"active": "3",
-			"confirmed": "4",
+			"active": "4",
+			"confirmed": "5",
 			"deceased": "0",
-			"deltaactive": "0",
-			"deltaconfirmed": "0",
+			"deltaactive": "1",
+			"deltaconfirmed": "1",
 			"deltadeceased": "0",
 			"deltarecovered": "0",
 			"district": "Dahod",
@@ -2673,11 +2673,11 @@
 			"statecode": "GJ"
 		},
 		{
-			"active": "24",
-			"confirmed": "38",
+			"active": "34",
+			"confirmed": "48",
 			"deceased": "2",
-			"deltaactive": "0",
-			"deltaconfirmed": "0",
+			"deltaactive": "10",
+			"deltaconfirmed": "10",
 			"deltadeceased": "0",
 			"deltarecovered": "0",
 			"district": "Gandhinagar",
@@ -2769,11 +2769,11 @@
 			"statecode": "GJ"
 		},
 		{
-			"active": "6",
-			"confirmed": "8",
+			"active": "9",
+			"confirmed": "11",
 			"deceased": "0",
-			"deltaactive": "0",
-			"deltaconfirmed": "0",
+			"deltaactive": "3",
+			"deltaconfirmed": "3",
 			"deltadeceased": "0",
 			"deltarecovered": "0",
 			"district": "Mahesana",
@@ -2849,11 +2849,11 @@
 			"statecode": "GJ"
 		},
 		{
-			"active": "20",
-			"confirmed": "24",
+			"active": "30",
+			"confirmed": "34",
 			"deceased": "2",
-			"deltaactive": "0",
-			"deltaconfirmed": "0",
+			"deltaactive": "10",
+			"deltaconfirmed": "10",
 			"deltadeceased": "0",
 			"deltarecovered": "0",
 			"district": "Panch Mahals",
@@ -2929,11 +2929,11 @@
 			"statecode": "GJ"
 		},
 		{
-			"active": "539",
-			"confirmed": "601",
+			"active": "552",
+			"confirmed": "614",
 			"deceased": "22",
-			"deltaactive": "0",
-			"deltaconfirmed": "0",
+			"deltaactive": "13",
+			"deltaconfirmed": "13",
 			"deltadeceased": "0",
 			"deltarecovered": "0",
 			"district": "Surat",
@@ -2993,11 +2993,11 @@
 			"statecode": "GJ"
 		},
 		{
-			"active": "167",
-			"confirmed": "270",
+			"active": "186",
+			"confirmed": "289",
 			"deceased": "16",
-			"deltaactive": "0",
-			"deltaconfirmed": "0",
+			"deltaactive": "19",
+			"deltaconfirmed": "19",
 			"deltadeceased": "0",
 			"deltarecovered": "0",
 			"district": "Vadodara",
@@ -4913,7 +4913,7 @@
 			"statecode": "KL"
 		},
 		{
-			"active": "1",
+			"active": "-1",
 			"confirmed": "24",
 			"deceased": "0",
 			"deltaactive": "-1",
@@ -4923,7 +4923,7 @@
 			"district": "Kozhikode",
 			"districtkey": "KL_Kozhikode",
 			"districtnotes": "",
-			"recovered": "23",
+			"recovered": "25",
 			"slno": "307",
 			"state": "Kerala",
 			"statecode": "KL"
@@ -4977,7 +4977,7 @@
 			"statecode": "KL"
 		},
 		{
-			"active": "2",
+			"active": "4",
 			"confirmed": "17",
 			"deceased": "1",
 			"deltaactive": "0",
@@ -4987,7 +4987,7 @@
 			"district": "Thiruvananthapuram",
 			"districtkey": "KL_Thiruvananthapuram",
 			"districtnotes": "",
-			"recovered": "14",
+			"recovered": "12",
 			"slno": "311",
 			"state": "Kerala",
 			"statecode": "KL"
@@ -12051,7 +12051,7 @@
 		{
 			"active": "",
 			"confirmed": "0",
-			"deceased": "0",
+			"deceased": "17",
 			"deltaactive": "0",
 			"deltaconfirmed": "0",
 			"deltadeceased": "0",
