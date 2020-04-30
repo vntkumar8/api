@@ -724,14 +724,14 @@
     "districtData": {
       "Chandigarh": {
         "notes": "",
-        "active": 57,
+        "active": 56,
         "confirmed": 74,
         "deceased": 0,
-        "recovered": 17,
+        "recovered": 18,
         "delta": {
           "confirmed": 6,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 1
         }
       }
     },
@@ -3449,12 +3449,12 @@
       },
       "Jajapur": {
         "notes": "",
-        "active": 34,
-        "confirmed": 35,
+        "active": 35,
+        "confirmed": 36,
         "deceased": 0,
         "recovered": 1,
         "delta": {
-          "confirmed": 16,
+          "confirmed": 17,
           "deceased": 0,
           "recovered": 0
         }
@@ -3549,18 +3549,6 @@
         "confirmed": 10,
         "deceased": 0,
         "recovered": 3,
-        "delta": {
-          "confirmed": 0,
-          "deceased": 0,
-          "recovered": 0
-        }
-      },
-      "Unknown": {
-        "notes": "",
-        "active": 0,
-        "confirmed": 1,
-        "deceased": 0,
-        "recovered": 0,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
