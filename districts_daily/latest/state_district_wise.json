@@ -1654,26 +1654,26 @@
       },
       "Sirmaur": {
         "notes": "",
-        "active": 0,
+        "active": 1,
         "confirmed": 2,
         "deceased": 0,
-        "recovered": 2,
+        "recovered": 1,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": -1
         }
       },
       "Solan": {
         "notes": "",
-        "active": 4,
+        "active": 3,
         "confirmed": 9,
         "deceased": 1,
-        "recovered": 4,
+        "recovered": 5,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 1
+          "recovered": 2
         }
       },
       "Una": {
@@ -5877,12 +5877,12 @@
       },
       "Udham Singh Nagar": {
         "notes": "",
-        "active": 1,
-        "confirmed": 5,
+        "active": 3,
+        "confirmed": 7,
         "deceased": 0,
         "recovered": 4,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 2,
           "deceased": 0,
           "recovered": 0
         }
