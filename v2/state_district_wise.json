@@ -4303,13 +4303,13 @@
       {
         "district": "Chittaurgarh",
         "notes": "",
-        "active": 19,
+        "active": 18,
         "confirmed": 19,
-        "deceased": 0,
+        "deceased": 1,
         "recovered": 0,
         "delta": {
           "confirmed": 3,
-          "deceased": 0,
+          "deceased": 1,
           "recovered": 0
         }
       },
@@ -4368,27 +4368,27 @@
       {
         "district": "Hanumangarh",
         "notes": "",
-        "active": 3,
+        "active": 1,
         "confirmed": 11,
         "deceased": 0,
-        "recovered": 8,
+        "recovered": 10,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 3
+          "recovered": 5
         }
       },
       {
         "district": "Jaipur",
         "notes": "",
         "active": 570,
-        "confirmed": 895,
+        "confirmed": 902,
         "deceased": 32,
-        "recovered": 293,
+        "recovered": 300,
         "delta": {
-          "confirmed": 14,
+          "confirmed": 21,
           "deceased": 2,
-          "recovered": 10
+          "recovered": 17
         }
       },
       {
@@ -4433,12 +4433,12 @@
       {
         "district": "Jodhpur",
         "notes": "",
-        "active": 363,
-        "confirmed": 472,
+        "active": 387,
+        "confirmed": 496,
         "deceased": 6,
         "recovered": 103,
         "delta": {
-          "confirmed": 59,
+          "confirmed": 83,
           "deceased": 0,
           "recovered": 0
         }
@@ -4459,12 +4459,12 @@
       {
         "district": "Kota",
         "notes": "",
-        "active": 88,
-        "confirmed": 193,
+        "active": 89,
+        "confirmed": 194,
         "deceased": 7,
         "recovered": 98,
         "delta": {
-          "confirmed": 1,
+          "confirmed": 2,
           "deceased": 0,
           "recovered": 0
         }
