@@ -1037,8 +1037,8 @@
         "district": "Unknown",
         "notes": "",
         "active": 0,
-        "confirmed": 2651,
-        "deceased": 56,
+        "confirmed": 2727,
+        "deceased": 59,
         "recovered": 1092,
         "delta": {
           "confirmed": 0,
@@ -3325,10 +3325,10 @@
       {
         "district": "Jalna",
         "notes": "Reconciled as per MH bulleting 24/04",
-        "active": 2,
+        "active": 1,
         "confirmed": 2,
         "deceased": 0,
-        "recovered": 0,
+        "recovered": 1,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
@@ -3364,23 +3364,23 @@
       {
         "district": "Mumbai",
         "notes": "",
-        "active": 5835,
+        "active": 5679,
         "confirmed": 7061,
         "deceased": 290,
-        "recovered": 936,
+        "recovered": 1092,
         "delta": {
           "confirmed": 417,
           "deceased": 20,
-          "recovered": 0
+          "recovered": 156
         }
       },
       {
         "district": "Nagpur",
         "notes": "",
-        "active": 102,
+        "active": 100,
         "confirmed": 139,
         "deceased": 2,
-        "recovered": 35,
+        "recovered": 37,
         "delta": {
           "confirmed": 1,
           "deceased": 1,
@@ -3442,10 +3442,10 @@
       {
         "district": "Palghar",
         "notes": "",
-        "active": 125,
+        "active": 119,
         "confirmed": 169,
         "deceased": 4,
-        "recovered": 40,
+        "recovered": 46,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
@@ -3468,23 +3468,23 @@
       {
         "district": "Pune",
         "notes": "",
-        "active": 916,
+        "active": 912,
         "confirmed": 1248,
         "deceased": 88,
-        "recovered": 244,
+        "recovered": 248,
         "delta": {
           "confirmed": 56,
           "deceased": 3,
-          "recovered": 0
+          "recovered": 4
         }
       },
       {
         "district": "Raigarh",
         "notes": "",
-        "active": 45,
+        "active": 44,
         "confirmed": 71,
         "deceased": 3,
-        "recovered": 23,
+        "recovered": 24,
         "delta": {
           "confirmed": 2,
           "deceased": 1,
@@ -3520,10 +3520,10 @@
       {
         "district": "Satara",
         "notes": "",
-        "active": 22,
+        "active": 21,
         "confirmed": 32,
         "deceased": 2,
-        "recovered": 8,
+        "recovered": 9,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
@@ -3559,10 +3559,10 @@
       {
         "district": "Thane",
         "notes": "",
-        "active": 764,
+        "active": 755,
         "confirmed": 943,
         "deceased": 16,
-        "recovered": 163,
+        "recovered": 172,
         "delta": {
           "confirmed": 61,
           "deceased": 2,
@@ -3604,19 +3604,6 @@
         "recovered": 0,
         "delta": {
           "confirmed": 1,
-          "deceased": 0,
-          "recovered": 0
-        }
-      },
-      {
-        "district": "Unknown",
-        "notes": "",
-        "active": 0,
-        "confirmed": 0,
-        "deceased": 0,
-        "recovered": 180,
-        "delta": {
-          "confirmed": 0,
           "deceased": 0,
           "recovered": 0
         }
