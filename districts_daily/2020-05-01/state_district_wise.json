@@ -2582,6 +2582,18 @@
           "recovered": 0
         }
       },
+      "Anuppur": {
+        "notes": "",
+        "active": 2,
+        "confirmed": 2,
+        "deceased": 0,
+        "recovered": 0,
+        "delta": {
+          "confirmed": 2,
+          "deceased": 0,
+          "recovered": 0
+        }
+      },
       "Ashoknagar": {
         "notes": "",
         "active": 0,
@@ -2620,12 +2632,12 @@
       },
       "Bhopal": {
         "notes": "",
-        "active": 331,
-        "confirmed": 508,
+        "active": 349,
+        "confirmed": 526,
         "deceased": 15,
         "recovered": 162,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 18,
           "deceased": 0,
           "recovered": 0
         }
@@ -2656,24 +2668,24 @@
       },
       "Dewas": {
         "notes": "MP bulletin dated 28 Apr reduced total cases in Dewas by 1 upon reconcilation with Indore district",
-        "active": 10,
-        "confirmed": 24,
+        "active": 12,
+        "confirmed": 26,
         "deceased": 7,
         "recovered": 7,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 2,
           "deceased": 0,
           "recovered": 0
         }
       },
       "Dhar": {
         "notes": "State bulletin on 20th Apr reported 5 extra cases in Dhar distrct. This has been reconciled - MP Health Dept Bulletin, 22 Apr",
-        "active": 46,
-        "confirmed": 48,
+        "active": 47,
+        "confirmed": 49,
         "deceased": 1,
         "recovered": 1,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
@@ -2692,12 +2704,12 @@
       },
       "Gwalior": {
         "notes": "",
-        "active": 2,
-        "confirmed": 4,
+        "active": 3,
+        "confirmed": 5,
         "deceased": 0,
         "recovered": 2,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
@@ -2728,24 +2740,24 @@
       },
       "Indore": {
         "notes": "",
-        "active": 1241,
-        "confirmed": 1486,
+        "active": 1270,
+        "confirmed": 1515,
         "deceased": 68,
         "recovered": 177,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 29,
           "deceased": 0,
           "recovered": 0
         }
       },
       "Jabalpur": {
         "notes": "",
-        "active": 77,
-        "confirmed": 85,
+        "active": 79,
+        "confirmed": 87,
         "deceased": 1,
         "recovered": 7,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 2,
           "deceased": 0,
           "recovered": 0
         }
@@ -2764,60 +2776,60 @@
       },
       "Khargone": {
         "notes": "MP Bulletin dated 25/04 reduced one case in Khargone as there was a repetition",
-        "active": 41,
-        "confirmed": 70,
+        "active": 44,
+        "confirmed": 73,
         "deceased": 7,
         "recovered": 22,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 3,
           "deceased": 0,
           "recovered": 0
         }
       },
       "Mandsaur": {
         "notes": "",
-        "active": 7,
-        "confirmed": 9,
+        "active": 22,
+        "confirmed": 24,
         "deceased": 2,
         "recovered": 0,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 15,
           "deceased": 0,
           "recovered": 0
         }
       },
       "Morena": {
         "notes": "MP Bulletin dated 25/04 reduced one case in Morena as there were repetitions",
-        "active": 0,
-        "confirmed": 13,
+        "active": 1,
+        "confirmed": 14,
         "deceased": 0,
         "recovered": 13,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
       },
       "Raisen": {
         "notes": "",
-        "active": 52,
-        "confirmed": 55,
+        "active": 54,
+        "confirmed": 57,
         "deceased": 2,
         "recovered": 1,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 2,
           "deceased": 0,
           "recovered": 0
         }
       },
       "Ratlam": {
         "notes": "",
-        "active": 14,
-        "confirmed": 14,
+        "active": 16,
+        "confirmed": 16,
         "deceased": 0,
         "recovered": 0,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 2,
           "deceased": 0,
           "recovered": 0
         }
@@ -2860,12 +2872,12 @@
       },
       "Shajapur": {
         "notes": "",
-        "active": 2,
-        "confirmed": 6,
+        "active": 3,
+        "confirmed": 7,
         "deceased": 0,
         "recovered": 4,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
@@ -2908,12 +2920,12 @@
       },
       "Ujjain": {
         "notes": "",
-        "active": 109,
-        "confirmed": 138,
+        "active": 118,
+        "confirmed": 147,
         "deceased": 24,
         "recovered": 5,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 9,
           "deceased": 0,
           "recovered": 0
         }
@@ -2945,7 +2957,7 @@
       "Unknown": {
         "notes": "",
         "active": 0,
-        "confirmed": 90,
+        "confirmed": 2,
         "deceased": 8,
         "recovered": 42,
         "delta": {
