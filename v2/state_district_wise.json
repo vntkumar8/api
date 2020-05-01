@@ -1548,12 +1548,12 @@
       {
         "district": "Gurugram",
         "notes": "",
-        "active": 16,
-        "confirmed": 54,
+        "active": 19,
+        "confirmed": 57,
         "deceased": 0,
         "recovered": 38,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 3,
           "deceased": 0,
           "recovered": 0
         }
@@ -1574,12 +1574,12 @@
       {
         "district": "Jhajjar",
         "notes": "",
-        "active": 24,
-        "confirmed": 24,
+        "active": 28,
+        "confirmed": 28,
         "deceased": 0,
         "recovered": 0,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 4,
           "deceased": 0,
           "recovered": 0
         }
@@ -1717,12 +1717,12 @@
       {
         "district": "Sonipat",
         "notes": "",
-        "active": 21,
-        "confirmed": 25,
+        "active": 22,
+        "confirmed": 26,
         "deceased": 0,
         "recovered": 4,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
@@ -3765,12 +3765,12 @@
       {
         "district": "Jajapur",
         "notes": "",
-        "active": 35,
-        "confirmed": 36,
+        "active": 37,
+        "confirmed": 38,
         "deceased": 0,
         "recovered": 1,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 2,
           "deceased": 0,
           "recovered": 0
         }
@@ -4605,19 +4605,6 @@
         "active": 0,
         "confirmed": 2,
         "deceased": 2,
-        "recovered": 0,
-        "delta": {
-          "confirmed": 0,
-          "deceased": 0,
-          "recovered": 0
-        }
-      },
-      {
-        "district": "Unknown",
-        "notes": "",
-        "active": 0,
-        "confirmed": -2,
-        "deceased": 0,
         "recovered": 0,
         "delta": {
           "confirmed": 0,
