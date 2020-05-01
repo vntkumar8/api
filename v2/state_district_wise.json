@@ -2838,14 +2838,14 @@
       {
         "district": "Barwani",
         "notes": "",
-        "active": 12,
+        "active": 8,
         "confirmed": 26,
         "deceased": 0,
-        "recovered": 14,
+        "recovered": 18,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 4
         }
       },
       {
@@ -2864,14 +2864,14 @@
       {
         "district": "Bhopal",
         "notes": "",
-        "active": 349,
+        "active": 328,
         "confirmed": 526,
         "deceased": 15,
-        "recovered": 162,
+        "recovered": 183,
         "delta": {
           "confirmed": 18,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 21
         }
       },
       {
@@ -2955,12 +2955,12 @@
       {
         "district": "Harda",
         "notes": "",
-        "active": 1,
-        "confirmed": 1,
+        "active": 3,
+        "confirmed": 3,
         "deceased": 0,
         "recovered": 0,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 2,
           "deceased": 0,
           "recovered": 0
         }
@@ -2968,26 +2968,26 @@
       {
         "district": "Hoshangabad",
         "notes": "",
-        "active": 18,
+        "active": 15,
         "confirmed": 35,
         "deceased": 3,
-        "recovered": 14,
+        "recovered": 17,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 3
         }
       },
       {
         "district": "Indore",
         "notes": "",
-        "active": 1270,
+        "active": 1266,
         "confirmed": 1515,
-        "deceased": 68,
+        "deceased": 72,
         "recovered": 177,
         "delta": {
           "confirmed": 29,
-          "deceased": 0,
+          "deceased": 4,
           "recovered": 0
         }
       },
@@ -3007,13 +3007,13 @@
       {
         "district": "Khandwa",
         "notes": "",
-        "active": 11,
+        "active": 9,
         "confirmed": 46,
-        "deceased": 4,
+        "deceased": 6,
         "recovered": 31,
         "delta": {
           "confirmed": 0,
-          "deceased": 0,
+          "deceased": 2,
           "recovered": 0
         }
       },
@@ -3033,14 +3033,14 @@
       {
         "district": "Mandsaur",
         "notes": "",
-        "active": 22,
+        "active": 21,
         "confirmed": 24,
         "deceased": 2,
-        "recovered": 0,
+        "recovered": 1,
         "delta": {
           "confirmed": 15,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 1
         }
       },
       {
@@ -3072,14 +3072,14 @@
       {
         "district": "Ratlam",
         "notes": "",
-        "active": 16,
+        "active": 5,
         "confirmed": 16,
         "deceased": 0,
-        "recovered": 0,
+        "recovered": 11,
         "delta": {
           "confirmed": 2,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 11
         }
       },
       {
@@ -3124,14 +3124,14 @@
       {
         "district": "Shajapur",
         "notes": "",
-        "active": 3,
+        "active": 0,
         "confirmed": 7,
-        "deceased": 0,
-        "recovered": 4,
+        "deceased": 1,
+        "recovered": 6,
         "delta": {
           "confirmed": 1,
-          "deceased": 0,
-          "recovered": 0
+          "deceased": 1,
+          "recovered": 2
         }
       },
       {
@@ -3176,13 +3176,13 @@
       {
         "district": "Ujjain",
         "notes": "",
-        "active": 118,
+        "active": 117,
         "confirmed": 147,
-        "deceased": 24,
+        "deceased": 25,
         "recovered": 5,
         "delta": {
           "confirmed": 9,
-          "deceased": 0,
+          "deceased": 1,
           "recovered": 0
         }
       },
@@ -3206,19 +3206,6 @@
         "confirmed": 2,
         "deceased": 0,
         "recovered": 0,
-        "delta": {
-          "confirmed": 0,
-          "deceased": 0,
-          "recovered": 0
-        }
-      },
-      {
-        "district": "Unknown",
-        "notes": "",
-        "active": 0,
-        "confirmed": 2,
-        "deceased": 8,
-        "recovered": 42,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
