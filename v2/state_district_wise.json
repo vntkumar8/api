@@ -641,12 +641,12 @@
       {
         "district": "Nalanda",
         "notes": "",
-        "active": 23,
-        "confirmed": 35,
+        "active": 24,
+        "confirmed": 36,
         "deceased": 0,
         "recovered": 12,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
@@ -3684,6 +3684,19 @@
     "state": "Odisha",
     "statecode": "OR",
     "districtData": [
+      {
+        "district": "Balangir",
+        "notes": "",
+        "active": 2,
+        "confirmed": 2,
+        "deceased": 0,
+        "recovered": 0,
+        "delta": {
+          "confirmed": 2,
+          "deceased": 0,
+          "recovered": 0
+        }
+      },
       {
         "district": "Baleshwar",
         "notes": "",
