@@ -721,8 +721,8 @@
 			"statecode": "AS"
 		},
 		{
-			"active": "2",
-			"confirmed": "2",
+			"active": "0",
+			"confirmed": "1",
 			"deceased": "0",
 			"deltaactive": "0",
 			"deltaconfirmed": "0",
@@ -731,7 +731,7 @@
 			"district": "Cachar",
 			"districtkey": "AS_Cachar",
 			"districtnotes": "",
-			"recovered": "0",
+			"recovered": "1",
 			"slno": "46",
 			"state": "Assam",
 			"statecode": "AS"
@@ -977,8 +977,8 @@
 			"statecode": "AS"
 		},
 		{
-			"active": "2",
-			"confirmed": "2",
+			"active": "3",
+			"confirmed": "3",
 			"deceased": "0",
 			"deltaactive": "0",
 			"deltaconfirmed": "0",
@@ -11931,7 +11931,7 @@
 			"district": "Unknown",
 			"districtkey": "AS_Unknown",
 			"districtnotes": "",
-			"recovered": "1",
+			"recovered": "0",
 			"slno": "731",
 			"state": "Assam",
 			"statecode": "AS"

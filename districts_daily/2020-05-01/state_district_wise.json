@@ -210,10 +210,10 @@
       },
       "Cachar": {
         "notes": "",
-        "active": 2,
-        "confirmed": 2,
+        "active": 0,
+        "confirmed": 1,
         "deceased": 0,
-        "recovered": 0,
+        "recovered": 1,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
@@ -294,8 +294,8 @@
       },
       "Karimganj": {
         "notes": "",
-        "active": 2,
-        "confirmed": 2,
+        "active": 3,
+        "confirmed": 3,
         "deceased": 0,
         "recovered": 0,
         "delta": {
@@ -344,18 +344,6 @@
         "notes": "",
         "active": 0,
         "confirmed": 1,
-        "deceased": 0,
-        "recovered": 1,
-        "delta": {
-          "confirmed": 0,
-          "deceased": 0,
-          "recovered": 0
-        }
-      },
-      "Unknown": {
-        "notes": "",
-        "active": 0,
-        "confirmed": 0,
         "deceased": 0,
         "recovered": 1,
         "delta": {
