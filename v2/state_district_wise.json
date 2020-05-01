@@ -386,9 +386,9 @@
         }
       },
       {
-        "district": "Unknown",
-        "notes": "",
-        "active": 0,
+        "district": "Other State",
+        "notes": "Case tranferred from Nagaland",
+        "active": 1,
         "confirmed": 1,
         "deceased": 0,
         "recovered": 0,
@@ -2527,14 +2527,14 @@
       {
         "district": "Ernakulam",
         "notes": "",
-        "active": 2,
+        "active": 1,
         "confirmed": 24,
         "deceased": 1,
-        "recovered": 21,
+        "recovered": 22,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 1
         }
       },
       {
@@ -2553,27 +2553,27 @@
       {
         "district": "Kannur",
         "notes": "Case of Mahe native who expired in Kannur, added in tally.",
-        "active": 46,
+        "active": 42,
         "confirmed": 115,
         "deceased": 1,
-        "recovered": 68,
+        "recovered": 72,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 4
         }
       },
       {
         "district": "Kasaragod",
         "notes": "",
-        "active": 12,
+        "active": 8,
         "confirmed": 179,
         "deceased": 0,
-        "recovered": 167,
+        "recovered": 171,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 4
         }
       },
       {
@@ -3636,27 +3636,14 @@
       {
         "district": "East Khasi Hills",
         "notes": "",
-        "active": 0,
-        "confirmed": 11,
+        "active": 1,
+        "confirmed": 12,
         "deceased": 1,
         "recovered": 10,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
           "recovered": 10
-        }
-      },
-      {
-        "district": "Unknown",
-        "notes": "",
-        "active": 0,
-        "confirmed": 1,
-        "deceased": 0,
-        "recovered": 0,
-        "delta": {
-          "confirmed": 0,
-          "deceased": 0,
-          "recovered": 0
         }
       }
     ]
