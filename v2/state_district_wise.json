@@ -271,14 +271,14 @@
       {
         "district": "Golaghat",
         "notes": "",
-        "active": 1,
+        "active": 0,
         "confirmed": 9,
         "deceased": 0,
-        "recovered": 8,
+        "recovered": 9,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 1
         }
       },
       {
@@ -349,14 +349,14 @@
       {
         "district": "Morigaon",
         "notes": "",
-        "active": 2,
+        "active": 0,
         "confirmed": 6,
         "deceased": 0,
-        "recovered": 4,
+        "recovered": 6,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 2
         }
       },
       {
@@ -790,12 +790,12 @@
       {
         "district": "Chandigarh",
         "notes": "",
-        "active": 56,
-        "confirmed": 74,
+        "active": 70,
+        "confirmed": 88,
         "deceased": 0,
         "recovered": 18,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 14,
           "deceased": 0,
           "recovered": 0
         }
