@@ -32,74 +32,74 @@
     "districtData": {
       "Anantapur": {
         "notes": "",
-        "active": 37,
-        "confirmed": 61,
+        "active": 41,
+        "confirmed": 67,
         "deceased": 4,
-        "recovered": 20,
+        "recovered": 22,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 6,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 2
         }
       },
       "Chittoor": {
         "notes": "",
-        "active": 64,
+        "active": 58,
         "confirmed": 80,
         "deceased": 0,
-        "recovered": 16,
+        "recovered": 22,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 6
         }
       },
       "East Godavari": {
         "notes": "",
-        "active": 28,
+        "active": 25,
         "confirmed": 42,
         "deceased": 0,
-        "recovered": 14,
+        "recovered": 17,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 3
         }
       },
       "Guntur": {
         "notes": "",
-        "active": 192,
-        "confirmed": 287,
+        "active": 201,
+        "confirmed": 306,
         "deceased": 8,
-        "recovered": 87,
+        "recovered": 97,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 19,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 10
         }
       },
       "Krishna": {
         "notes": "",
-        "active": 206,
+        "active": 201,
         "confirmed": 246,
         "deceased": 8,
-        "recovered": 32,
+        "recovered": 37,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 5
         }
       },
       "Kurnool": {
         "notes": "",
-        "active": 334,
-        "confirmed": 386,
-        "deceased": 9,
-        "recovered": 43,
+        "active": 335,
+        "confirmed": 411,
+        "deceased": 10,
+        "recovered": 66,
         "delta": {
-          "confirmed": 0,
-          "deceased": 0,
-          "recovered": 0
+          "confirmed": 25,
+          "deceased": 1,
+          "recovered": 23
         }
       },
       "Prakasam": {
@@ -116,14 +116,14 @@
       },
       "S.P.S. Nellore": {
         "notes": "",
-        "active": 55,
+        "active": 38,
         "confirmed": 84,
-        "deceased": 2,
-        "recovered": 27,
+        "deceased": 3,
+        "recovered": 43,
         "delta": {
           "confirmed": 0,
-          "deceased": 0,
-          "recovered": 0
+          "deceased": 1,
+          "recovered": 16
         }
       },
       "Srikakulam": {
@@ -140,38 +140,38 @@
       },
       "Visakhapatnam": {
         "notes": "",
-        "active": 3,
-        "confirmed": 23,
+        "active": 5,
+        "confirmed": 25,
         "deceased": 0,
         "recovered": 20,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 2,
           "deceased": 0,
           "recovered": 0
         }
       },
       "West Godavari": {
         "notes": "",
-        "active": 45,
-        "confirmed": 56,
+        "active": 39,
+        "confirmed": 58,
         "deceased": 0,
-        "recovered": 11,
+        "recovered": 19,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 2,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 8
         }
       },
       "Y.S.R.": {
         "notes": "",
-        "active": 45,
-        "confirmed": 73,
+        "active": 42,
+        "confirmed": 79,
         "deceased": 0,
-        "recovered": 28,
+        "recovered": 37,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 6,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 9
         }
       }
     },
@@ -4232,9 +4232,21 @@
       },
       "Other state": {
         "notes": "RJ bulletin reduced two Confirmed cases from \"Other States\" category, but have reported two deaths in this category. Hence Active is -2.",
-        "active": -2,
-        "confirmed": 0,
+        "active": 0,
+        "confirmed": 2,
         "deceased": 2,
+        "recovered": 0,
+        "delta": {
+          "confirmed": 0,
+          "deceased": 0,
+          "recovered": 0
+        }
+      },
+      "Unknown": {
+        "notes": "",
+        "active": 0,
+        "confirmed": -2,
+        "deceased": 0,
         "recovered": 0,
         "delta": {
           "confirmed": 0,
