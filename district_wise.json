@@ -2929,17 +2929,17 @@
 			"statecode": "GJ"
 		},
 		{
-			"active": "-1",
+			"active": "0",
 			"confirmed": "3",
 			"deceased": "0",
-			"deltaactive": "-2",
+			"deltaactive": "-1",
 			"deltaconfirmed": "0",
 			"deltadeceased": "0",
-			"deltarecovered": "2",
+			"deltarecovered": "1",
 			"district": "Sabar Kantha",
 			"districtkey": "GJ_Sabar Kantha",
 			"districtnotes": "",
-			"recovered": "4",
+			"recovered": "3",
 			"slno": "183",
 			"state": "Gujarat",
 			"statecode": "GJ"
@@ -9473,11 +9473,11 @@
 			"statecode": "TG"
 		},
 		{
-			"active": "376",
-			"confirmed": "548",
+			"active": "381",
+			"confirmed": "553",
 			"deceased": "21",
-			"deltaactive": "0",
-			"deltaconfirmed": "0",
+			"deltaactive": "5",
+			"deltaconfirmed": "5",
 			"deltadeceased": "0",
 			"deltarecovered": "0",
 			"district": "Hyderabad",
@@ -9825,11 +9825,11 @@
 			"statecode": "TG"
 		},
 		{
-			"active": "21",
-			"confirmed": "33",
+			"active": "22",
+			"confirmed": "34",
 			"deceased": "2",
-			"deltaactive": "0",
-			"deltaconfirmed": "0",
+			"deltaactive": "1",
+			"deltaconfirmed": "1",
 			"deltadeceased": "0",
 			"deltarecovered": "0",
 			"district": "Ranga Reddy",
@@ -12034,8 +12034,8 @@
 		},
 		{
 			"active": "",
-			"confirmed": "2727",
-			"deceased": "59",
+			"confirmed": "2950",
+			"deceased": "61",
 			"deltaactive": "0",
 			"deltaconfirmed": "0",
 			"deltadeceased": "0",
@@ -12043,7 +12043,7 @@
 			"district": "Unknown",
 			"districtkey": "DL_Unknown",
 			"districtnotes": "",
-			"recovered": "1094",
+			"recovered": "1167",
 			"slno": "737",
 			"state": "Delhi",
 			"statecode": "DL"
@@ -12075,7 +12075,7 @@
 			"district": "Unknown",
 			"districtkey": "GJ_Unknown",
 			"districtnotes": "",
-			"recovered": "0",
+			"recovered": "1",
 			"slno": "739",
 			"state": "Gujarat",
 			"statecode": "GJ"
@@ -12210,7 +12210,7 @@
 		},
 		{
 			"active": "",
-			"confirmed": "0",
+			"confirmed": "90",
 			"deceased": "0",
 			"deltaactive": "0",
 			"deltaconfirmed": "0",
@@ -12226,8 +12226,8 @@
 		},
 		{
 			"active": "",
-			"confirmed": "0",
-			"deceased": "0",
+			"confirmed": "1008",
+			"deceased": "26",
 			"deltaactive": "0",
 			"deltaconfirmed": "0",
 			"deltadeceased": "0",
@@ -12235,7 +12235,7 @@
 			"district": "Unknown",
 			"districtkey": "MH_Unknown",
 			"districtnotes": "",
-			"recovered": "0",
+			"recovered": "106",
 			"slno": "749",
 			"state": "Maharashtra",
 			"statecode": "MH"
@@ -12402,7 +12402,7 @@
 		},
 		{
 			"active": "",
-			"confirmed": "35",
+			"confirmed": "29",
 			"deceased": "0",
 			"deltaactive": "0",
 			"deltaconfirmed": "0",

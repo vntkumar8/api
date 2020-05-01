@@ -1063,9 +1063,9 @@
         "district": "Unknown",
         "notes": "",
         "active": 0,
-        "confirmed": 2727,
-        "deceased": 59,
-        "recovered": 1094,
+        "confirmed": 2950,
+        "deceased": 61,
+        "recovered": 1167,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
@@ -1412,14 +1412,14 @@
       {
         "district": "Sabar Kantha",
         "notes": "",
-        "active": -1,
+        "active": 0,
         "confirmed": 3,
         "deceased": 0,
-        "recovered": 4,
+        "recovered": 3,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 2
+          "recovered": 1
         }
       },
       {
@@ -1494,6 +1494,19 @@
         "confirmed": 5,
         "deceased": 1,
         "recovered": 0,
+        "delta": {
+          "confirmed": 0,
+          "deceased": 0,
+          "recovered": 0
+        }
+      },
+      {
+        "district": "Unknown",
+        "notes": "",
+        "active": 0,
+        "confirmed": 0,
+        "deceased": 0,
+        "recovered": 1,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
@@ -3172,6 +3185,19 @@
           "deceased": 0,
           "recovered": 0
         }
+      },
+      {
+        "district": "Unknown",
+        "notes": "",
+        "active": 0,
+        "confirmed": 90,
+        "deceased": 0,
+        "recovered": 0,
+        "delta": {
+          "confirmed": 0,
+          "deceased": 0,
+          "recovered": 0
+        }
       }
     ]
   },
@@ -3615,6 +3641,19 @@
         "confirmed": 26,
         "deceased": 2,
         "recovered": 0,
+        "delta": {
+          "confirmed": 0,
+          "deceased": 0,
+          "recovered": 0
+        }
+      },
+      {
+        "district": "Unknown",
+        "notes": "",
+        "active": 0,
+        "confirmed": 1008,
+        "deceased": 26,
+        "recovered": 106,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
@@ -5147,12 +5186,12 @@
       {
         "district": "Hyderabad",
         "notes": "",
-        "active": 376,
-        "confirmed": 548,
+        "active": 381,
+        "confirmed": 553,
         "deceased": 21,
         "recovered": 151,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 5,
           "deceased": 0,
           "recovered": 0
         }
@@ -5433,12 +5472,12 @@
       {
         "district": "Ranga Reddy",
         "notes": "",
-        "active": 21,
-        "confirmed": 33,
+        "active": 22,
+        "confirmed": 34,
         "deceased": 2,
         "recovered": 10,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
@@ -5512,7 +5551,7 @@
         "district": "Unknown",
         "notes": "",
         "active": 0,
-        "confirmed": 35,
+        "confirmed": 29,
         "deceased": 0,
         "recovered": 148,
         "delta": {
