@@ -354,14 +354,14 @@
       },
       "Other State": {
         "notes": "Case tranferred from Nagaland",
-        "active": 1,
+        "active": 0,
         "confirmed": 1,
         "deceased": 0,
-        "recovered": 0,
+        "recovered": 1,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 1
         }
       }
     },
@@ -2137,12 +2137,12 @@
       },
       "Chikkaballapura": {
         "notes": "",
-        "active": 5,
-        "confirmed": 18,
+        "active": 6,
+        "confirmed": 19,
         "deceased": 2,
         "recovered": 11,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
@@ -2161,36 +2161,36 @@
       },
       "Dakshina Kannada": {
         "notes": "",
-        "active": 7,
-        "confirmed": 21,
+        "active": 9,
+        "confirmed": 23,
         "deceased": 3,
         "recovered": 11,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 2,
           "deceased": 0,
           "recovered": 0
         }
       },
       "Davanagere": {
         "notes": "",
-        "active": 2,
-        "confirmed": 4,
+        "active": 8,
+        "confirmed": 10,
         "deceased": 0,
         "recovered": 2,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 6,
           "deceased": 0,
           "recovered": 0
         }
       },
       "Dharwad": {
         "notes": "",
-        "active": 7,
-        "confirmed": 9,
+        "active": 8,
+        "confirmed": 10,
         "deceased": 0,
         "recovered": 2,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
@@ -2209,12 +2209,12 @@
       },
       "Kalaburagi": {
         "notes": "",
-        "active": 41,
-        "confirmed": 53,
+        "active": 43,
+        "confirmed": 55,
         "deceased": 5,
         "recovered": 7,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 2,
           "deceased": 0,
           "recovered": 0
         }
@@ -2293,12 +2293,12 @@
       },
       "Vijayapura": {
         "notes": "",
-        "active": 35,
-        "confirmed": 43,
+        "active": 36,
+        "confirmed": 44,
         "deceased": 2,
         "recovered": 6,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
