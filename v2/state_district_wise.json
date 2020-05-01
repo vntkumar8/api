@@ -615,12 +615,12 @@
       {
         "district": "Madhubani",
         "notes": "",
-        "active": 5,
-        "confirmed": 5,
+        "active": 18,
+        "confirmed": 18,
         "deceased": 0,
         "recovered": 0,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 13,
           "deceased": 0,
           "recovered": 0
         }
@@ -693,12 +693,12 @@
       {
         "district": "Rohtas",
         "notes": "",
-        "active": 51,
-        "confirmed": 51,
+        "active": 52,
+        "confirmed": 52,
         "deceased": 0,
         "recovered": 0,
         "delta": {
-          "confirmed": 6,
+          "confirmed": 7,
           "deceased": 0,
           "recovered": 0
         }
@@ -773,6 +773,19 @@
         "notes": "",
         "active": 5,
         "confirmed": 5,
+        "deceased": 0,
+        "recovered": 0,
+        "delta": {
+          "confirmed": 0,
+          "deceased": 0,
+          "recovered": 0
+        }
+      },
+      {
+        "district": "Unknown",
+        "notes": "",
+        "active": 0,
+        "confirmed": 2,
         "deceased": 0,
         "recovered": 0,
         "delta": {
@@ -3752,12 +3765,12 @@
       {
         "district": "Jajapur",
         "notes": "",
-        "active": 38,
-        "confirmed": 39,
+        "active": 39,
+        "confirmed": 40,
         "deceased": 0,
         "recovered": 1,
         "delta": {
-          "confirmed": 3,
+          "confirmed": 4,
           "deceased": 0,
           "recovered": 0
         }
