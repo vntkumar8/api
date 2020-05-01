@@ -479,13 +479,13 @@
       },
       "East Champaran": {
         "notes": "",
-        "active": 5,
+        "active": 4,
         "confirmed": 5,
-        "deceased": 0,
+        "deceased": 1,
         "recovered": 0,
         "delta": {
           "confirmed": 0,
-          "deceased": 0,
+          "deceased": 1,
           "recovered": 0
         }
       },
@@ -721,7 +721,7 @@
         "notes": "",
         "active": 0,
         "confirmed": 2,
-        "deceased": 1,
+        "deceased": 0,
         "recovered": 0,
         "delta": {
           "confirmed": 0,
@@ -1356,13 +1356,13 @@
       },
       "Vadodara": {
         "notes": "",
-        "active": 204,
+        "active": 200,
         "confirmed": 308,
-        "deceased": 17,
+        "deceased": 21,
         "recovered": 87,
         "delta": {
           "confirmed": 19,
-          "deceased": 0,
+          "deceased": 4,
           "recovered": 0
         }
       },
@@ -1382,7 +1382,7 @@
         "notes": "",
         "active": 0,
         "confirmed": 0,
-        "deceased": 4,
+        "deceased": 0,
         "recovered": 123,
         "delta": {
           "confirmed": 0,
@@ -5368,13 +5368,13 @@
       },
       "Ghaziabad": {
         "notes": "",
-        "active": 18,
+        "active": 17,
         "confirmed": 62,
-        "deceased": 0,
+        "deceased": 1,
         "recovered": 44,
         "delta": {
           "confirmed": 0,
-          "deceased": 0,
+          "deceased": 1,
           "recovered": 0
         }
       },
@@ -5644,13 +5644,13 @@
       },
       "Moradabad": {
         "notes": "",
-        "active": 96,
+        "active": 95,
         "confirmed": 110,
-        "deceased": 6,
+        "deceased": 7,
         "recovered": 8,
         "delta": {
           "confirmed": 0,
-          "deceased": 0,
+          "deceased": 1,
           "recovered": 0
         }
       },
