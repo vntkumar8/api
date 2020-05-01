@@ -2357,7 +2357,7 @@
         }
       },
       "Kannur": {
-        "notes": "",
+        "notes": "Case of Mahe native who expired in Kannur, added in tally.",
         "active": 46,
         "confirmed": 115,
         "deceased": 1,
@@ -2454,10 +2454,10 @@
       },
       "Thiruvananthapuram": {
         "notes": "",
-        "active": 1,
+        "active": 2,
         "confirmed": 17,
         "deceased": 1,
-        "recovered": 15,
+        "recovered": 14,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
@@ -2482,18 +2482,6 @@
         "confirmed": 3,
         "deceased": 0,
         "recovered": 3,
-        "delta": {
-          "confirmed": 0,
-          "deceased": 0,
-          "recovered": 0
-        }
-      },
-      "Unknown": {
-        "notes": "",
-        "active": 0,
-        "confirmed": 0,
-        "deceased": 0,
-        "recovered": -1,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
@@ -4247,6 +4235,18 @@
         "active": -2,
         "confirmed": 0,
         "deceased": 2,
+        "recovered": 0,
+        "delta": {
+          "confirmed": 0,
+          "deceased": 0,
+          "recovered": 0
+        }
+      },
+      "Unknown": {
+        "notes": "",
+        "active": 0,
+        "confirmed": 0,
+        "deceased": 3,
         "recovered": 0,
         "delta": {
           "confirmed": 0,
