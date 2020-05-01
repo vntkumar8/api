@@ -1020,26 +1020,26 @@
     "districtData": {
       "Ahmadabad": {
         "notes": "",
-        "active": 2812,
+        "active": 2729,
         "confirmed": 3293,
         "deceased": 165,
-        "recovered": 316,
+        "recovered": 399,
         "delta": {
           "confirmed": 267,
           "deceased": 16,
-          "recovered": 0
+          "recovered": 83
         }
       },
       "Anand": {
         "notes": "",
-        "active": 46,
+        "active": 40,
         "confirmed": 74,
         "deceased": 4,
-        "recovered": 24,
+        "recovered": 30,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 6
         }
       },
       "Aravalli": {
@@ -1116,14 +1116,14 @@
       },
       "Dahod": {
         "notes": "",
-        "active": 4,
+        "active": 3,
         "confirmed": 5,
         "deceased": 0,
-        "recovered": 1,
+        "recovered": 2,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 1
         }
       },
       "Gandhinagar": {
@@ -1140,14 +1140,14 @@
       },
       "Gir Somnath": {
         "notes": "",
-        "active": 1,
+        "active": 0,
         "confirmed": 3,
         "deceased": 0,
-        "recovered": 2,
+        "recovered": 3,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 1
         }
       },
       "Jamnagar": {
@@ -1236,14 +1236,14 @@
       },
       "Navsari": {
         "notes": "",
-        "active": 6,
+        "active": 5,
         "confirmed": 6,
         "deceased": 0,
-        "recovered": 0,
+        "recovered": 1,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 1
         }
       },
       "Panch Mahals": {
@@ -1260,14 +1260,14 @@
       },
       "Patan": {
         "notes": "",
-        "active": 6,
+        "active": 5,
         "confirmed": 18,
         "deceased": 1,
-        "recovered": 11,
+        "recovered": 12,
         "delta": {
           "confirmed": 1,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 1
         }
       },
       "Porbandar": {
@@ -1284,38 +1284,38 @@
       },
       "Rajkot": {
         "notes": "",
-        "active": 40,
+        "active": 39,
         "confirmed": 58,
         "deceased": 1,
-        "recovered": 17,
+        "recovered": 18,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 1
         }
       },
       "Sabar Kantha": {
         "notes": "",
-        "active": 1,
+        "active": -1,
         "confirmed": 3,
         "deceased": 0,
-        "recovered": 2,
+        "recovered": 4,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 2
         }
       },
       "Surat": {
         "notes": "",
-        "active": 560,
+        "active": 548,
         "confirmed": 640,
         "deceased": 26,
-        "recovered": 54,
+        "recovered": 66,
         "delta": {
           "confirmed": 26,
           "deceased": 1,
-          "recovered": 0
+          "recovered": 12
         }
       },
       "Surendranagar": {
@@ -1356,14 +1356,14 @@
       },
       "Vadodara": {
         "notes": "",
-        "active": 200,
+        "active": 185,
         "confirmed": 308,
         "deceased": 21,
-        "recovered": 87,
+        "recovered": 102,
         "delta": {
           "confirmed": 19,
           "deceased": 4,
-          "recovered": 0
+          "recovered": 15
         }
       },
       "Valsad": {
@@ -1372,18 +1372,6 @@
         "confirmed": 5,
         "deceased": 1,
         "recovered": 0,
-        "delta": {
-          "confirmed": 0,
-          "deceased": 0,
-          "recovered": 0
-        }
-      },
-      "Unknown": {
-        "notes": "",
-        "active": 0,
-        "confirmed": 0,
-        "deceased": 0,
-        "recovered": 123,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
@@ -5852,6 +5840,18 @@
         "confirmed": 1,
         "deceased": 0,
         "recovered": 0,
+        "delta": {
+          "confirmed": 0,
+          "deceased": 0,
+          "recovered": 0
+        }
+      },
+      "Unknown": {
+        "notes": "",
+        "active": 0,
+        "confirmed": 117,
+        "deceased": 0,
+        "recovered": 103,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
