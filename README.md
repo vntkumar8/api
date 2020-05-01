@@ -90,8 +90,8 @@ Sometimes, having files in a spreadsheet format is more useful for analysts and 
 
 ## How this works
 
-- All data in this repo is generated from Google Sheets (recently made private due to heavy traffic)
-- Volunteers collect data from trusted sources and update the sheets
+- This repo is merely a bridge to the main source of Data ([Google Sheets](https://docs.google.com/spreadsheets/d/e/2PACX-1vSc_2y5N0I67wDU38DjDh35IZSIS30rQf7_NYZhtYYGU1jJYT6_kDx4YpF-qw0LSlGsBYP8pqM_a1Pd/pubhtml))
+- Volunteers collect data from trusted sources and update the sheet
 - This repo periodically fetches relevant data from the Sheet and create/update static json/csv.
 - We use Github Actions to fetch the data periodically and auto-commit. Thank you @Github :)
 
@@ -100,7 +100,7 @@ Sometimes, having files in a spreadsheet format is more useful for analysts and 
 
 - Contributions to new data formats are welcome. Please create a GH issue and discuss there before working on the same.
 - Please raise an issue before submitting a PR
-- Report issues regarding [covid19india.org](https://www.covid19india.org) website in the [react-site repository](https://github.com/covid19india/covid19india-react/issues)
+- Report issues with regarding [covid19india.org](https://www.covid19india.org) website in the [react-site repository](https://github.com/covid19india/covid19india-react/issues)
 - DO NOT change anything in `gh-pages` branch directly.They get replaced automatically
 
 ## Notes
