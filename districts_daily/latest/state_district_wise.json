@@ -721,7 +721,7 @@
         "notes": "",
         "active": 0,
         "confirmed": 2,
-        "deceased": 0,
+        "deceased": 1,
         "recovered": 0,
         "delta": {
           "confirmed": 0,
@@ -814,6 +814,18 @@
       "Surajpur": {
         "notes": "",
         "active": 3,
+        "confirmed": 3,
+        "deceased": 0,
+        "recovered": 0,
+        "delta": {
+          "confirmed": 0,
+          "deceased": 0,
+          "recovered": 0
+        }
+      },
+      "Unknown": {
+        "notes": "",
+        "active": 0,
         "confirmed": 3,
         "deceased": 0,
         "recovered": 0,
@@ -1008,13 +1020,13 @@
     "districtData": {
       "Ahmadabad": {
         "notes": "",
-        "active": 2561,
-        "confirmed": 3026,
-        "deceased": 149,
+        "active": 2812,
+        "confirmed": 3293,
+        "deceased": 165,
         "recovered": 316,
         "delta": {
-          "confirmed": 0,
-          "deceased": 0,
+          "confirmed": 267,
+          "deceased": 16,
           "recovered": 0
         }
       },
@@ -1044,12 +1056,12 @@
       },
       "Banas Kantha": {
         "notes": "",
-        "active": 23,
-        "confirmed": 28,
+        "active": 24,
+        "confirmed": 29,
         "deceased": 1,
         "recovered": 4,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
@@ -1080,12 +1092,12 @@
       },
       "Botad": {
         "notes": "",
-        "active": 17,
-        "confirmed": 20,
+        "active": 18,
+        "confirmed": 21,
         "deceased": 1,
         "recovered": 2,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
@@ -1116,12 +1128,12 @@
       },
       "Gandhinagar": {
         "notes": "",
-        "active": 34,
-        "confirmed": 48,
+        "active": 35,
+        "confirmed": 49,
         "deceased": 2,
         "recovered": 12,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
@@ -1152,12 +1164,12 @@
       },
       "Kachchh": {
         "notes": "",
-        "active": 0,
-        "confirmed": 6,
+        "active": 1,
+        "confirmed": 7,
         "deceased": 1,
         "recovered": 5,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
@@ -1188,12 +1200,12 @@
       },
       "Mahisagar": {
         "notes": "",
-        "active": 6,
-        "confirmed": 11,
+        "active": 12,
+        "confirmed": 17,
         "deceased": 0,
         "recovered": 5,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 6,
           "deceased": 0,
           "recovered": 0
         }
@@ -1236,24 +1248,24 @@
       },
       "Panch Mahals": {
         "notes": "",
-        "active": 29,
-        "confirmed": 34,
-        "deceased": 2,
+        "active": 31,
+        "confirmed": 37,
+        "deceased": 3,
         "recovered": 3,
         "delta": {
-          "confirmed": 0,
-          "deceased": 0,
+          "confirmed": 3,
+          "deceased": 1,
           "recovered": 0
         }
       },
       "Patan": {
         "notes": "",
-        "active": 5,
-        "confirmed": 17,
+        "active": 6,
+        "confirmed": 18,
         "deceased": 1,
         "recovered": 11,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
@@ -1296,13 +1308,13 @@
       },
       "Surat": {
         "notes": "",
-        "active": 535,
-        "confirmed": 614,
-        "deceased": 25,
+        "active": 560,
+        "confirmed": 640,
+        "deceased": 26,
         "recovered": 54,
         "delta": {
-          "confirmed": 0,
-          "deceased": 0,
+          "confirmed": 26,
+          "deceased": 1,
           "recovered": 0
         }
       },
@@ -1344,12 +1356,12 @@
       },
       "Vadodara": {
         "notes": "",
-        "active": 185,
-        "confirmed": 289,
+        "active": 204,
+        "confirmed": 308,
         "deceased": 17,
         "recovered": 87,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 19,
           "deceased": 0,
           "recovered": 0
         }
@@ -1369,8 +1381,8 @@
       "Unknown": {
         "notes": "",
         "active": 0,
-        "confirmed": 326,
-        "deceased": 22,
+        "confirmed": 0,
+        "deceased": 4,
         "recovered": 123,
         "delta": {
           "confirmed": 0,
@@ -5071,9 +5083,9 @@
       "Unknown": {
         "notes": "",
         "active": 0,
-        "confirmed": 29,
+        "confirmed": 35,
         "deceased": 0,
-        "recovered": 126,
+        "recovered": 148,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
