@@ -3871,10 +3871,10 @@
       {
         "district": "Ernakulam",
         "notes": "",
-        "active": 1,
+        "active": -1,
         "confirmed": 24,
         "deceased": 1,
-        "recovered": 22,
+        "recovered": 24,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
@@ -3910,10 +3910,10 @@
       {
         "district": "Kasaragod",
         "notes": "",
-        "active": 8,
+        "active": 7,
         "confirmed": 179,
         "deceased": 0,
-        "recovered": 171,
+        "recovered": 172,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
@@ -3949,10 +3949,10 @@
       {
         "district": "Kozhikode",
         "notes": "",
-        "active": 1,
+        "active": 3,
         "confirmed": 24,
         "deceased": 0,
-        "recovered": 23,
+        "recovered": 21,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
@@ -4033,6 +4033,19 @@
         "recovered": 3,
         "delta": {
           "confirmed": 1,
+          "deceased": 0,
+          "recovered": 0
+        }
+      },
+      {
+        "district": "Unknown",
+        "notes": "",
+        "active": 0,
+        "confirmed": 0,
+        "deceased": 0,
+        "recovered": -1,
+        "delta": {
+          "confirmed": 0,
           "deceased": 0,
           "recovered": 0
         }
