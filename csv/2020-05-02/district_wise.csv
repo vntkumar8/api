@@ -8,7 +8,7 @@ SlNo,State_Code,State,District_Key,District,Confirmed,Active,Recovered,Deceased,
 0,RJ,Rajasthan,RJ_Other state,Other state,2,0,0,2,0,0,0,0,"RJ bulletin reduced two Confirmed cases from ""Other States"" category, but have reported two deaths in this category. Hence Active is -2."
 1,AN,Andaman and Nicobar Islands,AN_Nicobars,Nicobars,0,0,0,0,0,0,0,0,
 2,AN,Andaman and Nicobar Islands,AN_North and Middle Andaman,North and Middle Andaman,1,0,1,0,0,0,0,0,
-3,AN,Andaman and Nicobar Islands,AN_South Andaman,South Andaman,32,17,15,0,0,0,0,0,
+3,AN,Andaman and Nicobar Islands,AN_South Andaman,South Andaman,32,16,16,0,0,-1,1,0,
 4,AP,Andhra Pradesh,AP_Anantapur,Anantapur,67,41,22,4,0,0,0,0,
 5,AP,Andhra Pradesh,AP_Chittoor,Chittoor,80,58,22,0,0,0,0,0,
 6,AP,Andhra Pradesh,AP_East Godavari,East Godavari,42,25,17,0,0,0,0,0,
