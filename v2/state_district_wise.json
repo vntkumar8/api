@@ -3592,27 +3592,27 @@
       {
         "district": "Belagavi",
         "notes": "",
-        "active": 64,
+        "active": 56,
         "confirmed": 72,
         "deceased": 1,
-        "recovered": 7,
+        "recovered": 15,
         "delta": {
           "confirmed": 2,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 8
         }
       },
       {
         "district": "Bengaluru Urban",
         "notes": "",
-        "active": 65,
-        "confirmed": 142,
+        "active": 66,
+        "confirmed": 145,
         "deceased": 6,
-        "recovered": 71,
+        "recovered": 73,
         "delta": {
-          "confirmed": 1,
+          "confirmed": 4,
           "deceased": 1,
-          "recovered": 0
+          "recovered": 2
         }
       },
       {
@@ -3631,14 +3631,14 @@
       {
         "district": "Bidar",
         "notes": "",
-        "active": 6,
+        "active": 4,
         "confirmed": 15,
         "deceased": 1,
-        "recovered": 8,
+        "recovered": 10,
         "delta": {
           "confirmed": 1,
           "deceased": 1,
-          "recovered": 0
+          "recovered": 2
         }
       },
       {
@@ -3696,14 +3696,14 @@
       {
         "district": "Dharwad",
         "notes": "",
-        "active": 8,
+        "active": 6,
         "confirmed": 10,
         "deceased": 0,
-        "recovered": 2,
+        "recovered": 4,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 2
         }
       },
       {
@@ -3722,14 +3722,14 @@
       {
         "district": "Kalaburagi",
         "notes": "",
-        "active": 38,
+        "active": 32,
         "confirmed": 55,
         "deceased": 5,
-        "recovered": 12,
+        "recovered": 18,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 6
         }
       },
       {
@@ -3842,7 +3842,7 @@
         "active": 0,
         "confirmed": 0,
         "deceased": 0,
-        "recovered": 7,
+        "recovered": 3,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
@@ -4046,12 +4046,12 @@
       {
         "district": "Kargil",
         "notes": "",
-        "active": 3,
-        "confirmed": 7,
+        "active": 4,
+        "confirmed": 8,
         "deceased": 0,
         "recovered": 4,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
