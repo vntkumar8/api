@@ -3083,19 +3083,6 @@
           "deceased": 0,
           "recovered": 0
         }
-      },
-      {
-        "district": "Unknown",
-        "notes": "",
-        "active": 0,
-        "confirmed": 0,
-        "deceased": 0,
-        "recovered": 1,
-        "delta": {
-          "confirmed": 0,
-          "deceased": 0,
-          "recovered": 0
-        }
       }
     ]
   },
@@ -3618,12 +3605,12 @@
       {
         "district": "Belagavi",
         "notes": "",
-        "active": 64,
-        "confirmed": 72,
+        "active": 66,
+        "confirmed": 74,
         "deceased": 1,
         "recovered": 7,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 2,
           "deceased": 0,
           "recovered": 0
         }
@@ -3631,12 +3618,12 @@
       {
         "district": "Bengaluru Urban",
         "notes": "",
-        "active": 67,
-        "confirmed": 145,
+        "active": 68,
+        "confirmed": 146,
         "deceased": 5,
         "recovered": 73,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
@@ -3657,12 +3644,12 @@
       {
         "district": "Bidar",
         "notes": "",
-        "active": 6,
-        "confirmed": 15,
+        "active": 7,
+        "confirmed": 16,
         "deceased": 0,
         "recovered": 9,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
@@ -3670,12 +3657,12 @@
       {
         "district": "Chikkaballapura",
         "notes": "",
-        "active": 6,
-        "confirmed": 19,
+        "active": 7,
+        "confirmed": 20,
         "deceased": 2,
         "recovered": 11,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
@@ -3800,12 +3787,12 @@
       {
         "district": "Tumakuru",
         "notes": "",
-        "active": 2,
-        "confirmed": 5,
+        "active": 4,
+        "confirmed": 7,
         "deceased": 2,
         "recovered": 1,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 2,
           "deceased": 0,
           "recovered": 0
         }
@@ -3839,12 +3826,12 @@
       {
         "district": "Vijayapura",
         "notes": "",
-        "active": 31,
-        "confirmed": 44,
+        "active": 33,
+        "confirmed": 46,
         "deceased": 2,
         "recovered": 11,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 2,
           "deceased": 0,
           "recovered": 0
         }
@@ -3854,8 +3841,8 @@
         "notes": "",
         "active": 0,
         "confirmed": 0,
-        "deceased": 0,
-        "recovered": 3,
+        "deceased": 3,
+        "recovered": 7,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
