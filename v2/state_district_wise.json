@@ -1991,12 +1991,12 @@
       {
         "district": "Araria",
         "notes": "",
-        "active": 1,
-        "confirmed": 1,
+        "active": 2,
+        "confirmed": 2,
         "deceased": 0,
         "recovered": 0,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
@@ -2153,6 +2153,19 @@
         "recovered": 0,
         "delta": {
           "confirmed": 3,
+          "deceased": 0,
+          "recovered": 0
+        }
+      },
+      {
+        "district": "Katihar",
+        "notes": "",
+        "active": 2,
+        "confirmed": 2,
+        "deceased": 0,
+        "recovered": 0,
+        "delta": {
+          "confirmed": 2,
           "deceased": 0,
           "recovered": 0
         }
@@ -3604,7 +3617,7 @@
       },
       {
         "district": "Bengaluru Urban",
-        "notes": "",
+        "notes": "One death on 27th Apr is not included as it's not counted as covid related death by the Karnataka govt.",
         "active": 67,
         "confirmed": 145,
         "deceased": 6,
@@ -3825,7 +3838,7 @@
       },
       {
         "district": "Other State",
-        "notes": "",
+        "notes": "Includes Cases of other States and International Quarantined Passengers.",
         "active": 2,
         "confirmed": 20,
         "deceased": 0,
