@@ -3505,17 +3505,17 @@
 			"statecode": "HP"
 		},
 		{
-			"active": "1",
+			"active": "0",
 			"confirmed": "6",
 			"deceased": "0",
-			"deltaactive": "0",
+			"deltaactive": "-1",
 			"deltaconfirmed": "0",
 			"deltadeceased": "0",
-			"deltarecovered": "0",
+			"deltarecovered": "1",
 			"district": "Chamba",
 			"districtkey": "HP_Chamba",
 			"districtnotes": "",
-			"recovered": "5",
+			"recovered": "6",
 			"slno": "213",
 			"state": "Himachal Pradesh",
 			"statecode": "HP"
@@ -3665,17 +3665,17 @@
 			"statecode": "HP"
 		},
 		{
-			"active": "3",
+			"active": "1",
 			"confirmed": "16",
 			"deceased": "0",
-			"deltaactive": "0",
+			"deltaactive": "-2",
 			"deltaconfirmed": "0",
 			"deltadeceased": "0",
-			"deltarecovered": "0",
+			"deltarecovered": "2",
 			"district": "Una",
 			"districtkey": "HP_Una",
 			"districtnotes": "",
-			"recovered": "13",
+			"recovered": "15",
 			"slno": "223",
 			"state": "Himachal Pradesh",
 			"statecode": "HP"
