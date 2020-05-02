@@ -433,13 +433,13 @@
     "districtData": {
       "Other States": {
         "notes": "Cases from other States/UTs",
-        "active": 24,
+        "active": 23,
         "confirmed": 27,
-        "deceased": 3,
+        "deceased": 4,
         "recovered": 0,
         "delta": {
           "confirmed": 0,
-          "deceased": 0,
+          "deceased": 1,
           "recovered": 0
         }
       },
@@ -469,25 +469,25 @@
       },
       "Amravati": {
         "notes": "",
-        "active": 20,
+        "active": 17,
         "confirmed": 31,
-        "deceased": 7,
+        "deceased": 10,
         "recovered": 4,
         "delta": {
           "confirmed": 3,
-          "deceased": 0,
+          "deceased": 3,
           "recovered": 0
         }
       },
       "Aurangabad": {
         "notes": "",
-        "active": 190,
+        "active": 189,
         "confirmed": 220,
-        "deceased": 8,
+        "deceased": 9,
         "recovered": 22,
         "delta": {
           "confirmed": 59,
-          "deceased": 0,
+          "deceased": 1,
           "recovered": 0
         }
       },
@@ -625,13 +625,13 @@
       },
       "Mumbai": {
         "notes": "",
-        "active": 6929,
+        "active": 6903,
         "confirmed": 8359,
-        "deceased": 296,
+        "deceased": 322,
         "recovered": 1134,
         "delta": {
           "confirmed": 547,
-          "deceased": 0,
+          "deceased": 26,
           "recovered": 0
         }
       },
@@ -697,13 +697,13 @@
       },
       "Palghar": {
         "notes": "",
-        "active": 129,
+        "active": 128,
         "confirmed": 188,
-        "deceased": 4,
+        "deceased": 5,
         "recovered": 55,
         "delta": {
           "confirmed": 9,
-          "deceased": 0,
+          "deceased": 1,
           "recovered": 0
         }
       },
@@ -721,13 +721,13 @@
       },
       "Pune": {
         "notes": "",
-        "active": 955,
+        "active": 952,
         "confirmed": 1339,
-        "deceased": 99,
+        "deceased": 102,
         "recovered": 285,
         "delta": {
           "confirmed": 23,
-          "deceased": 0,
+          "deceased": 3,
           "recovered": 0
         }
       },
@@ -805,13 +805,13 @@
       },
       "Thane": {
         "notes": "",
-        "active": 884,
+        "active": 883,
         "confirmed": 1086,
-        "deceased": 17,
+        "deceased": 18,
         "recovered": 185,
         "delta": {
           "confirmed": 70,
-          "deceased": 0,
+          "deceased": 1,
           "recovered": 0
         }
       },
@@ -843,7 +843,7 @@
         "notes": "",
         "active": 0,
         "confirmed": 0,
-        "deceased": 36,
+        "deceased": 0,
         "recovered": 121,
         "delta": {
           "confirmed": 0,

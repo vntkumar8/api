@@ -1,7 +1,7 @@
 SlNo,State_Code,State,District_Key,District,Confirmed,Active,Recovered,Deceased,Delta_Confirmed,Delta_Active,Delta_Recovered,Delta_Deceased,District_Notes
 0,AS,Assam,AS_Other State,Other State,1,0,1,0,0,0,0,0,Case tranferred from Nagaland
 0,HR,Haryana,HR_Italians,Italians,14,0,14,0,0,0,0,0,Italian tourists who were treated in Haryana
-0,MH,Maharashtra,MH_Other States,Other States,27,24,0,3,0,0,0,0,Cases from other States/UTs
+0,MH,Maharashtra,MH_Other States,Other States,27,23,0,4,0,-1,0,1,Cases from other States/UTs
 0,MP,Madhya Pradesh,MP_Other Region,Other Region,2,2,0,0,0,0,0,0,Cases from other states
 0,RJ,Rajasthan,RJ_Evacuees,Evacuees,61,9,52,0,0,0,0,0,Evacuees from other countries; They have been counted separatly by the state
 0,RJ,Rajasthan,RJ_Italians,Italians,2,0,2,0,0,0,0,0,Italian tourists who were tested positive in Rajasthan
@@ -377,8 +377,8 @@ SlNo,State_Code,State,District_Key,District,Confirmed,Active,Recovered,Deceased,
 368,MP,Madhya Pradesh,MP_Khargone,Khargone,77,48,22,7,4,4,0,0,MP Bulletin dated 25/04 reduced one case in Khargone as there was a repetition
 369,MH,Maharashtra,MH_Ahmednagar,Ahmednagar,42,17,23,2,0,0,0,0,
 370,MH,Maharashtra,MH_Akola,Akola,49,40,8,1,10,10,0,0,
-371,MH,Maharashtra,MH_Amravati,Amravati,31,20,4,7,3,3,0,0,
-372,MH,Maharashtra,MH_Aurangabad,Aurangabad,220,190,22,8,59,59,0,0,
+371,MH,Maharashtra,MH_Amravati,Amravati,31,17,4,10,3,0,0,3,
+372,MH,Maharashtra,MH_Aurangabad,Aurangabad,220,189,22,9,59,58,0,1,
 373,MH,Maharashtra,MH_Bhandara,Bhandara,1,1,0,0,0,0,0,0,
 374,MH,Maharashtra,MH_Beed,Beed,1,0,1,0,0,0,0,0,
 375,MH,Maharashtra,MH_Buldhana,Buldhana,21,1,19,1,0,0,0,0,Reconciled as per MH bulleting 24/04
@@ -391,23 +391,23 @@ SlNo,State_Code,State,District_Key,District,Confirmed,Active,Recovered,Deceased,
 382,MH,Maharashtra,MH_Jalna,Jalna,8,7,1,0,5,5,0,0,Reconciled as per MH bulleting 24/04
 383,MH,Maharashtra,MH_Kolhapur,Kolhapur,16,11,5,0,1,1,0,0,
 384,MH,Maharashtra,MH_Latur,Latur,12,3,8,1,0,0,0,0,
-385,MH,Maharashtra,MH_Mumbai,Mumbai,8359,6929,1134,296,547,547,0,0,
+385,MH,Maharashtra,MH_Mumbai,Mumbai,8359,6903,1134,322,547,521,0,26,
 386,MH,Maharashtra,MH_Mumbai Suburban,Mumbai Suburban,0,0,0,0,0,0,0,0,
 387,MH,Maharashtra,MH_Nagpur,Nagpur,146,107,37,2,7,7,0,0,
 388,MH,Maharashtra,MH_Nanded,Nanded,4,3,0,1,0,0,0,0,
 389,MH,Maharashtra,MH_Nandurbar,Nandurbar,12,11,0,1,1,1,0,0,
 390,MH,Maharashtra,MH_Nashik,Nashik,262,244,6,12,20,20,0,0,
 391,MH,Maharashtra,MH_Osmanabad,Osmanabad,3,0,3,0,0,0,0,0,
-392,MH,Maharashtra,MH_Palghar,Palghar,188,129,55,4,9,9,0,0,
+392,MH,Maharashtra,MH_Palghar,Palghar,188,128,55,5,9,8,0,1,
 393,MH,Maharashtra,MH_Parbhani,Parbhani,3,1,1,1,0,0,0,0,
-394,MH,Maharashtra,MH_Pune,Pune,1339,955,285,99,23,23,0,0,
+394,MH,Maharashtra,MH_Pune,Pune,1339,952,285,102,23,20,0,3,
 395,MH,Maharashtra,MH_Raigad,Raigad,76,47,26,3,2,2,0,0,
 396,MH,Maharashtra,MH_Ratnagiri,Ratnagiri,10,4,5,1,2,2,0,0,
 397,MH,Maharashtra,MH_Sangli,Sangli,31,5,25,1,1,1,0,0,
 398,MH,Maharashtra,MH_Satara,Satara,36,25,9,2,4,4,0,0,
 399,MH,Maharashtra,MH_Sindhudurg,Sindhudurg,3,1,1,1,1,1,0,0,
 400,MH,Maharashtra,MH_Solapur,Solapur,115,109,0,6,7,7,0,0,
-401,MH,Maharashtra,MH_Thane,Thane,1086,884,185,17,70,70,0,0,
+401,MH,Maharashtra,MH_Thane,Thane,1086,883,185,18,70,69,0,1,
 402,MH,Maharashtra,MH_Wardha,Wardha,0,0,0,0,0,0,0,0,
 403,MH,Maharashtra,MH_Washim,Washim,2,1,1,0,0,0,0,0,
 404,MH,Maharashtra,MH_Yavatmal,Yavatmal,79,69,10,0,0,0,0,0,
@@ -763,7 +763,7 @@ SlNo,State_Code,State,District_Key,District,Confirmed,Active,Recovered,Deceased,
 746,LA,Ladakh,LA_Unknown,Unknown,0,,0,0,0,0,0,0,
 747,LD,Lakshadweep,LD_Unknown,Unknown,0,,0,0,0,0,0,0,
 748,MP,Madhya Pradesh,MP_Unknown,Unknown,0,,0,0,0,0,0,0,
-749,MH,Maharashtra,MH_Unknown,Unknown,0,,121,36,0,0,0,0,
+749,MH,Maharashtra,MH_Unknown,Unknown,0,,121,0,0,0,0,0,
 750,MN,Manipur,MN_Unknown,Unknown,0,,0,0,0,0,0,0,
 751,ML,Meghalaya,ML_Unknown,Unknown,0,,0,0,0,0,0,0,
 752,MZ,Mizoram,MZ_Unknown,Unknown,0,,0,0,0,0,0,0,
