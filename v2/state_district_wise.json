@@ -1346,6 +1346,19 @@
           "deceased": 0,
           "recovered": 0
         }
+      },
+      {
+        "district": "Unknown",
+        "notes": "",
+        "active": 0,
+        "confirmed": 73,
+        "deceased": 6,
+        "recovered": 100,
+        "delta": {
+          "confirmed": 0,
+          "deceased": 0,
+          "recovered": 0
+        }
       }
     ]
   },
@@ -3430,12 +3443,12 @@
       {
         "district": "Deoghar",
         "notes": "",
-        "active": 2,
-        "confirmed": 2,
+        "active": 4,
+        "confirmed": 4,
         "deceased": 0,
         "recovered": 0,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 2,
           "deceased": 0,
           "recovered": 0
         }
@@ -6434,9 +6447,9 @@
         "district": "Unknown",
         "notes": "",
         "active": 0,
-        "confirmed": 1,
-        "deceased": 0,
-        "recovered": 0,
+        "confirmed": 160,
+        "deceased": 1,
+        "recovered": 44,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
