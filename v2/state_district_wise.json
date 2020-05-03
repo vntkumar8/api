@@ -1804,14 +1804,14 @@
       {
         "district": "South Andaman",
         "notes": "",
-        "active": 7,
+        "active": 1,
         "confirmed": 32,
         "deceased": 0,
-        "recovered": 25,
+        "recovered": 31,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 6
         }
       }
     ]
@@ -2264,12 +2264,12 @@
       {
         "district": "West Champaran",
         "notes": "",
-        "active": 14,
-        "confirmed": 14,
+        "active": 10,
+        "confirmed": 10,
         "deceased": 0,
         "recovered": 0,
         "delta": {
-          "confirmed": 9,
+          "confirmed": 5,
           "deceased": 0,
           "recovered": 0
         }
@@ -2290,12 +2290,12 @@
       {
         "district": "East Champaran",
         "notes": "",
-        "active": 4,
-        "confirmed": 5,
+        "active": 8,
+        "confirmed": 9,
         "deceased": 1,
         "recovered": 0,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 4,
           "deceased": 0,
           "recovered": 0
         }
@@ -2413,13 +2413,13 @@
       {
         "district": "Chandigarh",
         "notes": "",
-        "active": 76,
+        "active": 75,
         "confirmed": 95,
-        "deceased": 0,
+        "deceased": 1,
         "recovered": 19,
         "delta": {
           "confirmed": 1,
-          "deceased": 0,
+          "deceased": 1,
           "recovered": 0
         }
       }
