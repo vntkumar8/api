@@ -1012,12 +1012,12 @@
       {
         "district": "Bhopal",
         "notes": "",
-        "active": 299,
-        "confirmed": 526,
+        "active": 305,
+        "confirmed": 532,
         "deceased": 15,
         "recovered": 212,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 6,
           "deceased": 0,
           "recovered": 0
         }
@@ -1064,12 +1064,12 @@
       {
         "district": "Dhar",
         "notes": "State bulletin on 20th Apr reported 5 extra cases in Dhar distrct. This has been reconciled - MP Health Dept Bulletin, 22 Apr",
-        "active": 40,
-        "confirmed": 51,
+        "active": 44,
+        "confirmed": 55,
         "deceased": 1,
         "recovered": 10,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 4,
           "deceased": 0,
           "recovered": 0
         }
@@ -1129,12 +1129,12 @@
       {
         "district": "Hoshangabad",
         "notes": "",
-        "active": 12,
-        "confirmed": 35,
+        "active": 13,
+        "confirmed": 36,
         "deceased": 4,
         "recovered": 19,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
@@ -1142,12 +1142,12 @@
       {
         "district": "Indore",
         "notes": "",
-        "active": 1242,
-        "confirmed": 1545,
+        "active": 1265,
+        "confirmed": 1568,
         "deceased": 74,
         "recovered": 229,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 23,
           "deceased": 0,
           "recovered": 0
         }
@@ -1155,25 +1155,12 @@
       {
         "district": "Jabalpur",
         "notes": "",
-        "active": 82,
-        "confirmed": 92,
+        "active": 86,
+        "confirmed": 96,
         "deceased": 1,
         "recovered": 9,
         "delta": {
-          "confirmed": 0,
-          "deceased": 0,
-          "recovered": 0
-        }
-      },
-      {
-        "district": "Katni",
-        "notes": "",
-        "active": 1,
-        "confirmed": 1,
-        "deceased": 0,
-        "recovered": 0,
-        "delta": {
-          "confirmed": 0,
+          "confirmed": 4,
           "deceased": 0,
           "recovered": 0
         }
@@ -1181,12 +1168,12 @@
       {
         "district": "Mandsaur",
         "notes": "",
-        "active": 31,
-        "confirmed": 35,
+        "active": 32,
+        "confirmed": 36,
         "deceased": 3,
         "recovered": 1,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
@@ -1200,6 +1187,32 @@
         "recovered": 13,
         "delta": {
           "confirmed": 0,
+          "deceased": 0,
+          "recovered": 0
+        }
+      },
+      {
+        "district": "Niwari",
+        "notes": "",
+        "active": 1,
+        "confirmed": 1,
+        "deceased": 0,
+        "recovered": 0,
+        "delta": {
+          "confirmed": 1,
+          "deceased": 0,
+          "recovered": 0
+        }
+      },
+      {
+        "district": "Panna",
+        "notes": "",
+        "active": 1,
+        "confirmed": 1,
+        "deceased": 0,
+        "recovered": 0,
+        "delta": {
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
@@ -1324,12 +1337,12 @@
       {
         "district": "Ujjain",
         "notes": "",
-        "active": 115,
-        "confirmed": 147,
+        "active": 124,
+        "confirmed": 156,
         "deceased": 27,
         "recovered": 5,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 9,
           "deceased": 0,
           "recovered": 0
         }
@@ -1364,7 +1377,7 @@
         "district": "Unknown",
         "notes": "",
         "active": 0,
-        "confirmed": 49,
+        "confirmed": 0,
         "deceased": 5,
         "recovered": 0,
         "delta": {
