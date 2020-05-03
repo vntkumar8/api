@@ -4472,14 +4472,14 @@
       {
         "district": "Ferozepur",
         "notes": "",
-        "active": 26,
+        "active": 25,
         "confirmed": 26,
         "deceased": 0,
-        "recovered": 0,
+        "recovered": 1,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 1
         }
       },
       {
@@ -4671,6 +4671,19 @@
         "confirmed": 14,
         "deceased": 0,
         "recovered": 0,
+        "delta": {
+          "confirmed": 0,
+          "deceased": 0,
+          "recovered": 0
+        }
+      },
+      {
+        "district": "Unknown",
+        "notes": "",
+        "active": 0,
+        "confirmed": 0,
+        "deceased": 0,
+        "recovered": 3,
         "delta": {
           "confirmed": 0,
           "deceased": 0,

@@ -7969,17 +7969,17 @@
 			"statecode": "PB"
 		},
 		{
-			"active": "26",
+			"active": "25",
 			"confirmed": "26",
 			"deceased": "0",
-			"deltaactive": "0",
+			"deltaactive": "-1",
 			"deltaconfirmed": "0",
 			"deltadeceased": "0",
-			"deltarecovered": "0",
+			"deltarecovered": "1",
 			"district": "Ferozepur",
 			"districtkey": "PB_Ferozepur",
 			"districtnotes": "",
-			"recovered": "0",
+			"recovered": "1",
 			"slno": "491",
 			"state": "Punjab",
 			"statecode": "PB"
@@ -12347,7 +12347,7 @@
 			"district": "Unknown",
 			"districtkey": "PB_Unknown",
 			"districtnotes": "",
-			"recovered": "0",
+			"recovered": "3",
 			"slno": "756",
 			"state": "Punjab",
 			"statecode": "PB"
