@@ -2069,12 +2069,12 @@
       {
         "district": "Bhagalpur",
         "notes": "",
-        "active": 4,
-        "confirmed": 5,
+        "active": 10,
+        "confirmed": 11,
         "deceased": 0,
         "recovered": 1,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 6,
           "deceased": 0,
           "recovered": 0
         }
@@ -2095,12 +2095,12 @@
       {
         "district": "Buxar",
         "notes": "",
-        "active": 45,
-        "confirmed": 55,
+        "active": 46,
+        "confirmed": 56,
         "deceased": 0,
         "recovered": 10,
         "delta": {
-          "confirmed": 2,
+          "confirmed": 3,
           "deceased": 0,
           "recovered": 0
         }
@@ -2264,12 +2264,12 @@
       {
         "district": "West Champaran",
         "notes": "",
-        "active": 5,
-        "confirmed": 5,
+        "active": 14,
+        "confirmed": 14,
         "deceased": 0,
         "recovered": 0,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 9,
           "deceased": 0,
           "recovered": 0
         }
@@ -2348,6 +2348,19 @@
         "recovered": 0,
         "delta": {
           "confirmed": 0,
+          "deceased": 0,
+          "recovered": 0
+        }
+      },
+      {
+        "district": "Sheohar",
+        "notes": "",
+        "active": 1,
+        "confirmed": 1,
+        "deceased": 0,
+        "recovered": 0,
+        "delta": {
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
