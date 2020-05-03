@@ -3316,14 +3316,14 @@
       },
       "Ballari": {
         "notes": "",
-        "active": 6,
+        "active": 5,
         "confirmed": 13,
         "deceased": 0,
-        "recovered": 7,
+        "recovered": 8,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 1
         }
       },
       "Belagavi": {
@@ -3340,14 +3340,14 @@
       },
       "Bengaluru Urban": {
         "notes": "One death on 27th Apr is not included as it's not counted as covid related death by the Karnataka govt.",
-        "active": 71,
+        "active": 70,
         "confirmed": 149,
         "deceased": 6,
-        "recovered": 71,
+        "recovered": 72,
         "delta": {
           "confirmed": 4,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 1
         }
       },
       "Bengaluru Rural": {
@@ -3376,14 +3376,14 @@
       },
       "Chikkaballapura": {
         "notes": "",
-        "active": 7,
+        "active": 6,
         "confirmed": 20,
         "deceased": 2,
-        "recovered": 11,
+        "recovered": 12,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 1
         }
       },
       "Chitradurga": {
@@ -3548,18 +3548,6 @@
         "confirmed": 20,
         "deceased": 0,
         "recovered": 18,
-        "delta": {
-          "confirmed": 0,
-          "deceased": 0,
-          "recovered": 0
-        }
-      },
-      "Unknown": {
-        "notes": "",
-        "active": 0,
-        "confirmed": 0,
-        "deceased": 0,
-        "recovered": 3,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
