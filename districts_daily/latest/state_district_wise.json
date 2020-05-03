@@ -260,14 +260,14 @@
       },
       "Hisar": {
         "notes": "",
-        "active": 2,
+        "active": 1,
         "confirmed": 4,
         "deceased": 0,
-        "recovered": 2,
+        "recovered": 3,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 1
         }
       },
       "Jhajjar": {
@@ -404,14 +404,14 @@
       },
       "Sonipat": {
         "notes": "",
-        "active": 40,
+        "active": 38,
         "confirmed": 44,
         "deceased": 0,
-        "recovered": 4,
+        "recovered": 6,
         "delta": {
           "confirmed": 18,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 2
         }
       },
       "Yamunanagar": {
@@ -4100,14 +4100,14 @@
       },
       "Faridkot": {
         "notes": "",
-        "active": 4,
+        "active": 5,
         "confirmed": 6,
         "deceased": 0,
-        "recovered": 2,
+        "recovered": 1,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": -1
         }
       },
       "Fatehgarh Sahib": {
@@ -4136,14 +4136,14 @@
       },
       "Ferozepur": {
         "notes": "",
-        "active": 28,
+        "active": 27,
         "confirmed": 29,
         "deceased": 1,
-        "recovered": 0,
+        "recovered": 1,
         "delta": {
           "confirmed": 3,
           "deceased": 1,
-          "recovered": 0
+          "recovered": 1
         }
       },
       "Gurdaspur": {
@@ -6208,7 +6208,7 @@
         "notes": "",
         "active": 0,
         "confirmed": 534,
-        "deceased": 48,
+        "deceased": 50,
         "recovered": 151,
         "delta": {
           "confirmed": 0,
