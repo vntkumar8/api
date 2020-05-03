@@ -1142,13 +1142,13 @@
       {
         "district": "Indore",
         "notes": "",
-        "active": 1144,
+        "active": 1142,
         "confirmed": 1568,
-        "deceased": 74,
+        "deceased": 76,
         "recovered": 350,
         "delta": {
           "confirmed": 23,
-          "deceased": 0,
+          "deceased": 2,
           "recovered": 121
         }
       },
@@ -1337,13 +1337,13 @@
       {
         "district": "Ujjain",
         "notes": "",
-        "active": 111,
+        "active": 108,
         "confirmed": 156,
-        "deceased": 27,
+        "deceased": 30,
         "recovered": 18,
         "delta": {
           "confirmed": 9,
-          "deceased": 0,
+          "deceased": 3,
           "recovered": 13
         }
       },
@@ -1371,19 +1371,6 @@
           "confirmed": 0,
           "deceased": 0,
           "recovered": 2
-        }
-      },
-      {
-        "district": "Unknown",
-        "notes": "",
-        "active": 0,
-        "confirmed": 0,
-        "deceased": 5,
-        "recovered": 0,
-        "delta": {
-          "confirmed": 0,
-          "deceased": 0,
-          "recovered": 0
         }
       }
     ]
@@ -4226,27 +4213,27 @@
       {
         "district": "Balasore",
         "notes": "",
-        "active": 18,
+        "active": 17,
         "confirmed": 21,
         "deceased": 0,
-        "recovered": 3,
+        "recovered": 4,
         "delta": {
           "confirmed": 1,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 1
         }
       },
       {
         "district": "Bhadrak",
         "notes": "",
-        "active": 6,
+        "active": 7,
         "confirmed": 19,
         "deceased": 0,
-        "recovered": 13,
+        "recovered": 12,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 4
+          "recovered": 3
         }
       },
       {
