@@ -1251,6 +1251,18 @@
           "deceased": 0,
           "recovered": 0
         }
+      },
+      "Unknown": {
+        "notes": "",
+        "active": 0,
+        "confirmed": 49,
+        "deceased": 5,
+        "recovered": 0,
+        "delta": {
+          "confirmed": 0,
+          "deceased": 0,
+          "recovered": 0
+        }
       }
     },
     "statecode": "MP"
@@ -2867,7 +2879,7 @@
         "active": 0,
         "confirmed": 0,
         "deceased": 1,
-        "recovered": 0,
+        "recovered": 146,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
@@ -3886,14 +3898,14 @@
       },
       "Bhadrak": {
         "notes": "",
-        "active": 10,
+        "active": 6,
         "confirmed": 19,
         "deceased": 0,
-        "recovered": 9,
+        "recovered": 13,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 4
         }
       },
       "Cuttack": {
@@ -5972,6 +5984,18 @@
         "confirmed": 1,
         "deceased": 0,
         "recovered": 0,
+        "delta": {
+          "confirmed": 0,
+          "deceased": 0,
+          "recovered": 0
+        }
+      },
+      "Unknown": {
+        "notes": "",
+        "active": 0,
+        "confirmed": 139,
+        "deceased": 0,
+        "recovered": 56,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
