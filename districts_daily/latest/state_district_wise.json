@@ -1535,13 +1535,13 @@
       },
       "Jodhpur": {
         "notes": "",
-        "active": 510,
+        "active": 508,
         "confirmed": 721,
-        "deceased": 8,
+        "deceased": 10,
         "recovered": 203,
         "delta": {
           "confirmed": 89,
-          "deceased": 0,
+          "deceased": 2,
           "recovered": 11
         }
       },
@@ -3669,12 +3669,12 @@
       },
       "Idukki": {
         "notes": "",
-        "active": 2,
-        "confirmed": 24,
+        "active": 1,
+        "confirmed": 23,
         "deceased": 0,
         "recovered": 22,
         "delta": {
-          "confirmed": 0,
+          "confirmed": -1,
           "deceased": 0,
           "recovered": 10
         }
@@ -3717,12 +3717,12 @@
       },
       "Kottayam": {
         "notes": "",
-        "active": 5,
-        "confirmed": 20,
+        "active": 6,
+        "confirmed": 21,
         "deceased": 0,
         "recovered": 15,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 12
         }
