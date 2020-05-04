@@ -1903,12 +1903,12 @@
       },
       "Begusarai": {
         "notes": "",
-        "active": 6,
-        "confirmed": 11,
+        "active": 8,
+        "confirmed": 13,
         "deceased": 0,
         "recovered": 5,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 2,
           "deceased": 0,
           "recovered": 0
         }
@@ -2232,26 +2232,14 @@
     "districtData": {
       "Chandigarh": {
         "notes": "",
-        "active": 77,
-        "confirmed": 97,
+        "active": 80,
+        "confirmed": 102,
         "deceased": 1,
-        "recovered": 19,
+        "recovered": 21,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 5,
           "deceased": 0,
-          "recovered": 0
-        }
-      },
-      "Unknown": {
-        "notes": "",
-        "active": 0,
-        "confirmed": 5,
-        "deceased": 0,
-        "recovered": 2,
-        "delta": {
-          "confirmed": 0,
-          "deceased": 0,
-          "recovered": 0
+          "recovered": 2
         }
       }
     },
