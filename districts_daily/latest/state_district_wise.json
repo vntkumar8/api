@@ -2528,13 +2528,13 @@
     "districtData": {
       "Ahmedabad": {
         "notes": "",
-        "active": 3335,
+        "active": 3309,
         "confirmed": 4076,
-        "deceased": 208,
+        "deceased": 234,
         "recovered": 533,
         "delta": {
           "confirmed": 259,
-          "deceased": 0,
+          "deceased": 26,
           "recovered": 0
         }
       },
@@ -2892,6 +2892,18 @@
         "confirmed": 6,
         "deceased": 1,
         "recovered": 2,
+        "delta": {
+          "confirmed": 0,
+          "deceased": 0,
+          "recovered": 0
+        }
+      },
+      "Unknown": {
+        "notes": "",
+        "active": 0,
+        "confirmed": 0,
+        "deceased": 3,
+        "recovered": 0,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
