@@ -53646,7 +53646,7 @@
         {
           "notes": "",
           "active": 0,
-          "confirmed": 10,
+          "confirmed": 0,
           "deceased": 133,
           "recovered": 218,
           "date": "2020-05-04"
@@ -54233,6 +54233,16 @@
           "notes": "",
           "active": 15,
           "confirmed": 15,
+          "deceased": 0,
+          "recovered": 0,
+          "date": "2020-05-04"
+        }
+      ],
+      "Other State": [
+        {
+          "notes": "",
+          "active": 10,
+          "confirmed": 10,
           "deceased": 0,
           "recovered": 0,
           "date": "2020-05-04"
