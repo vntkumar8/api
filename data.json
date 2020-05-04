@@ -858,13 +858,13 @@
 	],
 	"statewise": [
 		{
-			"active": "29376",
-			"confirmed": "42546",
+			"active": "29500",
+			"confirmed": "42670",
 			"deaths": "1391",
-			"deltaconfirmed": "0",
+			"deltaconfirmed": "124",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
-			"lastupdatedtime": "04/05/2020 09:02:45",
+			"lastupdatedtime": "04/05/2020 10:21:44",
 			"recovered": "11775",
 			"state": "Total",
 			"statecode": "TT",
@@ -923,13 +923,13 @@
 			"statenotes": ""
 		},
 		{
-			"active": "1459",
-			"confirmed": "2886",
+			"active": "1582",
+			"confirmed": "3009",
 			"deaths": "71",
-			"deltaconfirmed": "0",
+			"deltaconfirmed": "123",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
-			"lastupdatedtime": "04/05/2020 00:40:45",
+			"lastupdatedtime": "04/05/2020 10:21:45",
 			"recovered": "1356",
 			"state": "Rajasthan",
 			"statecode": "RJ",
@@ -1079,13 +1079,13 @@
 			"statenotes": ""
 		},
 		{
-			"active": "101",
-			"confirmed": "162",
+			"active": "102",
+			"confirmed": "163",
 			"deaths": "1",
-			"deltaconfirmed": "0",
+			"deltaconfirmed": "1",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
-			"lastupdatedtime": "03/05/2020 20:42:48",
+			"lastupdatedtime": "04/05/2020 10:21:46",
 			"recovered": "60",
 			"state": "Odisha",
 			"statecode": "OR",
@@ -2067,6 +2067,19 @@
 			"totalpositivecases": "",
 			"totalsamplestested": "1046450",
 			"updatetimestamp": "03/05/2020 09:00:00"
+		},
+		{
+			"individualstestedperconfirmedcase": "",
+			"positivecasesfromsamplesreported": "",
+			"samplereportedtoday": "",
+			"source": "https://www.icmr.gov.in/pdf/covid/update/ICMR_testing_update_04May2020_9AM_IST.pdf",
+			"testpositivityrate": "",
+			"testsconductedbyprivatelabs": "",
+			"testsperconfirmedcase": "",
+			"totalindividualstested": "",
+			"totalpositivecases": "",
+			"totalsamplestested": "1107233",
+			"updatetimestamp": "04/05/2020 09:00:00"
 		}
 	]
 }
