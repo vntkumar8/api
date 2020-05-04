@@ -848,24 +848,24 @@
 		},
 		{
 			"dailyconfirmed": "2952",
-			"dailydeceased": "68",
+			"dailydeceased": "140",
 			"dailyrecovered": "930",
 			"date": "03 May ",
 			"totalconfirmed": "42781",
-			"totaldeceased": "1391",
+			"totaldeceased": "1463",
 			"totalrecovered": "11782"
 		}
 	],
 	"statewise": [
 		{
-			"active": "30747",
-			"confirmed": "44234",
-			"deaths": "1441",
-			"deltaconfirmed": "1453",
+			"active": "30485",
+			"confirmed": "44237",
+			"deaths": "1513",
+			"deltaconfirmed": "1456",
 			"deltadeaths": "50",
-			"deltarecovered": "260",
-			"lastupdatedtime": "04/05/2020 20:21:45",
-			"recovered": "12042",
+			"deltarecovered": "453",
+			"lastupdatedtime": "04/05/2020 20:31:45",
+			"recovered": "12235",
 			"state": "Total",
 			"statecode": "TT",
 			"statenotes": ""
@@ -884,14 +884,14 @@
 			"statenotes": ""
 		},
 		{
-			"active": "4443",
+			"active": "4290",
 			"confirmed": "5804",
 			"deaths": "319",
 			"deltaconfirmed": "376",
 			"deltadeaths": "29",
-			"deltarecovered": "0",
+			"deltarecovered": "153",
 			"lastupdatedtime": "04/05/2020 20:11:45",
-			"recovered": "1042",
+			"recovered": "1195",
 			"state": "Gujarat",
 			"statecode": "GJ",
 			"statenotes": ""
@@ -975,30 +975,30 @@
 			"statenotes": ""
 		},
 		{
-			"active": "508",
-			"confirmed": "1082",
+			"active": "471",
+			"confirmed": "1085",
 			"deaths": "29",
-			"deltaconfirmed": "0",
+			"deltaconfirmed": "3",
 			"deltadeaths": "0",
-			"deltarecovered": "0",
-			"lastupdatedtime": "03/05/2020 21:42:47",
-			"recovered": "545",
+			"deltarecovered": "40",
+			"lastupdatedtime": "04/05/2020 20:31:46",
+			"recovered": "585",
 			"state": "Telangana",
 			"statecode": "TG",
 			"statenotes": ""
 		},
 		{
-			"active": "980",
+			"active": "908",
 			"confirmed": "1259",
-			"deaths": "61",
+			"deaths": "133",
 			"deltaconfirmed": "61",
 			"deltadeaths": "11",
 			"deltarecovered": "67",
-			"lastupdatedtime": "04/05/2020 20:21:47",
+			"lastupdatedtime": "04/05/2020 20:31:47",
 			"recovered": "218",
 			"state": "West Bengal",
 			"statecode": "WB",
-			"statenotes": "WB totals and district numbers are currently updated according to https://www.mohfw.gov.in"
+			"statenotes": "[05-May] WB bulletin provides total number of cases. Deaths due to comorbidities added to total deceased"
 		},
 		{
 			"active": "415",
