@@ -858,14 +858,14 @@
 	],
 	"statewise": [
 		{
-			"active": "30485",
-			"confirmed": "44237",
+			"active": "30558",
+			"confirmed": "44358",
 			"deaths": "1513",
-			"deltaconfirmed": "1456",
+			"deltaconfirmed": "1577",
 			"deltadeaths": "50",
-			"deltarecovered": "453",
-			"lastupdatedtime": "04/05/2020 20:44:45",
-			"recovered": "12235",
+			"deltarecovered": "501",
+			"lastupdatedtime": "04/05/2020 21:11:45",
+			"recovered": "12283",
 			"state": "Total",
 			"statecode": "TT",
 			"statenotes": ""
@@ -910,16 +910,16 @@
 			"statenotes": ""
 		},
 		{
-			"active": "1883",
-			"confirmed": "2837",
-			"deaths": "156",
-			"deltaconfirmed": "0",
-			"deltadeaths": "0",
-			"deltarecovered": "0",
-			"lastupdatedtime": "03/05/2020 21:22:45",
-			"recovered": "798",
-			"state": "Madhya Pradesh",
-			"statecode": "MP",
+			"active": "2110",
+			"confirmed": "3550",
+			"deaths": "31",
+			"deltaconfirmed": "527",
+			"deltadeaths": "1",
+			"deltarecovered": "30",
+			"lastupdatedtime": "04/05/2020 18:16:46",
+			"recovered": "1409",
+			"state": "Tamil Nadu",
+			"statecode": "TN",
 			"statenotes": ""
 		},
 		{
@@ -936,30 +936,43 @@
 			"statenotes": ""
 		},
 		{
-			"active": "2110",
-			"confirmed": "3550",
-			"deaths": "31",
-			"deltaconfirmed": "527",
-			"deltadeaths": "1",
-			"deltarecovered": "30",
-			"lastupdatedtime": "04/05/2020 18:16:46",
-			"recovered": "1409",
-			"state": "Tamil Nadu",
-			"statecode": "TN",
-			"statenotes": ""
-		},
-		{
-			"active": "1848",
-			"confirmed": "2645",
-			"deaths": "43",
+			"active": "1883",
+			"confirmed": "2837",
+			"deaths": "156",
 			"deltaconfirmed": "0",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
-			"lastupdatedtime": "03/05/2020 21:42:46",
-			"recovered": "754",
+			"lastupdatedtime": "03/05/2020 21:22:45",
+			"recovered": "798",
+			"state": "Madhya Pradesh",
+			"statecode": "MP",
+			"statenotes": ""
+		},
+		{
+			"active": "1921",
+			"confirmed": "2766",
+			"deaths": "43",
+			"deltaconfirmed": "121",
+			"deltadeaths": "0",
+			"deltarecovered": "48",
+			"lastupdatedtime": "04/05/2020 21:11:46",
+			"recovered": "802",
 			"state": "Uttar Pradesh",
 			"statecode": "UP",
 			"statenotes": ""
+		},
+		{
+			"active": "908",
+			"confirmed": "1259",
+			"deaths": "133",
+			"deltaconfirmed": "61",
+			"deltadeaths": "11",
+			"deltarecovered": "67",
+			"lastupdatedtime": "04/05/2020 21:08:47",
+			"recovered": "218",
+			"state": "West Bengal",
+			"statecode": "WB",
+			"statenotes": "[05-May] WB bulletin provides total number of cases. Deaths due to comorbidities added to total deceased"
 		},
 		{
 			"active": "1093",
@@ -975,6 +988,19 @@
 			"statenotes": ""
 		},
 		{
+			"active": "1081",
+			"confirmed": "1232",
+			"deaths": "23",
+			"deltaconfirmed": "130",
+			"deltadeaths": "2",
+			"deltarecovered": "11",
+			"lastupdatedtime": "04/05/2020 19:02:46",
+			"recovered": "128",
+			"state": "Punjab",
+			"statecode": "PB",
+			"statenotes": ""
+		},
+		{
 			"active": "471",
 			"confirmed": "1085",
 			"deaths": "29",
@@ -986,19 +1012,6 @@
 			"state": "Telangana",
 			"statecode": "TG",
 			"statenotes": ""
-		},
-		{
-			"active": "908",
-			"confirmed": "1259",
-			"deaths": "133",
-			"deltaconfirmed": "61",
-			"deltadeaths": "11",
-			"deltarecovered": "67",
-			"lastupdatedtime": "04/05/2020 20:32:47",
-			"recovered": "218",
-			"state": "West Bengal",
-			"statecode": "WB",
-			"statenotes": "[05-May] WB bulletin provides total number of cases. Deaths due to comorbidities added to total deceased"
 		},
 		{
 			"active": "415",
@@ -1027,19 +1040,6 @@
 			"statenotes": "One active case in KA reduced as a confirmed patient died of non-CoViD19 related reasons"
 		},
 		{
-			"active": "34",
-			"confirmed": "500",
-			"deaths": "4",
-			"deltaconfirmed": "0",
-			"deltadeaths": "0",
-			"deltarecovered": "61",
-			"lastupdatedtime": "04/05/2020 19:38:46",
-			"recovered": "462",
-			"state": "Kerala",
-			"statecode": "KL",
-			"statenotes": "Mahe native who expired in Kannur included in Kerala's tally"
-		},
-		{
 			"active": "400",
 			"confirmed": "528",
 			"deaths": "4",
@@ -1050,19 +1050,6 @@
 			"recovered": "124",
 			"state": "Bihar",
 			"statecode": "BR",
-			"statenotes": ""
-		},
-		{
-			"active": "1081",
-			"confirmed": "1232",
-			"deaths": "23",
-			"deltaconfirmed": "130",
-			"deltadeaths": "2",
-			"deltarecovered": "11",
-			"lastupdatedtime": "04/05/2020 19:02:46",
-			"recovered": "128",
-			"state": "Punjab",
-			"statecode": "PB",
 			"statenotes": ""
 		},
 		{
@@ -1077,6 +1064,19 @@
 			"state": "Haryana",
 			"statecode": "HR",
 			"statenotes": ""
+		},
+		{
+			"active": "34",
+			"confirmed": "500",
+			"deaths": "4",
+			"deltaconfirmed": "0",
+			"deltadeaths": "0",
+			"deltarecovered": "61",
+			"lastupdatedtime": "04/05/2020 19:38:46",
+			"recovered": "462",
+			"state": "Kerala",
+			"statecode": "KL",
+			"statenotes": "Mahe native who expired in Kannur included in Kerala's tally"
 		},
 		{
 			"active": "108",
@@ -1131,17 +1131,17 @@
 			"statenotes": ""
 		},
 		{
-			"active": "2",
-			"confirmed": "41",
-			"deaths": "2",
+			"active": "22",
+			"confirmed": "58",
+			"deaths": "0",
 			"deltaconfirmed": "1",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
-			"lastupdatedtime": "04/05/2020 19:22:48",
-			"recovered": "34",
-			"state": "Himachal Pradesh",
-			"statecode": "HP",
-			"statenotes": "HP has 4 Migrated cases which are reduced from Active #. Also, death of Tibetan refugee is included in deceased numbers, but not in confirmed"
+			"lastupdatedtime": "04/05/2020 19:32:46",
+			"recovered": "36",
+			"state": "Chhattisgarh",
+			"statecode": "CT",
+			"statenotes": ""
 		},
 		{
 			"active": "9",
@@ -1157,17 +1157,30 @@
 			"statenotes": "Includes one case from Nagaland"
 		},
 		{
-			"active": "22",
-			"confirmed": "58",
+			"active": "25",
+			"confirmed": "42",
 			"deaths": "0",
+			"deltaconfirmed": "0",
+			"deltadeaths": "0",
+			"deltarecovered": "0",
+			"lastupdatedtime": "03/05/2020 14:32:47",
+			"recovered": "17",
+			"state": "Ladakh",
+			"statecode": "LA",
+			"statenotes": ""
+		},
+		{
+			"active": "2",
+			"confirmed": "41",
+			"deaths": "2",
 			"deltaconfirmed": "1",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
-			"lastupdatedtime": "04/05/2020 19:32:46",
-			"recovered": "36",
-			"state": "Chhattisgarh",
-			"statecode": "CT",
-			"statenotes": ""
+			"lastupdatedtime": "04/05/2020 19:22:48",
+			"recovered": "34",
+			"state": "Himachal Pradesh",
+			"statecode": "HP",
+			"statenotes": "HP has 4 Migrated cases which are reduced from Active #. Also, death of Tibetan refugee is included in deceased numbers, but not in confirmed"
 		},
 		{
 			"active": "1",
@@ -1183,16 +1196,16 @@
 			"statenotes": ""
 		},
 		{
-			"active": "25",
-			"confirmed": "42",
+			"active": "14",
+			"confirmed": "16",
 			"deaths": "0",
 			"deltaconfirmed": "0",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
-			"lastupdatedtime": "03/05/2020 14:32:47",
-			"recovered": "17",
-			"state": "Ladakh",
-			"statecode": "LA",
+			"lastupdatedtime": "03/05/2020 22:01:49",
+			"recovered": "2",
+			"state": "Tripura",
+			"statecode": "TR",
 			"statenotes": ""
 		},
 		{
@@ -1245,19 +1258,6 @@
 			"recovered": "2",
 			"state": "Manipur",
 			"statecode": "MN",
-			"statenotes": ""
-		},
-		{
-			"active": "14",
-			"confirmed": "16",
-			"deaths": "0",
-			"deltaconfirmed": "0",
-			"deltadeaths": "0",
-			"deltarecovered": "0",
-			"lastupdatedtime": "03/05/2020 22:01:49",
-			"recovered": "2",
-			"state": "Tripura",
-			"statecode": "TR",
 			"statenotes": ""
 		},
 		{
