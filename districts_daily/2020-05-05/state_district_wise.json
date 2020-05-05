@@ -6073,6 +6073,18 @@
           "deceased": 0,
           "recovered": 0
         }
+      },
+      "Unknown": {
+        "notes": "",
+        "active": 0,
+        "confirmed": 0,
+        "deceased": 6,
+        "recovered": 185,
+        "delta": {
+          "confirmed": 0,
+          "deceased": 0,
+          "recovered": 0
+        }
       }
     },
     "statecode": "UP"
@@ -6194,13 +6206,13 @@
       },
       "Howrah": {
         "notes": "",
-        "active": 204,
+        "active": 203,
         "confirmed": 241,
-        "deceased": 17,
+        "deceased": 18,
         "recovered": 20,
         "delta": {
           "confirmed": 0,
-          "deceased": 0,
+          "deceased": 1,
           "recovered": 0
         }
       },
@@ -6230,13 +6242,13 @@
       },
       "Kolkata": {
         "notes": "",
-        "active": 463,
+        "active": 458,
         "confirmed": 659,
-        "deceased": 87,
+        "deceased": 92,
         "recovered": 109,
         "delta": {
           "confirmed": 0,
-          "deceased": 0,
+          "deceased": 5,
           "recovered": 0
         }
       },
@@ -6350,13 +6362,13 @@
       },
       "Other State": {
         "notes": "",
-        "active": 10,
+        "active": 9,
         "confirmed": 10,
-        "deceased": 0,
+        "deceased": 1,
         "recovered": 0,
         "delta": {
           "confirmed": 0,
-          "deceased": 0,
+          "deceased": 1,
           "recovered": 0
         }
       },
@@ -6364,7 +6376,7 @@
         "notes": "",
         "active": 0,
         "confirmed": 85,
-        "deceased": 7,
+        "deceased": 0,
         "recovered": 46,
         "delta": {
           "confirmed": 0,
