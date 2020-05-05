@@ -4241,17 +4241,17 @@
 			"statecode": "JH"
 		},
 		{
-			"active": "1",
+			"active": "0",
 			"confirmed": "1",
 			"deceased": "0",
-			"deltaactive": "0",
+			"deltaactive": "-1",
 			"deltaconfirmed": "0",
 			"deltadeceased": "0",
-			"deltarecovered": "0",
+			"deltarecovered": "1",
 			"district": "Koderma",
 			"districtkey": "JH_Koderma",
 			"districtnotes": "",
-			"recovered": "0",
+			"recovered": "1",
 			"slno": "258",
 			"state": "Jharkhand",
 			"statecode": "JH"
@@ -4369,17 +4369,17 @@
 			"statecode": "JH"
 		},
 		{
-			"active": "76",
+			"active": "71",
 			"confirmed": "91",
 			"deceased": "2",
-			"deltaactive": "8",
+			"deltaactive": "3",
 			"deltaconfirmed": "8",
 			"deltadeceased": "0",
-			"deltarecovered": "0",
+			"deltarecovered": "5",
 			"district": "Ranchi",
 			"districtkey": "JH_Ranchi",
 			"districtnotes": "",
-			"recovered": "13",
+			"recovered": "18",
 			"slno": "266",
 			"state": "Jharkhand",
 			"statecode": "JH"
