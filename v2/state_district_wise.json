@@ -4291,14 +4291,14 @@
       {
         "district": "Aizawl",
         "notes": "",
-        "active": 1,
+        "active": 0,
         "confirmed": 1,
         "deceased": 0,
-        "recovered": 0,
+        "recovered": 1,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 1
         }
       }
     ]
@@ -6506,12 +6506,12 @@
         "notes": "",
         "active": 15,
         "confirmed": 21,
-        "deceased": 1,
-        "recovered": 5,
+        "deceased": 0,
+        "recovered": 6,
         "delta": {
           "confirmed": 0,
-          "deceased": 1,
-          "recovered": 1
+          "deceased": 0,
+          "recovered": 2
         }
       },
       {
