@@ -200,14 +200,14 @@
       },
       "Bhiwani": {
         "notes": "",
-        "active": 1,
+        "active": 0,
         "confirmed": 3,
         "deceased": 0,
-        "recovered": 2,
+        "recovered": 3,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 1
         }
       },
       "Charkhi Dadri": {
@@ -225,13 +225,13 @@
       "Faridabad": {
         "notes": "",
         "active": 31,
-        "confirmed": 75,
+        "confirmed": 76,
         "deceased": 2,
-        "recovered": 42,
+        "recovered": 43,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 1
         }
       },
       "Fatehabad": {
@@ -248,12 +248,12 @@
       },
       "Gurugram": {
         "notes": "",
-        "active": 26,
-        "confirmed": 73,
+        "active": 37,
+        "confirmed": 84,
         "deceased": 0,
         "recovered": 47,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 11,
           "deceased": 0,
           "recovered": 0
         }
@@ -272,12 +272,12 @@
       },
       "Jhajjar": {
         "notes": "",
-        "active": 56,
-        "confirmed": 56,
+        "active": 64,
+        "confirmed": 64,
         "deceased": 0,
         "recovered": 0,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 8,
           "deceased": 0,
           "recovered": 0
         }
@@ -368,12 +368,12 @@
       },
       "Panipat": {
         "notes": "",
-        "active": 22,
-        "confirmed": 27,
+        "active": 23,
+        "confirmed": 28,
         "deceased": 0,
         "recovered": 5,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
@@ -404,24 +404,24 @@
       },
       "Sonipat": {
         "notes": "",
-        "active": 67,
-        "confirmed": 73,
+        "active": 71,
+        "confirmed": 77,
         "deceased": 0,
         "recovered": 6,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 4,
           "deceased": 0,
           "recovered": 0
         }
       },
       "Yamunanagar": {
         "notes": "",
-        "active": 3,
-        "confirmed": 6,
+        "active": 5,
+        "confirmed": 8,
         "deceased": 0,
         "recovered": 3,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 2,
           "deceased": 0,
           "recovered": 0
         }
