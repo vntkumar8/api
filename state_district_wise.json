@@ -1307,24 +1307,24 @@
       },
       "Ajmer": {
         "notes": "",
-        "active": 132,
-        "confirmed": 173,
+        "active": 136,
+        "confirmed": 177,
         "deceased": 1,
         "recovered": 40,
         "delta": {
-          "confirmed": 1,
+          "confirmed": 5,
           "deceased": 0,
           "recovered": 0
         }
       },
       "Alwar": {
         "notes": "",
-        "active": 5,
-        "confirmed": 12,
+        "active": 6,
+        "confirmed": 13,
         "deceased": 1,
         "recovered": 6,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
@@ -1475,12 +1475,12 @@
       },
       "Jaipur": {
         "notes": "",
-        "active": 546,
-        "confirmed": 1041,
+        "active": 552,
+        "confirmed": 1047,
         "deceased": 49,
         "recovered": 446,
         "delta": {
-          "confirmed": 19,
+          "confirmed": 25,
           "deceased": 5,
           "recovered": 0
         }
@@ -1499,12 +1499,12 @@
       },
       "Jhalawar": {
         "notes": "",
-        "active": 3,
-        "confirmed": 41,
+        "active": 4,
+        "confirmed": 42,
         "deceased": 0,
         "recovered": 38,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 10
         }
@@ -1523,12 +1523,12 @@
       },
       "Jodhpur": {
         "notes": "",
-        "active": 531,
-        "confirmed": 744,
+        "active": 549,
+        "confirmed": 762,
         "deceased": 10,
         "recovered": 203,
         "delta": {
-          "confirmed": 23,
+          "confirmed": 41,
           "deceased": 0,
           "recovered": 0
         }
@@ -1595,12 +1595,12 @@
       },
       "Rajsamand": {
         "notes": "",
-        "active": 4,
-        "confirmed": 4,
+        "active": 5,
+        "confirmed": 5,
         "deceased": 0,
         "recovered": 0,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
@@ -2243,6 +2243,18 @@
         "confirmed": 3,
         "deceased": 1,
         "recovered": 1,
+        "delta": {
+          "confirmed": 0,
+          "deceased": 0,
+          "recovered": 0
+        }
+      },
+      "Unknown": {
+        "notes": "",
+        "active": 0,
+        "confirmed": 0,
+        "deceased": 0,
+        "recovered": 26,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
@@ -4006,12 +4018,12 @@
       },
       "Jajpur": {
         "notes": "",
-        "active": 51,
-        "confirmed": 52,
+        "active": 52,
+        "confirmed": 53,
         "deceased": 0,
         "recovered": 1,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
