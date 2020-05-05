@@ -1382,14 +1382,14 @@
       {
         "district": "Evacuees",
         "notes": "Evacuees from other countries; They have been counted separatly by the state",
-        "active": 9,
+        "active": 0,
         "confirmed": 61,
         "deceased": 0,
-        "recovered": 52,
+        "recovered": 61,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 9
         }
       },
       {
@@ -1421,12 +1421,12 @@
       {
         "district": "Ajmer",
         "notes": "",
-        "active": 131,
-        "confirmed": 172,
+        "active": 132,
+        "confirmed": 173,
         "deceased": 1,
         "recovered": 40,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
@@ -1499,14 +1499,14 @@
       {
         "district": "Bhilwara",
         "notes": "",
-        "active": 5,
-        "confirmed": 37,
+        "active": 2,
+        "confirmed": 39,
         "deceased": 2,
-        "recovered": 30,
+        "recovered": 35,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 2,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 5
         }
       },
       {
@@ -1603,12 +1603,12 @@
       {
         "district": "Jaipur",
         "notes": "",
-        "active": 541,
-        "confirmed": 1036,
+        "active": 546,
+        "confirmed": 1041,
         "deceased": 49,
         "recovered": 446,
         "delta": {
-          "confirmed": 14,
+          "confirmed": 19,
           "deceased": 5,
           "recovered": 0
         }
@@ -1629,14 +1629,14 @@
       {
         "district": "Jhalawar",
         "notes": "",
-        "active": 13,
+        "active": 3,
         "confirmed": 41,
         "deceased": 0,
-        "recovered": 28,
+        "recovered": 38,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 10
         }
       },
       {
@@ -1655,12 +1655,12 @@
       {
         "district": "Jodhpur",
         "notes": "",
-        "active": 512,
-        "confirmed": 725,
+        "active": 531,
+        "confirmed": 744,
         "deceased": 10,
         "recovered": 203,
         "delta": {
-          "confirmed": 4,
+          "confirmed": 23,
           "deceased": 0,
           "recovered": 0
         }
@@ -1681,12 +1681,12 @@
       {
         "district": "Kota",
         "notes": "",
-        "active": 57,
-        "confirmed": 220,
+        "active": 58,
+        "confirmed": 221,
         "deceased": 7,
         "recovered": 156,
         "delta": {
-          "confirmed": 8,
+          "confirmed": 9,
           "deceased": 0,
           "recovered": 0
         }
