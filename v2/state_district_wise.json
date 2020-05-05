@@ -2461,6 +2461,19 @@
           "deceased": 0,
           "recovered": 0
         }
+      },
+      {
+        "district": "Unknown",
+        "notes": "",
+        "active": 0,
+        "confirmed": 4,
+        "deceased": 0,
+        "recovered": 0,
+        "delta": {
+          "confirmed": 0,
+          "deceased": 0,
+          "recovered": 0
+        }
       }
     ]
   },
@@ -3638,12 +3651,12 @@
       {
         "district": "Ranchi",
         "notes": "",
-        "active": 68,
-        "confirmed": 83,
+        "active": 72,
+        "confirmed": 87,
         "deceased": 2,
         "recovered": 13,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 4,
           "deceased": 0,
           "recovered": 0
         }
