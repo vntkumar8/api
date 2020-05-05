@@ -481,13 +481,13 @@
       },
       "Aurangabad": {
         "notes": "",
-        "active": 308,
+        "active": 307,
         "confirmed": 340,
-        "deceased": 10,
+        "deceased": 11,
         "recovered": 22,
         "delta": {
           "confirmed": 27,
-          "deceased": 0,
+          "deceased": 1,
           "recovered": 0
         }
       },
@@ -601,13 +601,13 @@
       },
       "Kolhapur": {
         "notes": "",
-        "active": 10,
+        "active": 9,
         "confirmed": 15,
-        "deceased": 0,
+        "deceased": 1,
         "recovered": 5,
         "delta": {
           "confirmed": 1,
-          "deceased": 0,
+          "deceased": 1,
           "recovered": 0
         }
       },
@@ -625,13 +625,13 @@
       },
       "Mumbai": {
         "notes": "",
-        "active": 8189,
+        "active": 8163,
         "confirmed": 9945,
-        "deceased": 361,
+        "deceased": 387,
         "recovered": 1395,
         "delta": {
           "confirmed": 635,
-          "deceased": 0,
+          "deceased": 26,
           "recovered": 0
         }
       },
@@ -721,13 +721,13 @@
       },
       "Pune": {
         "notes": "",
-        "active": 1524,
+        "active": 1518,
         "confirmed": 2062,
-        "deceased": 113,
+        "deceased": 119,
         "recovered": 425,
         "delta": {
           "confirmed": 44,
-          "deceased": 0,
+          "deceased": 6,
           "recovered": 0
         }
       },
@@ -835,6 +835,18 @@
         "recovered": 10,
         "delta": {
           "confirmed": 1,
+          "deceased": 0,
+          "recovered": 0
+        }
+      },
+      "Unknown": {
+        "notes": "",
+        "active": 0,
+        "confirmed": 0,
+        "deceased": 0,
+        "recovered": 354,
+        "delta": {
+          "confirmed": 0,
           "deceased": 0,
           "recovered": 0
         }
@@ -3537,13 +3549,13 @@
       },
       "Davanagere": {
         "notes": "",
-        "active": 40,
+        "active": 39,
         "confirmed": 44,
-        "deceased": 2,
+        "deceased": 3,
         "recovered": 2,
         "delta": {
           "confirmed": 12,
-          "deceased": 0,
+          "deceased": 1,
           "recovered": 0
         }
       },
