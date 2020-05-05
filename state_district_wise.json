@@ -6182,38 +6182,38 @@
       },
       "Darjeeling": {
         "notes": "",
-        "active": 6,
+        "active": 1,
         "confirmed": 6,
         "deceased": 0,
-        "recovered": 0,
-        "delta": {
-          "confirmed": 0,
-          "deceased": 0,
-          "recovered": 0
-        }
-      },
-      "Hooghly": {
-        "notes": "",
-        "active": 32,
-        "confirmed": 41,
-        "deceased": 4,
         "recovered": 5,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 5
+        }
+      },
+      "Hooghly": {
+        "notes": "",
+        "active": 30,
+        "confirmed": 43,
+        "deceased": 4,
+        "recovered": 9,
+        "delta": {
+          "confirmed": 2,
+          "deceased": 0,
+          "recovered": 4
         }
       },
       "Howrah": {
         "notes": "",
-        "active": 203,
-        "confirmed": 241,
+        "active": 225,
+        "confirmed": 265,
         "deceased": 18,
-        "recovered": 20,
+        "recovered": 22,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 24,
           "deceased": 1,
-          "recovered": 0
+          "recovered": 2
         }
       },
       "Jalpaiguri": {
@@ -6242,14 +6242,14 @@
       },
       "Kolkata": {
         "notes": "",
-        "active": 499,
+        "active": 472,
         "confirmed": 700,
         "deceased": 92,
-        "recovered": 109,
+        "recovered": 136,
         "delta": {
           "confirmed": 41,
           "deceased": 5,
-          "recovered": 0
+          "recovered": 27
         }
       },
       "Malda": {
@@ -6302,14 +6302,14 @@
       },
       "North 24 Parganas": {
         "notes": "",
-        "active": 133,
+        "active": 131,
         "confirmed": 187,
         "deceased": 18,
-        "recovered": 36,
+        "recovered": 38,
         "delta": {
           "confirmed": 9,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 2
         }
       },
       "Paschim Bardhaman": {
@@ -6326,12 +6326,12 @@
       },
       "Purba Bardhaman": {
         "notes": "",
-        "active": 3,
-        "confirmed": 3,
+        "active": 4,
+        "confirmed": 4,
         "deceased": 0,
         "recovered": 0,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
@@ -6339,25 +6339,25 @@
       "Purba Medinipur": {
         "notes": "",
         "active": 14,
-        "confirmed": 36,
+        "confirmed": 37,
         "deceased": 1,
-        "recovered": 21,
+        "recovered": 22,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 1
         }
       },
       "South 24 Parganas": {
         "notes": "",
-        "active": 32,
+        "active": 27,
         "confirmed": 38,
         "deceased": 1,
-        "recovered": 5,
+        "recovered": 10,
         "delta": {
           "confirmed": 5,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 5
         }
       },
       "Other State": {
@@ -6375,9 +6375,9 @@
       "Unknown": {
         "notes": "",
         "active": 0,
-        "confirmed": 29,
+        "confirmed": 1,
         "deceased": 0,
-        "recovered": 46,
+        "recovered": 0,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
