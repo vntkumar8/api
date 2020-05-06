@@ -3453,14 +3453,14 @@
     "districtData": {
       "Bagalkote": {
         "notes": "",
-        "active": 34,
+        "active": 30,
         "confirmed": 48,
         "deceased": 1,
-        "recovered": 13,
+        "recovered": 17,
         "delta": {
           "confirmed": 13,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 4
         }
       },
       "Ballari": {
@@ -3477,14 +3477,14 @@
       },
       "Belagavi": {
         "notes": "",
-        "active": 44,
+        "active": 36,
         "confirmed": 71,
         "deceased": 1,
-        "recovered": 26,
+        "recovered": 34,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 8
         }
       },
       "Bengaluru Urban": {
@@ -3549,14 +3549,14 @@
       },
       "Dakshina Kannada": {
         "notes": "",
-        "active": 13,
+        "active": 12,
         "confirmed": 22,
         "deceased": 3,
-        "recovered": 6,
+        "recovered": 7,
         "delta": {
           "confirmed": 3,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 1
         }
       },
       "Davanagere": {
@@ -3609,14 +3609,14 @@
       },
       "Kalaburagi": {
         "notes": "",
-        "active": 36,
+        "active": 31,
         "confirmed": 64,
         "deceased": 6,
-        "recovered": 22,
+        "recovered": 27,
         "delta": {
           "confirmed": 1,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 5
         }
       },
       "Kodagu": {
@@ -3633,14 +3633,14 @@
       },
       "Mandya": {
         "notes": "",
-        "active": 21,
+        "active": 17,
         "confirmed": 28,
         "deceased": 0,
-        "recovered": 7,
+        "recovered": 11,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 4
         }
       },
       "Mysuru": {
@@ -3694,13 +3694,13 @@
       "Vijayapura": {
         "notes": "",
         "active": 22,
-        "confirmed": 47,
+        "confirmed": 48,
         "deceased": 3,
-        "recovered": 22,
+        "recovered": 23,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 1
         }
       },
       "Other State": {
@@ -3709,18 +3709,6 @@
         "confirmed": 20,
         "deceased": 0,
         "recovered": 18,
-        "delta": {
-          "confirmed": 0,
-          "deceased": 0,
-          "recovered": 0
-        }
-      },
-      "Unknown": {
-        "notes": "",
-        "active": 0,
-        "confirmed": 0,
-        "deceased": 0,
-        "recovered": 14,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
@@ -4143,13 +4131,13 @@
       },
       "Khordha": {
         "notes": "Khorda (except Bhubaneswar municipal corporation) remains in Orange zone. Bhubaneswar municipal corporation is a red zone.",
-        "active": 13,
+        "active": 14,
         "confirmed": 47,
-        "deceased": 3,
+        "deceased": 2,
         "recovered": 31,
         "delta": {
           "confirmed": 0,
-          "deceased": 1,
+          "deceased": 0,
           "recovered": 0
         }
       },
