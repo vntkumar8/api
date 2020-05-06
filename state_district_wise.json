@@ -27,12 +27,12 @@
       },
       "Cachar": {
         "notes": "",
-        "active": 0,
-        "confirmed": 1,
+        "active": 1,
+        "confirmed": 2,
         "deceased": 0,
         "recovered": 1,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
@@ -1158,14 +1158,14 @@
       },
       "Kota": {
         "notes": "",
-        "active": 53,
+        "active": 52,
         "confirmed": 221,
         "deceased": 10,
-        "recovered": 158,
+        "recovered": 159,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 1
         }
       },
       "Nagaur": {
@@ -1269,7 +1269,7 @@
         "active": 0,
         "confirmed": 30,
         "deceased": 0,
-        "recovered": 1,
+        "recovered": 0,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
@@ -1550,12 +1550,12 @@
       },
       "Bhagalpur": {
         "notes": "",
-        "active": 9,
-        "confirmed": 11,
+        "active": 10,
+        "confirmed": 12,
         "deceased": 0,
         "recovered": 2,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
