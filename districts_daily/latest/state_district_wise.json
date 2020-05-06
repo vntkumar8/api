@@ -2605,26 +2605,26 @@
     "districtData": {
       "Ahmedabad": {
         "notes": "",
-        "active": 3714,
+        "active": 3640,
         "confirmed": 4716,
         "deceased": 298,
-        "recovered": 704,
+        "recovered": 778,
         "delta": {
           "confirmed": 291,
           "deceased": 25,
-          "recovered": 0
+          "recovered": 74
         }
       },
       "Anand": {
         "notes": "",
-        "active": 33,
+        "active": 32,
         "confirmed": 76,
         "deceased": 6,
-        "recovered": 37,
+        "recovered": 38,
         "delta": {
           "confirmed": 1,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 1
         }
       },
       "Aravalli": {
@@ -2677,14 +2677,14 @@
       },
       "Botad": {
         "notes": "",
-        "active": 41,
+        "active": 39,
         "confirmed": 48,
         "deceased": 1,
-        "recovered": 6,
+        "recovered": 8,
         "delta": {
           "confirmed": 7,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 2
         }
       },
       "Chhota Udaipur": {
@@ -2725,14 +2725,14 @@
       },
       "Gandhinagar": {
         "notes": "",
-        "active": 64,
+        "active": 63,
         "confirmed": 83,
         "deceased": 5,
-        "recovered": 14,
+        "recovered": 15,
         "delta": {
           "confirmed": 4,
           "deceased": 1,
-          "recovered": 0
+          "recovered": 1
         }
       },
       "Gir Somnath": {
@@ -2797,14 +2797,14 @@
       },
       "Mehsana": {
         "notes": "",
-        "active": 35,
+        "active": 34,
         "confirmed": 42,
         "deceased": 0,
-        "recovered": 7,
+        "recovered": 8,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 1
         }
       },
       "Mahisagar": {
@@ -2917,14 +2917,14 @@
       },
       "Surat": {
         "notes": "",
-        "active": 439,
+        "active": 407,
         "confirmed": 754,
         "deceased": 33,
-        "recovered": 282,
+        "recovered": 314,
         "delta": {
           "confirmed": 31,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 32
         }
       },
       "Surendranagar": {
@@ -2953,50 +2953,38 @@
       },
       "Dang": {
         "notes": "",
-        "active": 2,
+        "active": 1,
         "confirmed": 2,
         "deceased": 0,
-        "recovered": 0,
+        "recovered": 1,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 1
         }
       },
       "Vadodara": {
         "notes": "",
-        "active": 232,
+        "active": 226,
         "confirmed": 421,
         "deceased": 31,
-        "recovered": 158,
+        "recovered": 164,
         "delta": {
           "confirmed": 16,
           "deceased": 1,
-          "recovered": 0
+          "recovered": 6
         }
       },
       "Valsad": {
         "notes": "",
-        "active": 3,
+        "active": 2,
         "confirmed": 6,
         "deceased": 1,
-        "recovered": 2,
+        "recovered": 3,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
-        }
-      },
-      "Unknown": {
-        "notes": "",
-        "active": 0,
-        "confirmed": 0,
-        "deceased": 0,
-        "recovered": 119,
-        "delta": {
-          "confirmed": 0,
-          "deceased": 0,
-          "recovered": 0
+          "recovered": 1
         }
       }
     },
@@ -4710,12 +4698,12 @@
       },
       "Pudukkottai": {
         "notes": "",
-        "active": 1,
-        "confirmed": 1,
+        "active": 3,
+        "confirmed": 3,
         "deceased": 0,
         "recovered": 0,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 2,
           "deceased": 0,
           "recovered": 0
         }
@@ -4818,24 +4806,24 @@
       },
       "Thoothukkudi": {
         "notes": "",
-        "active": 0,
-        "confirmed": 27,
+        "active": 2,
+        "confirmed": 29,
         "deceased": 1,
         "recovered": 26,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 2,
           "deceased": 0,
           "recovered": 0
         }
       },
       "Tiruchirappalli": {
         "notes": "",
-        "active": 10,
-        "confirmed": 56,
+        "active": 11,
+        "confirmed": 57,
         "deceased": 0,
         "recovered": 46,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
@@ -4866,12 +4854,12 @@
       },
       "Tiruvannamalai": {
         "notes": "",
-        "active": 13,
-        "confirmed": 23,
+        "active": 30,
+        "confirmed": 40,
         "deceased": 0,
         "recovered": 10,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 17,
           "deceased": 0,
           "recovered": 0
         }
@@ -4890,12 +4878,12 @@
       },
       "Viluppuram": {
         "notes": "",
-        "active": 133,
-        "confirmed": 164,
+        "active": 138,
+        "confirmed": 169,
         "deceased": 2,
         "recovered": 29,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 5,
           "deceased": 0,
           "recovered": 0
         }
@@ -4962,24 +4950,12 @@
       },
       "Tirupathur": {
         "notes": "",
-        "active": 2,
-        "confirmed": 19,
+        "active": 3,
+        "confirmed": 20,
         "deceased": 0,
         "recovered": 17,
         "delta": {
-          "confirmed": 0,
-          "deceased": 0,
-          "recovered": 0
-        }
-      },
-      "Unknown": {
-        "notes": "",
-        "active": 0,
-        "confirmed": 28,
-        "deceased": 0,
-        "recovered": 0,
-        "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
