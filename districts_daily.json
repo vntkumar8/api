@@ -37579,9 +37579,9 @@
         },
         {
           "notes": "",
-          "active": 123,
+          "active": 122,
           "confirmed": 135,
-          "deceased": 4,
+          "deceased": 5,
           "recovered": 8,
           "date": "2020-05-06"
         }
@@ -38353,9 +38353,9 @@
         },
         {
           "notes": "",
-          "active": 76,
+          "active": 75,
           "confirmed": 89,
-          "deceased": 1,
+          "deceased": 2,
           "recovered": 12,
           "date": "2020-05-06"
         }
@@ -39234,6 +39234,16 @@
           "confirmed": 43,
           "deceased": 1,
           "recovered": 1,
+          "date": "2020-05-06"
+        }
+      ],
+      "Unknown": [
+        {
+          "notes": "",
+          "active": 0,
+          "confirmed": 0,
+          "deceased": 0,
+          "recovered": 2,
           "date": "2020-05-06"
         }
       ]

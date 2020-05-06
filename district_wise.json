@@ -8033,12 +8033,12 @@
 			"statecode": "PB"
 		},
 		{
-			"active": "123",
+			"active": "122",
 			"confirmed": "135",
-			"deceased": "4",
-			"deltaactive": "1",
+			"deceased": "5",
+			"deltaactive": "0",
 			"deltaconfirmed": "1",
-			"deltadeceased": "0",
+			"deltadeceased": "1",
 			"deltarecovered": "0",
 			"district": "Jalandhar",
 			"districtkey": "PB_Jalandhar",
@@ -8129,12 +8129,12 @@
 			"statecode": "PB"
 		},
 		{
-			"active": "76",
+			"active": "75",
 			"confirmed": "89",
-			"deceased": "1",
-			"deltaactive": "2",
+			"deceased": "2",
+			"deltaactive": "1",
 			"deltaconfirmed": "2",
-			"deltadeceased": "0",
+			"deltadeceased": "1",
 			"deltarecovered": "0",
 			"district": "Patiala",
 			"districtkey": "PB_Patiala",
@@ -12363,7 +12363,7 @@
 			"district": "Unknown",
 			"districtkey": "PB_Unknown",
 			"districtnotes": "",
-			"recovered": "0",
+			"recovered": "2",
 			"slno": "756",
 			"state": "Punjab",
 			"statecode": "PB"
