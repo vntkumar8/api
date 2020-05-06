@@ -3831,14 +3831,14 @@
       {
         "district": "Agar Malwa",
         "notes": "",
-        "active": 12,
+        "active": 2,
         "confirmed": 13,
         "deceased": 1,
-        "recovered": 0,
+        "recovered": 10,
         "delta": {
           "confirmed": 1,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 10
         }
       },
       {
@@ -3909,14 +3909,14 @@
       {
         "district": "Bhopal",
         "notes": "",
-        "active": 301,
+        "active": 272,
         "confirmed": 605,
         "deceased": 16,
-        "recovered": 288,
+        "recovered": 317,
         "delta": {
           "confirmed": 34,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 29
         }
       },
       {
@@ -3961,14 +3961,14 @@
       {
         "district": "Dhar",
         "notes": "State bulletin on 20th Apr reported 5 extra cases in Dhar distrct. This has been reconciled - MP Health Dept Bulletin, 22 Apr",
-        "active": 63,
+        "active": 49,
         "confirmed": 76,
         "deceased": 1,
-        "recovered": 12,
+        "recovered": 26,
         "delta": {
           "confirmed": 1,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 14
         }
       },
       {
@@ -4026,53 +4026,53 @@
       {
         "district": "Hoshangabad",
         "notes": "",
-        "active": 14,
+        "active": 11,
         "confirmed": 36,
         "deceased": 3,
-        "recovered": 19,
+        "recovered": 22,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 3
         }
       },
       {
         "district": "Indore",
         "notes": "",
-        "active": 1134,
+        "active": 1111,
         "confirmed": 1681,
         "deceased": 79,
-        "recovered": 468,
+        "recovered": 491,
         "delta": {
           "confirmed": 27,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 23
         }
       },
       {
         "district": "Jabalpur",
         "notes": "",
-        "active": 94,
+        "active": 91,
         "confirmed": 109,
         "deceased": 3,
-        "recovered": 12,
+        "recovered": 15,
         "delta": {
           "confirmed": 3,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 3
         }
       },
       {
         "district": "Mandsaur",
         "notes": "",
-        "active": 32,
+        "active": 31,
         "confirmed": 40,
         "deceased": 3,
-        "recovered": 5,
+        "recovered": 6,
         "delta": {
           "confirmed": 4,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 1
         }
       },
       {
@@ -4117,14 +4117,14 @@
       {
         "district": "Raisen",
         "notes": "",
-        "active": 52,
+        "active": 40,
         "confirmed": 63,
         "deceased": 3,
-        "recovered": 8,
+        "recovered": 20,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 12
         }
       },
       {
@@ -4156,14 +4156,14 @@
       {
         "district": "Sagar",
         "notes": "",
-        "active": 3,
+        "active": 0,
         "confirmed": 5,
         "deceased": 0,
-        "recovered": 2,
+        "recovered": 5,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 3
         }
       },
       {
@@ -4273,14 +4273,14 @@
       {
         "district": "Khargone",
         "notes": "MP Bulletin dated 25/04 reduced one case in Khargone as there was a repetition",
-        "active": 36,
+        "active": 35,
         "confirmed": 79,
         "deceased": 7,
-        "recovered": 36,
+        "recovered": 37,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 1
         }
       }
     ]
