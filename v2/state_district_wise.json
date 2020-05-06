@@ -3741,12 +3741,12 @@
       {
         "district": "Bagalkote",
         "notes": "",
-        "active": 21,
-        "confirmed": 35,
+        "active": 34,
+        "confirmed": 48,
         "deceased": 1,
         "recovered": 13,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 13,
           "deceased": 0,
           "recovered": 0
         }
@@ -3780,12 +3780,12 @@
       {
         "district": "Bengaluru Urban",
         "notes": "One death on 27th Apr is not included as it's not counted as covid related death by the Karnataka govt.",
-        "active": 71,
-        "confirmed": 153,
+        "active": 73,
+        "confirmed": 155,
         "deceased": 6,
         "recovered": 75,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 2,
           "deceased": 0,
           "recovered": 0
         }
@@ -3845,12 +3845,12 @@
       {
         "district": "Dakshina Kannada",
         "notes": "",
-        "active": 10,
-        "confirmed": 19,
+        "active": 13,
+        "confirmed": 22,
         "deceased": 3,
         "recovered": 6,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 3,
           "deceased": 0,
           "recovered": 0
         }
@@ -3910,12 +3910,12 @@
       {
         "district": "Kalaburagi",
         "notes": "",
-        "active": 35,
-        "confirmed": 63,
+        "active": 36,
+        "confirmed": 64,
         "deceased": 6,
         "recovered": 22,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
@@ -4018,6 +4018,19 @@
         "confirmed": 20,
         "deceased": 0,
         "recovered": 18,
+        "delta": {
+          "confirmed": 0,
+          "deceased": 0,
+          "recovered": 0
+        }
+      },
+      {
+        "district": "Unknown",
+        "notes": "",
+        "active": 0,
+        "confirmed": 0,
+        "deceased": 0,
+        "recovered": 14,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
