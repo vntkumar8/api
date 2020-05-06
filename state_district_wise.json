@@ -2148,7 +2148,7 @@
         "notes": "",
         "active": 0,
         "confirmed": 4744,
-        "deceased": 65,
+        "deceased": 64,
         "recovered": 1542,
         "delta": {
           "confirmed": 0,
@@ -5937,14 +5937,14 @@
       },
       "Mau": {
         "notes": "",
-        "active": 1,
+        "active": 0,
         "confirmed": 1,
         "deceased": 0,
-        "recovered": 0,
+        "recovered": 1,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 1
         }
       },
       "Meerut": {
@@ -6193,18 +6193,6 @@
         "confirmed": 1,
         "deceased": 0,
         "recovered": 0,
-        "delta": {
-          "confirmed": 0,
-          "deceased": 0,
-          "recovered": 0
-        }
-      },
-      "Unknown": {
-        "notes": "",
-        "active": 0,
-        "confirmed": 0,
-        "deceased": 0,
-        "recovered": 1,
         "delta": {
           "confirmed": 0,
           "deceased": 0,

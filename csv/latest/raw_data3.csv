@@ -2187,9 +2187,9 @@ Entry_ID,State Patient Number,Date Announced,Age Bracket,Gender,Detected City,De
 2186,KA-P587,01/05/2020,56,M,,Kalaburagi,Karnataka,KA,1,Hospitalized,,SARI,https://twitter.com/DHFWKA/status/1256196075830087680,,,,,,30077
 2187,KA-P588,01/05/2020,20,F,,Kalaburagi,Karnataka,KA,1,Hospitalized,P20416,Contact of KA-P425,https://twitter.com/DHFWKA/status/1256196075830087680,,,,,,30078
 2188,KA-P589,01/05/2020,57,M,Hubli,Dharwad,Karnataka,KA,1,Hospitalized,,Influenza like Illness,https://twitter.com/DHFWKA/status/1256196075830087680,,,,,,30079
-2189,,01/05/2020,,,,Bandipora,Jammu and Kashmir,,1,Hospitalized,,,https://twitter.com/diprjk/status/1256194278877016065,,,,,,30080
-2190,,01/05/2020,,,,Anantnag,Jammu and Kashmir,,12,Hospitalized,,,https://twitter.com/diprjk/status/1256194278877016065,,,,,,30081
-2191,,01/05/2020,,,,Srinagar,Jammu and Kashmir,,2,Hospitalized,,,https://twitter.com/diprjk/status/1256194278877016065,,,,,,30082
+2189,,01/05/2020,,,,Bandipora,Jammu and Kashmir,JK,1,Hospitalized,,,https://twitter.com/diprjk/status/1256194278877016065,,,,,,30080
+2190,,01/05/2020,,,,Anantnag,Jammu and Kashmir,JK,12,Hospitalized,,,https://twitter.com/diprjk/status/1256194278877016065,,,,,,30081
+2191,,01/05/2020,,,,Srinagar,Jammu and Kashmir,JK,2,Hospitalized,,,https://twitter.com/diprjk/status/1256194278877016065,,,,,,30082
 2192,,01/05/2020,,,,Baramulla,Jammu and Kashmir,JK,1,Hospitalized,,,https://twitter.com/diprjk/status/1256194278877016065,,,,,,30083
 2193,,01/05/2020,,,,Shopiyan,Jammu and Kashmir,JK,2,Hospitalized,,,https://twitter.com/diprjk/status/1256194278877016065,,,,,,30084
 2194,,01/05/2020,,,,Kupwara,Jammu and Kashmir,JK,6,Hospitalized,,,https://twitter.com/diprjk/status/1256194278877016065,,,,,,30085
@@ -3887,8 +3887,8 @@ Entry_ID,State Patient Number,Date Announced,Age Bracket,Gender,Detected City,De
 3886,,03/05/2020,,,,Rampur,Uttar Pradesh,UP,5,Recovered,,,https://t.me/indiacovid/3942,,,,,,31777
 3887,,03/05/2020,,,,Amroha,Uttar Pradesh,UP,6,Recovered,,,https://t.me/indiacovid/3942,,,,,,31778
 3888,,03/05/2020,,,,Sambhal,Uttar Pradesh,UP,2,Recovered,,,https://t.me/indiacovid/3942,,,,,,31779
-3889,,03/05/2020,,,,Durg,Chhattisgarh,CH,8,Hospitalized,,,,,,,,,31780
-3890,,03/05/2020,,,Kawardha,Kabeerdham,Chhattisgarh,CH,6,Hospitalized,,,,,,,,,31781
+3889,,03/05/2020,,,,Durg,Chhattisgarh,CT,8,Hospitalized,,,,,,,,,31780
+3890,,03/05/2020,,,Kawardha,Kabeerdham,Chhattisgarh,CT,6,Hospitalized,,,,,,,,,31781
 3891,,03/05/2020,,,,Ahmednagar,Maharashtra,MH,1,Hospitalized,,,https://twitter.com/ANI/status/1256978356752416770,,,,,,31782
 3892,,03/05/2020,,,,Akola,Maharashtra,MH,13,Hospitalized,,,https://twitter.com/ANI/status/1256978356752416770,,,,,,31783
 3893,,03/05/2020,,,,Amravati,Maharashtra,MH,3,Hospitalized,,,https://twitter.com/ANI/status/1256978356752416770,,,,,,31784
@@ -5895,13 +5895,13 @@ Entry_ID,State Patient Number,Date Announced,Age Bracket,Gender,Detected City,De
 5894,,06/05/2020,25,F,,Sheohar,Bihar,BR,1,Hospitalized,,,https://twitter.com/BiharHealthDept/status/1257982618622181376,,,,,,33786
 5895,,06/05/2020,21,M,,Patna,Bihar,BR,1,Hospitalized,,,https://twitter.com/BiharHealthDept/status/1257982618622181376,,,,,,33787
 5896,,06/05/2020,,,,Kangra,Himachal Pradesh,HP,1,Hospitalized,,,https://twitter.com/ANI/status/1257979153049096192?s=09,,,,,,33788
-5897,,06/05/2020,,,,Other States,Maharashtra,,2,Hospitalized,,,https://twitter.com/ANI/status/1258041986222886913,,,,,,33789
-5898,,06/05/2020,,,,Other States,Maharashtra,,1,Deceased,,,https://twitter.com/ANI/status/1258041986222886913,,,,,,33790
-5899,,06/05/2020,,,,,Maharashtra,,275,Recovered,,,https://twitter.com/ANI/status/1258041986222886913,,,,,,33791
-5900,,06/05/2020,,,,Chandigarh,Chandigarh,,1,Hospitalized,,,https://t.me/indiacovid/4128,,,,,,33792
-5901,,06/05/2020,,,,Chandigarh,Chandigarh,,1,Hospitalized,,,https://t.me/indiacovid/4128,,,,,,33793
-5902,,06/05/2020,,,,Chandigarh,Chandigarh,,1,Hospitalized,,,https://t.me/indiacovid/4128,,,,,,33794
-5903,,06/05/2020,,,,Chandigarh,Chandigarh,,1,Hospitalized,,,https://t.me/indiacovid/4128,,,,,,33795
+5897,,06/05/2020,,,,Other States,Maharashtra,MH,2,Hospitalized,,,https://twitter.com/ANI/status/1258041986222886913,,,,,,33789
+5898,,06/05/2020,,,,Other States,Maharashtra,MH,1,Deceased,,,https://twitter.com/ANI/status/1258041986222886913,,,,,,33790
+5899,,06/05/2020,,,,,Maharashtra,MH,275,Recovered,,,https://twitter.com/ANI/status/1258041986222886913,,,,,,33791
+5900,,06/05/2020,,,,Chandigarh,Chandigarh,CH,1,Hospitalized,,,https://t.me/indiacovid/4128,,,,,,33792
+5901,,06/05/2020,,,,Chandigarh,Chandigarh,CH,1,Hospitalized,,,https://t.me/indiacovid/4128,,,,,,33793
+5902,,06/05/2020,,,,Chandigarh,Chandigarh,CH,1,Hospitalized,,,https://t.me/indiacovid/4128,,,,,,33794
+5903,,06/05/2020,,,,Chandigarh,Chandigarh,CH,1,Hospitalized,,,https://t.me/indiacovid/4128,,,,,,33795
 5904,,06/05/2020,,,,,,,,,,,,,,,,,33796
 5905,,06/05/2020,31,M,Bharat Nagar,North West Delhi,Delhi,DL,1,Deceased,,Constable at North West Delhi's Bharat Nagar police station. He felt sick on 5th April morning and was seen by a doctor in Deep Chand Bandhu hospital. He was given medication and also tested for Covid-19. He felt uncomfortable in the evening and was sent to RML hospital where he was reported bought dead. His test confirmation came on 6th April.,https://www.thehindu.com/news/cities/Delhi/delhi-police-constable-dies-after-feeling-uneasy-coronavirus-report-awaited/article31515650.ece,,,,,,33797
 5906,KA-P693,06/05/2020,35,F,,Vijayapura,Karnataka,KA,1,Hospitalized,,Contact of KA-P221,https://twitter.com/sriramulubjp/status/1258009414260256768,,,,,,33798
@@ -6933,8 +6933,8 @@ Entry_ID,State Patient Number,Date Announced,Age Bracket,Gender,Detected City,De
 6932,,06/05/2020,,,,Sant Kabir Nagar,Uttar Pradesh,UP,2,Recovered,,,,,,,,,
 6933,,06/05/2020,,,,Etah,Uttar Pradesh,UP,3,Recovered,,,,,,,,,
 6934,,06/05/2020,,,,Aligarh,Uttar Pradesh,UP,2,Recovered,,,,,,,,,
-6935,,06/05/2020,,,,,Uttar Pradesh,UP,1,Recovered,,,,,,,,,
-6936,,06/05/2020,,,,,Delhi,DL,1,Deceased,,,https://twitter.com/CMODelhi/status/1258096698712305665,,,,,,
+6935,,06/05/2020,,,,Mau,Uttar Pradesh,UP,1,Recovered,,,,,,,,,
+6936,,06/05/2020,,,,,,,,,,,,,,,,,
 6937,,06/05/2020,,,,,,,,,,,,,,,,,
 6938,,06/05/2020,,,,,,,,,,,,,,,,,
 6939,,06/05/2020,,,,,,,,,,,,,,,,,

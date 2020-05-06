@@ -10849,17 +10849,17 @@
 			"statecode": "UP"
 		},
 		{
-			"active": "1",
+			"active": "0",
 			"confirmed": "1",
 			"deceased": "0",
-			"deltaactive": "0",
+			"deltaactive": "-1",
 			"deltaconfirmed": "0",
 			"deltadeceased": "0",
-			"deltarecovered": "0",
+			"deltarecovered": "1",
 			"district": "Mau",
 			"districtkey": "UP_Mau",
 			"districtnotes": "",
-			"recovered": "0",
+			"recovered": "1",
 			"slno": "670",
 			"state": "Uttar Pradesh",
 			"statecode": "UP"
@@ -12067,7 +12067,7 @@
 		{
 			"active": "",
 			"confirmed": "4744",
-			"deceased": "65",
+			"deceased": "64",
 			"deltaactive": "0",
 			"deltaconfirmed": "0",
 			"deltadeceased": "0",
@@ -12475,7 +12475,7 @@
 			"district": "Unknown",
 			"districtkey": "UP_Unknown",
 			"districtnotes": "",
-			"recovered": "1",
+			"recovered": "0",
 			"slno": "762",
 			"state": "Uttar Pradesh",
 			"statecode": "UP"
