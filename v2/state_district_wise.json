@@ -4425,6 +4425,19 @@
         }
       },
       {
+        "district": "Jagatsinghpur",
+        "notes": "",
+        "active": 4,
+        "confirmed": 4,
+        "deceased": 0,
+        "recovered": 0,
+        "delta": {
+          "confirmed": 4,
+          "deceased": 0,
+          "recovered": 0
+        }
+      },
+      {
         "district": "Jajpur",
         "notes": "",
         "active": 54,
@@ -4466,12 +4479,12 @@
       {
         "district": "Kendrapara",
         "notes": "",
-        "active": 0,
-        "confirmed": 2,
+        "active": 1,
+        "confirmed": 3,
         "deceased": 0,
         "recovered": 2,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
@@ -4535,19 +4548,6 @@
         "confirmed": 12,
         "deceased": 0,
         "recovered": 5,
-        "delta": {
-          "confirmed": 0,
-          "deceased": 0,
-          "recovered": 0
-        }
-      },
-      {
-        "district": "Unknown",
-        "notes": "",
-        "active": 0,
-        "confirmed": 5,
-        "deceased": 0,
-        "recovered": 0,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
