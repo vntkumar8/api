@@ -1617,11 +1617,11 @@
 			"statecode": "BR"
 		},
 		{
-			"active": "23",
-			"confirmed": "23",
+			"active": "24",
+			"confirmed": "24",
 			"deceased": "0",
-			"deltaactive": "0",
-			"deltaconfirmed": "0",
+			"deltaactive": "1",
+			"deltaconfirmed": "1",
 			"deltadeceased": "0",
 			"deltarecovered": "0",
 			"district": "Madhubani",
@@ -1713,11 +1713,11 @@
 			"statecode": "BR"
 		},
 		{
-			"active": "31",
-			"confirmed": "44",
+			"active": "32",
+			"confirmed": "45",
 			"deceased": "0",
-			"deltaactive": "0",
-			"deltaconfirmed": "0",
+			"deltaactive": "1",
+			"deltaconfirmed": "1",
 			"deltadeceased": "0",
 			"deltarecovered": "0",
 			"district": "Patna",
@@ -7633,12 +7633,12 @@
 			"statecode": "OR"
 		},
 		{
-			"active": "14",
+			"active": "13",
 			"confirmed": "47",
-			"deceased": "2",
-			"deltaactive": "0",
+			"deceased": "3",
+			"deltaactive": "-1",
 			"deltaconfirmed": "0",
-			"deltadeceased": "0",
+			"deltadeceased": "1",
 			"deltarecovered": "0",
 			"district": "Khordha",
 			"districtkey": "OR_Khordha",
@@ -11986,7 +11986,7 @@
 		},
 		{
 			"active": "",
-			"confirmed": "0",
+			"confirmed": "1",
 			"deceased": "0",
 			"deltaactive": "0",
 			"deltaconfirmed": "0",

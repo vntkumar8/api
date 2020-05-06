@@ -2264,12 +2264,12 @@
       {
         "district": "Madhubani",
         "notes": "",
-        "active": 23,
-        "confirmed": 23,
+        "active": 24,
+        "confirmed": 24,
         "deceased": 0,
         "recovered": 0,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
@@ -2329,12 +2329,12 @@
       {
         "district": "Patna",
         "notes": "",
-        "active": 31,
-        "confirmed": 44,
+        "active": 32,
+        "confirmed": 45,
         "deceased": 0,
         "recovered": 13,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
@@ -2463,6 +2463,19 @@
         "confirmed": 3,
         "deceased": 1,
         "recovered": 1,
+        "delta": {
+          "confirmed": 0,
+          "deceased": 0,
+          "recovered": 0
+        }
+      },
+      {
+        "district": "Unknown",
+        "notes": "",
+        "active": 0,
+        "confirmed": 1,
+        "deceased": 0,
+        "recovered": 0,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
@@ -4492,13 +4505,13 @@
       {
         "district": "Khordha",
         "notes": "Khorda (except Bhubaneswar municipal corporation) remains in Orange zone. Bhubaneswar municipal corporation is a red zone.",
-        "active": 14,
+        "active": 13,
         "confirmed": 47,
-        "deceased": 2,
+        "deceased": 3,
         "recovered": 31,
         "delta": {
           "confirmed": 0,
-          "deceased": 0,
+          "deceased": 1,
           "recovered": 0
         }
       },
