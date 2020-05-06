@@ -1849,92 +1849,92 @@
       {
         "district": "Anantapur",
         "notes": "",
-        "active": 52,
+        "active": 42,
         "confirmed": 80,
         "deceased": 4,
-        "recovered": 24,
+        "recovered": 34,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 10
         }
       },
       {
         "district": "Chittoor",
         "notes": "",
-        "active": 34,
+        "active": 14,
         "confirmed": 82,
         "deceased": 0,
-        "recovered": 48,
+        "recovered": 68,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 20
         }
       },
       {
         "district": "East Godavari",
         "notes": "",
-        "active": 23,
-        "confirmed": 45,
+        "active": 20,
+        "confirmed": 46,
         "deceased": 0,
-        "recovered": 22,
+        "recovered": 26,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 4
         }
       },
       {
         "district": "Guntur",
         "notes": "",
-        "active": 215,
-        "confirmed": 351,
+        "active": 226,
+        "confirmed": 363,
         "deceased": 8,
-        "recovered": 128,
+        "recovered": 129,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 12,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 1
         }
       },
       {
         "district": "Krishna",
         "notes": "",
-        "active": 221,
-        "confirmed": 286,
+        "active": 174,
+        "confirmed": 300,
         "deceased": 9,
-        "recovered": 56,
+        "recovered": 117,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 14,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 61
         }
       },
       {
         "district": "Kurnool",
         "notes": "",
-        "active": 392,
-        "confirmed": 516,
+        "active": 370,
+        "confirmed": 533,
         "deceased": 10,
-        "recovered": 114,
+        "recovered": 153,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 17,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 39
         }
       },
       {
         "district": "Prakasam",
         "notes": "",
-        "active": 11,
+        "active": 9,
         "confirmed": 61,
         "deceased": 0,
-        "recovered": 50,
+        "recovered": 52,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 2
         }
       },
       {
@@ -1966,12 +1966,12 @@
       {
         "district": "Visakhapatnam",
         "notes": "",
-        "active": 16,
-        "confirmed": 37,
+        "active": 18,
+        "confirmed": 39,
         "deceased": 0,
         "recovered": 21,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 2,
           "deceased": 0,
           "recovered": 0
         }
@@ -1979,38 +1979,38 @@
       {
         "district": "West Godavari",
         "notes": "",
-        "active": 28,
+        "active": 26,
         "confirmed": 59,
         "deceased": 0,
-        "recovered": 31,
+        "recovered": 33,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 2
         }
       },
       {
         "district": "Y.S.R. Kadapa",
         "notes": "",
         "active": 50,
-        "confirmed": 89,
+        "confirmed": 90,
         "deceased": 0,
-        "recovered": 39,
+        "recovered": 40,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 1
         }
       },
       {
         "district": "Other State",
         "notes": "",
-        "active": 14,
-        "confirmed": 14,
+        "active": 27,
+        "confirmed": 27,
         "deceased": 0,
         "recovered": 0,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 13,
           "deceased": 0,
           "recovered": 0
         }
@@ -2141,7 +2141,7 @@
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 7
+          "recovered": 0
         }
       },
       {
@@ -2271,7 +2271,7 @@
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 6
+          "recovered": 0
         }
       },
       {
@@ -2297,7 +2297,7 @@
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 1
+          "recovered": 0
         }
       },
       {
@@ -2362,7 +2362,7 @@
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 10
+          "recovered": 0
         }
       },
       {
@@ -2450,19 +2450,6 @@
         "confirmed": 3,
         "deceased": 1,
         "recovered": 1,
-        "delta": {
-          "confirmed": 0,
-          "deceased": 0,
-          "recovered": 0
-        }
-      },
-      {
-        "district": "Unknown",
-        "notes": "",
-        "active": 0,
-        "confirmed": 0,
-        "deceased": 0,
-        "recovered": 26,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
