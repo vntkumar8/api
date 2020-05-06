@@ -941,467 +941,6 @@
     ]
   },
   {
-    "state": "Madhya Pradesh",
-    "statecode": "MP",
-    "districtData": [
-      {
-        "district": "Other Region",
-        "notes": "Cases from other states",
-        "active": 2,
-        "confirmed": 2,
-        "deceased": 0,
-        "recovered": 0,
-        "delta": {
-          "confirmed": 0,
-          "deceased": 0,
-          "recovered": 0
-        }
-      },
-      {
-        "district": "Agar Malwa",
-        "notes": "",
-        "active": 11,
-        "confirmed": 12,
-        "deceased": 1,
-        "recovered": 0,
-        "delta": {
-          "confirmed": 0,
-          "deceased": 0,
-          "recovered": 0
-        }
-      },
-      {
-        "district": "Alirajpur",
-        "notes": "",
-        "active": 0,
-        "confirmed": 3,
-        "deceased": 0,
-        "recovered": 3,
-        "delta": {
-          "confirmed": 0,
-          "deceased": 0,
-          "recovered": 0
-        }
-      },
-      {
-        "district": "Anuppur",
-        "notes": "",
-        "active": 3,
-        "confirmed": 3,
-        "deceased": 0,
-        "recovered": 0,
-        "delta": {
-          "confirmed": 0,
-          "deceased": 0,
-          "recovered": 0
-        }
-      },
-      {
-        "district": "Ashoknagar",
-        "notes": "",
-        "active": 0,
-        "confirmed": 1,
-        "deceased": 1,
-        "recovered": 0,
-        "delta": {
-          "confirmed": 0,
-          "deceased": 0,
-          "recovered": 0
-        }
-      },
-      {
-        "district": "Barwani",
-        "notes": "",
-        "active": 3,
-        "confirmed": 26,
-        "deceased": 0,
-        "recovered": 23,
-        "delta": {
-          "confirmed": 0,
-          "deceased": 0,
-          "recovered": 0
-        }
-      },
-      {
-        "district": "Betul",
-        "notes": "",
-        "active": 0,
-        "confirmed": 1,
-        "deceased": 0,
-        "recovered": 1,
-        "delta": {
-          "confirmed": 0,
-          "deceased": 0,
-          "recovered": 0
-        }
-      },
-      {
-        "district": "Bhopal",
-        "notes": "",
-        "active": 267,
-        "confirmed": 571,
-        "deceased": 16,
-        "recovered": 288,
-        "delta": {
-          "confirmed": 0,
-          "deceased": 0,
-          "recovered": 0
-        }
-      },
-      {
-        "district": "Burhanpur",
-        "notes": "",
-        "active": 31,
-        "confirmed": 34,
-        "deceased": 3,
-        "recovered": 0,
-        "delta": {
-          "confirmed": 0,
-          "deceased": 0,
-          "recovered": 0
-        }
-      },
-      {
-        "district": "Chhindwara",
-        "notes": "",
-        "active": 2,
-        "confirmed": 5,
-        "deceased": 1,
-        "recovered": 2,
-        "delta": {
-          "confirmed": 0,
-          "deceased": 0,
-          "recovered": 0
-        }
-      },
-      {
-        "district": "Dewas",
-        "notes": "MP bulletin dated 28 Apr reduced total cases in Dewas by 1 upon reconcilation with Indore district",
-        "active": 8,
-        "confirmed": 26,
-        "deceased": 7,
-        "recovered": 11,
-        "delta": {
-          "confirmed": 0,
-          "deceased": 0,
-          "recovered": 0
-        }
-      },
-      {
-        "district": "Dhar",
-        "notes": "State bulletin on 20th Apr reported 5 extra cases in Dhar distrct. This has been reconciled - MP Health Dept Bulletin, 22 Apr",
-        "active": 62,
-        "confirmed": 75,
-        "deceased": 1,
-        "recovered": 12,
-        "delta": {
-          "confirmed": 0,
-          "deceased": 0,
-          "recovered": 0
-        }
-      },
-      {
-        "district": "Dindori",
-        "notes": "",
-        "active": 1,
-        "confirmed": 1,
-        "deceased": 0,
-        "recovered": 0,
-        "delta": {
-          "confirmed": 0,
-          "deceased": 0,
-          "recovered": 0
-        }
-      },
-      {
-        "district": "Khandwa",
-        "notes": "",
-        "active": 11,
-        "confirmed": 49,
-        "deceased": 6,
-        "recovered": 32,
-        "delta": {
-          "confirmed": 0,
-          "deceased": 0,
-          "recovered": 0
-        }
-      },
-      {
-        "district": "Gwalior",
-        "notes": "",
-        "active": 3,
-        "confirmed": 5,
-        "deceased": 0,
-        "recovered": 2,
-        "delta": {
-          "confirmed": 0,
-          "deceased": 0,
-          "recovered": 0
-        }
-      },
-      {
-        "district": "Harda",
-        "notes": "",
-        "active": 3,
-        "confirmed": 3,
-        "deceased": 0,
-        "recovered": 0,
-        "delta": {
-          "confirmed": 0,
-          "deceased": 0,
-          "recovered": 0
-        }
-      },
-      {
-        "district": "Hoshangabad",
-        "notes": "",
-        "active": 14,
-        "confirmed": 36,
-        "deceased": 3,
-        "recovered": 19,
-        "delta": {
-          "confirmed": 0,
-          "deceased": 0,
-          "recovered": 0
-        }
-      },
-      {
-        "district": "Indore",
-        "notes": "",
-        "active": 1107,
-        "confirmed": 1654,
-        "deceased": 79,
-        "recovered": 468,
-        "delta": {
-          "confirmed": 0,
-          "deceased": 0,
-          "recovered": 0
-        }
-      },
-      {
-        "district": "Jabalpur",
-        "notes": "",
-        "active": 91,
-        "confirmed": 106,
-        "deceased": 3,
-        "recovered": 12,
-        "delta": {
-          "confirmed": 0,
-          "deceased": 0,
-          "recovered": 0
-        }
-      },
-      {
-        "district": "Mandsaur",
-        "notes": "",
-        "active": 28,
-        "confirmed": 36,
-        "deceased": 3,
-        "recovered": 5,
-        "delta": {
-          "confirmed": 0,
-          "deceased": 0,
-          "recovered": 0
-        }
-      },
-      {
-        "district": "Morena",
-        "notes": "MP Bulletin dated 25/04 reduced one case in Morena as there were repetitions",
-        "active": 4,
-        "confirmed": 17,
-        "deceased": 0,
-        "recovered": 13,
-        "delta": {
-          "confirmed": 0,
-          "deceased": 0,
-          "recovered": 0
-        }
-      },
-      {
-        "district": "Panna",
-        "notes": "",
-        "active": 1,
-        "confirmed": 1,
-        "deceased": 0,
-        "recovered": 0,
-        "delta": {
-          "confirmed": 0,
-          "deceased": 0,
-          "recovered": 0
-        }
-      },
-      {
-        "district": "Raisen",
-        "notes": "",
-        "active": 52,
-        "confirmed": 63,
-        "deceased": 3,
-        "recovered": 8,
-        "delta": {
-          "confirmed": 0,
-          "deceased": 0,
-          "recovered": 0
-        }
-      },
-      {
-        "district": "Ratlam",
-        "notes": "",
-        "active": 4,
-        "confirmed": 16,
-        "deceased": 0,
-        "recovered": 12,
-        "delta": {
-          "confirmed": 0,
-          "deceased": 0,
-          "recovered": 0
-        }
-      },
-      {
-        "district": "Rewa",
-        "notes": "",
-        "active": 2,
-        "confirmed": 2,
-        "deceased": 0,
-        "recovered": 0,
-        "delta": {
-          "confirmed": 0,
-          "deceased": 0,
-          "recovered": 0
-        }
-      },
-      {
-        "district": "Sagar",
-        "notes": "",
-        "active": 3,
-        "confirmed": 5,
-        "deceased": 0,
-        "recovered": 2,
-        "delta": {
-          "confirmed": 0,
-          "deceased": 0,
-          "recovered": 0
-        }
-      },
-      {
-        "district": "Satna",
-        "notes": "",
-        "active": 0,
-        "confirmed": 1,
-        "deceased": 1,
-        "recovered": 0,
-        "delta": {
-          "confirmed": 0,
-          "deceased": 0,
-          "recovered": 0
-        }
-      },
-      {
-        "district": "Shahdol",
-        "notes": "",
-        "active": 3,
-        "confirmed": 3,
-        "deceased": 0,
-        "recovered": 0,
-        "delta": {
-          "confirmed": 0,
-          "deceased": 0,
-          "recovered": 0
-        }
-      },
-      {
-        "district": "Shajapur",
-        "notes": "",
-        "active": 0,
-        "confirmed": 7,
-        "deceased": 1,
-        "recovered": 6,
-        "delta": {
-          "confirmed": 0,
-          "deceased": 0,
-          "recovered": 0
-        }
-      },
-      {
-        "district": "Sheopur",
-        "notes": "",
-        "active": 0,
-        "confirmed": 4,
-        "deceased": 0,
-        "recovered": 4,
-        "delta": {
-          "confirmed": 0,
-          "deceased": 0,
-          "recovered": 0
-        }
-      },
-      {
-        "district": "Shivpuri",
-        "notes": "",
-        "active": 0,
-        "confirmed": 2,
-        "deceased": 0,
-        "recovered": 2,
-        "delta": {
-          "confirmed": 0,
-          "deceased": 0,
-          "recovered": 0
-        }
-      },
-      {
-        "district": "Tikamgarh",
-        "notes": "",
-        "active": 3,
-        "confirmed": 3,
-        "deceased": 0,
-        "recovered": 0,
-        "delta": {
-          "confirmed": 0,
-          "deceased": 0,
-          "recovered": 0
-        }
-      },
-      {
-        "district": "Ujjain",
-        "notes": "",
-        "active": 118,
-        "confirmed": 184,
-        "deceased": 40,
-        "recovered": 26,
-        "delta": {
-          "confirmed": 0,
-          "deceased": 0,
-          "recovered": 0
-        }
-      },
-      {
-        "district": "Vidisha",
-        "notes": "",
-        "active": 0,
-        "confirmed": 13,
-        "deceased": 0,
-        "recovered": 13,
-        "delta": {
-          "confirmed": 0,
-          "deceased": 0,
-          "recovered": 0
-        }
-      },
-      {
-        "district": "Khargone",
-        "notes": "MP Bulletin dated 25/04 reduced one case in Khargone as there was a repetition",
-        "active": 36,
-        "confirmed": 79,
-        "deceased": 7,
-        "recovered": 36,
-        "delta": {
-          "confirmed": 0,
-          "deceased": 0,
-          "recovered": 0
-        }
-      }
-    ]
-  },
-  {
     "state": "Rajasthan",
     "statecode": "RJ",
     "districtData": [
@@ -4277,6 +3816,467 @@
         "confirmed": 33,
         "deceased": 0,
         "recovered": 13,
+        "delta": {
+          "confirmed": 0,
+          "deceased": 0,
+          "recovered": 0
+        }
+      }
+    ]
+  },
+  {
+    "state": "Madhya Pradesh",
+    "statecode": "MP",
+    "districtData": [
+      {
+        "district": "Agar Malwa",
+        "notes": "",
+        "active": 12,
+        "confirmed": 13,
+        "deceased": 1,
+        "recovered": 0,
+        "delta": {
+          "confirmed": 1,
+          "deceased": 0,
+          "recovered": 0
+        }
+      },
+      {
+        "district": "Alirajpur",
+        "notes": "",
+        "active": 0,
+        "confirmed": 3,
+        "deceased": 0,
+        "recovered": 3,
+        "delta": {
+          "confirmed": 0,
+          "deceased": 0,
+          "recovered": 0
+        }
+      },
+      {
+        "district": "Anuppur",
+        "notes": "",
+        "active": 3,
+        "confirmed": 3,
+        "deceased": 0,
+        "recovered": 0,
+        "delta": {
+          "confirmed": 0,
+          "deceased": 0,
+          "recovered": 0
+        }
+      },
+      {
+        "district": "Ashoknagar",
+        "notes": "",
+        "active": 0,
+        "confirmed": 1,
+        "deceased": 1,
+        "recovered": 0,
+        "delta": {
+          "confirmed": 0,
+          "deceased": 0,
+          "recovered": 0
+        }
+      },
+      {
+        "district": "Barwani",
+        "notes": "",
+        "active": 3,
+        "confirmed": 26,
+        "deceased": 0,
+        "recovered": 23,
+        "delta": {
+          "confirmed": 0,
+          "deceased": 0,
+          "recovered": 0
+        }
+      },
+      {
+        "district": "Betul",
+        "notes": "",
+        "active": 0,
+        "confirmed": 1,
+        "deceased": 0,
+        "recovered": 1,
+        "delta": {
+          "confirmed": 0,
+          "deceased": 0,
+          "recovered": 0
+        }
+      },
+      {
+        "district": "Bhopal",
+        "notes": "",
+        "active": 301,
+        "confirmed": 605,
+        "deceased": 16,
+        "recovered": 288,
+        "delta": {
+          "confirmed": 34,
+          "deceased": 0,
+          "recovered": 0
+        }
+      },
+      {
+        "district": "Burhanpur",
+        "notes": "",
+        "active": 35,
+        "confirmed": 38,
+        "deceased": 3,
+        "recovered": 0,
+        "delta": {
+          "confirmed": 4,
+          "deceased": 0,
+          "recovered": 0
+        }
+      },
+      {
+        "district": "Chhindwara",
+        "notes": "",
+        "active": 2,
+        "confirmed": 5,
+        "deceased": 1,
+        "recovered": 2,
+        "delta": {
+          "confirmed": 0,
+          "deceased": 0,
+          "recovered": 0
+        }
+      },
+      {
+        "district": "Dewas",
+        "notes": "MP bulletin dated 28 Apr reduced total cases in Dewas by 1 upon reconcilation with Indore district",
+        "active": 12,
+        "confirmed": 30,
+        "deceased": 7,
+        "recovered": 11,
+        "delta": {
+          "confirmed": 4,
+          "deceased": 0,
+          "recovered": 0
+        }
+      },
+      {
+        "district": "Dhar",
+        "notes": "State bulletin on 20th Apr reported 5 extra cases in Dhar distrct. This has been reconciled - MP Health Dept Bulletin, 22 Apr",
+        "active": 63,
+        "confirmed": 76,
+        "deceased": 1,
+        "recovered": 12,
+        "delta": {
+          "confirmed": 1,
+          "deceased": 0,
+          "recovered": 0
+        }
+      },
+      {
+        "district": "Dindori",
+        "notes": "",
+        "active": 1,
+        "confirmed": 1,
+        "deceased": 0,
+        "recovered": 0,
+        "delta": {
+          "confirmed": 0,
+          "deceased": 0,
+          "recovered": 0
+        }
+      },
+      {
+        "district": "Khandwa",
+        "notes": "",
+        "active": 12,
+        "confirmed": 50,
+        "deceased": 6,
+        "recovered": 32,
+        "delta": {
+          "confirmed": 1,
+          "deceased": 0,
+          "recovered": 0
+        }
+      },
+      {
+        "district": "Gwalior",
+        "notes": "",
+        "active": 5,
+        "confirmed": 7,
+        "deceased": 0,
+        "recovered": 2,
+        "delta": {
+          "confirmed": 2,
+          "deceased": 0,
+          "recovered": 0
+        }
+      },
+      {
+        "district": "Harda",
+        "notes": "",
+        "active": 3,
+        "confirmed": 3,
+        "deceased": 0,
+        "recovered": 0,
+        "delta": {
+          "confirmed": 0,
+          "deceased": 0,
+          "recovered": 0
+        }
+      },
+      {
+        "district": "Hoshangabad",
+        "notes": "",
+        "active": 14,
+        "confirmed": 36,
+        "deceased": 3,
+        "recovered": 19,
+        "delta": {
+          "confirmed": 0,
+          "deceased": 0,
+          "recovered": 0
+        }
+      },
+      {
+        "district": "Indore",
+        "notes": "",
+        "active": 1134,
+        "confirmed": 1681,
+        "deceased": 79,
+        "recovered": 468,
+        "delta": {
+          "confirmed": 27,
+          "deceased": 0,
+          "recovered": 0
+        }
+      },
+      {
+        "district": "Jabalpur",
+        "notes": "",
+        "active": 94,
+        "confirmed": 109,
+        "deceased": 3,
+        "recovered": 12,
+        "delta": {
+          "confirmed": 3,
+          "deceased": 0,
+          "recovered": 0
+        }
+      },
+      {
+        "district": "Mandsaur",
+        "notes": "",
+        "active": 32,
+        "confirmed": 40,
+        "deceased": 3,
+        "recovered": 5,
+        "delta": {
+          "confirmed": 4,
+          "deceased": 0,
+          "recovered": 0
+        }
+      },
+      {
+        "district": "Morena",
+        "notes": "MP Bulletin dated 25/04 reduced one case in Morena as there were repetitions",
+        "active": 4,
+        "confirmed": 17,
+        "deceased": 0,
+        "recovered": 13,
+        "delta": {
+          "confirmed": 0,
+          "deceased": 0,
+          "recovered": 0
+        }
+      },
+      {
+        "district": "Neemuch",
+        "notes": "",
+        "active": 4,
+        "confirmed": 4,
+        "deceased": 0,
+        "recovered": 0,
+        "delta": {
+          "confirmed": 4,
+          "deceased": 0,
+          "recovered": 0
+        }
+      },
+      {
+        "district": "Panna",
+        "notes": "",
+        "active": 1,
+        "confirmed": 1,
+        "deceased": 0,
+        "recovered": 0,
+        "delta": {
+          "confirmed": 0,
+          "deceased": 0,
+          "recovered": 0
+        }
+      },
+      {
+        "district": "Raisen",
+        "notes": "",
+        "active": 52,
+        "confirmed": 63,
+        "deceased": 3,
+        "recovered": 8,
+        "delta": {
+          "confirmed": 0,
+          "deceased": 0,
+          "recovered": 0
+        }
+      },
+      {
+        "district": "Ratlam",
+        "notes": "",
+        "active": 8,
+        "confirmed": 20,
+        "deceased": 0,
+        "recovered": 12,
+        "delta": {
+          "confirmed": 4,
+          "deceased": 0,
+          "recovered": 0
+        }
+      },
+      {
+        "district": "Rewa",
+        "notes": "",
+        "active": 2,
+        "confirmed": 2,
+        "deceased": 0,
+        "recovered": 0,
+        "delta": {
+          "confirmed": 0,
+          "deceased": 0,
+          "recovered": 0
+        }
+      },
+      {
+        "district": "Sagar",
+        "notes": "",
+        "active": 3,
+        "confirmed": 5,
+        "deceased": 0,
+        "recovered": 2,
+        "delta": {
+          "confirmed": 0,
+          "deceased": 0,
+          "recovered": 0
+        }
+      },
+      {
+        "district": "Satna",
+        "notes": "",
+        "active": 0,
+        "confirmed": 1,
+        "deceased": 1,
+        "recovered": 0,
+        "delta": {
+          "confirmed": 0,
+          "deceased": 0,
+          "recovered": 0
+        }
+      },
+      {
+        "district": "Shahdol",
+        "notes": "",
+        "active": 3,
+        "confirmed": 3,
+        "deceased": 0,
+        "recovered": 0,
+        "delta": {
+          "confirmed": 0,
+          "deceased": 0,
+          "recovered": 0
+        }
+      },
+      {
+        "district": "Shajapur",
+        "notes": "",
+        "active": 1,
+        "confirmed": 8,
+        "deceased": 1,
+        "recovered": 6,
+        "delta": {
+          "confirmed": 1,
+          "deceased": 0,
+          "recovered": 0
+        }
+      },
+      {
+        "district": "Sheopur",
+        "notes": "",
+        "active": 0,
+        "confirmed": 4,
+        "deceased": 0,
+        "recovered": 4,
+        "delta": {
+          "confirmed": 0,
+          "deceased": 0,
+          "recovered": 0
+        }
+      },
+      {
+        "district": "Shivpuri",
+        "notes": "",
+        "active": 0,
+        "confirmed": 2,
+        "deceased": 0,
+        "recovered": 2,
+        "delta": {
+          "confirmed": 0,
+          "deceased": 0,
+          "recovered": 0
+        }
+      },
+      {
+        "district": "Tikamgarh",
+        "notes": "",
+        "active": 3,
+        "confirmed": 3,
+        "deceased": 0,
+        "recovered": 0,
+        "delta": {
+          "confirmed": 0,
+          "deceased": 0,
+          "recovered": 0
+        }
+      },
+      {
+        "district": "Ujjain",
+        "notes": "",
+        "active": 118,
+        "confirmed": 184,
+        "deceased": 40,
+        "recovered": 26,
+        "delta": {
+          "confirmed": 0,
+          "deceased": 0,
+          "recovered": 0
+        }
+      },
+      {
+        "district": "Vidisha",
+        "notes": "",
+        "active": 0,
+        "confirmed": 13,
+        "deceased": 0,
+        "recovered": 13,
+        "delta": {
+          "confirmed": 0,
+          "deceased": 0,
+          "recovered": 0
+        }
+      },
+      {
+        "district": "Khargone",
+        "notes": "MP Bulletin dated 25/04 reduced one case in Khargone as there was a repetition",
+        "active": 36,
+        "confirmed": 79,
+        "deceased": 7,
+        "recovered": 36,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
