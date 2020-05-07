@@ -1261,33 +1261,6 @@
       "zone": "Green"
     },
     {
-      "district": "Dadra and Nagar Haveli",
-      "districtcode": "DN_Dadra and Nagar Haveli",
-      "lastupdated": "05/05/2020",
-      "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
-      "state": "Dadra and Nagar Haveli and Daman and Diu",
-      "statecode": "DN",
-      "zone": "Orange"
-    },
-    {
-      "district": "Daman",
-      "districtcode": "DN_Daman",
-      "lastupdated": "01/05/2020",
-      "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
-      "state": "Dadra and Nagar Haveli and Daman and Diu",
-      "statecode": "DN",
-      "zone": "Green"
-    },
-    {
-      "district": "Diu",
-      "districtcode": "DN_Diu",
-      "lastupdated": "01/05/2020",
-      "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
-      "state": "Dadra and Nagar Haveli and Daman and Diu",
-      "statecode": "DN",
-      "zone": "Green"
-    },
-    {
       "district": "Central Delhi",
       "districtcode": "DL_Central Delhi",
       "lastupdated": "01/05/2020",
@@ -1385,6 +1358,33 @@
       "state": "Delhi",
       "statecode": "DL",
       "zone": "Red"
+    },
+    {
+      "district": "Dadra and Nagar Haveli",
+      "districtcode": "DN_Dadra and Nagar Haveli",
+      "lastupdated": "05/05/2020",
+      "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
+      "state": "Dadra and Nagar Haveli and Daman and Diu",
+      "statecode": "DN",
+      "zone": "Orange"
+    },
+    {
+      "district": "Daman",
+      "districtcode": "DN_Daman",
+      "lastupdated": "01/05/2020",
+      "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
+      "state": "Dadra and Nagar Haveli and Daman and Diu",
+      "statecode": "DN",
+      "zone": "Green"
+    },
+    {
+      "district": "Diu",
+      "districtcode": "DN_Diu",
+      "lastupdated": "01/05/2020",
+      "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
+      "state": "Dadra and Nagar Haveli and Daman and Diu",
+      "statecode": "DN",
+      "zone": "Green"
     },
     {
       "district": "North Goa",
@@ -1549,15 +1549,6 @@
       "zone": "Green"
     },
     {
-      "district": "Kutch",
-      "districtcode": "GJ_Kutch",
-      "lastupdated": "01/05/2020",
-      "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
-      "state": "Gujarat",
-      "statecode": "GJ",
-      "zone": "Orange"
-    },
-    {
       "district": "Kheda",
       "districtcode": "GJ_Kheda",
       "lastupdated": "01/05/2020",
@@ -1567,8 +1558,8 @@
       "zone": "Orange"
     },
     {
-      "district": "Mehsana",
-      "districtcode": "GJ_Mehsana",
+      "district": "Kutch",
+      "districtcode": "GJ_Kutch",
       "lastupdated": "01/05/2020",
       "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
       "state": "Gujarat",
@@ -1578,6 +1569,15 @@
     {
       "district": "Mahisagar",
       "districtcode": "GJ_Mahisagar",
+      "lastupdated": "01/05/2020",
+      "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
+      "state": "Gujarat",
+      "statecode": "GJ",
+      "zone": "Orange"
+    },
+    {
+      "district": "Mehsana",
+      "districtcode": "GJ_Mehsana",
       "lastupdated": "01/05/2020",
       "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
       "state": "Gujarat",
@@ -1699,6 +1699,114 @@
       "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
       "state": "Gujarat",
       "statecode": "GJ",
+      "zone": "Orange"
+    },
+    {
+      "district": "Bilaspur",
+      "districtcode": "HP_Bilaspur",
+      "lastupdated": "01/05/2020",
+      "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
+      "state": "Himachal Pradesh",
+      "statecode": "HP",
+      "zone": "Green"
+    },
+    {
+      "district": "Chamba",
+      "districtcode": "HP_Chamba",
+      "lastupdated": "01/05/2020",
+      "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
+      "state": "Himachal Pradesh",
+      "statecode": "HP",
+      "zone": "Orange"
+    },
+    {
+      "district": "Hamirpur",
+      "districtcode": "HP_Hamirpur",
+      "lastupdated": "01/05/2020",
+      "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
+      "state": "Himachal Pradesh",
+      "statecode": "HP",
+      "zone": "Orange"
+    },
+    {
+      "district": "Kangra",
+      "districtcode": "HP_Kangra",
+      "lastupdated": "01/05/2020",
+      "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
+      "state": "Himachal Pradesh",
+      "statecode": "HP",
+      "zone": "Orange"
+    },
+    {
+      "district": "Kinnaur",
+      "districtcode": "HP_Kinnaur",
+      "lastupdated": "01/05/2020",
+      "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
+      "state": "Himachal Pradesh",
+      "statecode": "HP",
+      "zone": "Green"
+    },
+    {
+      "district": "Kullu",
+      "districtcode": "HP_Kullu",
+      "lastupdated": "01/05/2020",
+      "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
+      "state": "Himachal Pradesh",
+      "statecode": "HP",
+      "zone": "Green"
+    },
+    {
+      "district": "Lahaul and Spiti",
+      "districtcode": "HP_Lahaul and Spiti",
+      "lastupdated": "01/05/2020",
+      "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
+      "state": "Himachal Pradesh",
+      "statecode": "HP",
+      "zone": "Green"
+    },
+    {
+      "district": "Mandi",
+      "districtcode": "HP_Mandi",
+      "lastupdated": "01/05/2020",
+      "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
+      "state": "Himachal Pradesh",
+      "statecode": "HP",
+      "zone": "Green"
+    },
+    {
+      "district": "Shimla",
+      "districtcode": "HP_Shimla",
+      "lastupdated": "01/05/2020",
+      "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
+      "state": "Himachal Pradesh",
+      "statecode": "HP",
+      "zone": "Green"
+    },
+    {
+      "district": "Sirmaur",
+      "districtcode": "HP_Sirmaur",
+      "lastupdated": "01/05/2020",
+      "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
+      "state": "Himachal Pradesh",
+      "statecode": "HP",
+      "zone": "Orange"
+    },
+    {
+      "district": "Solan",
+      "districtcode": "HP_Solan",
+      "lastupdated": "01/05/2020",
+      "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
+      "state": "Himachal Pradesh",
+      "statecode": "HP",
+      "zone": "Orange"
+    },
+    {
+      "district": "Una",
+      "districtcode": "HP_Una",
+      "lastupdated": "01/05/2020",
+      "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
+      "state": "Himachal Pradesh",
+      "statecode": "HP",
       "zone": "Orange"
     },
     {
@@ -1900,112 +2008,220 @@
       "zone": "Orange"
     },
     {
-      "district": "Bilaspur",
-      "districtcode": "HP_Bilaspur",
+      "district": "Bokaro",
+      "districtcode": "JH_Bokaro",
       "lastupdated": "01/05/2020",
       "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
-      "state": "Himachal Pradesh",
-      "statecode": "HP",
-      "zone": "Green"
-    },
-    {
-      "district": "Chamba",
-      "districtcode": "HP_Chamba",
-      "lastupdated": "01/05/2020",
-      "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
-      "state": "Himachal Pradesh",
-      "statecode": "HP",
+      "state": "Jharkhand",
+      "statecode": "JH",
       "zone": "Orange"
     },
     {
-      "district": "Hamirpur",
-      "districtcode": "HP_Hamirpur",
+      "district": "Chatra",
+      "districtcode": "JH_Chatra",
       "lastupdated": "01/05/2020",
       "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
-      "state": "Himachal Pradesh",
-      "statecode": "HP",
-      "zone": "Orange"
-    },
-    {
-      "district": "Kangra",
-      "districtcode": "HP_Kangra",
-      "lastupdated": "01/05/2020",
-      "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
-      "state": "Himachal Pradesh",
-      "statecode": "HP",
-      "zone": "Orange"
-    },
-    {
-      "district": "Kinnaur",
-      "districtcode": "HP_Kinnaur",
-      "lastupdated": "01/05/2020",
-      "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
-      "state": "Himachal Pradesh",
-      "statecode": "HP",
+      "state": "Jharkhand",
+      "statecode": "JH",
       "zone": "Green"
     },
     {
-      "district": "Kullu",
-      "districtcode": "HP_Kullu",
+      "district": "Deoghar",
+      "districtcode": "JH_Deoghar",
       "lastupdated": "01/05/2020",
       "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
-      "state": "Himachal Pradesh",
-      "statecode": "HP",
-      "zone": "Green"
-    },
-    {
-      "district": "Lahaul and Spiti",
-      "districtcode": "HP_Lahaul and Spiti",
-      "lastupdated": "01/05/2020",
-      "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
-      "state": "Himachal Pradesh",
-      "statecode": "HP",
-      "zone": "Green"
-    },
-    {
-      "district": "Mandi",
-      "districtcode": "HP_Mandi",
-      "lastupdated": "01/05/2020",
-      "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
-      "state": "Himachal Pradesh",
-      "statecode": "HP",
-      "zone": "Green"
-    },
-    {
-      "district": "Shimla",
-      "districtcode": "HP_Shimla",
-      "lastupdated": "01/05/2020",
-      "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
-      "state": "Himachal Pradesh",
-      "statecode": "HP",
-      "zone": "Green"
-    },
-    {
-      "district": "Sirmaur",
-      "districtcode": "HP_Sirmaur",
-      "lastupdated": "01/05/2020",
-      "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
-      "state": "Himachal Pradesh",
-      "statecode": "HP",
+      "state": "Jharkhand",
+      "statecode": "JH",
       "zone": "Orange"
     },
     {
-      "district": "Solan",
-      "districtcode": "HP_Solan",
+      "district": "Dhanbad",
+      "districtcode": "JH_Dhanbad",
       "lastupdated": "01/05/2020",
       "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
-      "state": "Himachal Pradesh",
-      "statecode": "HP",
+      "state": "Jharkhand",
+      "statecode": "JH",
       "zone": "Orange"
     },
     {
-      "district": "Una",
-      "districtcode": "HP_Una",
+      "district": "Dumka",
+      "districtcode": "JH_Dumka",
       "lastupdated": "01/05/2020",
       "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
-      "state": "Himachal Pradesh",
-      "statecode": "HP",
+      "state": "Jharkhand",
+      "statecode": "JH",
+      "zone": "Green"
+    },
+    {
+      "district": "East Singhbhum",
+      "districtcode": "JH_East Singhbhum",
+      "lastupdated": "01/05/2020",
+      "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
+      "state": "Jharkhand",
+      "statecode": "JH",
+      "zone": "Green"
+    },
+    {
+      "district": "Garhwa",
+      "districtcode": "JH_Garhwa",
+      "lastupdated": "01/05/2020",
+      "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
+      "state": "Jharkhand",
+      "statecode": "JH",
       "zone": "Orange"
+    },
+    {
+      "district": "Giridih",
+      "districtcode": "JH_Giridih",
+      "lastupdated": "01/05/2020",
+      "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
+      "state": "Jharkhand",
+      "statecode": "JH",
+      "zone": "Orange"
+    },
+    {
+      "district": "Godda",
+      "districtcode": "JH_Godda",
+      "lastupdated": "01/05/2020",
+      "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
+      "state": "Jharkhand",
+      "statecode": "JH",
+      "zone": "Green"
+    },
+    {
+      "district": "Gumla",
+      "districtcode": "JH_Gumla",
+      "lastupdated": "01/05/2020",
+      "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
+      "state": "Jharkhand",
+      "statecode": "JH",
+      "zone": "Green"
+    },
+    {
+      "district": "Hazaribagh",
+      "districtcode": "JH_Hazaribagh",
+      "lastupdated": "01/05/2020",
+      "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
+      "state": "Jharkhand",
+      "statecode": "JH",
+      "zone": "Orange"
+    },
+    {
+      "district": "Jamtara",
+      "districtcode": "JH_Jamtara",
+      "lastupdated": "01/05/2020",
+      "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
+      "state": "Jharkhand",
+      "statecode": "JH",
+      "zone": "Orange"
+    },
+    {
+      "district": "Khunti",
+      "districtcode": "JH_Khunti",
+      "lastupdated": "01/05/2020",
+      "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
+      "state": "Jharkhand",
+      "statecode": "JH",
+      "zone": "Green"
+    },
+    {
+      "district": "Koderma",
+      "districtcode": "JH_Koderma",
+      "lastupdated": "01/05/2020",
+      "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
+      "state": "Jharkhand",
+      "statecode": "JH",
+      "zone": "Orange"
+    },
+    {
+      "district": "Latehar",
+      "districtcode": "JH_Latehar",
+      "lastupdated": "01/05/2020",
+      "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
+      "state": "Jharkhand",
+      "statecode": "JH",
+      "zone": "Green"
+    },
+    {
+      "district": "Lohardaga",
+      "districtcode": "JH_Lohardaga",
+      "lastupdated": "01/05/2020",
+      "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
+      "state": "Jharkhand",
+      "statecode": "JH",
+      "zone": "Green"
+    },
+    {
+      "district": "Pakur",
+      "districtcode": "JH_Pakur",
+      "lastupdated": "01/05/2020",
+      "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
+      "state": "Jharkhand",
+      "statecode": "JH",
+      "zone": "Green"
+    },
+    {
+      "district": "Palamu",
+      "districtcode": "JH_Palamu",
+      "lastupdated": "01/05/2020",
+      "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
+      "state": "Jharkhand",
+      "statecode": "JH",
+      "zone": "Green"
+    },
+    {
+      "district": "Ramgarh",
+      "districtcode": "JH_Ramgarh",
+      "lastupdated": "01/05/2020",
+      "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
+      "state": "Jharkhand",
+      "statecode": "JH",
+      "zone": "Green"
+    },
+    {
+      "district": "Ranchi",
+      "districtcode": "JH_Ranchi",
+      "lastupdated": "01/05/2020",
+      "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
+      "state": "Jharkhand",
+      "statecode": "JH",
+      "zone": "Red"
+    },
+    {
+      "district": "Sahibganj",
+      "districtcode": "JH_Sahibganj",
+      "lastupdated": "01/05/2020",
+      "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
+      "state": "Jharkhand",
+      "statecode": "JH",
+      "zone": "Green"
+    },
+    {
+      "district": "Saraikela-Kharsawan",
+      "districtcode": "JH_Saraikela-Kharsawan",
+      "lastupdated": "01/05/2020",
+      "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
+      "state": "Jharkhand",
+      "statecode": "JH",
+      "zone": "Green"
+    },
+    {
+      "district": "Simdega",
+      "districtcode": "JH_Simdega",
+      "lastupdated": "01/05/2020",
+      "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
+      "state": "Jharkhand",
+      "statecode": "JH",
+      "zone": "Orange"
+    },
+    {
+      "district": "West Singhbhum",
+      "districtcode": "JH_West Singhbhum",
+      "lastupdated": "01/05/2020",
+      "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
+      "state": "Jharkhand",
+      "statecode": "JH",
+      "zone": "Green"
     },
     {
       "district": "Anantnag",
@@ -2015,15 +2231,6 @@
       "state": "Jammu and Kashmir",
       "statecode": "JK",
       "zone": "Red"
-    },
-    {
-      "district": "Budgam",
-      "districtcode": "JK_Budgam",
-      "lastupdated": "01/05/2020",
-      "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
-      "state": "Jammu and Kashmir",
-      "statecode": "JK",
-      "zone": "Orange"
     },
     {
       "district": "Bandipora",
@@ -2037,6 +2244,15 @@
     {
       "district": "Baramulla",
       "districtcode": "JK_Baramulla",
+      "lastupdated": "01/05/2020",
+      "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
+      "state": "Jammu and Kashmir",
+      "statecode": "JK",
+      "zone": "Orange"
+    },
+    {
+      "district": "Budgam",
+      "districtcode": "JK_Budgam",
       "lastupdated": "01/05/2020",
       "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
       "state": "Jammu and Kashmir",
@@ -2206,222 +2422,6 @@
       "zone": "Orange"
     },
     {
-      "district": "Bokaro",
-      "districtcode": "JH_Bokaro",
-      "lastupdated": "01/05/2020",
-      "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
-      "state": "Jharkhand",
-      "statecode": "JH",
-      "zone": "Orange"
-    },
-    {
-      "district": "Chatra",
-      "districtcode": "JH_Chatra",
-      "lastupdated": "01/05/2020",
-      "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
-      "state": "Jharkhand",
-      "statecode": "JH",
-      "zone": "Green"
-    },
-    {
-      "district": "Deoghar",
-      "districtcode": "JH_Deoghar",
-      "lastupdated": "01/05/2020",
-      "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
-      "state": "Jharkhand",
-      "statecode": "JH",
-      "zone": "Orange"
-    },
-    {
-      "district": "Dhanbad",
-      "districtcode": "JH_Dhanbad",
-      "lastupdated": "01/05/2020",
-      "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
-      "state": "Jharkhand",
-      "statecode": "JH",
-      "zone": "Orange"
-    },
-    {
-      "district": "Dumka",
-      "districtcode": "JH_Dumka",
-      "lastupdated": "01/05/2020",
-      "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
-      "state": "Jharkhand",
-      "statecode": "JH",
-      "zone": "Green"
-    },
-    {
-      "district": "Garhwa",
-      "districtcode": "JH_Garhwa",
-      "lastupdated": "01/05/2020",
-      "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
-      "state": "Jharkhand",
-      "statecode": "JH",
-      "zone": "Orange"
-    },
-    {
-      "district": "Giridih",
-      "districtcode": "JH_Giridih",
-      "lastupdated": "01/05/2020",
-      "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
-      "state": "Jharkhand",
-      "statecode": "JH",
-      "zone": "Orange"
-    },
-    {
-      "district": "Godda",
-      "districtcode": "JH_Godda",
-      "lastupdated": "01/05/2020",
-      "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
-      "state": "Jharkhand",
-      "statecode": "JH",
-      "zone": "Green"
-    },
-    {
-      "district": "Gumla",
-      "districtcode": "JH_Gumla",
-      "lastupdated": "01/05/2020",
-      "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
-      "state": "Jharkhand",
-      "statecode": "JH",
-      "zone": "Green"
-    },
-    {
-      "district": "Hazaribagh",
-      "districtcode": "JH_Hazaribagh",
-      "lastupdated": "01/05/2020",
-      "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
-      "state": "Jharkhand",
-      "statecode": "JH",
-      "zone": "Orange"
-    },
-    {
-      "district": "Jamtara",
-      "districtcode": "JH_Jamtara",
-      "lastupdated": "01/05/2020",
-      "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
-      "state": "Jharkhand",
-      "statecode": "JH",
-      "zone": "Orange"
-    },
-    {
-      "district": "Khunti",
-      "districtcode": "JH_Khunti",
-      "lastupdated": "01/05/2020",
-      "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
-      "state": "Jharkhand",
-      "statecode": "JH",
-      "zone": "Green"
-    },
-    {
-      "district": "Koderma",
-      "districtcode": "JH_Koderma",
-      "lastupdated": "01/05/2020",
-      "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
-      "state": "Jharkhand",
-      "statecode": "JH",
-      "zone": "Orange"
-    },
-    {
-      "district": "Latehar",
-      "districtcode": "JH_Latehar",
-      "lastupdated": "01/05/2020",
-      "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
-      "state": "Jharkhand",
-      "statecode": "JH",
-      "zone": "Green"
-    },
-    {
-      "district": "Lohardaga",
-      "districtcode": "JH_Lohardaga",
-      "lastupdated": "01/05/2020",
-      "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
-      "state": "Jharkhand",
-      "statecode": "JH",
-      "zone": "Green"
-    },
-    {
-      "district": "Pakur",
-      "districtcode": "JH_Pakur",
-      "lastupdated": "01/05/2020",
-      "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
-      "state": "Jharkhand",
-      "statecode": "JH",
-      "zone": "Green"
-    },
-    {
-      "district": "Palamu",
-      "districtcode": "JH_Palamu",
-      "lastupdated": "01/05/2020",
-      "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
-      "state": "Jharkhand",
-      "statecode": "JH",
-      "zone": "Green"
-    },
-    {
-      "district": "West Singhbhum",
-      "districtcode": "JH_West Singhbhum",
-      "lastupdated": "01/05/2020",
-      "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
-      "state": "Jharkhand",
-      "statecode": "JH",
-      "zone": "Green"
-    },
-    {
-      "district": "East Singhbhum",
-      "districtcode": "JH_East Singhbhum",
-      "lastupdated": "01/05/2020",
-      "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
-      "state": "Jharkhand",
-      "statecode": "JH",
-      "zone": "Green"
-    },
-    {
-      "district": "Ramgarh",
-      "districtcode": "JH_Ramgarh",
-      "lastupdated": "01/05/2020",
-      "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
-      "state": "Jharkhand",
-      "statecode": "JH",
-      "zone": "Green"
-    },
-    {
-      "district": "Ranchi",
-      "districtcode": "JH_Ranchi",
-      "lastupdated": "01/05/2020",
-      "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
-      "state": "Jharkhand",
-      "statecode": "JH",
-      "zone": "Red"
-    },
-    {
-      "district": "Sahibganj",
-      "districtcode": "JH_Sahibganj",
-      "lastupdated": "01/05/2020",
-      "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
-      "state": "Jharkhand",
-      "statecode": "JH",
-      "zone": "Green"
-    },
-    {
-      "district": "Saraikela-Kharsawan",
-      "districtcode": "JH_Saraikela-Kharsawan",
-      "lastupdated": "01/05/2020",
-      "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
-      "state": "Jharkhand",
-      "statecode": "JH",
-      "zone": "Green"
-    },
-    {
-      "district": "Simdega",
-      "districtcode": "JH_Simdega",
-      "lastupdated": "01/05/2020",
-      "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
-      "state": "Jharkhand",
-      "statecode": "JH",
-      "zone": "Orange"
-    },
-    {
       "district": "Bagalkote",
       "districtcode": "KA_Bagalkote",
       "lastupdated": "01/05/2020",
@@ -2449,8 +2449,8 @@
       "zone": "Orange"
     },
     {
-      "district": "Bengaluru Urban",
-      "districtcode": "KA_Bengaluru Urban",
+      "district": "Bengaluru Rural",
+      "districtcode": "KA_Bengaluru Rural",
       "lastupdated": "01/05/2020",
       "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
       "state": "Karnataka",
@@ -2458,8 +2458,8 @@
       "zone": "Red"
     },
     {
-      "district": "Bengaluru Rural",
-      "districtcode": "KA_Bengaluru Rural",
+      "district": "Bengaluru Urban",
+      "districtcode": "KA_Bengaluru Urban",
       "lastupdated": "01/05/2020",
       "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
       "state": "Karnataka",
@@ -2842,6 +2842,573 @@
       "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
       "state": "Lakshadweep",
       "statecode": "LD",
+      "zone": "Green"
+    },
+    {
+      "district": "Ahmednagar",
+      "districtcode": "MH_Ahmednagar",
+      "lastupdated": "01/05/2020",
+      "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
+      "state": "Maharashtra",
+      "statecode": "MH",
+      "zone": "Orange"
+    },
+    {
+      "district": "Akola",
+      "districtcode": "MH_Akola",
+      "lastupdated": "01/05/2020",
+      "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
+      "state": "Maharashtra",
+      "statecode": "MH",
+      "zone": "Red"
+    },
+    {
+      "district": "Amravati",
+      "districtcode": "MH_Amravati",
+      "lastupdated": "01/05/2020",
+      "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
+      "state": "Maharashtra",
+      "statecode": "MH",
+      "zone": "Orange"
+    },
+    {
+      "district": "Aurangabad",
+      "districtcode": "MH_Aurangabad",
+      "lastupdated": "01/05/2020",
+      "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
+      "state": "Maharashtra",
+      "statecode": "MH",
+      "zone": "Red"
+    },
+    {
+      "district": "Beed",
+      "districtcode": "MH_Beed",
+      "lastupdated": "01/05/2020",
+      "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
+      "state": "Maharashtra",
+      "statecode": "MH",
+      "zone": "Orange"
+    },
+    {
+      "district": "Bhandara",
+      "districtcode": "MH_Bhandara",
+      "lastupdated": "01/05/2020",
+      "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
+      "state": "Maharashtra",
+      "statecode": "MH",
+      "zone": "Orange"
+    },
+    {
+      "district": "Buldhana",
+      "districtcode": "MH_Buldhana",
+      "lastupdated": "01/05/2020",
+      "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
+      "state": "Maharashtra",
+      "statecode": "MH",
+      "zone": "Orange"
+    },
+    {
+      "district": "Chandrapur",
+      "districtcode": "MH_Chandrapur",
+      "lastupdated": "01/05/2020",
+      "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
+      "state": "Maharashtra",
+      "statecode": "MH",
+      "zone": "Orange"
+    },
+    {
+      "district": "Dhule",
+      "districtcode": "MH_Dhule",
+      "lastupdated": "01/05/2020",
+      "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
+      "state": "Maharashtra",
+      "statecode": "MH",
+      "zone": "Red"
+    },
+    {
+      "district": "Gadchiroli",
+      "districtcode": "MH_Gadchiroli",
+      "lastupdated": "01/05/2020",
+      "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
+      "state": "Maharashtra",
+      "statecode": "MH",
+      "zone": "Green"
+    },
+    {
+      "district": "Gondia",
+      "districtcode": "MH_Gondia",
+      "lastupdated": "01/05/2020",
+      "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
+      "state": "Maharashtra",
+      "statecode": "MH",
+      "zone": "Green"
+    },
+    {
+      "district": "Hingoli",
+      "districtcode": "MH_Hingoli",
+      "lastupdated": "01/05/2020",
+      "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
+      "state": "Maharashtra",
+      "statecode": "MH",
+      "zone": "Orange"
+    },
+    {
+      "district": "Jalgaon",
+      "districtcode": "MH_Jalgaon",
+      "lastupdated": "01/05/2020",
+      "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
+      "state": "Maharashtra",
+      "statecode": "MH",
+      "zone": "Red"
+    },
+    {
+      "district": "Jalna",
+      "districtcode": "MH_Jalna",
+      "lastupdated": "01/05/2020",
+      "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
+      "state": "Maharashtra",
+      "statecode": "MH",
+      "zone": "Orange"
+    },
+    {
+      "district": "Kolhapur",
+      "districtcode": "MH_Kolhapur",
+      "lastupdated": "01/05/2020",
+      "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
+      "state": "Maharashtra",
+      "statecode": "MH",
+      "zone": "Orange"
+    },
+    {
+      "district": "Latur",
+      "districtcode": "MH_Latur",
+      "lastupdated": "01/05/2020",
+      "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
+      "state": "Maharashtra",
+      "statecode": "MH",
+      "zone": "Orange"
+    },
+    {
+      "district": "Mumbai",
+      "districtcode": "MH_Mumbai",
+      "lastupdated": "01/05/2020",
+      "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
+      "state": "Maharashtra",
+      "statecode": "MH",
+      "zone": "Red"
+    },
+    {
+      "district": "Mumbai Suburban",
+      "districtcode": "MH_Mumbai Suburban",
+      "lastupdated": "01/05/2020",
+      "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
+      "state": "Maharashtra",
+      "statecode": "MH",
+      "zone": "Red"
+    },
+    {
+      "district": "Nagpur",
+      "districtcode": "MH_Nagpur",
+      "lastupdated": "01/05/2020",
+      "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
+      "state": "Maharashtra",
+      "statecode": "MH",
+      "zone": "Red"
+    },
+    {
+      "district": "Nanded",
+      "districtcode": "MH_Nanded",
+      "lastupdated": "01/05/2020",
+      "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
+      "state": "Maharashtra",
+      "statecode": "MH",
+      "zone": "Orange"
+    },
+    {
+      "district": "Nandurbar",
+      "districtcode": "MH_Nandurbar",
+      "lastupdated": "01/05/2020",
+      "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
+      "state": "Maharashtra",
+      "statecode": "MH",
+      "zone": "Orange"
+    },
+    {
+      "district": "Nashik",
+      "districtcode": "MH_Nashik",
+      "lastupdated": "01/05/2020",
+      "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
+      "state": "Maharashtra",
+      "statecode": "MH",
+      "zone": "Red"
+    },
+    {
+      "district": "Osmanabad",
+      "districtcode": "MH_Osmanabad",
+      "lastupdated": "01/05/2020",
+      "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
+      "state": "Maharashtra",
+      "statecode": "MH",
+      "zone": "Green"
+    },
+    {
+      "district": "Palghar",
+      "districtcode": "MH_Palghar",
+      "lastupdated": "01/05/2020",
+      "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
+      "state": "Maharashtra",
+      "statecode": "MH",
+      "zone": "Red"
+    },
+    {
+      "district": "Parbhani",
+      "districtcode": "MH_Parbhani",
+      "lastupdated": "01/05/2020",
+      "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
+      "state": "Maharashtra",
+      "statecode": "MH",
+      "zone": "Orange"
+    },
+    {
+      "district": "Pune",
+      "districtcode": "MH_Pune",
+      "lastupdated": "01/05/2020",
+      "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
+      "state": "Maharashtra",
+      "statecode": "MH",
+      "zone": "Red"
+    },
+    {
+      "district": "Raigad",
+      "districtcode": "MH_Raigad",
+      "lastupdated": "01/05/2020",
+      "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
+      "state": "Maharashtra",
+      "statecode": "MH",
+      "zone": "Orange"
+    },
+    {
+      "district": "Ratnagiri",
+      "districtcode": "MH_Ratnagiri",
+      "lastupdated": "01/05/2020",
+      "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
+      "state": "Maharashtra",
+      "statecode": "MH",
+      "zone": "Orange"
+    },
+    {
+      "district": "Sangli",
+      "districtcode": "MH_Sangli",
+      "lastupdated": "01/05/2020",
+      "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
+      "state": "Maharashtra",
+      "statecode": "MH",
+      "zone": "Orange"
+    },
+    {
+      "district": "Satara",
+      "districtcode": "MH_Satara",
+      "lastupdated": "01/05/2020",
+      "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
+      "state": "Maharashtra",
+      "statecode": "MH",
+      "zone": "Red"
+    },
+    {
+      "district": "Sindhudurg",
+      "districtcode": "MH_Sindhudurg",
+      "lastupdated": "01/05/2020",
+      "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
+      "state": "Maharashtra",
+      "statecode": "MH",
+      "zone": "Green"
+    },
+    {
+      "district": "Solapur",
+      "districtcode": "MH_Solapur",
+      "lastupdated": "01/05/2020",
+      "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
+      "state": "Maharashtra",
+      "statecode": "MH",
+      "zone": "Red"
+    },
+    {
+      "district": "Thane",
+      "districtcode": "MH_Thane",
+      "lastupdated": "01/05/2020",
+      "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
+      "state": "Maharashtra",
+      "statecode": "MH",
+      "zone": "Red"
+    },
+    {
+      "district": "Wardha",
+      "districtcode": "MH_Wardha",
+      "lastupdated": "01/05/2020",
+      "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
+      "state": "Maharashtra",
+      "statecode": "MH",
+      "zone": "Green"
+    },
+    {
+      "district": "Washim",
+      "districtcode": "MH_Washim",
+      "lastupdated": "01/05/2020",
+      "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
+      "state": "Maharashtra",
+      "statecode": "MH",
+      "zone": "Green"
+    },
+    {
+      "district": "Yavatmal",
+      "districtcode": "MH_Yavatmal",
+      "lastupdated": "01/05/2020",
+      "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
+      "state": "Maharashtra",
+      "statecode": "MH",
+      "zone": "Red"
+    },
+    {
+      "district": "East Garo Hills",
+      "districtcode": "ML_East Garo Hills",
+      "lastupdated": "01/05/2020",
+      "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
+      "state": "Meghalaya",
+      "statecode": "ML",
+      "zone": "Green"
+    },
+    {
+      "district": "East Jaintia Hills",
+      "districtcode": "ML_East Jaintia Hills",
+      "lastupdated": "01/05/2020",
+      "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
+      "state": "Meghalaya",
+      "statecode": "ML",
+      "zone": "Green"
+    },
+    {
+      "district": "East Khasi Hills",
+      "districtcode": "ML_East Khasi Hills",
+      "lastupdated": "01/05/2020",
+      "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
+      "state": "Meghalaya",
+      "statecode": "ML",
+      "zone": "Orange"
+    },
+    {
+      "district": "North Garo Hills",
+      "districtcode": "ML_North Garo Hills",
+      "lastupdated": "01/05/2020",
+      "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
+      "state": "Meghalaya",
+      "statecode": "ML",
+      "zone": "Green"
+    },
+    {
+      "district": "Ribhoi",
+      "districtcode": "ML_Ribhoi",
+      "lastupdated": "01/05/2020",
+      "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
+      "state": "Meghalaya",
+      "statecode": "ML",
+      "zone": "Green"
+    },
+    {
+      "district": "South Garo Hills",
+      "districtcode": "ML_South Garo Hills",
+      "lastupdated": "01/05/2020",
+      "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
+      "state": "Meghalaya",
+      "statecode": "ML",
+      "zone": "Green"
+    },
+    {
+      "district": "South West Garo Hills",
+      "districtcode": "ML_South West Garo Hills",
+      "lastupdated": "01/05/2020",
+      "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
+      "state": "Meghalaya",
+      "statecode": "ML",
+      "zone": "Green"
+    },
+    {
+      "district": "South West Khasi Hills",
+      "districtcode": "ML_South West Khasi Hills",
+      "lastupdated": "01/05/2020",
+      "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
+      "state": "Meghalaya",
+      "statecode": "ML",
+      "zone": "Green"
+    },
+    {
+      "district": "West Garo Hills",
+      "districtcode": "ML_West Garo Hills",
+      "lastupdated": "01/05/2020",
+      "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
+      "state": "Meghalaya",
+      "statecode": "ML",
+      "zone": "Green"
+    },
+    {
+      "district": "West Jaintia Hills",
+      "districtcode": "ML_West Jaintia Hills",
+      "lastupdated": "01/05/2020",
+      "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
+      "state": "Meghalaya",
+      "statecode": "ML",
+      "zone": "Green"
+    },
+    {
+      "district": "West Khasi Hills",
+      "districtcode": "ML_West Khasi Hills",
+      "lastupdated": "01/05/2020",
+      "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
+      "state": "Meghalaya",
+      "statecode": "ML",
+      "zone": "Green"
+    },
+    {
+      "district": "Bishnupur",
+      "districtcode": "MN_Bishnupur",
+      "lastupdated": "01/05/2020",
+      "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
+      "state": "Manipur",
+      "statecode": "MN",
+      "zone": "Green"
+    },
+    {
+      "district": "Chandel",
+      "districtcode": "MN_Chandel",
+      "lastupdated": "01/05/2020",
+      "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
+      "state": "Manipur",
+      "statecode": "MN",
+      "zone": "Green"
+    },
+    {
+      "district": "Churachandpur",
+      "districtcode": "MN_Churachandpur",
+      "lastupdated": "01/05/2020",
+      "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
+      "state": "Manipur",
+      "statecode": "MN",
+      "zone": "Green"
+    },
+    {
+      "district": "Imphal East",
+      "districtcode": "MN_Imphal East",
+      "lastupdated": "01/05/2020",
+      "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
+      "state": "Manipur",
+      "statecode": "MN",
+      "zone": "Green"
+    },
+    {
+      "district": "Imphal West",
+      "districtcode": "MN_Imphal West",
+      "lastupdated": "01/05/2020",
+      "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
+      "state": "Manipur",
+      "statecode": "MN",
+      "zone": "Green"
+    },
+    {
+      "district": "Jiribam",
+      "districtcode": "MN_Jiribam",
+      "lastupdated": "01/05/2020",
+      "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
+      "state": "Manipur",
+      "statecode": "MN",
+      "zone": "Green"
+    },
+    {
+      "district": "Kakching",
+      "districtcode": "MN_Kakching",
+      "lastupdated": "01/05/2020",
+      "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
+      "state": "Manipur",
+      "statecode": "MN",
+      "zone": "Green"
+    },
+    {
+      "district": "Kamjong",
+      "districtcode": "MN_Kamjong",
+      "lastupdated": "01/05/2020",
+      "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
+      "state": "Manipur",
+      "statecode": "MN",
+      "zone": "Green"
+    },
+    {
+      "district": "Kangpokpi",
+      "districtcode": "MN_Kangpokpi",
+      "lastupdated": "01/05/2020",
+      "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
+      "state": "Manipur",
+      "statecode": "MN",
+      "zone": "Green"
+    },
+    {
+      "district": "Noney",
+      "districtcode": "MN_Noney",
+      "lastupdated": "01/05/2020",
+      "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
+      "state": "Manipur",
+      "statecode": "MN",
+      "zone": "Green"
+    },
+    {
+      "district": "Pherzawl",
+      "districtcode": "MN_Pherzawl",
+      "lastupdated": "01/05/2020",
+      "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
+      "state": "Manipur",
+      "statecode": "MN",
+      "zone": "Green"
+    },
+    {
+      "district": "Senapati",
+      "districtcode": "MN_Senapati",
+      "lastupdated": "01/05/2020",
+      "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
+      "state": "Manipur",
+      "statecode": "MN",
+      "zone": "Green"
+    },
+    {
+      "district": "Tamenglong",
+      "districtcode": "MN_Tamenglong",
+      "lastupdated": "01/05/2020",
+      "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
+      "state": "Manipur",
+      "statecode": "MN",
+      "zone": "Green"
+    },
+    {
+      "district": "Tengnoupal",
+      "districtcode": "MN_Tengnoupal",
+      "lastupdated": "01/05/2020",
+      "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
+      "state": "Manipur",
+      "statecode": "MN",
+      "zone": "Green"
+    },
+    {
+      "district": "Thoubal",
+      "districtcode": "MN_Thoubal",
+      "lastupdated": "01/05/2020",
+      "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
+      "state": "Manipur",
+      "statecode": "MN",
+      "zone": "Green"
+    },
+    {
+      "district": "Ukhrul",
+      "districtcode": "MN_Ukhrul",
+      "lastupdated": "01/05/2020",
+      "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
+      "state": "Manipur",
+      "statecode": "MN",
       "zone": "Green"
     },
     {
@@ -3313,575 +3880,17 @@
       "zone": "Orange"
     },
     {
-      "district": "Ahmednagar",
-      "districtcode": "MH_Ahmednagar",
+      "district": "Aizawl",
+      "districtcode": "MZ_Aizawl",
       "lastupdated": "01/05/2020",
       "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
-      "state": "Maharashtra",
-      "statecode": "MH",
-      "zone": "Orange"
-    },
-    {
-      "district": "Akola",
-      "districtcode": "MH_Akola",
-      "lastupdated": "01/05/2020",
-      "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
-      "state": "Maharashtra",
-      "statecode": "MH",
-      "zone": "Red"
-    },
-    {
-      "district": "Amravati",
-      "districtcode": "MH_Amravati",
-      "lastupdated": "01/05/2020",
-      "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
-      "state": "Maharashtra",
-      "statecode": "MH",
-      "zone": "Orange"
-    },
-    {
-      "district": "Aurangabad",
-      "districtcode": "MH_Aurangabad",
-      "lastupdated": "01/05/2020",
-      "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
-      "state": "Maharashtra",
-      "statecode": "MH",
-      "zone": "Red"
-    },
-    {
-      "district": "Bhandara",
-      "districtcode": "MH_Bhandara",
-      "lastupdated": "01/05/2020",
-      "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
-      "state": "Maharashtra",
-      "statecode": "MH",
-      "zone": "Orange"
-    },
-    {
-      "district": "Beed",
-      "districtcode": "MH_Beed",
-      "lastupdated": "01/05/2020",
-      "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
-      "state": "Maharashtra",
-      "statecode": "MH",
-      "zone": "Orange"
-    },
-    {
-      "district": "Buldhana",
-      "districtcode": "MH_Buldhana",
-      "lastupdated": "01/05/2020",
-      "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
-      "state": "Maharashtra",
-      "statecode": "MH",
-      "zone": "Orange"
-    },
-    {
-      "district": "Chandrapur",
-      "districtcode": "MH_Chandrapur",
-      "lastupdated": "01/05/2020",
-      "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
-      "state": "Maharashtra",
-      "statecode": "MH",
-      "zone": "Orange"
-    },
-    {
-      "district": "Dhule",
-      "districtcode": "MH_Dhule",
-      "lastupdated": "01/05/2020",
-      "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
-      "state": "Maharashtra",
-      "statecode": "MH",
-      "zone": "Red"
-    },
-    {
-      "district": "Gadchiroli",
-      "districtcode": "MH_Gadchiroli",
-      "lastupdated": "01/05/2020",
-      "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
-      "state": "Maharashtra",
-      "statecode": "MH",
+      "state": "Mizoram",
+      "statecode": "MZ",
       "zone": "Green"
     },
     {
-      "district": "Gondia",
-      "districtcode": "MH_Gondia",
-      "lastupdated": "01/05/2020",
-      "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
-      "state": "Maharashtra",
-      "statecode": "MH",
-      "zone": "Green"
-    },
-    {
-      "district": "Hingoli",
-      "districtcode": "MH_Hingoli",
-      "lastupdated": "01/05/2020",
-      "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
-      "state": "Maharashtra",
-      "statecode": "MH",
-      "zone": "Orange"
-    },
-    {
-      "district": "Jalgaon",
-      "districtcode": "MH_Jalgaon",
-      "lastupdated": "01/05/2020",
-      "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
-      "state": "Maharashtra",
-      "statecode": "MH",
-      "zone": "Red"
-    },
-    {
-      "district": "Jalna",
-      "districtcode": "MH_Jalna",
-      "lastupdated": "01/05/2020",
-      "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
-      "state": "Maharashtra",
-      "statecode": "MH",
-      "zone": "Orange"
-    },
-    {
-      "district": "Kolhapur",
-      "districtcode": "MH_Kolhapur",
-      "lastupdated": "01/05/2020",
-      "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
-      "state": "Maharashtra",
-      "statecode": "MH",
-      "zone": "Orange"
-    },
-    {
-      "district": "Latur",
-      "districtcode": "MH_Latur",
-      "lastupdated": "01/05/2020",
-      "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
-      "state": "Maharashtra",
-      "statecode": "MH",
-      "zone": "Orange"
-    },
-    {
-      "district": "Mumbai",
-      "districtcode": "MH_Mumbai",
-      "lastupdated": "01/05/2020",
-      "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
-      "state": "Maharashtra",
-      "statecode": "MH",
-      "zone": "Red"
-    },
-    {
-      "district": "Mumbai Suburban",
-      "districtcode": "MH_Mumbai Suburban",
-      "lastupdated": "01/05/2020",
-      "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
-      "state": "Maharashtra",
-      "statecode": "MH",
-      "zone": "Red"
-    },
-    {
-      "district": "Nagpur",
-      "districtcode": "MH_Nagpur",
-      "lastupdated": "01/05/2020",
-      "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
-      "state": "Maharashtra",
-      "statecode": "MH",
-      "zone": "Red"
-    },
-    {
-      "district": "Nanded",
-      "districtcode": "MH_Nanded",
-      "lastupdated": "01/05/2020",
-      "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
-      "state": "Maharashtra",
-      "statecode": "MH",
-      "zone": "Orange"
-    },
-    {
-      "district": "Nandurbar",
-      "districtcode": "MH_Nandurbar",
-      "lastupdated": "01/05/2020",
-      "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
-      "state": "Maharashtra",
-      "statecode": "MH",
-      "zone": "Orange"
-    },
-    {
-      "district": "Nashik",
-      "districtcode": "MH_Nashik",
-      "lastupdated": "01/05/2020",
-      "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
-      "state": "Maharashtra",
-      "statecode": "MH",
-      "zone": "Red"
-    },
-    {
-      "district": "Osmanabad",
-      "districtcode": "MH_Osmanabad",
-      "lastupdated": "01/05/2020",
-      "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
-      "state": "Maharashtra",
-      "statecode": "MH",
-      "zone": "Green"
-    },
-    {
-      "district": "Palghar",
-      "districtcode": "MH_Palghar",
-      "lastupdated": "01/05/2020",
-      "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
-      "state": "Maharashtra",
-      "statecode": "MH",
-      "zone": "Red"
-    },
-    {
-      "district": "Parbhani",
-      "districtcode": "MH_Parbhani",
-      "lastupdated": "01/05/2020",
-      "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
-      "state": "Maharashtra",
-      "statecode": "MH",
-      "zone": "Orange"
-    },
-    {
-      "district": "Pune",
-      "districtcode": "MH_Pune",
-      "lastupdated": "01/05/2020",
-      "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
-      "state": "Maharashtra",
-      "statecode": "MH",
-      "zone": "Red"
-    },
-    {
-      "district": "Raigad",
-      "districtcode": "MH_Raigad",
-      "lastupdated": "01/05/2020",
-      "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
-      "state": "Maharashtra",
-      "statecode": "MH",
-      "zone": "Orange"
-    },
-    {
-      "district": "Ratnagiri",
-      "districtcode": "MH_Ratnagiri",
-      "lastupdated": "01/05/2020",
-      "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
-      "state": "Maharashtra",
-      "statecode": "MH",
-      "zone": "Orange"
-    },
-    {
-      "district": "Sangli",
-      "districtcode": "MH_Sangli",
-      "lastupdated": "01/05/2020",
-      "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
-      "state": "Maharashtra",
-      "statecode": "MH",
-      "zone": "Orange"
-    },
-    {
-      "district": "Satara",
-      "districtcode": "MH_Satara",
-      "lastupdated": "01/05/2020",
-      "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
-      "state": "Maharashtra",
-      "statecode": "MH",
-      "zone": "Red"
-    },
-    {
-      "district": "Sindhudurg",
-      "districtcode": "MH_Sindhudurg",
-      "lastupdated": "01/05/2020",
-      "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
-      "state": "Maharashtra",
-      "statecode": "MH",
-      "zone": "Green"
-    },
-    {
-      "district": "Solapur",
-      "districtcode": "MH_Solapur",
-      "lastupdated": "01/05/2020",
-      "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
-      "state": "Maharashtra",
-      "statecode": "MH",
-      "zone": "Red"
-    },
-    {
-      "district": "Thane",
-      "districtcode": "MH_Thane",
-      "lastupdated": "01/05/2020",
-      "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
-      "state": "Maharashtra",
-      "statecode": "MH",
-      "zone": "Red"
-    },
-    {
-      "district": "Wardha",
-      "districtcode": "MH_Wardha",
-      "lastupdated": "01/05/2020",
-      "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
-      "state": "Maharashtra",
-      "statecode": "MH",
-      "zone": "Green"
-    },
-    {
-      "district": "Washim",
-      "districtcode": "MH_Washim",
-      "lastupdated": "01/05/2020",
-      "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
-      "state": "Maharashtra",
-      "statecode": "MH",
-      "zone": "Green"
-    },
-    {
-      "district": "Yavatmal",
-      "districtcode": "MH_Yavatmal",
-      "lastupdated": "01/05/2020",
-      "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
-      "state": "Maharashtra",
-      "statecode": "MH",
-      "zone": "Red"
-    },
-    {
-      "district": "Bishnupur",
-      "districtcode": "MN_Bishnupur",
-      "lastupdated": "01/05/2020",
-      "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
-      "state": "Manipur",
-      "statecode": "MN",
-      "zone": "Green"
-    },
-    {
-      "district": "Chandel",
-      "districtcode": "MN_Chandel",
-      "lastupdated": "01/05/2020",
-      "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
-      "state": "Manipur",
-      "statecode": "MN",
-      "zone": "Green"
-    },
-    {
-      "district": "Churachandpur",
-      "districtcode": "MN_Churachandpur",
-      "lastupdated": "01/05/2020",
-      "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
-      "state": "Manipur",
-      "statecode": "MN",
-      "zone": "Green"
-    },
-    {
-      "district": "Imphal East",
-      "districtcode": "MN_Imphal East",
-      "lastupdated": "01/05/2020",
-      "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
-      "state": "Manipur",
-      "statecode": "MN",
-      "zone": "Green"
-    },
-    {
-      "district": "Imphal West",
-      "districtcode": "MN_Imphal West",
-      "lastupdated": "01/05/2020",
-      "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
-      "state": "Manipur",
-      "statecode": "MN",
-      "zone": "Green"
-    },
-    {
-      "district": "Jiribam",
-      "districtcode": "MN_Jiribam",
-      "lastupdated": "01/05/2020",
-      "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
-      "state": "Manipur",
-      "statecode": "MN",
-      "zone": "Green"
-    },
-    {
-      "district": "Kakching",
-      "districtcode": "MN_Kakching",
-      "lastupdated": "01/05/2020",
-      "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
-      "state": "Manipur",
-      "statecode": "MN",
-      "zone": "Green"
-    },
-    {
-      "district": "Kamjong",
-      "districtcode": "MN_Kamjong",
-      "lastupdated": "01/05/2020",
-      "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
-      "state": "Manipur",
-      "statecode": "MN",
-      "zone": "Green"
-    },
-    {
-      "district": "Kangpokpi",
-      "districtcode": "MN_Kangpokpi",
-      "lastupdated": "01/05/2020",
-      "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
-      "state": "Manipur",
-      "statecode": "MN",
-      "zone": "Green"
-    },
-    {
-      "district": "Noney",
-      "districtcode": "MN_Noney",
-      "lastupdated": "01/05/2020",
-      "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
-      "state": "Manipur",
-      "statecode": "MN",
-      "zone": "Green"
-    },
-    {
-      "district": "Pherzawl",
-      "districtcode": "MN_Pherzawl",
-      "lastupdated": "01/05/2020",
-      "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
-      "state": "Manipur",
-      "statecode": "MN",
-      "zone": "Green"
-    },
-    {
-      "district": "Senapati",
-      "districtcode": "MN_Senapati",
-      "lastupdated": "01/05/2020",
-      "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
-      "state": "Manipur",
-      "statecode": "MN",
-      "zone": "Green"
-    },
-    {
-      "district": "Tamenglong",
-      "districtcode": "MN_Tamenglong",
-      "lastupdated": "01/05/2020",
-      "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
-      "state": "Manipur",
-      "statecode": "MN",
-      "zone": "Green"
-    },
-    {
-      "district": "Tengnoupal",
-      "districtcode": "MN_Tengnoupal",
-      "lastupdated": "01/05/2020",
-      "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
-      "state": "Manipur",
-      "statecode": "MN",
-      "zone": "Green"
-    },
-    {
-      "district": "Thoubal",
-      "districtcode": "MN_Thoubal",
-      "lastupdated": "01/05/2020",
-      "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
-      "state": "Manipur",
-      "statecode": "MN",
-      "zone": "Green"
-    },
-    {
-      "district": "Ukhrul",
-      "districtcode": "MN_Ukhrul",
-      "lastupdated": "01/05/2020",
-      "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
-      "state": "Manipur",
-      "statecode": "MN",
-      "zone": "Green"
-    },
-    {
-      "district": "East Garo Hills",
-      "districtcode": "ML_East Garo Hills",
-      "lastupdated": "01/05/2020",
-      "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
-      "state": "Meghalaya",
-      "statecode": "ML",
-      "zone": "Green"
-    },
-    {
-      "district": "East Jaintia Hills",
-      "districtcode": "ML_East Jaintia Hills",
-      "lastupdated": "01/05/2020",
-      "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
-      "state": "Meghalaya",
-      "statecode": "ML",
-      "zone": "Green"
-    },
-    {
-      "district": "East Khasi Hills",
-      "districtcode": "ML_East Khasi Hills",
-      "lastupdated": "01/05/2020",
-      "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
-      "state": "Meghalaya",
-      "statecode": "ML",
-      "zone": "Orange"
-    },
-    {
-      "district": "North Garo Hills",
-      "districtcode": "ML_North Garo Hills",
-      "lastupdated": "01/05/2020",
-      "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
-      "state": "Meghalaya",
-      "statecode": "ML",
-      "zone": "Green"
-    },
-    {
-      "district": "Ribhoi",
-      "districtcode": "ML_Ribhoi",
-      "lastupdated": "01/05/2020",
-      "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
-      "state": "Meghalaya",
-      "statecode": "ML",
-      "zone": "Green"
-    },
-    {
-      "district": "South Garo Hills",
-      "districtcode": "ML_South Garo Hills",
-      "lastupdated": "01/05/2020",
-      "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
-      "state": "Meghalaya",
-      "statecode": "ML",
-      "zone": "Green"
-    },
-    {
-      "district": "South West Garo Hills",
-      "districtcode": "ML_South West Garo Hills",
-      "lastupdated": "01/05/2020",
-      "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
-      "state": "Meghalaya",
-      "statecode": "ML",
-      "zone": "Green"
-    },
-    {
-      "district": "South West Khasi Hills",
-      "districtcode": "ML_South West Khasi Hills",
-      "lastupdated": "01/05/2020",
-      "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
-      "state": "Meghalaya",
-      "statecode": "ML",
-      "zone": "Green"
-    },
-    {
-      "district": "West Garo Hills",
-      "districtcode": "ML_West Garo Hills",
-      "lastupdated": "01/05/2020",
-      "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
-      "state": "Meghalaya",
-      "statecode": "ML",
-      "zone": "Green"
-    },
-    {
-      "district": "West Jaintia Hills",
-      "districtcode": "ML_West Jaintia Hills",
-      "lastupdated": "01/05/2020",
-      "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
-      "state": "Meghalaya",
-      "statecode": "ML",
-      "zone": "Green"
-    },
-    {
-      "district": "West Khasi Hills",
-      "districtcode": "ML_West Khasi Hills",
-      "lastupdated": "01/05/2020",
-      "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
-      "state": "Meghalaya",
-      "statecode": "ML",
-      "zone": "Green"
-    },
-    {
-      "district": "Saitual",
-      "districtcode": "MZ_Saitual",
+      "district": "Champhai",
+      "districtcode": "MZ_Champhai",
       "lastupdated": "01/05/2020",
       "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
       "state": "Mizoram",
@@ -3900,24 +3909,6 @@
     {
       "district": "Khawzawl",
       "districtcode": "MZ_Khawzawl",
-      "lastupdated": "01/05/2020",
-      "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
-      "state": "Mizoram",
-      "statecode": "MZ",
-      "zone": "Green"
-    },
-    {
-      "district": "Aizawl",
-      "districtcode": "MZ_Aizawl",
-      "lastupdated": "01/05/2020",
-      "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
-      "state": "Mizoram",
-      "statecode": "MZ",
-      "zone": "Green"
-    },
-    {
-      "district": "Champhai",
-      "districtcode": "MZ_Champhai",
       "lastupdated": "01/05/2020",
       "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
       "state": "Mizoram",
@@ -3963,6 +3954,15 @@
     {
       "district": "Saiha",
       "districtcode": "MZ_Saiha",
+      "lastupdated": "01/05/2020",
+      "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
+      "state": "Mizoram",
+      "statecode": "MZ",
+      "zone": "Green"
+    },
+    {
+      "district": "Saitual",
+      "districtcode": "MZ_Saitual",
       "lastupdated": "01/05/2020",
       "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
       "state": "Mizoram",
@@ -4114,15 +4114,6 @@
       "zone": "Green"
     },
     {
-      "district": "Boudh",
-      "districtcode": "OR_Boudh",
-      "lastupdated": "01/05/2020",
-      "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
-      "state": "Odisha",
-      "statecode": "OR",
-      "zone": "Green"
-    },
-    {
       "district": "Bhadrak",
       "districtcode": "OR_Bhadrak",
       "lastupdated": "01/05/2020",
@@ -4130,6 +4121,15 @@
       "state": "Odisha",
       "statecode": "OR",
       "zone": "Red"
+    },
+    {
+      "district": "Boudh",
+      "districtcode": "OR_Boudh",
+      "lastupdated": "01/05/2020",
+      "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
+      "state": "Odisha",
+      "statecode": "OR",
+      "zone": "Green"
     },
     {
       "district": "Cuttack",
@@ -4348,42 +4348,6 @@
       "zone": "Orange"
     },
     {
-      "district": "Karaikal",
-      "districtcode": "PY_Karaikal",
-      "lastupdated": "01/05/2020",
-      "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
-      "state": "Puducherry",
-      "statecode": "PY",
-      "zone": "Green"
-    },
-    {
-      "district": "Mahe",
-      "districtcode": "PY_Mahe",
-      "lastupdated": "01/05/2020",
-      "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
-      "state": "Puducherry",
-      "statecode": "PY",
-      "zone": "Green"
-    },
-    {
-      "district": "Puducherry",
-      "districtcode": "PY_Puducherry",
-      "lastupdated": "01/05/2020",
-      "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
-      "state": "Puducherry",
-      "statecode": "PY",
-      "zone": "Orange"
-    },
-    {
-      "district": "Yanam",
-      "districtcode": "PY_Yanam",
-      "lastupdated": "01/05/2020",
-      "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
-      "state": "Puducherry",
-      "statecode": "PY",
-      "zone": "Green"
-    },
-    {
       "district": "Amritsar",
       "districtcode": "PB_Amritsar",
       "lastupdated": "01/05/2020",
@@ -4580,6 +4544,42 @@
       "state": "Punjab",
       "statecode": "PB",
       "zone": "Orange"
+    },
+    {
+      "district": "Karaikal",
+      "districtcode": "PY_Karaikal",
+      "lastupdated": "01/05/2020",
+      "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
+      "state": "Puducherry",
+      "statecode": "PY",
+      "zone": "Green"
+    },
+    {
+      "district": "Mahe",
+      "districtcode": "PY_Mahe",
+      "lastupdated": "01/05/2020",
+      "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
+      "state": "Puducherry",
+      "statecode": "PY",
+      "zone": "Green"
+    },
+    {
+      "district": "Puducherry",
+      "districtcode": "PY_Puducherry",
+      "lastupdated": "01/05/2020",
+      "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
+      "state": "Puducherry",
+      "statecode": "PY",
+      "zone": "Orange"
+    },
+    {
+      "district": "Yanam",
+      "districtcode": "PY_Yanam",
+      "lastupdated": "01/05/2020",
+      "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
+      "state": "Puducherry",
+      "statecode": "PY",
+      "zone": "Green"
     },
     {
       "district": "Ajmer",
@@ -4924,339 +4924,6 @@
       "zone": "Green"
     },
     {
-      "district": "Ariyalur",
-      "districtcode": "TN_Ariyalur",
-      "lastupdated": "01/05/2020",
-      "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
-      "state": "Tamil Nadu",
-      "statecode": "TN",
-      "zone": "Orange"
-    },
-    {
-      "district": "Chengalpattu",
-      "districtcode": "TN_Chengalpattu",
-      "lastupdated": "01/05/2020",
-      "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
-      "state": "Tamil Nadu",
-      "statecode": "TN",
-      "zone": "Red"
-    },
-    {
-      "district": "Chennai",
-      "districtcode": "TN_Chennai",
-      "lastupdated": "01/05/2020",
-      "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
-      "state": "Tamil Nadu",
-      "statecode": "TN",
-      "zone": "Red"
-    },
-    {
-      "district": "Coimbatore",
-      "districtcode": "TN_Coimbatore",
-      "lastupdated": "01/05/2020",
-      "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
-      "state": "Tamil Nadu",
-      "statecode": "TN",
-      "zone": "Orange"
-    },
-    {
-      "district": "Cuddalore",
-      "districtcode": "TN_Cuddalore",
-      "lastupdated": "01/05/2020",
-      "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
-      "state": "Tamil Nadu",
-      "statecode": "TN",
-      "zone": "Orange"
-    },
-    {
-      "district": "Dharmapuri",
-      "districtcode": "TN_Dharmapuri",
-      "lastupdated": "01/05/2020",
-      "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
-      "state": "Tamil Nadu",
-      "statecode": "TN",
-      "zone": "Orange"
-    },
-    {
-      "district": "Dindigul",
-      "districtcode": "TN_Dindigul",
-      "lastupdated": "01/05/2020",
-      "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
-      "state": "Tamil Nadu",
-      "statecode": "TN",
-      "zone": "Orange"
-    },
-    {
-      "district": "Erode",
-      "districtcode": "TN_Erode",
-      "lastupdated": "06/05/2020",
-      "source": "https://www.thehindu.com/news/cities/Coimbatore/erode-district-to-move-from-orange-to-green-zone/article31512900.ece",
-      "state": "Tamil Nadu",
-      "statecode": "TN",
-      "zone": "Green"
-    },
-    {
-      "district": "Kallakurichi",
-      "districtcode": "TN_Kallakurichi",
-      "lastupdated": "01/05/2020",
-      "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
-      "state": "Tamil Nadu",
-      "statecode": "TN",
-      "zone": "Orange"
-    },
-    {
-      "district": "Kancheepuram",
-      "districtcode": "TN_Kancheepuram",
-      "lastupdated": "01/05/2020",
-      "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
-      "state": "Tamil Nadu",
-      "statecode": "TN",
-      "zone": "Red"
-    },
-    {
-      "district": "Kanyakumari",
-      "districtcode": "TN_Kanyakumari",
-      "lastupdated": "01/05/2020",
-      "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
-      "state": "Tamil Nadu",
-      "statecode": "TN",
-      "zone": "Orange"
-    },
-    {
-      "district": "Karur",
-      "districtcode": "TN_Karur",
-      "lastupdated": "01/05/2020",
-      "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
-      "state": "Tamil Nadu",
-      "statecode": "TN",
-      "zone": "Orange"
-    },
-    {
-      "district": "Krishnagiri",
-      "districtcode": "TN_Krishnagiri",
-      "lastupdated": "01/05/2020",
-      "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
-      "state": "Tamil Nadu",
-      "statecode": "TN",
-      "zone": "Green"
-    },
-    {
-      "district": "Madurai",
-      "districtcode": "TN_Madurai",
-      "lastupdated": "01/05/2020",
-      "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
-      "state": "Tamil Nadu",
-      "statecode": "TN",
-      "zone": "Red"
-    },
-    {
-      "district": "Nagapattinam",
-      "districtcode": "TN_Nagapattinam",
-      "lastupdated": "01/05/2020",
-      "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
-      "state": "Tamil Nadu",
-      "statecode": "TN",
-      "zone": "Orange"
-    },
-    {
-      "district": "Namakkal",
-      "districtcode": "TN_Namakkal",
-      "lastupdated": "01/05/2020",
-      "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
-      "state": "Tamil Nadu",
-      "statecode": "TN",
-      "zone": "Red"
-    },
-    {
-      "district": "Perambalur",
-      "districtcode": "TN_Perambalur",
-      "lastupdated": "01/05/2020",
-      "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
-      "state": "Tamil Nadu",
-      "statecode": "TN",
-      "zone": "Orange"
-    },
-    {
-      "district": "Pudukkottai",
-      "districtcode": "TN_Pudukkottai",
-      "lastupdated": "01/05/2020",
-      "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
-      "state": "Tamil Nadu",
-      "statecode": "TN",
-      "zone": "Orange"
-    },
-    {
-      "district": "Ramanathapuram",
-      "districtcode": "TN_Ramanathapuram",
-      "lastupdated": "01/05/2020",
-      "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
-      "state": "Tamil Nadu",
-      "statecode": "TN",
-      "zone": "Orange"
-    },
-    {
-      "district": "Ranipet",
-      "districtcode": "TN_Ranipet",
-      "lastupdated": "01/05/2020",
-      "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
-      "state": "Tamil Nadu",
-      "statecode": "TN",
-      "zone": "Red"
-    },
-    {
-      "district": "Salem",
-      "districtcode": "TN_Salem",
-      "lastupdated": "01/05/2020",
-      "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
-      "state": "Tamil Nadu",
-      "statecode": "TN",
-      "zone": "Orange"
-    },
-    {
-      "district": "Sivaganga",
-      "districtcode": "TN_Sivaganga",
-      "lastupdated": "01/05/2020",
-      "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
-      "state": "Tamil Nadu",
-      "statecode": "TN",
-      "zone": "Orange"
-    },
-    {
-      "district": "Tenkasi",
-      "districtcode": "TN_Tenkasi",
-      "lastupdated": "01/05/2020",
-      "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
-      "state": "Tamil Nadu",
-      "statecode": "TN",
-      "zone": "Orange"
-    },
-    {
-      "district": "Thanjavur",
-      "districtcode": "TN_Thanjavur",
-      "lastupdated": "01/05/2020",
-      "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
-      "state": "Tamil Nadu",
-      "statecode": "TN",
-      "zone": "Red"
-    },
-    {
-      "district": "Nilgiris",
-      "districtcode": "TN_Nilgiris",
-      "lastupdated": "01/05/2020",
-      "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
-      "state": "Tamil Nadu",
-      "statecode": "TN",
-      "zone": "Orange"
-    },
-    {
-      "district": "Theni",
-      "districtcode": "TN_Theni",
-      "lastupdated": "01/05/2020",
-      "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
-      "state": "Tamil Nadu",
-      "statecode": "TN",
-      "zone": "Orange"
-    },
-    {
-      "district": "Thiruvallur",
-      "districtcode": "TN_Thiruvallur",
-      "lastupdated": "01/05/2020",
-      "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
-      "state": "Tamil Nadu",
-      "statecode": "TN",
-      "zone": "Red"
-    },
-    {
-      "district": "Thiruvarur",
-      "districtcode": "TN_Thiruvarur",
-      "lastupdated": "01/05/2020",
-      "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
-      "state": "Tamil Nadu",
-      "statecode": "TN",
-      "zone": "Red"
-    },
-    {
-      "district": "Thoothukkudi",
-      "districtcode": "TN_Thoothukkudi",
-      "lastupdated": "01/05/2020",
-      "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
-      "state": "Tamil Nadu",
-      "statecode": "TN",
-      "zone": "Orange"
-    },
-    {
-      "district": "Tiruchirappalli",
-      "districtcode": "TN_Tiruchirappalli",
-      "lastupdated": "01/05/2020",
-      "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
-      "state": "Tamil Nadu",
-      "statecode": "TN",
-      "zone": "Orange"
-    },
-    {
-      "district": "Tirunelveli",
-      "districtcode": "TN_Tirunelveli",
-      "lastupdated": "01/05/2020",
-      "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
-      "state": "Tamil Nadu",
-      "statecode": "TN",
-      "zone": "Orange"
-    },
-    {
-      "district": "Tirupathur",
-      "districtcode": "TN_Tirupathur",
-      "lastupdated": "01/05/2020",
-      "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
-      "state": "Tamil Nadu",
-      "statecode": "TN",
-      "zone": "Orange"
-    },
-    {
-      "district": "Tiruppur",
-      "districtcode": "TN_Tiruppur",
-      "lastupdated": "01/05/2020",
-      "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
-      "state": "Tamil Nadu",
-      "statecode": "TN",
-      "zone": "Red"
-    },
-    {
-      "district": "Tiruvannamalai",
-      "districtcode": "TN_Tiruvannamalai",
-      "lastupdated": "01/05/2020",
-      "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
-      "state": "Tamil Nadu",
-      "statecode": "TN",
-      "zone": "Orange"
-    },
-    {
-      "district": "Vellore",
-      "districtcode": "TN_Vellore",
-      "lastupdated": "01/05/2020",
-      "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
-      "state": "Tamil Nadu",
-      "statecode": "TN",
-      "zone": "Red"
-    },
-    {
-      "district": "Viluppuram",
-      "districtcode": "TN_Viluppuram",
-      "lastupdated": "01/05/2020",
-      "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
-      "state": "Tamil Nadu",
-      "statecode": "TN",
-      "zone": "Orange"
-    },
-    {
-      "district": "Virudhunagar",
-      "districtcode": "TN_Virudhunagar",
-      "lastupdated": "01/05/2020",
-      "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
-      "state": "Tamil Nadu",
-      "statecode": "TN",
-      "zone": "Red"
-    },
-    {
       "district": "Adilabad",
       "districtcode": "TG_Adilabad",
       "lastupdated": "01/05/2020",
@@ -5552,6 +5219,339 @@
       "state": "Telangana",
       "statecode": "TG",
       "zone": "Green"
+    },
+    {
+      "district": "Ariyalur",
+      "districtcode": "TN_Ariyalur",
+      "lastupdated": "01/05/2020",
+      "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
+      "state": "Tamil Nadu",
+      "statecode": "TN",
+      "zone": "Orange"
+    },
+    {
+      "district": "Chengalpattu",
+      "districtcode": "TN_Chengalpattu",
+      "lastupdated": "01/05/2020",
+      "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
+      "state": "Tamil Nadu",
+      "statecode": "TN",
+      "zone": "Red"
+    },
+    {
+      "district": "Chennai",
+      "districtcode": "TN_Chennai",
+      "lastupdated": "01/05/2020",
+      "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
+      "state": "Tamil Nadu",
+      "statecode": "TN",
+      "zone": "Red"
+    },
+    {
+      "district": "Coimbatore",
+      "districtcode": "TN_Coimbatore",
+      "lastupdated": "01/05/2020",
+      "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
+      "state": "Tamil Nadu",
+      "statecode": "TN",
+      "zone": "Orange"
+    },
+    {
+      "district": "Cuddalore",
+      "districtcode": "TN_Cuddalore",
+      "lastupdated": "01/05/2020",
+      "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
+      "state": "Tamil Nadu",
+      "statecode": "TN",
+      "zone": "Orange"
+    },
+    {
+      "district": "Dharmapuri",
+      "districtcode": "TN_Dharmapuri",
+      "lastupdated": "01/05/2020",
+      "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
+      "state": "Tamil Nadu",
+      "statecode": "TN",
+      "zone": "Orange"
+    },
+    {
+      "district": "Dindigul",
+      "districtcode": "TN_Dindigul",
+      "lastupdated": "01/05/2020",
+      "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
+      "state": "Tamil Nadu",
+      "statecode": "TN",
+      "zone": "Orange"
+    },
+    {
+      "district": "Erode",
+      "districtcode": "TN_Erode",
+      "lastupdated": "06/05/2020",
+      "source": "https://www.thehindu.com/news/cities/Coimbatore/erode-district-to-move-from-orange-to-green-zone/article31512900.ece",
+      "state": "Tamil Nadu",
+      "statecode": "TN",
+      "zone": "Green"
+    },
+    {
+      "district": "Kallakurichi",
+      "districtcode": "TN_Kallakurichi",
+      "lastupdated": "01/05/2020",
+      "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
+      "state": "Tamil Nadu",
+      "statecode": "TN",
+      "zone": "Orange"
+    },
+    {
+      "district": "Kancheepuram",
+      "districtcode": "TN_Kancheepuram",
+      "lastupdated": "01/05/2020",
+      "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
+      "state": "Tamil Nadu",
+      "statecode": "TN",
+      "zone": "Red"
+    },
+    {
+      "district": "Kanyakumari",
+      "districtcode": "TN_Kanyakumari",
+      "lastupdated": "01/05/2020",
+      "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
+      "state": "Tamil Nadu",
+      "statecode": "TN",
+      "zone": "Orange"
+    },
+    {
+      "district": "Karur",
+      "districtcode": "TN_Karur",
+      "lastupdated": "01/05/2020",
+      "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
+      "state": "Tamil Nadu",
+      "statecode": "TN",
+      "zone": "Orange"
+    },
+    {
+      "district": "Krishnagiri",
+      "districtcode": "TN_Krishnagiri",
+      "lastupdated": "01/05/2020",
+      "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
+      "state": "Tamil Nadu",
+      "statecode": "TN",
+      "zone": "Green"
+    },
+    {
+      "district": "Madurai",
+      "districtcode": "TN_Madurai",
+      "lastupdated": "01/05/2020",
+      "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
+      "state": "Tamil Nadu",
+      "statecode": "TN",
+      "zone": "Red"
+    },
+    {
+      "district": "Nagapattinam",
+      "districtcode": "TN_Nagapattinam",
+      "lastupdated": "01/05/2020",
+      "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
+      "state": "Tamil Nadu",
+      "statecode": "TN",
+      "zone": "Orange"
+    },
+    {
+      "district": "Namakkal",
+      "districtcode": "TN_Namakkal",
+      "lastupdated": "01/05/2020",
+      "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
+      "state": "Tamil Nadu",
+      "statecode": "TN",
+      "zone": "Red"
+    },
+    {
+      "district": "Nilgiris",
+      "districtcode": "TN_Nilgiris",
+      "lastupdated": "01/05/2020",
+      "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
+      "state": "Tamil Nadu",
+      "statecode": "TN",
+      "zone": "Orange"
+    },
+    {
+      "district": "Perambalur",
+      "districtcode": "TN_Perambalur",
+      "lastupdated": "01/05/2020",
+      "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
+      "state": "Tamil Nadu",
+      "statecode": "TN",
+      "zone": "Orange"
+    },
+    {
+      "district": "Pudukkottai",
+      "districtcode": "TN_Pudukkottai",
+      "lastupdated": "01/05/2020",
+      "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
+      "state": "Tamil Nadu",
+      "statecode": "TN",
+      "zone": "Orange"
+    },
+    {
+      "district": "Ramanathapuram",
+      "districtcode": "TN_Ramanathapuram",
+      "lastupdated": "01/05/2020",
+      "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
+      "state": "Tamil Nadu",
+      "statecode": "TN",
+      "zone": "Orange"
+    },
+    {
+      "district": "Ranipet",
+      "districtcode": "TN_Ranipet",
+      "lastupdated": "01/05/2020",
+      "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
+      "state": "Tamil Nadu",
+      "statecode": "TN",
+      "zone": "Red"
+    },
+    {
+      "district": "Salem",
+      "districtcode": "TN_Salem",
+      "lastupdated": "01/05/2020",
+      "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
+      "state": "Tamil Nadu",
+      "statecode": "TN",
+      "zone": "Orange"
+    },
+    {
+      "district": "Sivaganga",
+      "districtcode": "TN_Sivaganga",
+      "lastupdated": "01/05/2020",
+      "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
+      "state": "Tamil Nadu",
+      "statecode": "TN",
+      "zone": "Orange"
+    },
+    {
+      "district": "Tenkasi",
+      "districtcode": "TN_Tenkasi",
+      "lastupdated": "01/05/2020",
+      "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
+      "state": "Tamil Nadu",
+      "statecode": "TN",
+      "zone": "Orange"
+    },
+    {
+      "district": "Thanjavur",
+      "districtcode": "TN_Thanjavur",
+      "lastupdated": "01/05/2020",
+      "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
+      "state": "Tamil Nadu",
+      "statecode": "TN",
+      "zone": "Red"
+    },
+    {
+      "district": "Theni",
+      "districtcode": "TN_Theni",
+      "lastupdated": "01/05/2020",
+      "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
+      "state": "Tamil Nadu",
+      "statecode": "TN",
+      "zone": "Orange"
+    },
+    {
+      "district": "Thiruvallur",
+      "districtcode": "TN_Thiruvallur",
+      "lastupdated": "01/05/2020",
+      "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
+      "state": "Tamil Nadu",
+      "statecode": "TN",
+      "zone": "Red"
+    },
+    {
+      "district": "Thiruvarur",
+      "districtcode": "TN_Thiruvarur",
+      "lastupdated": "01/05/2020",
+      "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
+      "state": "Tamil Nadu",
+      "statecode": "TN",
+      "zone": "Red"
+    },
+    {
+      "district": "Thoothukkudi",
+      "districtcode": "TN_Thoothukkudi",
+      "lastupdated": "01/05/2020",
+      "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
+      "state": "Tamil Nadu",
+      "statecode": "TN",
+      "zone": "Orange"
+    },
+    {
+      "district": "Tiruchirappalli",
+      "districtcode": "TN_Tiruchirappalli",
+      "lastupdated": "01/05/2020",
+      "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
+      "state": "Tamil Nadu",
+      "statecode": "TN",
+      "zone": "Orange"
+    },
+    {
+      "district": "Tirunelveli",
+      "districtcode": "TN_Tirunelveli",
+      "lastupdated": "01/05/2020",
+      "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
+      "state": "Tamil Nadu",
+      "statecode": "TN",
+      "zone": "Orange"
+    },
+    {
+      "district": "Tirupathur",
+      "districtcode": "TN_Tirupathur",
+      "lastupdated": "01/05/2020",
+      "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
+      "state": "Tamil Nadu",
+      "statecode": "TN",
+      "zone": "Orange"
+    },
+    {
+      "district": "Tiruppur",
+      "districtcode": "TN_Tiruppur",
+      "lastupdated": "01/05/2020",
+      "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
+      "state": "Tamil Nadu",
+      "statecode": "TN",
+      "zone": "Red"
+    },
+    {
+      "district": "Tiruvannamalai",
+      "districtcode": "TN_Tiruvannamalai",
+      "lastupdated": "01/05/2020",
+      "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
+      "state": "Tamil Nadu",
+      "statecode": "TN",
+      "zone": "Orange"
+    },
+    {
+      "district": "Vellore",
+      "districtcode": "TN_Vellore",
+      "lastupdated": "01/05/2020",
+      "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
+      "state": "Tamil Nadu",
+      "statecode": "TN",
+      "zone": "Red"
+    },
+    {
+      "district": "Viluppuram",
+      "districtcode": "TN_Viluppuram",
+      "lastupdated": "01/05/2020",
+      "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
+      "state": "Tamil Nadu",
+      "statecode": "TN",
+      "zone": "Orange"
+    },
+    {
+      "district": "Virudhunagar",
+      "districtcode": "TN_Virudhunagar",
+      "lastupdated": "01/05/2020",
+      "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
+      "state": "Tamil Nadu",
+      "statecode": "TN",
+      "zone": "Red"
     },
     {
       "district": "Dhalai",
@@ -6031,8 +6031,8 @@
       "zone": "Orange"
     },
     {
-      "district": "Lakhimpur Kheri",
-      "districtcode": "UP_Lakhimpur Kheri",
+      "district": "Kushinagar",
+      "districtcode": "UP_Kushinagar",
       "lastupdated": "01/05/2020",
       "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
       "state": "Uttar Pradesh",
@@ -6040,8 +6040,8 @@
       "zone": "Green"
     },
     {
-      "district": "Kushinagar",
-      "districtcode": "UP_Kushinagar",
+      "district": "Lakhimpur Kheri",
+      "districtcode": "UP_Lakhimpur Kheri",
       "lastupdated": "01/05/2020",
       "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
       "state": "Uttar Pradesh",
@@ -6067,8 +6067,8 @@
       "zone": "Red"
     },
     {
-      "district": "Mahoba",
-      "districtcode": "UP_Mahoba",
+      "district": "Maharajganj",
+      "districtcode": "UP_Maharajganj",
       "lastupdated": "01/05/2020",
       "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
       "state": "Uttar Pradesh",
@@ -6076,8 +6076,8 @@
       "zone": "Green"
     },
     {
-      "district": "Maharajganj",
-      "districtcode": "UP_Maharajganj",
+      "district": "Mahoba",
+      "districtcode": "UP_Mahoba",
       "lastupdated": "01/05/2020",
       "source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
       "state": "Uttar Pradesh",
@@ -6535,24 +6535,6 @@
       "zone": "Orange"
     },
     {
-      "district": "Purba Medinipur",
-      "districtcode": "WB_Purba Medinipur",
-      "lastupdated": "04/05/2020",
-      "source": "https://www.wbhealth.gov.in/uploaded_files/corona/WB_DHFW_Bulletin_4TH_MAY_FINAL.pdf",
-      "state": "West Bengal",
-      "statecode": "WB",
-      "zone": "Red"
-    },
-    {
-      "district": "Paschim Medinipur",
-      "districtcode": "WB_Paschim Medinipur",
-      "lastupdated": "04/05/2020",
-      "source": "https://www.wbhealth.gov.in/uploaded_files/corona/WB_DHFW_Bulletin_4TH_MAY_FINAL.pdf",
-      "state": "West Bengal",
-      "statecode": "WB",
-      "zone": "Orange"
-    },
-    {
       "district": "Murshidabad",
       "districtcode": "WB_Murshidabad",
       "lastupdated": "04/05/2020",
@@ -6589,6 +6571,15 @@
       "zone": "Orange"
     },
     {
+      "district": "Paschim Medinipur",
+      "districtcode": "WB_Paschim Medinipur",
+      "lastupdated": "04/05/2020",
+      "source": "https://www.wbhealth.gov.in/uploaded_files/corona/WB_DHFW_Bulletin_4TH_MAY_FINAL.pdf",
+      "state": "West Bengal",
+      "statecode": "WB",
+      "zone": "Orange"
+    },
+    {
       "district": "Purba Bardhaman",
       "districtcode": "WB_Purba Bardhaman",
       "lastupdated": "04/05/2020",
@@ -6596,6 +6587,15 @@
       "state": "West Bengal",
       "statecode": "WB",
       "zone": "Orange"
+    },
+    {
+      "district": "Purba Medinipur",
+      "districtcode": "WB_Purba Medinipur",
+      "lastupdated": "04/05/2020",
+      "source": "https://www.wbhealth.gov.in/uploaded_files/corona/WB_DHFW_Bulletin_4TH_MAY_FINAL.pdf",
+      "state": "West Bengal",
+      "statecode": "WB",
+      "zone": "Red"
     },
     {
       "district": "Purulia",
