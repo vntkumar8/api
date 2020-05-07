@@ -973,13 +973,13 @@
       {
         "district": "Ajmer",
         "notes": "",
-        "active": 131,
+        "active": 130,
         "confirmed": 182,
-        "deceased": 1,
+        "deceased": 2,
         "recovered": 50,
         "delta": {
           "confirmed": 0,
-          "deceased": 0,
+          "deceased": 1,
           "recovered": 0
         }
       },
@@ -1077,12 +1077,12 @@
       {
         "district": "Chittorgarh",
         "notes": "",
-        "active": 99,
-        "confirmed": 100,
+        "active": 115,
+        "confirmed": 116,
         "deceased": 1,
         "recovered": 0,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 16,
           "deceased": 0,
           "recovered": 0
         }
@@ -1116,12 +1116,12 @@
       {
         "district": "Dholpur",
         "notes": "",
-        "active": 16,
-        "confirmed": 17,
+        "active": 20,
+        "confirmed": 21,
         "deceased": 0,
         "recovered": 1,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 4,
           "deceased": 0,
           "recovered": 0
         }
@@ -1155,13 +1155,13 @@
       {
         "district": "Jaipur",
         "notes": "",
-        "active": 435,
-        "confirmed": 1090,
-        "deceased": 51,
+        "active": 443,
+        "confirmed": 1099,
+        "deceased": 52,
         "recovered": 604,
         "delta": {
-          "confirmed": 0,
-          "deceased": 0,
+          "confirmed": 9,
+          "deceased": 1,
           "recovered": 0
         }
       },
@@ -1246,12 +1246,12 @@
       {
         "district": "Kota",
         "notes": "",
-        "active": 52,
-        "confirmed": 221,
+        "active": 54,
+        "confirmed": 223,
         "deceased": 10,
         "recovered": 159,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 2,
           "deceased": 0,
           "recovered": 0
         }
@@ -1272,12 +1272,12 @@
       {
         "district": "Pali",
         "notes": "",
-        "active": 38,
-        "confirmed": 40,
+        "active": 44,
+        "confirmed": 46,
         "deceased": 0,
         "recovered": 2,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 6,
           "deceased": 0,
           "recovered": 0
         }
@@ -1350,12 +1350,12 @@
       {
         "district": "Udaipur",
         "notes": "",
-        "active": 8,
-        "confirmed": 15,
+        "active": 9,
+        "confirmed": 16,
         "deceased": 0,
         "recovered": 7,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
