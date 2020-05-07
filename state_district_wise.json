@@ -3694,12 +3694,12 @@
       },
       "Ganjam": {
         "notes": "",
-        "active": 21,
-        "confirmed": 21,
+        "active": 28,
+        "confirmed": 28,
         "deceased": 0,
         "recovered": 0,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 7,
           "deceased": 0,
           "recovered": 0
         }
@@ -6229,6 +6229,18 @@
         "confirmed": 77,
         "deceased": 1,
         "recovered": 13,
+        "delta": {
+          "confirmed": 0,
+          "deceased": 0,
+          "recovered": 0
+        }
+      },
+      "Unknown": {
+        "notes": "",
+        "active": 0,
+        "confirmed": 0,
+        "deceased": 0,
+        "recovered": 120,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
