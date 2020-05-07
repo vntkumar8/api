@@ -885,14 +885,14 @@
 	],
 	"statewise": [
 		{
-			"active": "35989",
-			"confirmed": "53182",
+			"active": "35990",
+			"confirmed": "53186",
 			"deaths": "1790",
-			"deltaconfirmed": "175",
+			"deltaconfirmed": "179",
 			"deltadeaths": "5",
-			"deltarecovered": "68",
-			"lastupdatedtime": "07/05/2020 17:21:44",
-			"recovered": "15399",
+			"deltarecovered": "71",
+			"lastupdatedtime": "07/05/2020 17:32:45",
+			"recovered": "15402",
 			"state": "Total",
 			"statecode": "TT",
 			"statenotes": ""
@@ -1054,14 +1054,14 @@
 			"statenotes": ""
 		},
 		{
-			"active": "307",
-			"confirmed": "701",
+			"active": "308",
+			"confirmed": "705",
 			"deaths": "30",
-			"deltaconfirmed": "8",
+			"deltaconfirmed": "12",
 			"deltadeaths": "1",
-			"deltarecovered": "9",
-			"lastupdatedtime": "07/05/2020 15:12:51",
-			"recovered": "363",
+			"deltarecovered": "12",
+			"lastupdatedtime": "07/05/2020 17:32:46",
+			"recovered": "366",
 			"state": "Karnataka",
 			"statecode": "KA",
 			"statenotes": "One active case in KA reduced as a confirmed patient died of non-CoViD19 related reasons"
@@ -1099,7 +1099,7 @@
 			"deltaconfirmed": "0",
 			"deltadeaths": "0",
 			"deltarecovered": "5",
-			"lastupdatedtime": "07/05/2020 17:20:46",
+			"lastupdatedtime": "07/05/2020 17:22:46",
 			"recovered": "474",
 			"state": "Kerala",
 			"statecode": "KL",
@@ -1119,6 +1119,19 @@
 			"statenotes": ""
 		},
 		{
+			"active": "112",
+			"confirmed": "134",
+			"deaths": "1",
+			"deltaconfirmed": "10",
+			"deltadeaths": "0",
+			"deltarecovered": "0",
+			"lastupdatedtime": "07/05/2020 16:52:46",
+			"recovered": "21",
+			"state": "Chandigarh",
+			"statecode": "CH",
+			"statenotes": ""
+		},
+		{
 			"active": "87",
 			"confirmed": "127",
 			"deaths": "3",
@@ -1132,16 +1145,16 @@
 			"statenotes": ""
 		},
 		{
-			"active": "112",
-			"confirmed": "134",
-			"deaths": "1",
-			"deltaconfirmed": "10",
+			"active": "62",
+			"confirmed": "64",
+			"deaths": "0",
+			"deltaconfirmed": "0",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
-			"lastupdatedtime": "07/05/2020 16:52:46",
-			"recovered": "21",
-			"state": "Chandigarh",
-			"statecode": "CH",
+			"lastupdatedtime": "06/05/2020 22:31:48",
+			"recovered": "2",
+			"state": "Tripura",
+			"statecode": "TR",
 			"statenotes": ""
 		},
 		{
@@ -1184,19 +1197,6 @@
 			"statenotes": "Includes one case from Nagaland"
 		},
 		{
-			"active": "25",
-			"confirmed": "42",
-			"deaths": "0",
-			"deltaconfirmed": "0",
-			"deltadeaths": "0",
-			"deltarecovered": "0",
-			"lastupdatedtime": "03/05/2020 14:32:47",
-			"recovered": "17",
-			"state": "Ladakh",
-			"statecode": "LA",
-			"statenotes": ""
-		},
-		{
 			"active": "5",
 			"confirmed": "45",
 			"deaths": "3",
@@ -1210,6 +1210,19 @@
 			"statenotes": "HP has 4 Migrated cases which are reduced from Active #. Also, death of Tibetan refugee is included in deceased numbers, but not in confirmed"
 		},
 		{
+			"active": "25",
+			"confirmed": "42",
+			"deaths": "0",
+			"deltaconfirmed": "0",
+			"deltadeaths": "0",
+			"deltarecovered": "0",
+			"lastupdatedtime": "03/05/2020 14:32:47",
+			"recovered": "17",
+			"state": "Ladakh",
+			"statecode": "LA",
+			"statenotes": ""
+		},
+		{
 			"active": "0",
 			"confirmed": "33",
 			"deaths": "0",
@@ -1220,19 +1233,6 @@
 			"recovered": "33",
 			"state": "Andaman and Nicobar Islands",
 			"statecode": "AN",
-			"statenotes": ""
-		},
-		{
-			"active": "62",
-			"confirmed": "64",
-			"deaths": "0",
-			"deltaconfirmed": "0",
-			"deltadeaths": "0",
-			"deltarecovered": "0",
-			"lastupdatedtime": "06/05/2020 22:31:48",
-			"recovered": "2",
-			"state": "Tripura",
-			"statecode": "TR",
 			"statenotes": ""
 		},
 		{
@@ -1314,19 +1314,6 @@
 			"statenotes": ""
 		},
 		{
-			"active": "0",
-			"confirmed": "0",
-			"deaths": "0",
-			"deltaconfirmed": "0",
-			"deltadeaths": "0",
-			"deltarecovered": "0",
-			"lastupdatedtime": "20/04/2020 08:45:07",
-			"recovered": "0",
-			"state": "Nagaland",
-			"statecode": "NL",
-			"statenotes": ""
-		},
-		{
 			"active": "1",
 			"confirmed": "1",
 			"deaths": "0",
@@ -1337,6 +1324,19 @@
 			"recovered": "0",
 			"state": "Dadra and Nagar Haveli and Daman and Diu",
 			"statecode": "DN",
+			"statenotes": ""
+		},
+		{
+			"active": "0",
+			"confirmed": "0",
+			"deaths": "0",
+			"deltaconfirmed": "0",
+			"deltadeaths": "0",
+			"deltarecovered": "0",
+			"lastupdatedtime": "20/04/2020 08:45:07",
+			"recovered": "0",
+			"state": "Nagaland",
+			"statecode": "NL",
 			"statenotes": ""
 		},
 		{

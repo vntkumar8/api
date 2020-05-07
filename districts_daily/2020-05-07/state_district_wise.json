@@ -2250,26 +2250,26 @@
     "districtData": {
       "Bagalkote": {
         "notes": "",
-        "active": 30,
-        "confirmed": 48,
+        "active": 32,
+        "confirmed": 51,
         "deceased": 1,
-        "recovered": 17,
+        "recovered": 18,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 3,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 1
         }
       },
       "Ballari": {
         "notes": "",
-        "active": 6,
+        "active": 5,
         "confirmed": 14,
         "deceased": 0,
-        "recovered": 8,
+        "recovered": 9,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 1
         }
       },
       "Belagavi": {
@@ -2298,26 +2298,26 @@
       },
       "Bengaluru Urban": {
         "notes": "One death on 27th Apr is not included as it's not counted as covid related death by the Karnataka govt.",
-        "active": 74,
+        "active": 72,
         "confirmed": 156,
         "deceased": 6,
-        "recovered": 75,
+        "recovered": 77,
         "delta": {
           "confirmed": 1,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 2
         }
       },
       "Bidar": {
         "notes": "",
-        "active": 11,
+        "active": 8,
         "confirmed": 22,
         "deceased": 1,
-        "recovered": 10,
+        "recovered": 13,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 3
         }
       },
       "Chikkaballapura": {
@@ -2370,12 +2370,12 @@
       },
       "Dharwad": {
         "notes": "",
-        "active": 5,
-        "confirmed": 11,
+        "active": 6,
+        "confirmed": 12,
         "deceased": 0,
         "recovered": 6,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
@@ -2406,14 +2406,14 @@
       },
       "Kalaburagi": {
         "notes": "",
-        "active": 34,
+        "active": 32,
         "confirmed": 67,
         "deceased": 6,
-        "recovered": 27,
+        "recovered": 29,
         "delta": {
           "confirmed": 3,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 2
         }
       },
       "Kodagu": {
@@ -2442,14 +2442,14 @@
       },
       "Mysuru": {
         "notes": "",
-        "active": 8,
+        "active": 7,
         "confirmed": 88,
         "deceased": 0,
-        "recovered": 80,
+        "recovered": 81,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 1
         }
       },
       "Other State": {
@@ -2502,26 +2502,14 @@
       },
       "Vijayapura": {
         "notes": "",
-        "active": 22,
+        "active": 20,
         "confirmed": 48,
         "deceased": 3,
-        "recovered": 23,
+        "recovered": 25,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
-        }
-      },
-      "Unknown": {
-        "notes": "",
-        "active": 0,
-        "confirmed": 0,
-        "deceased": 0,
-        "recovered": 9,
-        "delta": {
-          "confirmed": 0,
-          "deceased": 0,
-          "recovered": 0
+          "recovered": 2
         }
       }
     },
