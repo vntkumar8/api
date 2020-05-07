@@ -33,17 +33,17 @@
 			"statecode": "AN"
 		},
 		{
-			"active": "1",
+			"active": "0",
 			"confirmed": "32",
 			"deceased": "0",
-			"deltaactive": "0",
+			"deltaactive": "-1",
 			"deltaconfirmed": "0",
 			"deltadeceased": "0",
-			"deltarecovered": "0",
+			"deltarecovered": "1",
 			"district": "South Andaman",
 			"districtkey": "AN_South Andaman",
 			"districtnotes": "",
-			"recovered": "31",
+			"recovered": "32",
 			"slno": "3",
 			"state": "Andaman and Nicobar Islands",
 			"statecode": "AN"
@@ -1825,11 +1825,11 @@
 			"statecode": "BR"
 		},
 		{
-			"active": "106",
-			"confirmed": "128",
+			"active": "112",
+			"confirmed": "134",
 			"deceased": "1",
-			"deltaactive": "4",
-			"deltaconfirmed": "4",
+			"deltaactive": "10",
+			"deltaconfirmed": "10",
 			"deltadeceased": "0",
 			"deltarecovered": "0",
 			"district": "Chandigarh",
