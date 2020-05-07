@@ -467,12 +467,12 @@
       },
       "Bhagalpur": {
         "notes": "",
-        "active": 10,
-        "confirmed": 12,
+        "active": 11,
+        "confirmed": 13,
         "deceased": 0,
         "recovered": 2,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
@@ -585,6 +585,18 @@
           "recovered": 0
         }
       },
+      "Kishanganj": {
+        "notes": "",
+        "active": 1,
+        "confirmed": 1,
+        "deceased": 0,
+        "recovered": 0,
+        "delta": {
+          "confirmed": 1,
+          "deceased": 0,
+          "recovered": 0
+        }
+      },
       "Lakhisarai": {
         "notes": "",
         "active": 3,
@@ -683,13 +695,13 @@
       },
       "Rohtas": {
         "notes": "",
-        "active": 37,
+        "active": 36,
         "confirmed": 54,
-        "deceased": 0,
+        "deceased": 1,
         "recovered": 17,
         "delta": {
           "confirmed": 2,
-          "deceased": 0,
+          "deceased": 1,
           "recovered": 0
         }
       },

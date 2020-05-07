@@ -1297,11 +1297,11 @@
 			"statecode": "BR"
 		},
 		{
-			"active": "10",
-			"confirmed": "12",
+			"active": "11",
+			"confirmed": "13",
 			"deceased": "0",
-			"deltaactive": "0",
-			"deltaconfirmed": "0",
+			"deltaactive": "1",
+			"deltaconfirmed": "1",
 			"deltadeceased": "0",
 			"deltarecovered": "0",
 			"district": "Bhagalpur",
@@ -1489,11 +1489,11 @@
 			"statecode": "BR"
 		},
 		{
-			"active": "0",
-			"confirmed": "0",
+			"active": "1",
+			"confirmed": "1",
 			"deceased": "0",
-			"deltaactive": "0",
-			"deltaconfirmed": "0",
+			"deltaactive": "1",
+			"deltaconfirmed": "1",
 			"deltadeceased": "0",
 			"deltarecovered": "0",
 			"district": "Kishanganj",
@@ -1649,12 +1649,12 @@
 			"statecode": "BR"
 		},
 		{
-			"active": "37",
+			"active": "36",
 			"confirmed": "54",
-			"deceased": "0",
-			"deltaactive": "2",
+			"deceased": "1",
+			"deltaactive": "1",
 			"deltaconfirmed": "2",
-			"deltadeceased": "0",
+			"deltadeceased": "1",
 			"deltarecovered": "0",
 			"district": "Rohtas",
 			"districtkey": "BR_Rohtas",
