@@ -1807,12 +1807,12 @@
       {
         "district": "Gurugram",
         "notes": "",
-        "active": 53,
-        "confirmed": 104,
+        "active": 66,
+        "confirmed": 117,
         "deceased": 0,
         "recovered": 51,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 13,
           "deceased": 0,
           "recovered": 0
         }
@@ -1846,12 +1846,12 @@
       {
         "district": "Jhajjar",
         "notes": "",
-        "active": 70,
-        "confirmed": 70,
+        "active": 73,
+        "confirmed": 73,
         "deceased": 0,
         "recovered": 0,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 3,
           "deceased": 0,
           "recovered": 0
         }
@@ -1904,6 +1904,19 @@
         "recovered": 2,
         "delta": {
           "confirmed": 0,
+          "deceased": 0,
+          "recovered": 0
+        }
+      },
+      {
+        "district": "Mahendragarh",
+        "notes": "",
+        "active": 21,
+        "confirmed": 21,
+        "deceased": 0,
+        "recovered": 0,
+        "delta": {
+          "confirmed": 21,
           "deceased": 0,
           "recovered": 0
         }
@@ -1989,12 +2002,12 @@
       {
         "district": "Sonipat",
         "notes": "",
-        "active": 75,
-        "confirmed": 81,
+        "active": 78,
+        "confirmed": 84,
         "deceased": 0,
         "recovered": 6,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 3,
           "deceased": 0,
           "recovered": 0
         }
