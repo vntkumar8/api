@@ -32,12 +32,12 @@
     "districtData": {
       "Anantapur": {
         "notes": "",
-        "active": 42,
-        "confirmed": 80,
+        "active": 45,
+        "confirmed": 83,
         "deceased": 4,
         "recovered": 34,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 3,
           "deceased": 0,
           "recovered": 0
         }
@@ -68,36 +68,36 @@
       },
       "Guntur": {
         "notes": "",
-        "active": 226,
-        "confirmed": 363,
+        "active": 236,
+        "confirmed": 373,
         "deceased": 8,
         "recovered": 129,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 10,
           "deceased": 0,
           "recovered": 0
         }
       },
       "Krishna": {
         "notes": "",
-        "active": 173,
-        "confirmed": 300,
+        "active": 189,
+        "confirmed": 316,
         "deceased": 10,
         "recovered": 117,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 16,
           "deceased": 0,
           "recovered": 0
         }
       },
       "Kurnool": {
         "notes": "",
-        "active": 369,
-        "confirmed": 533,
+        "active": 376,
+        "confirmed": 540,
         "deceased": 11,
         "recovered": 153,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 7,
           "deceased": 0,
           "recovered": 0
         }
@@ -128,12 +128,12 @@
       },
       "S.P.S. Nellore": {
         "notes": "",
-        "active": 33,
-        "confirmed": 92,
+        "active": 37,
+        "confirmed": 96,
         "deceased": 3,
         "recovered": 56,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 4,
           "deceased": 0,
           "recovered": 0
         }
@@ -152,12 +152,24 @@
       },
       "Visakhapatnam": {
         "notes": "",
-        "active": 18,
-        "confirmed": 39,
+        "active": 25,
+        "confirmed": 46,
         "deceased": 0,
         "recovered": 21,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 7,
+          "deceased": 0,
+          "recovered": 0
+        }
+      },
+      "Vizianagaram": {
+        "notes": "",
+        "active": 3,
+        "confirmed": 3,
+        "deceased": 0,
+        "recovered": 0,
+        "delta": {
+          "confirmed": 3,
           "deceased": 0,
           "recovered": 0
         }
@@ -176,12 +188,12 @@
       },
       "Y.S.R. Kadapa": {
         "notes": "",
-        "active": 50,
-        "confirmed": 90,
+        "active": 56,
+        "confirmed": 96,
         "deceased": 0,
         "recovered": 40,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 6,
           "deceased": 0,
           "recovered": 0
         }
@@ -1567,6 +1579,18 @@
           "deceased": 0,
           "recovered": 0
         }
+      },
+      "Unknown": {
+        "notes": "",
+        "active": 0,
+        "confirmed": 2,
+        "deceased": 0,
+        "recovered": 0,
+        "delta": {
+          "confirmed": 0,
+          "deceased": 0,
+          "recovered": 0
+        }
       }
     },
     "statecode": "HP"
@@ -2482,6 +2506,18 @@
         "confirmed": 48,
         "deceased": 3,
         "recovered": 23,
+        "delta": {
+          "confirmed": 0,
+          "deceased": 0,
+          "recovered": 0
+        }
+      },
+      "Unknown": {
+        "notes": "",
+        "active": 0,
+        "confirmed": 0,
+        "deceased": 0,
+        "recovered": 9,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
