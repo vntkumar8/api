@@ -234,12 +234,12 @@
       },
       "Cachar": {
         "notes": "",
-        "active": 1,
-        "confirmed": 2,
+        "active": 5,
+        "confirmed": 6,
         "deceased": 0,
         "recovered": 1,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 4,
           "deceased": 0,
           "recovered": 0
         }
@@ -306,12 +306,12 @@
       },
       "Kamrup Metropolitan": {
         "notes": "",
-        "active": 0,
-        "confirmed": 1,
+        "active": 4,
+        "confirmed": 5,
         "deceased": 0,
         "recovered": 1,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 4,
           "deceased": 0,
           "recovered": 0
         }
@@ -1059,9 +1059,9 @@
       "Unknown": {
         "notes": "",
         "active": 0,
-        "confirmed": 4744,
-        "deceased": 64,
-        "recovered": 1542,
+        "confirmed": 5192,
+        "deceased": 65,
+        "recovered": 1931,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
@@ -3288,14 +3288,14 @@
       },
       "Bhopal": {
         "notes": "",
-        "active": 315,
+        "active": 314,
         "confirmed": 652,
         "deceased": 20,
-        "recovered": 317,
+        "recovered": 318,
         "delta": {
           "confirmed": 47,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 1
         }
       },
       "Burhanpur": {
@@ -3324,14 +3324,14 @@
       },
       "Dewas": {
         "notes": "MP bulletin dated 28 Apr reduced total cases in Dewas by 1 upon reconcilation with Indore district",
-        "active": 12,
+        "active": 11,
         "confirmed": 30,
         "deceased": 7,
-        "recovered": 11,
+        "recovered": 12,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 1
         }
       },
       "Dhar": {
@@ -3396,14 +3396,14 @@
       },
       "Indore": {
         "notes": "",
-        "active": 1127,
+        "active": 1023,
         "confirmed": 1699,
         "deceased": 81,
-        "recovered": 491,
+        "recovered": 595,
         "delta": {
           "confirmed": 18,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 104
         }
       },
       "Jabalpur": {
@@ -3504,14 +3504,14 @@
       },
       "Raisen": {
         "notes": "",
-        "active": 41,
+        "active": 39,
         "confirmed": 64,
         "deceased": 3,
-        "recovered": 20,
+        "recovered": 22,
         "delta": {
           "confirmed": 1,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 2
         }
       },
       "Ratlam": {
@@ -3624,14 +3624,14 @@
       },
       "Ujjain": {
         "notes": "",
-        "active": 135,
+        "active": 111,
         "confirmed": 201,
         "deceased": 40,
-        "recovered": 26,
+        "recovered": 50,
         "delta": {
           "confirmed": 17,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 24
         }
       },
       "Vidisha": {
