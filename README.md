@@ -57,6 +57,7 @@ Sometimes, having files in a spreadsheet format is more useful for analysts and 
 ## Projects Using This API
 
 - [COVID-19 INDIA TRACKER](https://www.covid19india.org/) (Main Dashboard)
+- [COVID-19 INDIA LOCATION BASED TRACKER](https://covid2.in) (District Screen)
 
 **Telegram Channels**
 
