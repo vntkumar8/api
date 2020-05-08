@@ -5186,11 +5186,11 @@
 			"statecode": "KL"
 		},
 		{
-			"active": "0",
-			"confirmed": "24",
+			"active": "1",
+			"confirmed": "25",
 			"deceased": "1",
-			"deltaactive": "0",
-			"deltaconfirmed": "0",
+			"deltaactive": "1",
+			"deltaconfirmed": "1",
 			"deltadeceased": "0",
 			"deltarecovered": "0",
 			"district": "Ernakulam",
@@ -5220,18 +5220,18 @@
 			"statecode": "KL"
 		},
 		{
-			"active": "15",
+			"active": "5",
 			"confirmed": "116",
 			"deceased": "1",
-			"deltaactive": "0",
+			"deltaactive": "-10",
 			"deltaconfirmed": "0",
 			"deltadeceased": "0",
-			"deltarecovered": "0",
+			"deltarecovered": "10",
 			"district": "Kannur",
 			"districtkey": "KL_Kannur",
 			"districtnotes": "Case of Mahe native who expired in Kannur, added in tally.",
 			"lastupdated": "",
-			"recovered": "100",
+			"recovered": "110",
 			"slno": "303",
 			"state": "Kerala",
 			"statecode": "KL"
