@@ -550,12 +550,12 @@
       {
         "district": "Darbhanga",
         "notes": "",
-        "active": 5,
-        "confirmed": 5,
+        "active": 8,
+        "confirmed": 8,
         "deceased": 0,
         "recovered": 0,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 3,
           "deceased": 0,
           "recovered": 0
         }
@@ -628,12 +628,12 @@
       {
         "district": "Katihar",
         "notes": "",
-        "active": 10,
-        "confirmed": 10,
+        "active": 11,
+        "confirmed": 11,
         "deceased": 0,
         "recovered": 0,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
@@ -769,6 +769,19 @@
         }
       },
       {
+        "district": "Saharsa",
+        "notes": "",
+        "active": 2,
+        "confirmed": 2,
+        "deceased": 0,
+        "recovered": 0,
+        "delta": {
+          "confirmed": 2,
+          "deceased": 0,
+          "recovered": 0
+        }
+      },
+      {
         "district": "Samastipur",
         "notes": "",
         "active": 7,
@@ -842,6 +855,19 @@
         "recovered": 25,
         "delta": {
           "confirmed": 0,
+          "deceased": 0,
+          "recovered": 0
+        }
+      },
+      {
+        "district": "Supaul",
+        "notes": "",
+        "active": 1,
+        "confirmed": 1,
+        "deceased": 0,
+        "recovered": 0,
+        "delta": {
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
