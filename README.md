@@ -54,6 +54,37 @@ Sometimes, having files in a spreadsheet format is more useful for analysts and 
 
 > :rocket: Quick example : Apply the formula `=IMPORTDATA("https://api.covid19india.org/csv/latest/state_wise.csv")` in A1 cell of a Google Sheets to get the state data for analysis :)
 
+
+### Alternate API's by Contributors
+API for current cases, statewise, districtwise and historical data of India COVID-19
+- Graphql playground - https://covidstat.info/graphql [API documentation](https://github.com/COVID19-SARS-CoV-2/web-covid-api/blob/master/india_apis.md)
+
+## How this works
+
+- Data in this repository is generated from Google Sheets (https://api.covid19india.org/csv)
+- Volunteers collect data from trusted sources and update the sheet
+- Using Github Actions this repo periodically fetches relevant data from the Sheet and update static json and csv files
+
+## Contributing
+
+- Contributions to new data formats are welcome. Please create a GH issue and discuss there before working on the same.
+- Please raise an issue before submitting a PR
+- Report issues regarding [covid19india.org](https://www.covid19india.org) website in the [react-site repository](https://github.com/covid19india/covid19india-react/issues)
+- DO NOT change anything in `gh-pages` branch directly.They get replaced automatically
+
+## Notes
+
+- Do not use the "Current Status" in raw_data.json as we are rarely able to map the status to the exact patient anymore. This will soon be deprecated in a future version of the API.
+
+## Quick Links
+
+- [Telegram Group](https://telegra.ph/CoVID-19--India-Ops-03-24)
+- [Patient Database](http://patientdb.covid19india.org/)
+
+
+----
+
+
 ## Projects Using This API
 
 - [COVID-19 INDIA TRACKER](https://www.covid19india.org/) (Main Dashboard)
@@ -95,26 +126,5 @@ Sometimes, having files in a spreadsheet format is more useful for analysts and 
 **Chrome/Firefox Extensions**
 - [Covid-19 Tracker](https://coronatrends.live) (by [@akanshgulati ](https://github.com/akanshgulati))
 
-## Quick Links
-
-- [Telegram Group](https://telegra.ph/CoVID-19--India-Ops-03-24)
-- [Patient Database](http://patientdb.covid19india.org/)
-
-## How this works
-
-- Data in this repository is generated from Google Sheets (https://api.covid19india.org/csv)
-- Volunteers collect data from trusted sources and update the sheet
-- Using Github Actions this repo periodically fetches relevant data from the Sheet and update static json and csv files
-
-## Contributing
-
-- Contributions to new data formats are welcome. Please create a GH issue and discuss there before working on the same.
-- Please raise an issue before submitting a PR
-- Report issues regarding [covid19india.org](https://www.covid19india.org) website in the [react-site repository](https://github.com/covid19india/covid19india-react/issues)
-- DO NOT change anything in `gh-pages` branch directly.They get replaced automatically
-
-## Notes
-
-- Do not use the "Current Status" in raw_data.json as we are rarely able to map the status to the exact patient anymore. This will soon be deprecated in a future version of the API.
 
 ..................
