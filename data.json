@@ -890,18 +890,27 @@
 			"totalconfirmed": "56351",
 			"totaldeceased": "1889",
 			"totalrecovered": "16776"
+		},
+		{
+			"dailyconfirmed": "3342",
+			"dailydeceased": "96",
+			"dailyrecovered": "1109",
+			"date": "08 May ",
+			"totalconfirmed": "59693",
+			"totaldeceased": "1985",
+			"totalrecovered": "17885"
 		}
 	],
 	"statewise": [
 		{
-			"active": "39799",
-			"confirmed": "59672",
+			"active": "39819",
+			"confirmed": "59693",
 			"deaths": "1985",
-			"deltaconfirmed": "3321",
+			"deltaconfirmed": "3342",
 			"deltadeaths": "96",
-			"deltarecovered": "1108",
-			"lastupdatedtime": "08/05/2020 23:24:07",
-			"recovered": "17884",
+			"deltarecovered": "1109",
+			"lastupdatedtime": "09/05/2020 00:12:07",
+			"recovered": "17885",
 			"state": "Total",
 			"statecode": "TT",
 			"statenotes": ""
@@ -1141,13 +1150,13 @@
 			"statenotes": ""
 		},
 		{
-			"active": "88",
-			"confirmed": "132",
+			"active": "109",
+			"confirmed": "153",
 			"deaths": "3",
-			"deltaconfirmed": "0",
+			"deltaconfirmed": "21",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
-			"lastupdatedtime": "07/05/2020 22:24:54",
+			"lastupdatedtime": "09/05/2020 00:12:08",
 			"recovered": "41",
 			"state": "Jharkhand",
 			"statecode": "JH",
@@ -1160,7 +1169,7 @@
 			"deltaconfirmed": "30",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
-			"lastupdatedtime": "07/05/2020 23:52:04",
+			"lastupdatedtime": "09/05/2020 00:03:09",
 			"recovered": "2",
 			"state": "Tripura",
 			"statecode": "TR",
@@ -1219,14 +1228,14 @@
 			"statenotes": "HP has 4 Migrated cases which are reduced from Active #. Also, death of Tibetan refugee is included in deceased numbers, but not in confirmed"
 		},
 		{
-			"active": "25",
+			"active": "24",
 			"confirmed": "42",
 			"deaths": "0",
 			"deltaconfirmed": "0",
 			"deltadeaths": "0",
-			"deltarecovered": "0",
-			"lastupdatedtime": "03/05/2020 14:32:47",
-			"recovered": "17",
+			"deltarecovered": "1",
+			"lastupdatedtime": "09/05/2020 00:12:09",
+			"recovered": "18",
 			"state": "Ladakh",
 			"statecode": "LA",
 			"statenotes": ""
