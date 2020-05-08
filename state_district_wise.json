@@ -2298,24 +2298,24 @@
       },
       "Ballari": {
         "notes": "",
-        "active": 5,
-        "confirmed": 14,
+        "active": 6,
+        "confirmed": 15,
         "deceased": 0,
         "recovered": 9,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
       },
       "Belagavi": {
         "notes": "",
-        "active": 37,
-        "confirmed": 72,
+        "active": 48,
+        "confirmed": 83,
         "deceased": 1,
         "recovered": 34,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 11,
           "deceased": 0,
           "recovered": 0
         }
@@ -2334,12 +2334,12 @@
       },
       "Bengaluru Urban": {
         "notes": "One death on 27th Apr is not included as it's not counted as covid related death by the Karnataka govt.",
-        "active": 72,
-        "confirmed": 156,
+        "active": 79,
+        "confirmed": 163,
         "deceased": 6,
         "recovered": 77,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 7,
           "deceased": 0,
           "recovered": 0
         }
@@ -2394,12 +2394,12 @@
       },
       "Davanagere": {
         "notes": "",
-        "active": 41,
-        "confirmed": 47,
+        "active": 55,
+        "confirmed": 61,
         "deceased": 4,
         "recovered": 2,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 14,
           "deceased": 0,
           "recovered": 0
         }
@@ -2526,12 +2526,12 @@
       },
       "Uttara Kannada": {
         "notes": "",
-        "active": 1,
-        "confirmed": 12,
+        "active": 13,
+        "confirmed": 24,
         "deceased": 0,
         "recovered": 11,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 12,
           "deceased": 0,
           "recovered": 0
         }
@@ -2542,6 +2542,18 @@
         "confirmed": 48,
         "deceased": 3,
         "recovered": 25,
+        "delta": {
+          "confirmed": 0,
+          "deceased": 0,
+          "recovered": 0
+        }
+      },
+      "Unknown": {
+        "notes": "",
+        "active": 0,
+        "confirmed": 0,
+        "deceased": 0,
+        "recovered": 5,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
