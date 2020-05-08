@@ -1684,12 +1684,12 @@
       {
         "district": "Chamba",
         "notes": "",
-        "active": 2,
-        "confirmed": 8,
+        "active": 3,
+        "confirmed": 9,
         "deceased": 0,
         "recovered": 6,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
@@ -1710,12 +1710,12 @@
       {
         "district": "Kangra",
         "notes": "",
-        "active": 1,
-        "confirmed": 6,
+        "active": 2,
+        "confirmed": 7,
         "deceased": 1,
         "recovered": 4,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
@@ -1775,12 +1775,12 @@
       {
         "district": "Una",
         "notes": "",
-        "active": 0,
-        "confirmed": 16,
+        "active": 1,
+        "confirmed": 17,
         "deceased": 0,
         "recovered": 16,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
@@ -6322,26 +6322,26 @@
       {
         "district": "Firozabad",
         "notes": "",
-        "active": 115,
+        "active": 114,
         "confirmed": 178,
-        "deceased": 3,
+        "deceased": 4,
         "recovered": 60,
         "delta": {
           "confirmed": 0,
-          "deceased": 0,
+          "deceased": 1,
           "recovered": 0
         }
       },
       {
         "district": "Gautam Buddha Nagar",
         "notes": "",
-        "active": 82,
+        "active": 81,
         "confirmed": 193,
-        "deceased": 0,
+        "deceased": 1,
         "recovered": 111,
         "delta": {
           "confirmed": 0,
-          "deceased": 0,
+          "deceased": 1,
           "recovered": 0
         }
       },
@@ -6465,13 +6465,13 @@
       {
         "district": "Jhansi",
         "notes": "",
-        "active": 14,
+        "active": 13,
         "confirmed": 15,
-        "deceased": 1,
+        "deceased": 2,
         "recovered": 0,
         "delta": {
           "confirmed": 0,
-          "deceased": 0,
+          "deceased": 1,
           "recovered": 0
         }
       },
@@ -6647,13 +6647,13 @@
       {
         "district": "Meerut",
         "notes": "",
-        "active": 110,
+        "active": 109,
         "confirmed": 184,
-        "deceased": 9,
+        "deceased": 10,
         "recovered": 65,
         "delta": {
           "confirmed": 0,
-          "deceased": 0,
+          "deceased": 1,
           "recovered": 0
         }
       },
