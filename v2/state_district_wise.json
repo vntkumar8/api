@@ -3297,11 +3297,11 @@
         }
       },
       {
-        "district": "Other States",
+        "district": "Other State",
         "notes": "Cases from other States/UTs",
-        "active": 26,
-        "confirmed": 34,
-        "deceased": 8,
+        "active": 23,
+        "confirmed": 25,
+        "deceased": 2,
         "recovered": 0,
         "delta": {
           "confirmed": 0,
@@ -3459,6 +3459,19 @@
         "confirmed": 93,
         "deceased": 0,
         "recovered": 19,
+        "delta": {
+          "confirmed": 0,
+          "deceased": 0,
+          "recovered": 0
+        }
+      },
+      {
+        "district": "Unknown",
+        "notes": "",
+        "active": 3,
+        "confirmed": 9,
+        "deceased": 6,
+        "recovered": 0,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
@@ -4918,7 +4931,7 @@
         }
       },
       {
-        "district": "Other state",
+        "district": "Other State",
         "notes": "",
         "active": 0,
         "confirmed": 2,
