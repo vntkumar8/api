@@ -1570,12 +1570,12 @@
       },
       "Hamirpur": {
         "notes": "",
-        "active": 0,
-        "confirmed": 2,
+        "active": 1,
+        "confirmed": 3,
         "deceased": 0,
         "recovered": 2,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
@@ -4023,12 +4023,12 @@
       },
       "Gurdaspur": {
         "notes": "",
-        "active": 92,
-        "confirmed": 93,
+        "active": 114,
+        "confirmed": 115,
         "deceased": 1,
         "recovered": 0,
         "delta": {
-          "confirmed": 2,
+          "confirmed": 24,
           "deceased": 0,
           "recovered": 0
         }
@@ -5487,6 +5487,18 @@
         "confirmed": 35,
         "deceased": 0,
         "recovered": 28,
+        "delta": {
+          "confirmed": 0,
+          "deceased": 0,
+          "recovered": 0
+        }
+      },
+      "Unknown": {
+        "notes": "",
+        "active": 600,
+        "confirmed": 600,
+        "deceased": 0,
+        "recovered": 0,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
