@@ -894,14 +894,14 @@
 	],
 	"statewise": [
 		{
-			"active": "39658",
-			"confirmed": "59203",
+			"active": "39523",
+			"confirmed": "59205",
 			"deaths": "1980",
-			"deltaconfirmed": "2852",
+			"deltaconfirmed": "2854",
 			"deltadeaths": "91",
-			"deltarecovered": "785",
-			"lastupdatedtime": "08/05/2020 21:33:07",
-			"recovered": "17561",
+			"deltarecovered": "922",
+			"lastupdatedtime": "08/05/2020 21:51:07",
+			"recovered": "17698",
 			"state": "Total",
 			"statecode": "TT",
 			"statenotes": ""
@@ -933,19 +933,6 @@
 			"statenotes": ""
 		},
 		{
-			"active": "3983",
-			"confirmed": "5980",
-			"deaths": "66",
-			"deltaconfirmed": "0",
-			"deltadeaths": "0",
-			"deltarecovered": "0",
-			"lastupdatedtime": "07/05/2020 23:02:46",
-			"recovered": "1931",
-			"state": "Delhi",
-			"statecode": "DL",
-			"statenotes": ""
-		},
-		{
 			"active": "4364",
 			"confirmed": "6009",
 			"deaths": "40",
@@ -956,6 +943,19 @@
 			"recovered": "1605",
 			"state": "Tamil Nadu",
 			"statecode": "TN",
+			"statenotes": ""
+		},
+		{
+			"active": "3983",
+			"confirmed": "5980",
+			"deaths": "66",
+			"deltaconfirmed": "0",
+			"deltadeaths": "0",
+			"deltarecovered": "0",
+			"lastupdatedtime": "07/05/2020 23:02:46",
+			"recovered": "1931",
+			"state": "Delhi",
+			"statecode": "DL",
 			"statenotes": ""
 		},
 		{
@@ -985,14 +985,14 @@
 			"statenotes": ""
 		},
 		{
-			"active": "1898",
+			"active": "1761",
 			"confirmed": "3214",
 			"deaths": "66",
 			"deltaconfirmed": "143",
 			"deltadeaths": "4",
-			"deltarecovered": "0",
-			"lastupdatedtime": "08/05/2020 21:33:08",
-			"recovered": "1250",
+			"deltarecovered": "137",
+			"lastupdatedtime": "08/05/2020 21:51:09",
+			"recovered": "1387",
 			"state": "Uttar Pradesh",
 			"statecode": "UP",
 			"statenotes": ""
@@ -1193,13 +1193,13 @@
 			"statenotes": ""
 		},
 		{
-			"active": "20",
-			"confirmed": "57",
+			"active": "22",
+			"confirmed": "59",
 			"deaths": "2",
-			"deltaconfirmed": "3",
+			"deltaconfirmed": "5",
 			"deltadeaths": "1",
 			"deltarecovered": "0",
-			"lastupdatedtime": "08/05/2020 17:43:09",
+			"lastupdatedtime": "08/05/2020 21:51:15",
 			"recovered": "35",
 			"state": "Assam",
 			"statecode": "AS",
