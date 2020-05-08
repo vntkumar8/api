@@ -907,12 +907,12 @@
       {
         "district": "Chandigarh",
         "notes": "",
-        "active": 112,
-        "confirmed": 134,
+        "active": 123,
+        "confirmed": 145,
         "deceased": 1,
         "recovered": 21,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 11,
           "deceased": 0,
           "recovered": 0
         }
@@ -2527,14 +2527,14 @@
       {
         "district": "Ballari",
         "notes": "",
-        "active": 6,
+        "active": 4,
         "confirmed": 15,
         "deceased": 0,
-        "recovered": 9,
+        "recovered": 11,
         "delta": {
           "confirmed": 1,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 2
         }
       },
       {
@@ -2566,14 +2566,14 @@
       {
         "district": "Bengaluru Urban",
         "notes": "One death on 27th Apr is not included as it's not counted as covid related death by the Karnataka govt.",
-        "active": 79,
+        "active": 72,
         "confirmed": 163,
         "deceased": 6,
-        "recovered": 77,
+        "recovered": 84,
         "delta": {
           "confirmed": 7,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 7
         }
       },
       {
@@ -2605,12 +2605,12 @@
       {
         "district": "Chitradurga",
         "notes": "",
-        "active": 0,
-        "confirmed": 1,
+        "active": 3,
+        "confirmed": 4,
         "deceased": 0,
         "recovered": 1,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 3,
           "deceased": 0,
           "recovered": 0
         }
@@ -2644,14 +2644,14 @@
       {
         "district": "Dharwad",
         "notes": "",
-        "active": 6,
+        "active": 5,
         "confirmed": 12,
         "deceased": 0,
-        "recovered": 6,
+        "recovered": 7,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 1
         }
       },
       {
@@ -2791,19 +2791,6 @@
         "confirmed": 48,
         "deceased": 3,
         "recovered": 25,
-        "delta": {
-          "confirmed": 0,
-          "deceased": 0,
-          "recovered": 0
-        }
-      },
-      {
-        "district": "Unknown",
-        "notes": "",
-        "active": -5,
-        "confirmed": 0,
-        "deceased": 0,
-        "recovered": 5,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
@@ -4057,12 +4044,12 @@
       {
         "district": "Bhadrak",
         "notes": "",
-        "active": 11,
-        "confirmed": 23,
+        "active": 12,
+        "confirmed": 24,
         "deceased": 0,
         "recovered": 12,
         "delta": {
-          "confirmed": 2,
+          "confirmed": 3,
           "deceased": 0,
           "recovered": 0
         }
@@ -6900,25 +6887,25 @@
       {
         "district": "Dehradun",
         "notes": "",
-        "active": 13,
+        "active": 7,
         "confirmed": 34,
         "deceased": 1,
-        "recovered": 20,
+        "recovered": 26,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 6
         }
       },
       {
         "district": "Haridwar",
         "notes": "",
-        "active": 2,
-        "confirmed": 7,
+        "active": 3,
+        "confirmed": 8,
         "deceased": 0,
         "recovered": 5,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
@@ -6952,12 +6939,12 @@
       {
         "district": "Udham Singh Nagar",
         "notes": "",
-        "active": 4,
-        "confirmed": 8,
+        "active": 5,
+        "confirmed": 9,
         "deceased": 0,
         "recovered": 4,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
