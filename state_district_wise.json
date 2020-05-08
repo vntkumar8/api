@@ -836,6 +836,18 @@
           "deceased": 0,
           "recovered": 0
         }
+      },
+      "Unknown": {
+        "notes": "",
+        "active": 5,
+        "confirmed": 5,
+        "deceased": 0,
+        "recovered": 0,
+        "delta": {
+          "confirmed": 0,
+          "deceased": 0,
+          "recovered": 0
+        }
       }
     },
     "statecode": "BR"
@@ -4232,14 +4244,14 @@
       },
       "Puducherry": {
         "notes": "",
-        "active": 2,
-        "confirmed": 7,
+        "active": 7,
+        "confirmed": 13,
         "deceased": 0,
-        "recovered": 5,
+        "recovered": 6,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 6,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 1
         }
       }
     },
