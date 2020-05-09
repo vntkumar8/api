@@ -7534,8 +7534,8 @@
         },
         {
           "notes": "",
-          "active": 4,
-          "confirmed": 5,
+          "active": 6,
+          "confirmed": 7,
           "deceased": 0,
           "recovered": 1,
           "date": "2020-05-09"
@@ -8706,6 +8706,16 @@
           "notes": "",
           "active": 1,
           "confirmed": 1,
+          "deceased": 0,
+          "recovered": 0,
+          "date": "2020-05-09"
+        }
+      ],
+      "Muzaffarpur": [
+        {
+          "notes": "",
+          "active": 3,
+          "confirmed": 3,
           "deceased": 0,
           "recovered": 0,
           "date": "2020-05-09"
@@ -51376,10 +51386,10 @@
         },
         {
           "notes": "",
-          "active": 95,
+          "active": 90,
           "confirmed": 102,
           "deceased": 0,
-          "recovered": 7,
+          "recovered": 12,
           "date": "2020-05-09"
         }
       ],
