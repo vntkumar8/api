@@ -5417,7 +5417,7 @@
 			"totalpeopleinquarantine": "50983",
 			"totalpeoplereleasedfromquarantine": "",
 			"totaltested": "84648",
-			"unconfirmed": "",
+			"unconfirmed": "0",
 			"updatedon": "04/05/2020"
 		},
 		{
@@ -5438,7 +5438,7 @@
 			"totalpeopleinquarantine": "50612",
 			"totalpeoplereleasedfromquarantine": "",
 			"totaltested": "89632",
-			"unconfirmed": "",
+			"unconfirmed": "0",
 			"updatedon": "05/05/2020"
 		},
 		{
@@ -5459,7 +5459,7 @@
 			"totalpeopleinquarantine": "58063",
 			"totalpeoplereleasedfromquarantine": "",
 			"totaltested": "95191",
-			"unconfirmed": "",
+			"unconfirmed": "0",
 			"updatedon": "06/05/2020"
 		},
 		{
@@ -5480,7 +5480,7 @@
 			"totalpeopleinquarantine": "66861",
 			"totalpeoplereleasedfromquarantine": "",
 			"totaltested": "100553",
-			"unconfirmed": "",
+			"unconfirmed": "0",
 			"updatedon": "07/05/2020"
 		},
 		{
@@ -5501,8 +5501,29 @@
 			"totalpeopleinquarantine": "77798",
 			"totalpeoplereleasedfromquarantine": "",
 			"totaltested": "105386",
-			"unconfirmed": "",
+			"unconfirmed": "-1",
 			"updatedon": "08/05/2020"
+		},
+		{
+			"negative": "101853",
+			"numcallsstatehelpline": "",
+			"numicubeds": "",
+			"numisolationbeds": "",
+			"numventilators": "",
+			"populationsourcecovid19india": "",
+			"positive": "7797",
+			"source": "",
+			"source2": "",
+			"state": "Gujarat",
+			"tags": "Tested",
+			"testpositivityrate": "7.11%",
+			"testspermillion": "1614",
+			"testsperthousand": "1.61",
+			"totalpeopleinquarantine": "",
+			"totalpeoplereleasedfromquarantine": "",
+			"totaltested": "109650",
+			"unconfirmed": "0",
+			"updatedon": "09/05/2020"
 		},
 		{
 			"negative": "",
@@ -5517,13 +5538,13 @@
 			"state": "Gujarat",
 			"tags": "",
 			"testpositivityrate": "",
-			"testspermillion": "",
-			"testsperthousand": "",
+			"testspermillion": "0",
+			"testsperthousand": "0.00",
 			"totalpeopleinquarantine": "",
 			"totalpeoplereleasedfromquarantine": "",
 			"totaltested": "",
 			"unconfirmed": "",
-			"updatedon": "10/05/2020"
+			"updatedon": "11/05/2020"
 		},
 		{
 			"negative": "938",

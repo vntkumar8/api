@@ -2138,12 +2138,12 @@
       {
         "district": "Dhanbad",
         "notes": "",
-        "active": 1,
-        "confirmed": 3,
+        "active": 3,
+        "confirmed": 5,
         "deceased": 0,
         "recovered": 2,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 2,
           "deceased": 0,
           "recovered": 0
         }
@@ -3627,14 +3627,27 @@
         }
       },
       {
+        "district": "Bhind",
+        "notes": "",
+        "active": 1,
+        "confirmed": 1,
+        "deceased": 0,
+        "recovered": 0,
+        "delta": {
+          "confirmed": 1,
+          "deceased": 0,
+          "recovered": 0
+        }
+      },
+      {
         "district": "Bhopal",
         "notes": "",
-        "active": 301,
-        "confirmed": 679,
+        "active": 326,
+        "confirmed": 704,
         "deceased": 24,
         "recovered": 354,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 25,
           "deceased": 0,
           "recovered": 0
         }
@@ -3642,12 +3655,12 @@
       {
         "district": "Burhanpur",
         "notes": "",
-        "active": 38,
-        "confirmed": 42,
+        "active": 43,
+        "confirmed": 47,
         "deceased": 4,
         "recovered": 0,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 5,
           "deceased": 0,
           "recovered": 0
         }
@@ -3668,12 +3681,12 @@
       {
         "district": "Dewas",
         "notes": "MP bulletin dated 28 Apr reduced total cases in Dewas by 1 upon reconcilation with Indore district",
-        "active": 13,
-        "confirmed": 32,
+        "active": 17,
+        "confirmed": 36,
         "deceased": 7,
         "recovered": 12,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 4,
           "deceased": 0,
           "recovered": 0
         }
@@ -3681,12 +3694,12 @@
       {
         "district": "Dhar",
         "notes": "State bulletin on 20th Apr reported 5 extra cases in Dhar distrct. This has been reconciled - MP Health Dept Bulletin, 22 Apr",
-        "active": 51,
-        "confirmed": 78,
+        "active": 52,
+        "confirmed": 79,
         "deceased": 1,
         "recovered": 26,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
@@ -3720,12 +3733,12 @@
       {
         "district": "Gwalior",
         "notes": "",
-        "active": 9,
-        "confirmed": 12,
+        "active": 14,
+        "confirmed": 17,
         "deceased": 0,
         "recovered": 3,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 5,
           "deceased": 0,
           "recovered": 0
         }
@@ -3759,12 +3772,12 @@
       {
         "district": "Indore",
         "notes": "",
-        "active": 978,
-        "confirmed": 1727,
+        "active": 1031,
+        "confirmed": 1780,
         "deceased": 86,
         "recovered": 663,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 53,
           "deceased": 0,
           "recovered": 0
         }
@@ -3772,12 +3785,12 @@
       {
         "district": "Jabalpur",
         "notes": "",
-        "active": 94,
-        "confirmed": 116,
+        "active": 97,
+        "confirmed": 119,
         "deceased": 5,
         "recovered": 17,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 3,
           "deceased": 0,
           "recovered": 0
         }
@@ -3798,12 +3811,12 @@
       {
         "district": "Khandwa",
         "notes": "",
-        "active": 13,
-        "confirmed": 52,
+        "active": 17,
+        "confirmed": 56,
         "deceased": 7,
         "recovered": 32,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 4,
           "deceased": 0,
           "recovered": 0
         }
@@ -3811,12 +3824,12 @@
       {
         "district": "Khargone",
         "notes": "MP Bulletin dated 25/04 reduced one case in Khargone as there was a repetition",
-        "active": 35,
-        "confirmed": 80,
+        "active": 36,
+        "confirmed": 81,
         "deceased": 8,
         "recovered": 37,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
@@ -3850,12 +3863,12 @@
       {
         "district": "Neemuch",
         "notes": "",
-        "active": 5,
-        "confirmed": 5,
+        "active": 10,
+        "confirmed": 10,
         "deceased": 0,
         "recovered": 0,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 5,
           "deceased": 0,
           "recovered": 0
         }
@@ -3915,12 +3928,12 @@
       {
         "district": "Sagar",
         "notes": "",
-        "active": 0,
-        "confirmed": 5,
+        "active": 1,
+        "confirmed": 6,
         "deceased": 0,
         "recovered": 5,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
@@ -3928,12 +3941,12 @@
       {
         "district": "Satna",
         "notes": "",
-        "active": 0,
-        "confirmed": 1,
+        "active": 1,
+        "confirmed": 2,
         "deceased": 1,
         "recovered": 0,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
@@ -4019,12 +4032,12 @@
       {
         "district": "Ujjain",
         "notes": "",
-        "active": 120,
-        "confirmed": 220,
+        "active": 127,
+        "confirmed": 227,
         "deceased": 43,
         "recovered": 57,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 7,
           "deceased": 0,
           "recovered": 0
         }
