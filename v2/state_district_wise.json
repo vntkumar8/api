@@ -321,6 +321,19 @@
         }
       },
       {
+        "district": "Jorhat",
+        "notes": "",
+        "active": 3,
+        "confirmed": 3,
+        "deceased": 0,
+        "recovered": 0,
+        "delta": {
+          "confirmed": 3,
+          "deceased": 0,
+          "recovered": 0
+        }
+      },
+      {
         "district": "Kamrup",
         "notes": "",
         "active": 0,
@@ -5147,14 +5160,14 @@
       {
         "district": "Adilabad",
         "notes": "",
-        "active": 8,
+        "active": 6,
         "confirmed": 21,
         "deceased": 0,
-        "recovered": 13,
+        "recovered": 15,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 2
         }
       },
       {
@@ -5173,14 +5186,14 @@
       {
         "district": "Hyderabad",
         "notes": "",
-        "active": 400,
+        "active": 388,
         "confirmed": 654,
         "deceased": 21,
-        "recovered": 233,
+        "recovered": 245,
         "delta": {
           "confirmed": 30,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 12
         }
       },
       {
@@ -5225,14 +5238,14 @@
       {
         "district": "Jogulamba Gadwal",
         "notes": "",
-        "active": 22,
+        "active": 19,
         "confirmed": 45,
         "deceased": 1,
-        "recovered": 22,
+        "recovered": 25,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 3
         }
       },
       {
@@ -5342,14 +5355,14 @@
       {
         "district": "Medchal Malkajgiri",
         "notes": "",
-        "active": 15,
+        "active": 14,
         "confirmed": 22,
         "deceased": 1,
-        "recovered": 6,
+        "recovered": 7,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 1
         }
       },
       {
@@ -5446,27 +5459,27 @@
       {
         "district": "Rajanna Sircilla",
         "notes": "",
-        "active": 2,
+        "active": 1,
         "confirmed": 3,
         "deceased": 0,
-        "recovered": 1,
+        "recovered": 2,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 1
         }
       },
       {
         "district": "Ranga Reddy",
         "notes": "",
-        "active": 21,
+        "active": 20,
         "confirmed": 36,
         "deceased": 2,
-        "recovered": 13,
+        "recovered": 14,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 1
         }
       },
       {
@@ -5498,27 +5511,27 @@
       {
         "district": "Suryapet",
         "notes": "",
-        "active": 68,
+        "active": 66,
         "confirmed": 83,
         "deceased": 0,
-        "recovered": 15,
+        "recovered": 17,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 2
         }
       },
       {
         "district": "Vikarabad",
         "notes": "",
-        "active": 23,
+        "active": 22,
         "confirmed": 37,
         "deceased": 1,
-        "recovered": 13,
+        "recovered": 14,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 1
         }
       },
       {
@@ -5537,10 +5550,10 @@
       {
         "district": "Unknown",
         "notes": "",
-        "active": -238,
+        "active": -240,
         "confirmed": 40,
-        "deceased": 1,
-        "recovered": 277,
+        "deceased": 2,
+        "recovered": 278,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
