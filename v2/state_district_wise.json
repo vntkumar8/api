@@ -1275,12 +1275,12 @@
       {
         "district": "Ahmedabad",
         "notes": "",
-        "active": 3916,
-        "confirmed": 5260,
+        "active": 4196,
+        "confirmed": 5540,
         "deceased": 343,
         "recovered": 1001,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 280,
           "deceased": 0,
           "recovered": 0
         }
@@ -1301,12 +1301,12 @@
       {
         "district": "Aravalli",
         "notes": "",
-        "active": 51,
-        "confirmed": 67,
+        "active": 55,
+        "confirmed": 71,
         "deceased": 2,
         "recovered": 14,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 4,
           "deceased": 0,
           "recovered": 0
         }
@@ -1314,12 +1314,12 @@
       {
         "district": "Banaskantha",
         "notes": "",
-        "active": 48,
-        "confirmed": 75,
+        "active": 50,
+        "confirmed": 77,
         "deceased": 2,
         "recovered": 25,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 2,
           "deceased": 0,
           "recovered": 0
         }
@@ -1444,12 +1444,12 @@
       {
         "district": "Jamnagar",
         "notes": "",
-        "active": 15,
-        "confirmed": 16,
+        "active": 22,
+        "confirmed": 23,
         "deceased": 1,
         "recovered": 0,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 7,
           "deceased": 0,
           "recovered": 0
         }
@@ -1470,12 +1470,12 @@
       {
         "district": "Kheda",
         "notes": "",
-        "active": 23,
-        "confirmed": 27,
+        "active": 25,
+        "confirmed": 29,
         "deceased": 1,
         "recovered": 3,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 2,
           "deceased": 0,
           "recovered": 0
         }
@@ -1561,12 +1561,12 @@
       {
         "district": "Panchmahal",
         "notes": "",
-        "active": 48,
-        "confirmed": 57,
+        "active": 50,
+        "confirmed": 59,
         "deceased": 3,
         "recovered": 6,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 2,
           "deceased": 0,
           "recovered": 0
         }
@@ -1691,8 +1691,8 @@
       {
         "district": "Unknown",
         "notes": "",
-        "active": 152,
-        "confirmed": 394,
+        "active": -145,
+        "confirmed": 97,
         "deceased": 23,
         "recovered": 219,
         "delta": {
