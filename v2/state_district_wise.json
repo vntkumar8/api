@@ -6140,12 +6140,12 @@
       {
         "district": "Amroha",
         "notes": "",
-        "active": 6,
-        "confirmed": 33,
+        "active": 5,
+        "confirmed": 32,
         "deceased": 1,
         "recovered": 26,
         "delta": {
-          "confirmed": 0,
+          "confirmed": -1,
           "deceased": 0,
           "recovered": 0
         }
@@ -6556,12 +6556,12 @@
       {
         "district": "Jaunpur",
         "notes": "",
-        "active": 4,
-        "confirmed": 9,
+        "active": 3,
+        "confirmed": 8,
         "deceased": 0,
         "recovered": 5,
         "delta": {
-          "confirmed": 0,
+          "confirmed": -1,
           "deceased": 0,
           "recovered": 0
         }
@@ -6621,12 +6621,12 @@
       {
         "district": "Kasganj",
         "notes": "",
-        "active": 1,
-        "confirmed": 4,
+        "active": 0,
+        "confirmed": 3,
         "deceased": 0,
         "recovered": 3,
         "delta": {
-          "confirmed": 0,
+          "confirmed": -1,
           "deceased": 0,
           "recovered": 0
         }
@@ -6829,12 +6829,12 @@
       {
         "district": "Pratapgarh",
         "notes": "",
-        "active": 6,
-        "confirmed": 12,
+        "active": 5,
+        "confirmed": 11,
         "deceased": 0,
         "recovered": 6,
         "delta": {
-          "confirmed": 0,
+          "confirmed": -1,
           "deceased": 0,
           "recovered": 0
         }
@@ -6875,7 +6875,7 @@
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 4
         }
       },
       {
@@ -6992,7 +6992,7 @@
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 1
         }
       },
       {
@@ -7017,19 +7017,6 @@
         "recovered": 21,
         "delta": {
           "confirmed": 4,
-          "deceased": 0,
-          "recovered": 0
-        }
-      },
-      {
-        "district": "Unknown",
-        "notes": "",
-        "active": -4,
-        "confirmed": -4,
-        "deceased": 0,
-        "recovered": 0,
-        "delta": {
-          "confirmed": 0,
           "deceased": 0,
           "recovered": 0
         }
