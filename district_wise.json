@@ -12275,11 +12275,11 @@
 			"statecode": "UT"
 		},
 		{
-			"active": "5",
-			"confirmed": "9",
+			"active": "9",
+			"confirmed": "13",
 			"deceased": "0",
-			"deltaactive": "0",
-			"deltaconfirmed": "0",
+			"deltaactive": "4",
+			"deltaconfirmed": "4",
 			"deltadeceased": "0",
 			"deltarecovered": "0",
 			"district": "Udham Singh Nagar",
@@ -13295,7 +13295,7 @@
 			"statecode": "UP"
 		},
 		{
-			"active": "0",
+			"active": "-1",
 			"confirmed": "0",
 			"deceased": "0",
 			"deltaactive": "0",
@@ -13306,7 +13306,7 @@
 			"districtkey": "UT_Unknown",
 			"districtnotes": "",
 			"lastupdated": "",
-			"recovered": "0",
+			"recovered": "1",
 			"slno": "763",
 			"state": "Uttarakhand",
 			"statecode": "UT"
