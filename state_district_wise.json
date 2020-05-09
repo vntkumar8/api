@@ -909,10 +909,10 @@
       },
       "Raipur": {
         "notes": "",
-        "active": 2,
+        "active": 1,
         "confirmed": 7,
         "deceased": 0,
-        "recovered": 5,
+        "recovered": 6,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
@@ -933,22 +933,10 @@
       },
       "Surajpur": {
         "notes": "",
-        "active": 6,
+        "active": 5,
         "confirmed": 6,
         "deceased": 0,
-        "recovered": 0,
-        "delta": {
-          "confirmed": 0,
-          "deceased": 0,
-          "recovered": 0
-        }
-      },
-      "Unknown": {
-        "notes": "",
-        "active": -2,
-        "confirmed": 0,
-        "deceased": 0,
-        "recovered": 2,
+        "recovered": 1,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
@@ -2084,8 +2072,8 @@
       },
       "Unknown": {
         "notes": "",
-        "active": 17,
-        "confirmed": 21,
+        "active": 18,
+        "confirmed": 22,
         "deceased": 0,
         "recovered": 4,
         "delta": {
@@ -3754,12 +3742,12 @@
       },
       "Bhadrak": {
         "notes": "",
-        "active": 12,
-        "confirmed": 24,
+        "active": 13,
+        "confirmed": 25,
         "deceased": 0,
         "recovered": 12,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
@@ -3802,12 +3790,12 @@
       },
       "Ganjam": {
         "notes": "",
-        "active": 71,
-        "confirmed": 71,
+        "active": 83,
+        "confirmed": 83,
         "deceased": 0,
         "recovered": 0,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 12,
           "deceased": 0,
           "recovered": 0
         }
@@ -3910,12 +3898,12 @@
       },
       "Mayurbhanj": {
         "notes": "",
-        "active": 4,
-        "confirmed": 4,
+        "active": 7,
+        "confirmed": 7,
         "deceased": 0,
         "recovered": 0,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 3,
           "deceased": 0,
           "recovered": 0
         }
@@ -3934,12 +3922,12 @@
       },
       "Sundargarh": {
         "notes": "",
-        "active": 6,
-        "confirmed": 12,
+        "active": 7,
+        "confirmed": 13,
         "deceased": 0,
         "recovered": 6,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }

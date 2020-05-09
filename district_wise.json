@@ -2313,7 +2313,7 @@
 			"statecode": "CT"
 		},
 		{
-			"active": "2",
+			"active": "1",
 			"confirmed": "7",
 			"deceased": "0",
 			"deltaactive": "0",
@@ -2324,7 +2324,7 @@
 			"districtkey": "CT_Raipur",
 			"districtnotes": "",
 			"lastupdated": "",
-			"recovered": "5",
+			"recovered": "6",
 			"slno": "135",
 			"state": "Chhattisgarh",
 			"statecode": "CT"
@@ -2364,7 +2364,7 @@
 			"statecode": "CT"
 		},
 		{
-			"active": "6",
+			"active": "5",
 			"confirmed": "6",
 			"deceased": "0",
 			"deltaactive": "0",
@@ -2375,7 +2375,7 @@
 			"districtkey": "CT_Surajpur",
 			"districtnotes": "",
 			"lastupdated": "",
-			"recovered": "0",
+			"recovered": "1",
 			"slno": "138",
 			"state": "Chhattisgarh",
 			"statecode": "CT"
@@ -7889,11 +7889,11 @@
 			"statecode": "OR"
 		},
 		{
-			"active": "12",
-			"confirmed": "24",
+			"active": "13",
+			"confirmed": "25",
 			"deceased": "0",
-			"deltaactive": "0",
-			"deltaconfirmed": "0",
+			"deltaactive": "1",
+			"deltaconfirmed": "1",
 			"deltadeceased": "0",
 			"deltarecovered": "0",
 			"district": "Bhadrak",
@@ -7991,11 +7991,11 @@
 			"statecode": "OR"
 		},
 		{
-			"active": "71",
-			"confirmed": "71",
+			"active": "83",
+			"confirmed": "83",
 			"deceased": "0",
-			"deltaactive": "0",
-			"deltaconfirmed": "0",
+			"deltaactive": "12",
+			"deltaconfirmed": "12",
 			"deltadeceased": "0",
 			"deltarecovered": "0",
 			"district": "Ganjam",
@@ -8178,11 +8178,11 @@
 			"statecode": "OR"
 		},
 		{
-			"active": "4",
-			"confirmed": "4",
+			"active": "7",
+			"confirmed": "7",
 			"deceased": "0",
-			"deltaactive": "0",
-			"deltaconfirmed": "0",
+			"deltaactive": "3",
+			"deltaconfirmed": "3",
 			"deltadeceased": "0",
 			"deltarecovered": "0",
 			"district": "Mayurbhanj",
@@ -8314,11 +8314,11 @@
 			"statecode": "OR"
 		},
 		{
-			"active": "6",
-			"confirmed": "12",
+			"active": "7",
+			"confirmed": "13",
 			"deceased": "0",
-			"deltaactive": "0",
-			"deltaconfirmed": "0",
+			"deltaactive": "1",
+			"deltaconfirmed": "1",
 			"deltadeceased": "0",
 			"deltarecovered": "0",
 			"district": "Sundargarh",
@@ -12819,7 +12819,7 @@
 			"statecode": "CH"
 		},
 		{
-			"active": "-2",
+			"active": "0",
 			"confirmed": "0",
 			"deceased": "0",
 			"deltaactive": "0",
@@ -12830,7 +12830,7 @@
 			"districtkey": "CT_Unknown",
 			"districtnotes": "",
 			"lastupdated": "",
-			"recovered": "2",
+			"recovered": "0",
 			"slno": "734",
 			"state": "Chhattisgarh",
 			"statecode": "CT"
@@ -12955,8 +12955,8 @@
 			"statecode": "JK"
 		},
 		{
-			"active": "17",
-			"confirmed": "21",
+			"active": "18",
+			"confirmed": "22",
 			"deceased": "0",
 			"deltaactive": "0",
 			"deltaconfirmed": "0",
