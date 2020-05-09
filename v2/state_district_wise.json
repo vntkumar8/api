@@ -2151,8 +2151,8 @@
       {
         "district": "Dhanbad",
         "notes": "",
-        "active": 3,
-        "confirmed": 5,
+        "active": 2,
+        "confirmed": 4,
         "deceased": 0,
         "recovered": 2,
         "delta": {
@@ -2177,8 +2177,8 @@
       {
         "district": "Garhwa",
         "notes": "",
-        "active": 1,
-        "confirmed": 3,
+        "active": 21,
+        "confirmed": 23,
         "deceased": 0,
         "recovered": 2,
         "delta": {
@@ -2242,8 +2242,8 @@
       {
         "district": "Koderma",
         "notes": "",
-        "active": 0,
-        "confirmed": 1,
+        "active": 2,
+        "confirmed": 3,
         "deceased": 0,
         "recovered": 1,
         "delta": {
@@ -2289,19 +2289,6 @@
           "confirmed": 0,
           "deceased": 0,
           "recovered": 1
-        }
-      },
-      {
-        "district": "Unknown",
-        "notes": "",
-        "active": 21,
-        "confirmed": 21,
-        "deceased": 0,
-        "recovered": 0,
-        "delta": {
-          "confirmed": 0,
-          "deceased": 0,
-          "recovered": 0
         }
       }
     ]
