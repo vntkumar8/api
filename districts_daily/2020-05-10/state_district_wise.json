@@ -5588,6 +5588,18 @@
           "deceased": 0,
           "recovered": 0
         }
+      },
+      "Unknown": {
+        "notes": "",
+        "active": 669,
+        "confirmed": 669,
+        "deceased": 0,
+        "recovered": 0,
+        "delta": {
+          "confirmed": 0,
+          "deceased": 0,
+          "recovered": 0
+        }
       }
     },
     "statecode": "TN"
@@ -6506,12 +6518,12 @@
       },
       "Dehradun": {
         "notes": "",
-        "active": 7,
-        "confirmed": 34,
+        "active": 8,
+        "confirmed": 35,
         "deceased": 1,
         "recovered": 26,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
