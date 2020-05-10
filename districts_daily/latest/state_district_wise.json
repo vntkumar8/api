@@ -318,9 +318,9 @@
       },
       "Kamrup Metropolitan": {
         "notes": "",
-        "active": 6,
+        "active": 4,
         "confirmed": 6,
-        "deceased": -1,
+        "deceased": 1,
         "recovered": 1,
         "delta": {
           "confirmed": 0,
@@ -743,12 +743,12 @@
       },
       "Saharsa": {
         "notes": "",
-        "active": 2,
-        "confirmed": 2,
+        "active": 10,
+        "confirmed": 10,
         "deceased": 0,
         "recovered": 0,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 8,
           "deceased": 0,
           "recovered": 0
         }
@@ -855,6 +855,18 @@
         "confirmed": 11,
         "deceased": 0,
         "recovered": 3,
+        "delta": {
+          "confirmed": 0,
+          "deceased": 0,
+          "recovered": 0
+        }
+      },
+      "Unknown": {
+        "notes": "",
+        "active": 10,
+        "confirmed": 10,
+        "deceased": 0,
+        "recovered": 0,
         "delta": {
           "confirmed": 0,
           "deceased": 0,

@@ -902,23 +902,23 @@
 		},
 		{
 			"dailyconfirmed": "2952",
-			"dailydeceased": "114",
+			"dailydeceased": "116",
 			"dailyrecovered": "1414",
 			"date": "09 May ",
 			"totalconfirmed": "62866",
-			"totaldeceased": "2100",
+			"totaldeceased": "2102",
 			"totalrecovered": "19301"
 		}
 	],
 	"statewise": [
 		{
-			"active": "41479",
-			"confirmed": "62899",
-			"deaths": "2101",
-			"deltaconfirmed": "33",
+			"active": "41495",
+			"confirmed": "62917",
+			"deaths": "2103",
+			"deltaconfirmed": "51",
 			"deltadeaths": "1",
 			"deltarecovered": "14",
-			"lastupdatedtime": "10/05/2020 09:42:06",
+			"lastupdatedtime": "10/05/2020 09:51:07",
 			"recovered": "19315",
 			"state": "Total",
 			"statecode": "TT",
@@ -1107,13 +1107,13 @@
 			"statenotes": ""
 		},
 		{
-			"active": "288",
-			"confirmed": "611",
+			"active": "306",
+			"confirmed": "629",
 			"deaths": "5",
-			"deltaconfirmed": "0",
+			"deltaconfirmed": "18",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
-			"lastupdatedtime": "09/05/2020 23:23:09",
+			"lastupdatedtime": "10/05/2020 09:51:09",
 			"recovered": "318",
 			"state": "Bihar",
 			"statecode": "BR",
@@ -1198,13 +1198,13 @@
 			"statenotes": ""
 		},
 		{
-			"active": "28",
+			"active": "26",
 			"confirmed": "63",
-			"deaths": "0",
+			"deaths": "2",
 			"deltaconfirmed": "0",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
-			"lastupdatedtime": "10/05/2020 09:42:08",
+			"lastupdatedtime": "10/05/2020 09:51:11",
 			"recovered": "35",
 			"state": "Assam",
 			"statecode": "AS",
@@ -2199,6 +2199,19 @@
 			"totalpositivecases": "",
 			"totalsamplestested": "1523213",
 			"updatetimestamp": "09/05/2020 09:00:00"
+		},
+		{
+			"individualstestedperconfirmedcase": "",
+			"positivecasesfromsamplesreported": "",
+			"samplereportedtoday": "",
+			"source": "https://www.icmr.gov.in/pdf/covid/update/ICMR_testing_update_10May2020_9AM_IST.pdf",
+			"testpositivityrate": "",
+			"testsconductedbyprivatelabs": "",
+			"testsperconfirmedcase": "",
+			"totalindividualstested": "",
+			"totalpositivecases": "",
+			"totalsamplestested": "1609037",
+			"updatetimestamp": "10/05/2020 09:00:00"
 		}
 	]
 }

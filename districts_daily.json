@@ -3729,9 +3729,9 @@
         },
         {
           "notes": "",
-          "active": 6,
+          "active": 4,
           "confirmed": 6,
-          "deceased": -1,
+          "deceased": 1,
           "recovered": 1,
           "date": "2020-05-10"
         }
@@ -8885,6 +8885,14 @@
           "deceased": 0,
           "recovered": 30,
           "date": "2020-05-06"
+        },
+        {
+          "notes": "",
+          "active": 10,
+          "confirmed": 10,
+          "deceased": 0,
+          "recovered": 0,
+          "date": "2020-05-10"
         }
       ],
       "Kaimur": [
@@ -9238,8 +9246,8 @@
         },
         {
           "notes": "",
-          "active": 2,
-          "confirmed": 2,
+          "active": 10,
+          "confirmed": 10,
           "deceased": 0,
           "recovered": 0,
           "date": "2020-05-10"
