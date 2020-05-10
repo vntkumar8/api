@@ -318,9 +318,9 @@
       },
       "Kamrup Metropolitan": {
         "notes": "",
-        "active": 4,
+        "active": 6,
         "confirmed": 6,
-        "deceased": 1,
+        "deceased": -1,
         "recovered": 1,
         "delta": {
           "confirmed": 0,
@@ -4424,7 +4424,7 @@
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 6
         }
       },
       "Churu": {
@@ -4616,7 +4616,7 @@
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 2
         }
       },
       "Other State": {
