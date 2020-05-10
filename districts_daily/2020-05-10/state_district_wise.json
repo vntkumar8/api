@@ -2334,12 +2334,12 @@
     "districtData": {
       "Bagalkote": {
         "notes": "",
-        "active": 32,
-        "confirmed": 51,
+        "active": 40,
+        "confirmed": 59,
         "deceased": 1,
         "recovered": 18,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 8,
           "deceased": 0,
           "recovered": 0
         }
@@ -2358,12 +2358,12 @@
       },
       "Belagavi": {
         "notes": "",
-        "active": 48,
-        "confirmed": 83,
+        "active": 70,
+        "confirmed": 105,
         "deceased": 1,
         "recovered": 34,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 22,
           "deceased": 0,
           "recovered": 0
         }
@@ -2382,13 +2382,13 @@
       },
       "Bengaluru Urban": {
         "notes": "One death on 27th Apr is not included as it's not counted as covid related death by the Karnataka govt.",
-        "active": 82,
-        "confirmed": 175,
-        "deceased": 6,
+        "active": 84,
+        "confirmed": 178,
+        "deceased": 7,
         "recovered": 86,
         "delta": {
-          "confirmed": 0,
-          "deceased": 0,
+          "confirmed": 3,
+          "deceased": 1,
           "recovered": 0
         }
       },
@@ -2406,12 +2406,12 @@
       },
       "Chikkaballapura": {
         "notes": "",
-        "active": 8,
-        "confirmed": 22,
+        "active": 9,
+        "confirmed": 23,
         "deceased": 2,
         "recovered": 12,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
@@ -2442,12 +2442,12 @@
       },
       "Davanagere": {
         "notes": "",
-        "active": 61,
-        "confirmed": 67,
+        "active": 62,
+        "confirmed": 68,
         "deceased": 4,
         "recovered": 2,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
@@ -2490,12 +2490,12 @@
       },
       "Kalaburagi": {
         "notes": "",
-        "active": 30,
-        "confirmed": 67,
+        "active": 33,
+        "confirmed": 70,
         "deceased": 6,
         "recovered": 31,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 3,
           "deceased": 0,
           "recovered": 0
         }
@@ -2548,6 +2548,18 @@
           "recovered": 0
         }
       },
+      "Shivamogga": {
+        "notes": "",
+        "active": 8,
+        "confirmed": 8,
+        "deceased": 0,
+        "recovered": 0,
+        "delta": {
+          "confirmed": 8,
+          "deceased": 0,
+          "recovered": 0
+        }
+      },
       "Tumakuru": {
         "notes": "",
         "active": 7,
@@ -2574,12 +2586,12 @@
       },
       "Uttara Kannada": {
         "notes": "",
-        "active": 21,
-        "confirmed": 32,
+        "active": 28,
+        "confirmed": 39,
         "deceased": 0,
         "recovered": 11,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 7,
           "deceased": 0,
           "recovered": 0
         }
@@ -2590,6 +2602,18 @@
         "confirmed": 49,
         "deceased": 3,
         "recovered": 25,
+        "delta": {
+          "confirmed": 0,
+          "deceased": 0,
+          "recovered": 0
+        }
+      },
+      "Unknown": {
+        "notes": "",
+        "active": -19,
+        "confirmed": 0,
+        "deceased": 0,
+        "recovered": 19,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
