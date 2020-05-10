@@ -911,23 +911,23 @@
 		},
 		{
 			"dailyconfirmed": "4179",
-			"dailydeceased": "106",
+			"dailydeceased": "111",
 			"dailyrecovered": "1514",
 			"date": "10 May ",
 			"totalconfirmed": "67044",
-			"totaldeceased": "2207",
+			"totaldeceased": "2212",
 			"totalrecovered": "20815"
 		}
 	],
 	"statewise": [
 		{
-			"active": "44018",
+			"active": "44013",
 			"confirmed": "67044",
-			"deaths": "2207",
+			"deaths": "2212",
 			"deltaconfirmed": "4179",
-			"deltadeaths": "106",
+			"deltadeaths": "111",
 			"deltarecovered": "1514",
-			"lastupdatedtime": "10/05/2020 22:41:22",
+			"lastupdatedtime": "10/05/2020 22:51:22",
 			"recovered": "20815",
 			"state": "Total",
 			"statecode": "TT",
@@ -940,11 +940,11 @@
 			"deltaconfirmed": "1943",
 			"deltadeaths": "53",
 			"deltarecovered": "399",
-			"lastupdatedtime": "10/05/2020 22:41:23",
+			"lastupdatedtime": "10/05/2020 22:45:23",
 			"recovered": "4199",
 			"state": "Maharashtra",
 			"statecode": "MH",
-			"statenotes": "[05-May]<br>\n- Total numbers are updated to the final figure reported for 05th May. <br>\n- 796 cases added by MH govt. on 4th May due to data cleaning <br>\n- 143 cases added by MH govt. on 5th May due to data cleaning <br>"
+			"statenotes": "[10-May]<br>\n- Total numbers are updated to the final figure reported for 10th May. <br>\n- 665 cases added by MH govt. on 4th May due to data cleaning <br>\n- 143 cases added by MH govt. on 5th May due to data cleaning <br>\n- 796 cases added by MH govt. on 4th May due to data cleaning <br>"
 		},
 		{
 			"active": "5157",
@@ -1012,13 +1012,13 @@
 			"statenotes": ""
 		},
 		{
-			"active": "1800",
+			"active": "1795",
 			"confirmed": "3373",
-			"deaths": "74",
+			"deaths": "79",
 			"deltaconfirmed": "0",
-			"deltadeaths": "0",
+			"deltadeaths": "5",
 			"deltarecovered": "0",
-			"lastupdatedtime": "09/05/2020 23:13:08",
+			"lastupdatedtime": "10/05/2020 22:51:23",
 			"recovered": "1499",
 			"state": "Uttar Pradesh",
 			"statecode": "UP",
@@ -1291,7 +1291,7 @@
 			"deltaconfirmed": "2",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
-			"lastupdatedtime": "10/05/2020 22:41:24",
+			"lastupdatedtime": "10/05/2020 22:43:24",
 			"recovered": "8",
 			"state": "Puducherry",
 			"statecode": "PY",
