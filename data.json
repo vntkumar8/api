@@ -910,25 +910,25 @@
 			"totalrecovered": "19301"
 		},
 		{
-			"dailyconfirmed": "4179",
+			"dailyconfirmed": "4273",
 			"dailydeceased": "111",
-			"dailyrecovered": "1514",
+			"dailyrecovered": "1668",
 			"date": "10 May ",
-			"totalconfirmed": "67044",
+			"totalconfirmed": "67138",
 			"totaldeceased": "2212",
-			"totalrecovered": "20815"
+			"totalrecovered": "20969"
 		}
 	],
 	"statewise": [
 		{
-			"active": "44013",
-			"confirmed": "67044",
+			"active": "43953",
+			"confirmed": "67138",
 			"deaths": "2212",
-			"deltaconfirmed": "4179",
+			"deltaconfirmed": "4273",
 			"deltadeaths": "111",
-			"deltarecovered": "1514",
-			"lastupdatedtime": "10/05/2020 22:51:22",
-			"recovered": "20815",
+			"deltarecovered": "1668",
+			"lastupdatedtime": "10/05/2020 23:01:23",
+			"recovered": "20969",
 			"state": "Total",
 			"statecode": "TT",
 			"statenotes": ""
@@ -944,7 +944,7 @@
 			"recovered": "4199",
 			"state": "Maharashtra",
 			"statecode": "MH",
-			"statenotes": "[10-May]<br>\n- Total numbers are updated to the final figure reported for 10th May. <br>\n- 665 cases added by MH govt. on 4th May due to data cleaning <br>\n- 143 cases added by MH govt. on 5th May due to data cleaning <br>\n- 796 cases added by MH govt. on 4th May due to data cleaning <br>"
+			"statenotes": "[10-May]<br>\n- Total numbers are updated to the final figure reported for 10th May. <br>\n- 665 cases added by MH govt. on 10th May due to data cleaning <br>\n- 143 cases added by MH govt. on 5th May due to data cleaning <br>\n- 796 cases added by MH govt. on 4th May due to data cleaning <br>"
 		},
 		{
 			"active": "5157",
@@ -1012,14 +1012,14 @@
 			"statenotes": ""
 		},
 		{
-			"active": "1795",
-			"confirmed": "3373",
+			"active": "1735",
+			"confirmed": "3467",
 			"deaths": "79",
-			"deltaconfirmed": "0",
+			"deltaconfirmed": "94",
 			"deltadeaths": "5",
-			"deltarecovered": "0",
-			"lastupdatedtime": "10/05/2020 22:51:23",
-			"recovered": "1499",
+			"deltarecovered": "154",
+			"lastupdatedtime": "10/05/2020 23:01:24",
+			"recovered": "1653",
 			"state": "Uttar Pradesh",
 			"statecode": "UP",
 			"statenotes": ""
