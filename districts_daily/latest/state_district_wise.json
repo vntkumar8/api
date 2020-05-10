@@ -1695,24 +1695,24 @@
       },
       "Charkhi Dadri": {
         "notes": "",
-        "active": 0,
-        "confirmed": 1,
+        "active": 1,
+        "confirmed": 2,
         "deceased": 0,
         "recovered": 1,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
       },
       "Faridabad": {
         "notes": "",
-        "active": 31,
-        "confirmed": 88,
+        "active": 38,
+        "confirmed": 95,
         "deceased": 2,
         "recovered": 55,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 7,
           "deceased": 0,
           "recovered": 0
         }
@@ -1851,26 +1851,26 @@
       },
       "Palwal": {
         "notes": "",
-        "active": 4,
-        "confirmed": 36,
+        "active": 5,
+        "confirmed": 37,
         "deceased": 0,
         "recovered": 32,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
       },
       "Panchkula": {
         "notes": "",
-        "active": 3,
+        "active": 2,
         "confirmed": 20,
         "deceased": 0,
-        "recovered": 17,
+        "recovered": 18,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 1
         }
       },
       "Panipat": {
@@ -1923,12 +1923,12 @@
       },
       "Sonipat": {
         "notes": "",
-        "active": 80,
-        "confirmed": 89,
+        "active": 91,
+        "confirmed": 100,
         "deceased": 0,
         "recovered": 9,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 11,
           "deceased": 0,
           "recovered": 0
         }
