@@ -5730,12 +5730,12 @@
 			"statecode": "MH"
 		},
 		{
-			"active": "10508",
+			"active": "10507",
 			"confirmed": "12864",
-			"deceased": "489",
-			"deltaactive": "0",
+			"deceased": "490",
+			"deltaactive": "-1",
 			"deltaconfirmed": "0",
-			"deltadeceased": "0",
+			"deltadeceased": "1",
 			"deltarecovered": "0",
 			"district": "Mumbai",
 			"districtkey": "MH_Mumbai",
@@ -10677,11 +10677,11 @@
 			"statecode": "TN"
 		},
 		{
-			"active": "133",
-			"confirmed": "133",
+			"active": "149",
+			"confirmed": "149",
 			"deceased": "0",
-			"deltaactive": "0",
-			"deltaconfirmed": "0",
+			"deltaactive": "16",
+			"deltaconfirmed": "16",
 			"deltadeceased": "0",
 			"deltarecovered": "0",
 			"district": "Dhalai",
@@ -13057,9 +13057,9 @@
 			"statecode": "MP"
 		},
 		{
-			"active": "-330",
-			"confirmed": "0",
-			"deceased": "0",
+			"active": "497",
+			"confirmed": "1278",
+			"deceased": "52",
 			"deltaactive": "0",
 			"deltaconfirmed": "0",
 			"deltadeceased": "0",
@@ -13068,7 +13068,7 @@
 			"districtkey": "MH_Unknown",
 			"districtnotes": "",
 			"lastupdated": "",
-			"recovered": "330",
+			"recovered": "729",
 			"slno": "749",
 			"state": "Maharashtra",
 			"statecode": "MH"
