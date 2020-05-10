@@ -912,14 +912,14 @@
 	],
 	"statewise": [
 		{
-			"active": "42659",
+			"active": "42614",
 			"confirmed": "64388",
 			"deaths": "2114",
 			"deltaconfirmed": "1523",
 			"deltadeaths": "13",
-			"deltarecovered": "310",
-			"lastupdatedtime": "10/05/2020 19:12:23",
-			"recovered": "19611",
+			"deltarecovered": "355",
+			"lastupdatedtime": "10/05/2020 19:51:23",
+			"recovered": "19656",
 			"state": "Total",
 			"statecode": "TT",
 			"statenotes": ""
@@ -951,19 +951,6 @@
 			"statenotes": ""
 		},
 		{
-			"active": "4781",
-			"confirmed": "6923",
-			"deaths": "73",
-			"deltaconfirmed": "381",
-			"deltadeaths": "5",
-			"deltarecovered": "49",
-			"lastupdatedtime": "09/05/2020 18:23:08",
-			"recovered": "2069",
-			"state": "Delhi",
-			"statecode": "DL",
-			"statenotes": "[10-May]<br>\n\nDelhi will be releasing bulletins in the morning, containing data of the previous day. We will add that data to the date on which the report is released, rather than the previous day."
-		},
-		{
 			"active": "5198",
 			"confirmed": "7204",
 			"deaths": "47",
@@ -975,6 +962,19 @@
 			"state": "Tamil Nadu",
 			"statecode": "TN",
 			"statenotes": ""
+		},
+		{
+			"active": "4781",
+			"confirmed": "6923",
+			"deaths": "73",
+			"deltaconfirmed": "381",
+			"deltadeaths": "5",
+			"deltarecovered": "49",
+			"lastupdatedtime": "09/05/2020 18:23:08",
+			"recovered": "2069",
+			"state": "Delhi",
+			"statecode": "DL",
+			"statenotes": "[10-May]<br>\n\nDelhi will be releasing bulletins in the morning, containing data of the previous day. We will add that data to the date on which the report is released, rather than the previous day."
 		},
 		{
 			"active": "1458",
@@ -1029,14 +1029,14 @@
 			"statenotes": ""
 		},
 		{
-			"active": "1396",
+			"active": "1351",
 			"confirmed": "1939",
 			"deaths": "171",
 			"deltaconfirmed": "153",
 			"deltadeaths": "0",
-			"deltarecovered": "0",
-			"lastupdatedtime": "10/05/2020 19:12:24",
-			"recovered": "372",
+			"deltarecovered": "45",
+			"lastupdatedtime": "10/05/2020 19:51:24",
+			"recovered": "417",
 			"state": "West Bengal",
 			"statecode": "WB",
 			"statenotes": "- Cases updated as per WB bulletin as it now provides total number of cases.<br>\n- Deaths due to comorbidities added to total deceased<br>\n- Zones updated as per WB bulletin<br>"
