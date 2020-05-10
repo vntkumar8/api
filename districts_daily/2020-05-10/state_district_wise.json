@@ -2346,14 +2346,14 @@
     "districtData": {
       "Bagalkote": {
         "notes": "",
-        "active": 40,
+        "active": 37,
         "confirmed": 59,
         "deceased": 1,
-        "recovered": 18,
+        "recovered": 21,
         "delta": {
           "confirmed": 8,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 3
         }
       },
       "Ballari": {
@@ -2370,14 +2370,14 @@
       },
       "Belagavi": {
         "notes": "",
-        "active": 70,
+        "active": 67,
         "confirmed": 105,
         "deceased": 1,
-        "recovered": 34,
+        "recovered": 37,
         "delta": {
           "confirmed": 22,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 3
         }
       },
       "Bengaluru Rural": {
@@ -2418,14 +2418,14 @@
       },
       "Chikkaballapura": {
         "notes": "",
-        "active": 9,
+        "active": 5,
         "confirmed": 23,
         "deceased": 2,
-        "recovered": 12,
+        "recovered": 16,
         "delta": {
           "confirmed": 1,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 4
         }
       },
       "Chitradurga": {
@@ -2478,14 +2478,14 @@
       },
       "Gadag": {
         "notes": "",
-        "active": 3,
+        "active": 0,
         "confirmed": 5,
         "deceased": 1,
-        "recovered": 1,
+        "recovered": 4,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 3
         }
       },
       "Haveri": {
@@ -2502,14 +2502,14 @@
       },
       "Kalaburagi": {
         "notes": "",
-        "active": 33,
-        "confirmed": 70,
+        "active": 21,
+        "confirmed": 71,
         "deceased": 6,
-        "recovered": 31,
+        "recovered": 44,
         "delta": {
-          "confirmed": 3,
+          "confirmed": 4,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 13
         }
       },
       "Kodagu": {
@@ -2538,26 +2538,26 @@
       },
       "Mysuru": {
         "notes": "",
-        "active": 5,
+        "active": 4,
         "confirmed": 88,
         "deceased": 0,
-        "recovered": 83,
+        "recovered": 84,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 1
         }
       },
       "Other State": {
         "notes": "Includes Cases of other States and International Quarantined Passengers.",
-        "active": 2,
+        "active": 1,
         "confirmed": 20,
         "deceased": 0,
-        "recovered": 18,
+        "recovered": 19,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 1
         }
       },
       "Shivamogga": {
@@ -2610,26 +2610,14 @@
       },
       "Vijayapura": {
         "notes": "",
-        "active": 21,
+        "active": 13,
         "confirmed": 49,
         "deceased": 3,
-        "recovered": 25,
+        "recovered": 33,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
-        }
-      },
-      "Unknown": {
-        "notes": "",
-        "active": -19,
-        "confirmed": 0,
-        "deceased": 0,
-        "recovered": 19,
-        "delta": {
-          "confirmed": 0,
-          "deceased": 0,
-          "recovered": 0
+          "recovered": 8
         }
       }
     },
