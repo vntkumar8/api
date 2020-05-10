@@ -7082,8 +7082,8 @@
       {
         "district": "Haridwar",
         "notes": "",
-        "active": 3,
-        "confirmed": 8,
+        "active": 2,
+        "confirmed": 7,
         "deceased": 0,
         "recovered": 5,
         "delta": {
@@ -7125,6 +7125,19 @@
         "confirmed": 13,
         "deceased": 0,
         "recovered": 4,
+        "delta": {
+          "confirmed": 0,
+          "deceased": 0,
+          "recovered": 0
+        }
+      },
+      {
+        "district": "Uttarkashi",
+        "notes": "",
+        "active": 1,
+        "confirmed": 1,
+        "deceased": 0,
+        "recovered": 0,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
