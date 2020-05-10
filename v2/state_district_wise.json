@@ -485,12 +485,12 @@
       {
         "district": "Aurangabad",
         "notes": "",
-        "active": 6,
-        "confirmed": 14,
+        "active": 7,
+        "confirmed": 15,
         "deceased": 0,
         "recovered": 8,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
@@ -537,12 +537,12 @@
       {
         "district": "Bhojpur",
         "notes": "",
-        "active": 9,
-        "confirmed": 19,
+        "active": 10,
+        "confirmed": 20,
         "deceased": 0,
         "recovered": 10,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
@@ -758,12 +758,12 @@
       {
         "district": "Nawada",
         "notes": "",
-        "active": 2,
-        "confirmed": 5,
+        "active": 4,
+        "confirmed": 7,
         "deceased": 0,
         "recovered": 3,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 2,
           "deceased": 0,
           "recovered": 0
         }
@@ -771,13 +771,13 @@
       {
         "district": "Patna",
         "notes": "",
-        "active": 34,
-        "confirmed": 55,
-        "deceased": 0,
+        "active": 39,
+        "confirmed": 61,
+        "deceased": 1,
         "recovered": 21,
         "delta": {
-          "confirmed": 3,
-          "deceased": 0,
+          "confirmed": 9,
+          "deceased": 1,
           "recovered": 0
         }
       },
@@ -1708,6 +1708,19 @@
     "statecode": "HP",
     "districtData": [
       {
+        "district": "Bilaspur",
+        "notes": "",
+        "active": 2,
+        "confirmed": 2,
+        "deceased": 0,
+        "recovered": 0,
+        "delta": {
+          "confirmed": 2,
+          "deceased": 0,
+          "recovered": 0
+        }
+      },
+      {
         "district": "Chamba",
         "notes": "",
         "active": 3,
@@ -1736,12 +1749,12 @@
       {
         "district": "Kangra",
         "notes": "",
-        "active": 3,
-        "confirmed": 8,
+        "active": 4,
+        "confirmed": 9,
         "deceased": 1,
         "recovered": 4,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
@@ -1805,19 +1818,6 @@
         "confirmed": 17,
         "deceased": 0,
         "recovered": 16,
-        "delta": {
-          "confirmed": 0,
-          "deceased": 0,
-          "recovered": 0
-        }
-      },
-      {
-        "district": "Unknown",
-        "notes": "",
-        "active": 2,
-        "confirmed": 2,
-        "deceased": 0,
-        "recovered": 0,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
@@ -2871,12 +2871,12 @@
       {
         "district": "Ernakulam",
         "notes": "",
-        "active": 2,
-        "confirmed": 26,
+        "active": 3,
+        "confirmed": 27,
         "deceased": 1,
         "recovered": 23,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
@@ -2897,27 +2897,27 @@
       {
         "district": "Kannur",
         "notes": "Case of Mahe native who expired in Kannur, added in tally.",
-        "active": 5,
+        "active": 3,
         "confirmed": 116,
         "deceased": 1,
-        "recovered": 110,
+        "recovered": 112,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 2
         }
       },
       {
         "district": "Kasaragod",
         "notes": "",
-        "active": 1,
+        "active": 0,
         "confirmed": 179,
         "deceased": 0,
-        "recovered": 178,
+        "recovered": 179,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 1
         }
       },
       {
@@ -2962,12 +2962,12 @@
       {
         "district": "Malappuram",
         "notes": "",
-        "active": 0,
-        "confirmed": 24,
+        "active": 1,
+        "confirmed": 25,
         "deceased": 1,
         "recovered": 23,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
@@ -2975,14 +2975,14 @@
       {
         "district": "Palakkad",
         "notes": "",
-        "active": 1,
+        "active": 0,
         "confirmed": 13,
         "deceased": 0,
-        "recovered": 12,
+        "recovered": 13,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 1
         }
       },
       {
@@ -3014,12 +3014,12 @@
       {
         "district": "Thrissur",
         "notes": "",
-        "active": 0,
-        "confirmed": 13,
+        "active": 2,
+        "confirmed": 15,
         "deceased": 0,
         "recovered": 13,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 2,
           "deceased": 0,
           "recovered": 0
         }
@@ -3027,12 +3027,12 @@
       {
         "district": "Wayanad",
         "notes": "",
-        "active": 4,
-        "confirmed": 7,
+        "active": 7,
+        "confirmed": 10,
         "deceased": 0,
         "recovered": 3,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 3,
           "deceased": 0,
           "recovered": 0
         }
@@ -3046,14 +3046,14 @@
       {
         "district": "Kargil",
         "notes": "",
-        "active": 5,
+        "active": 2,
         "confirmed": 9,
         "deceased": 0,
-        "recovered": 4,
+        "recovered": 7,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 3
         }
       },
       {
