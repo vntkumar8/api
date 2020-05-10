@@ -2874,18 +2874,18 @@
 			"statecode": "GJ"
 		},
 		{
-			"active": "1",
+			"active": "0",
 			"confirmed": "2",
 			"deceased": "0",
-			"deltaactive": "0",
+			"deltaactive": "-1",
 			"deltaconfirmed": "0",
 			"deltadeceased": "0",
-			"deltarecovered": "0",
+			"deltarecovered": "1",
 			"district": "Dang",
 			"districtkey": "GJ_Dang",
 			"districtnotes": "",
 			"lastupdated": "",
-			"recovered": "1",
+			"recovered": "2",
 			"slno": "187",
 			"state": "Gujarat",
 			"statecode": "GJ"
@@ -12887,7 +12887,7 @@
 			"statecode": "GA"
 		},
 		{
-			"active": "-1",
+			"active": "0",
 			"confirmed": "0",
 			"deceased": "0",
 			"deltaactive": "0",
@@ -12898,7 +12898,7 @@
 			"districtkey": "GJ_Unknown",
 			"districtnotes": "",
 			"lastupdated": "",
-			"recovered": "1",
+			"recovered": "0",
 			"slno": "739",
 			"state": "Gujarat",
 			"statecode": "GJ"
