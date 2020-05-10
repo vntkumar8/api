@@ -350,8 +350,8 @@
         "district": "Kamrup Metropolitan",
         "notes": "",
         "active": 4,
-        "confirmed": 6,
-        "deceased": 1,
+        "confirmed": 5,
+        "deceased": 0,
         "recovered": 1,
         "delta": {
           "confirmed": 0,
@@ -459,12 +459,12 @@
       {
         "district": "Araria",
         "notes": "",
-        "active": 2,
-        "confirmed": 2,
+        "active": 3,
+        "confirmed": 3,
         "deceased": 0,
         "recovered": 0,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
@@ -511,12 +511,12 @@
       {
         "district": "Begusarai",
         "notes": "",
-        "active": 18,
-        "confirmed": 26,
+        "active": 19,
+        "confirmed": 27,
         "deceased": 0,
         "recovered": 8,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
@@ -563,12 +563,12 @@
       {
         "district": "Darbhanga",
         "notes": "",
-        "active": 9,
-        "confirmed": 9,
+        "active": 11,
+        "confirmed": 11,
         "deceased": 0,
         "recovered": 0,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 2,
           "deceased": 0,
           "recovered": 0
         }
@@ -693,12 +693,12 @@
       {
         "district": "Madhepura",
         "notes": "",
-        "active": 0,
-        "confirmed": 2,
+        "active": 7,
+        "confirmed": 9,
         "deceased": 0,
         "recovered": 2,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 7,
           "deceased": 0,
           "recovered": 0
         }
@@ -810,12 +810,12 @@
       {
         "district": "Saharsa",
         "notes": "",
-        "active": 10,
-        "confirmed": 10,
+        "active": 9,
+        "confirmed": 9,
         "deceased": 0,
         "recovered": 0,
         "delta": {
-          "confirmed": 8,
+          "confirmed": 7,
           "deceased": 0,
           "recovered": 0
         }
@@ -931,19 +931,6 @@
         "confirmed": 11,
         "deceased": 0,
         "recovered": 3,
-        "delta": {
-          "confirmed": 0,
-          "deceased": 0,
-          "recovered": 0
-        }
-      },
-      {
-        "district": "Unknown",
-        "notes": "",
-        "active": 10,
-        "confirmed": 10,
-        "deceased": 0,
-        "recovered": 0,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
