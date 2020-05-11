@@ -3324,12 +3324,12 @@
       },
       "Ashoknagar": {
         "notes": "",
-        "active": 0,
-        "confirmed": 1,
+        "active": 1,
+        "confirmed": 2,
         "deceased": 1,
         "recovered": 0,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
@@ -3360,36 +3360,36 @@
       },
       "Bhind": {
         "notes": "",
-        "active": 2,
-        "confirmed": 2,
+        "active": 4,
+        "confirmed": 4,
         "deceased": 0,
         "recovered": 0,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 2,
           "deceased": 0,
           "recovered": 0
         }
       },
       "Bhopal": {
         "notes": "",
-        "active": 320,
-        "confirmed": 743,
+        "active": 351,
+        "confirmed": 774,
         "deceased": 30,
         "recovered": 393,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 31,
           "deceased": 0,
           "recovered": 0
         }
       },
       "Burhanpur": {
         "notes": "",
-        "active": 50,
-        "confirmed": 55,
+        "active": 55,
+        "confirmed": 60,
         "deceased": 5,
         "recovered": 0,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 5,
           "deceased": 0,
           "recovered": 0
         }
@@ -3408,12 +3408,12 @@
       },
       "Dewas": {
         "notes": "MP bulletin dated 28 Apr reduced total cases in Dewas by 1 upon reconcilation with Indore district",
-        "active": 22,
-        "confirmed": 43,
+        "active": 27,
+        "confirmed": 48,
         "deceased": 7,
         "recovered": 14,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 5,
           "deceased": 0,
           "recovered": 0
         }
@@ -3456,12 +3456,12 @@
       },
       "Gwalior": {
         "notes": "",
-        "active": 18,
-        "confirmed": 22,
+        "active": 22,
+        "confirmed": 26,
         "deceased": 0,
         "recovered": 4,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 4,
           "deceased": 0,
           "recovered": 0
         }
@@ -3492,60 +3492,72 @@
       },
       "Indore": {
         "notes": "",
-        "active": 878,
-        "confirmed": 1858,
+        "active": 955,
+        "confirmed": 1935,
         "deceased": 89,
         "recovered": 891,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 77,
           "deceased": 0,
           "recovered": 0
         }
       },
       "Jabalpur": {
         "notes": "",
-        "active": 90,
-        "confirmed": 123,
+        "active": 100,
+        "confirmed": 133,
         "deceased": 5,
         "recovered": 28,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 10,
           "deceased": 0,
           "recovered": 0
         }
       },
       "Jhabua": {
         "notes": "",
-        "active": 1,
-        "confirmed": 1,
+        "active": 2,
+        "confirmed": 2,
         "deceased": 0,
         "recovered": 0,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
       },
       "Khandwa": {
         "notes": "",
-        "active": 16,
-        "confirmed": 56,
+        "active": 19,
+        "confirmed": 59,
         "deceased": 7,
         "recovered": 33,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 3,
           "deceased": 0,
           "recovered": 0
         }
       },
       "Khargone": {
         "notes": "MP Bulletin dated 25/04 reduced one case in Khargone as there was a repetition",
-        "active": 34,
-        "confirmed": 81,
+        "active": 42,
+        "confirmed": 89,
         "deceased": 8,
         "recovered": 39,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 8,
+          "deceased": 0,
+          "recovered": 0
+        }
+      },
+      "Mandla": {
+        "notes": "",
+        "active": 1,
+        "confirmed": 1,
+        "deceased": 0,
+        "recovered": 0,
+        "delta": {
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
@@ -3576,12 +3588,12 @@
       },
       "Neemuch": {
         "notes": "",
-        "active": 12,
-        "confirmed": 12,
+        "active": 27,
+        "confirmed": 27,
         "deceased": 0,
         "recovered": 0,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 15,
           "deceased": 0,
           "recovered": 0
         }
@@ -3624,48 +3636,60 @@
       },
       "Rewa": {
         "notes": "",
-        "active": 2,
-        "confirmed": 2,
+        "active": 3,
+        "confirmed": 3,
         "deceased": 0,
         "recovered": 0,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
       },
       "Sagar": {
         "notes": "",
-        "active": 0,
-        "confirmed": 6,
+        "active": 4,
+        "confirmed": 10,
         "deceased": 1,
         "recovered": 5,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 4,
           "deceased": 0,
           "recovered": 0
         }
       },
       "Satna": {
         "notes": "",
-        "active": 2,
-        "confirmed": 3,
+        "active": 3,
+        "confirmed": 4,
         "deceased": 1,
         "recovered": 0,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
       },
       "Sehore": {
         "notes": "",
-        "active": 0,
-        "confirmed": 1,
+        "active": 1,
+        "confirmed": 2,
         "deceased": 1,
         "recovered": 0,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
+          "deceased": 0,
+          "recovered": 0
+        }
+      },
+      "Seoni": {
+        "notes": "",
+        "active": 1,
+        "confirmed": 1,
+        "deceased": 0,
+        "recovered": 0,
+        "delta": {
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
