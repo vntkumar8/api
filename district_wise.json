@@ -10915,11 +10915,11 @@
 			"statecode": "UP"
 		},
 		{
-			"active": "2",
-			"confirmed": "2",
+			"active": "1",
+			"confirmed": "1",
 			"deceased": "0",
-			"deltaactive": "0",
-			"deltaconfirmed": "0",
+			"deltaactive": "-1",
+			"deltaconfirmed": "-1",
 			"deltadeceased": "0",
 			"deltarecovered": "0",
 			"district": "Ayodhya",
@@ -10966,11 +10966,11 @@
 			"statecode": "UP"
 		},
 		{
-			"active": "16",
-			"confirmed": "24",
+			"active": "17",
+			"confirmed": "25",
 			"deceased": "0",
-			"deltaactive": "0",
-			"deltaconfirmed": "0",
+			"deltaactive": "1",
+			"deltaconfirmed": "1",
 			"deltadeceased": "0",
 			"deltarecovered": "0",
 			"district": "Bahraich",
@@ -11527,11 +11527,11 @@
 			"statecode": "UP"
 		},
 		{
-			"active": "237",
-			"confirmed": "301",
+			"active": "238",
+			"confirmed": "302",
 			"deceased": "6",
-			"deltaactive": "0",
-			"deltaconfirmed": "0",
+			"deltaactive": "1",
+			"deltaconfirmed": "1",
 			"deltadeceased": "0",
 			"deltarecovered": "0",
 			"district": "Kanpur Nagar",
@@ -11816,11 +11816,11 @@
 			"statecode": "UP"
 		},
 		{
-			"active": "6",
-			"confirmed": "12",
+			"active": "7",
+			"confirmed": "13",
 			"deceased": "0",
-			"deltaactive": "0",
-			"deltaconfirmed": "0",
+			"deltaactive": "1",
+			"deltaconfirmed": "1",
 			"deltadeceased": "0",
 			"deltarecovered": "0",
 			"district": "Pratapgarh",
@@ -13278,8 +13278,8 @@
 			"statecode": "TR"
 		},
 		{
-			"active": "0",
-			"confirmed": "0",
+			"active": "-2",
+			"confirmed": "-2",
 			"deceased": "0",
 			"deltaactive": "0",
 			"deltaconfirmed": "0",
