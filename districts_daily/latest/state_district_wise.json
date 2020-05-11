@@ -318,12 +318,12 @@
       },
       "Kamrup Metropolitan": {
         "notes": "",
-        "active": 4,
-        "confirmed": 5,
+        "active": 5,
+        "confirmed": 6,
         "deceased": 0,
         "recovered": 1,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
@@ -366,12 +366,12 @@
       },
       "Morigaon": {
         "notes": "",
-        "active": 0,
-        "confirmed": 6,
+        "active": 1,
+        "confirmed": 7,
         "deceased": 0,
         "recovered": 6,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
@@ -2370,14 +2370,14 @@
       },
       "Belagavi": {
         "notes": "",
-        "active": 75,
+        "active": 76,
         "confirmed": 113,
         "deceased": 1,
-        "recovered": 37,
+        "recovered": 36,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": -1
         }
       },
       "Bengaluru Rural": {
@@ -2394,14 +2394,14 @@
       },
       "Bengaluru Urban": {
         "notes": "One death on 27th Apr is not included as it's not counted as covid related death by the Karnataka govt.",
-        "active": 83,
-        "confirmed": 177,
+        "active": 80,
+        "confirmed": 178,
         "deceased": 7,
-        "recovered": 86,
+        "recovered": 90,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 4
         }
       },
       "Bidar": {
@@ -2488,6 +2488,18 @@
           "recovered": 0
         }
       },
+      "Hassan": {
+        "notes": "",
+        "active": 1,
+        "confirmed": 1,
+        "deceased": 0,
+        "recovered": 0,
+        "delta": {
+          "confirmed": 1,
+          "deceased": 0,
+          "recovered": 0
+        }
+      },
       "Haveri": {
         "notes": "",
         "active": 3,
@@ -2526,12 +2538,12 @@
       },
       "Mandya": {
         "notes": "",
-        "active": 14,
-        "confirmed": 28,
+        "active": 15,
+        "confirmed": 29,
         "deceased": 0,
         "recovered": 14,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
@@ -2550,12 +2562,12 @@
       },
       "Other State": {
         "notes": "Includes Cases of other States and International Quarantined Passengers.",
-        "active": 2,
-        "confirmed": 21,
+        "active": 3,
+        "confirmed": 22,
         "deceased": 0,
         "recovered": 19,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
@@ -2675,12 +2687,12 @@
       },
       "Kasaragod": {
         "notes": "",
-        "active": 0,
-        "confirmed": 179,
+        "active": 4,
+        "confirmed": 183,
         "deceased": 0,
         "recovered": 179,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 4,
           "deceased": 0,
           "recovered": 0
         }
@@ -2723,24 +2735,24 @@
       },
       "Malappuram": {
         "notes": "",
-        "active": 1,
-        "confirmed": 25,
+        "active": 2,
+        "confirmed": 26,
         "deceased": 1,
         "recovered": 23,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
       },
       "Palakkad": {
         "notes": "",
-        "active": 0,
-        "confirmed": 13,
+        "active": 1,
+        "confirmed": 14,
         "deceased": 0,
         "recovered": 13,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
@@ -2783,12 +2795,12 @@
       },
       "Wayanad": {
         "notes": "",
-        "active": 7,
-        "confirmed": 10,
+        "active": 8,
+        "confirmed": 11,
         "deceased": 0,
         "recovered": 3,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
