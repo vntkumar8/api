@@ -7063,12 +7063,12 @@
       {
         "district": "Siddharthnagar",
         "notes": "",
-        "active": 21,
-        "confirmed": 21,
+        "active": 19,
+        "confirmed": 19,
         "deceased": 0,
         "recovered": 0,
         "delta": {
-          "confirmed": 2,
+          "confirmed": 0,
           "deceased": 0,
           "recovered": 0
         }
@@ -7136,19 +7136,6 @@
           "confirmed": 3,
           "deceased": 0,
           "recovered": 23
-        }
-      },
-      {
-        "district": "Unknown",
-        "notes": "",
-        "active": -1,
-        "confirmed": -1,
-        "deceased": 0,
-        "recovered": 0,
-        "delta": {
-          "confirmed": 0,
-          "deceased": 0,
-          "recovered": 0
         }
       }
     ]
