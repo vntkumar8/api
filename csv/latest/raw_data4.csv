@@ -1113,7 +1113,7 @@ Entry_ID,State Patient Number,Date Announced,Age Bracket,Gender,Detected City,De
 11120,,10/05/2020,,,,Sambhal,Uttar Pradesh,UP,1,Hospitalized,,,,,,,,,40045
 11121,,10/05/2020,,,,Unnao,Uttar Pradesh,UP,1,Hospitalized,,,,,,,,,40046
 11122,,10/05/2020,,,,Gonda,Uttar Pradesh,UP,1,Hospitalized,,,,,,,,,40047
-11123,,10/05/2020,,,,Etah,Uttar Pradesh,UP,1,Hospitalized,,,,,,,,,40048
+11123,,10/05/2020,,,,Etah,Uttar Pradesh,UP,2,Hospitalized,,,,,,,,,40048
 11124,,10/05/2020,,,,Sultanpur,Uttar Pradesh,UP,1,Hospitalized,,,,,,,,,40049
 11125,,10/05/2020,,,,Shrawasti,Uttar Pradesh,UP,3,Hospitalized,,,,,,,,,40050
 11126,,10/05/2020,,,,Bahraich,Uttar Pradesh,UP,2,Hospitalized,,,,,,,,,40051
@@ -1122,7 +1122,7 @@ Entry_ID,State Patient Number,Date Announced,Age Bracket,Gender,Detected City,De
 11129,,10/05/2020,,,,Amethi,Uttar Pradesh,UP,1,Hospitalized,,,,,,,,,40054
 11130,,10/05/2020,,,,Fatehpur,Uttar Pradesh,UP,1,Hospitalized,,,,,,,,,40055
 11131,,10/05/2020,,,,Sonbhadra,Uttar Pradesh,UP,1,Hospitalized,,,,,,,,,40056
-11132,,10/05/2020,,,,Firozabad,Uttar Pradesh,UP,1,Hospitalized,,,,,,,,,40057
+11132,,10/05/2020,,,,Farrukhabad,Uttar Pradesh,UP,1,Hospitalized,,,,,,,,,40057
 11133,,10/05/2020,,,,Lucknow,Uttar Pradesh,UP,-5,Hospitalized,,,,,,,,,40058
 11134,,10/05/2020,,,,Gautam Buddha Nagar,Uttar Pradesh,UP,-2,Hospitalized,,,,,,,,,40059
 11135,,10/05/2020,,,,Agra,Uttar Pradesh,UP,3,Deceased,,,,,,,,,40060
@@ -2388,7 +2388,7 @@ Entry_ID,State Patient Number,Date Announced,Age Bracket,Gender,Detected City,De
 12395,,11/05/2020,,,,Komaram Bheem,Telangana,TG,1,Recovered,,,https://twitter.com/IPRTelangana/status/1259874515615531008,,,,,,41334
 12396,,11/05/2020,,,,Medchal Malkajgiri,Telangana,TG,1,Recovered,,,https://twitter.com/IPRTelangana/status/1259874515615531008,,,,,,41335
 12397,,11/05/2020,,,,Karimnagar,Telangana,TG,1,Recovered,,,https://twitter.com/IPRTelangana/status/1259874515615531008,,,,,,41336
-12398,,11/05/2020,,,,,Maharashtra,MH,587,Recovered,,,,,,,,,41337
+12398,,11/05/2020,,,,Thane,Maharashtra,MH,209,Recovered,,,,,,,,,41337
 12399,,11/05/2020,,,,Thane,Maharashtra,MH,2,Deceased,,,,,,,,,41338
 12400,,11/05/2020,,,,Wardha,Maharashtra,MH,1,Deceased,,,,,,,,,41339
 12401,,11/05/2020,60,F,Sector 26,Chandigarh,Chandigarh,CH,1,Hospitalized,,Bapudham Colony,https://t.me/indiacovid/4564,,,,,,41340
@@ -2452,20 +2452,20 @@ Entry_ID,State Patient Number,Date Announced,Age Bracket,Gender,Detected City,De
 12459,,11/05/2020,,,,Jaipur,Rajasthan,RJ,1,Deceased,,,https://twitter.com/ANI/status/1259880402455429122?s=09,,,,,,41398
 12460,,11/05/2020,,,,Pali,Rajasthan,RJ,2,Deceased,,,https://twitter.com/ANI/status/1259880402455429122?s=09,,,,,,41399
 12461,,11/05/2020,,,,Leh,Ladakh,LA,1,Recovered,,,https://twitter.com/ladags/status/1259871697915670529,,,,,,41400
-12462,,11/05/2020,,,,,,,-12,,,,,,,,,,41401
-12463,,11/05/2020,,,,,,,43,,,,,,,,,,41402
-12464,,11/05/2020,,,,,,,-3,,,,,,,,,,41403
-12465,,11/05/2020,,,,,,,1,,,,,,,,,,41404
-12466,,11/05/2020,,,,,,,17,,,,,,,,,,41405
-12467,,11/05/2020,,,,,,,24,,,,,,,,,,41406
-12468,,11/05/2020,,,,,,,70,,,,,,,,,,41407
-12469,,11/05/2020,,,,,,,5,,,,,,,,,,41408
-12470,,11/05/2020,,,,,,,4,,,,,,,,,,41409
-12471,,11/05/2020,,,,,,,161,,,,,,,,,,41410
-12472,,11/05/2020,,,,,,,53,,,,,,,,,,41411
-12473,,11/05/2020,,,,,,,1,,,,,,,,,,41412
-12474,,11/05/2020,,,,,,,,,,,,,,,,,41413
-12475,,,,,,,,,,,,,,,,,,,41414
+12462,,11/05/2020,,,,Akola,Maharashtra,MH,-12,Recovered,,,,,,,,,41401
+12463,,11/05/2020,,,,Aurangabad,Maharashtra,MH,43,Recovered,,,,,,,,,41402
+12464,,11/05/2020,,,,Buldhana,Maharashtra,MH,-3,Recovered,,,,,,,,,41403
+12465,,11/05/2020,,,,Dhule,Maharashtra,MH,1,Recovered,,,,,,,,,41404
+12466,,11/05/2020,,,,Hingoli,Maharashtra,MH,17,Recovered,,,,,,,,,41405
+12467,,11/05/2020,,,,Jalgaon,Maharashtra,MH,24,Recovered,,,,,,,,,41406
+12468,,11/05/2020,,,,Mumbai,Maharashtra,MH,70,Recovered,,,,,,,,,41407
+12469,,11/05/2020,,,,Nagpur,Maharashtra,MH,5,Recovered,,,,,,,,,41408
+12470,,11/05/2020,,,,Palghar,Maharashtra,MH,4,Recovered,,,,,,,,,41409
+12471,,11/05/2020,,,,Pune,Maharashtra,MH,161,Recovered,,,,,,,,,41410
+12472,,11/05/2020,,,,Raigad,Maharashtra,MH,53,Recovered,,,,,,,,,41411
+12473,,11/05/2020,,,,Sangli,Maharashtra,MH,1,Recovered,,,,,,,,,41412
+12474,,11/05/2020,,,,Satara,Maharashtra,MH,14,Recovered,,,,,,,,,41413
+12475,,10/05/2020,,,,Kushinagar,Uttar Pradesh,UP,-1,Hospitalized,,Back dated entry,,,,,,,41414
 12476,,,,,,,,,,,,,,,,,,,41415
 12477,,,,,,,,,,,,,,,,,,,41416
 12478,,,,,,,,,,,,,,,,,,,41417
