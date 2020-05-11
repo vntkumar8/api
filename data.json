@@ -912,23 +912,23 @@
 		{
 			"dailyconfirmed": "4296",
 			"dailydeceased": "111",
-			"dailyrecovered": "1668",
+			"dailyrecovered": "2397",
 			"date": "10 May ",
 			"totalconfirmed": "67161",
 			"totaldeceased": "2212",
-			"totalrecovered": "20969"
+			"totalrecovered": "21698"
 		}
 	],
 	"statewise": [
 		{
-			"active": "43976",
-			"confirmed": "67161",
-			"deaths": "2212",
-			"deltaconfirmed": "0",
-			"deltadeaths": "0",
-			"deltarecovered": "0",
-			"lastupdatedtime": "10/05/2020 23:34:22",
-			"recovered": "20969",
+			"active": "43993",
+			"confirmed": "67189",
+			"deaths": "2213",
+			"deltaconfirmed": "28",
+			"deltadeaths": "1",
+			"deltarecovered": "-719",
+			"lastupdatedtime": "11/05/2020 09:31:23",
+			"recovered": "20979",
 			"state": "Total",
 			"statecode": "TT",
 			"statenotes": ""
@@ -939,7 +939,7 @@
 			"deaths": "832",
 			"deltaconfirmed": "0",
 			"deltadeaths": "0",
-			"deltarecovered": "0",
+			"deltarecovered": "-729",
 			"lastupdatedtime": "10/05/2020 23:03:23",
 			"recovered": "4199",
 			"state": "Maharashtra",
@@ -1103,14 +1103,14 @@
 			"statenotes": "One active case in KA reduced as a confirmed patient died of non-CoViD19 related reasons"
 		},
 		{
-			"active": "394",
-			"confirmed": "703",
-			"deaths": "9",
-			"deltaconfirmed": "0",
-			"deltadeaths": "0",
-			"deltarecovered": "0",
-			"lastupdatedtime": "10/05/2020 20:02:32",
-			"recovered": "300",
+			"active": "411",
+			"confirmed": "731",
+			"deaths": "10",
+			"deltaconfirmed": "28",
+			"deltadeaths": "1",
+			"deltarecovered": "10",
+			"lastupdatedtime": "11/05/2020 09:31:24",
+			"recovered": "310",
 			"state": "Haryana",
 			"statecode": "HR",
 			"statenotes": ""
