@@ -911,24 +911,24 @@
 		},
 		{
 			"dailyconfirmed": "4307",
-			"dailydeceased": "111",
+			"dailydeceased": "112",
 			"dailyrecovered": "1668",
 			"date": "10 May ",
 			"totalconfirmed": "67172",
-			"totaldeceased": "2212",
+			"totaldeceased": "2213",
 			"totalrecovered": "20969"
 		}
 	],
 	"statewise": [
 		{
-			"active": "44090",
-			"confirmed": "67298",
+			"active": "44072",
+			"confirmed": "67270",
 			"deaths": "2213",
-			"deltaconfirmed": "126",
-			"deltadeaths": "1",
-			"deltarecovered": "22",
-			"lastupdatedtime": "11/05/2020 10:11:23",
-			"recovered": "20991",
+			"deltaconfirmed": "98",
+			"deltadeaths": "0",
+			"deltarecovered": "12",
+			"lastupdatedtime": "11/05/2020 10:20:23",
+			"recovered": "20981",
 			"state": "Total",
 			"statecode": "TT",
 			"statenotes": ""
@@ -1103,14 +1103,14 @@
 			"statenotes": "One active case in KA reduced as a confirmed patient died of non-CoViD19 related reasons"
 		},
 		{
-			"active": "411",
-			"confirmed": "731",
+			"active": "393",
+			"confirmed": "703",
 			"deaths": "10",
-			"deltaconfirmed": "28",
-			"deltadeaths": "1",
-			"deltarecovered": "10",
-			"lastupdatedtime": "11/05/2020 09:32:24",
-			"recovered": "310",
+			"deltaconfirmed": "0",
+			"deltadeaths": "0",
+			"deltarecovered": "0",
+			"lastupdatedtime": "11/05/2020 10:20:24",
+			"recovered": "300",
 			"state": "Haryana",
 			"statecode": "HR",
 			"statenotes": ""
@@ -1122,7 +1122,7 @@
 			"deltaconfirmed": "0",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
-			"lastupdatedtime": "11/05/2020 10:11:24",
+			"lastupdatedtime": "11/05/2020 10:13:24",
 			"recovered": "354",
 			"state": "Bihar",
 			"statecode": "BR",
@@ -2221,6 +2221,19 @@
 			"totalpositivecases": "",
 			"totalsamplestested": "1609037",
 			"updatetimestamp": "10/05/2020 09:00:00"
+		},
+		{
+			"individualstestedperconfirmedcase": "",
+			"positivecasesfromsamplesreported": "",
+			"samplereportedtoday": "",
+			"source": "https://www.icmr.gov.in/pdf/covid/update/ICMR_testing_update_11May2020_9AM_IST.pdf",
+			"testpositivityrate": "",
+			"testsconductedbyprivatelabs": "",
+			"testsperconfirmedcase": "",
+			"totalindividualstested": "",
+			"totalpositivecases": "",
+			"totalsamplestested": "1673688",
+			"updatetimestamp": "11/05/2020 09:00:00"
 		}
 	]
 }
