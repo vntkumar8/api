@@ -5696,6 +5696,18 @@
           "deceased": 0,
           "recovered": 0
         }
+      },
+      "Unknown": {
+        "notes": "",
+        "active": 708,
+        "confirmed": 716,
+        "deceased": 8,
+        "recovered": 0,
+        "delta": {
+          "confirmed": 0,
+          "deceased": 0,
+          "recovered": 0
+        }
       }
     },
     "statecode": "TN"
@@ -6763,13 +6775,13 @@
       },
       "Howrah": {
         "notes": "",
-        "active": 376,
+        "active": 375,
         "confirmed": 477,
-        "deceased": 22,
+        "deceased": 23,
         "recovered": 79,
         "delta": {
           "confirmed": 37,
-          "deceased": 0,
+          "deceased": 1,
           "recovered": 0
         }
       },
@@ -6811,13 +6823,13 @@
       },
       "Kolkata": {
         "notes": "",
-        "active": 660,
+        "active": 654,
         "confirmed": 1041,
-        "deceased": 129,
+        "deceased": 135,
         "recovered": 252,
         "delta": {
           "confirmed": 39,
-          "deceased": 0,
+          "deceased": 6,
           "recovered": 0
         }
       },
@@ -6859,13 +6871,13 @@
       },
       "North 24 Parganas": {
         "notes": "",
-        "active": 193,
+        "active": 192,
         "confirmed": 288,
-        "deceased": 27,
+        "deceased": 28,
         "recovered": 68,
         "delta": {
           "confirmed": 15,
-          "deceased": 0,
+          "deceased": 1,
           "recovered": 0
         }
       },
