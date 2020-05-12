@@ -1823,6 +1823,19 @@
           "deceased": 0,
           "recovered": 0
         }
+      },
+      {
+        "district": "Unknown",
+        "notes": "",
+        "active": 1,
+        "confirmed": 1,
+        "deceased": 0,
+        "recovered": 0,
+        "delta": {
+          "confirmed": 0,
+          "deceased": 0,
+          "recovered": 0
+        }
       }
     ]
   },
@@ -5777,14 +5790,14 @@
       {
         "district": "Chennai",
         "notes": "",
-        "active": 4099,
+        "active": 4093,
         "confirmed": 4882,
         "deceased": 40,
-        "recovered": 743,
+        "recovered": 749,
         "delta": {
           "confirmed": 510,
           "deceased": 7,
-          "recovered": 37
+          "recovered": 43
         }
       },
       {
@@ -5998,27 +6011,27 @@
       {
         "district": "Ramanathapuram",
         "notes": "",
-        "active": 14,
+        "active": 15,
         "confirmed": 31,
         "deceased": 1,
-        "recovered": 16,
+        "recovered": 15,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": -1
         }
       },
       {
         "district": "Ranipet",
         "notes": "",
-        "active": 37,
+        "active": 36,
         "confirmed": 75,
         "deceased": 0,
-        "recovered": 38,
+        "recovered": 39,
         "delta": {
           "confirmed": 9,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 1
         }
       },
       {
@@ -6141,14 +6154,14 @@
       {
         "district": "Tirunelveli",
         "notes": "",
-        "active": 31,
+        "active": 33,
         "confirmed": 96,
         "deceased": 1,
-        "recovered": 64,
+        "recovered": 62,
         "delta": {
           "confirmed": 3,
           "deceased": 0,
-          "recovered": 1
+          "recovered": -1
         }
       },
       {
@@ -6219,14 +6232,14 @@
       {
         "district": "Virudhunagar",
         "notes": "",
-        "active": 10,
+        "active": 14,
         "confirmed": 45,
         "deceased": 0,
-        "recovered": 35,
+        "recovered": 31,
         "delta": {
           "confirmed": 4,
           "deceased": 0,
-          "recovered": 0
+          "recovered": -4
         }
       }
     ]
