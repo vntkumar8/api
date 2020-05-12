@@ -5458,18 +5458,18 @@
 			"statecode": "LD"
 		},
 		{
-			"active": "28",
+			"active": "27",
 			"confirmed": "64",
 			"deceased": "3",
-			"deltaactive": "1",
+			"deltaactive": "0",
 			"deltaconfirmed": "1",
 			"deltadeceased": "0",
-			"deltarecovered": "0",
+			"deltarecovered": "1",
 			"district": "Ahmednagar",
 			"districtkey": "MH_Ahmednagar",
 			"districtnotes": "",
 			"lastupdated": "",
-			"recovered": "33",
+			"recovered": "34",
 			"slno": "369",
 			"state": "Maharashtra",
 			"statecode": "MH"
@@ -13074,7 +13074,7 @@
 			"statecode": "MP"
 		},
 		{
-			"active": "-1",
+			"active": "0",
 			"confirmed": "0",
 			"deceased": "0",
 			"deltaactive": "0",
@@ -13085,7 +13085,7 @@
 			"districtkey": "MH_Unknown",
 			"districtnotes": "",
 			"lastupdated": "",
-			"recovered": "1",
+			"recovered": "0",
 			"slno": "749",
 			"state": "Maharashtra",
 			"statecode": "MH"
