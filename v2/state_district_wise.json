@@ -472,12 +472,12 @@
       {
         "district": "Arwal",
         "notes": "",
-        "active": 7,
-        "confirmed": 11,
+        "active": 8,
+        "confirmed": 12,
         "deceased": 0,
         "recovered": 4,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
@@ -485,12 +485,12 @@
       {
         "district": "Aurangabad",
         "notes": "",
-        "active": 4,
-        "confirmed": 15,
+        "active": 6,
+        "confirmed": 17,
         "deceased": 0,
         "recovered": 11,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 2,
           "deceased": 0,
           "recovered": 0
         }
@@ -537,12 +537,12 @@
       {
         "district": "Bhojpur",
         "notes": "",
-        "active": 2,
-        "confirmed": 20,
+        "active": 3,
+        "confirmed": 21,
         "deceased": 0,
         "recovered": 18,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
@@ -641,12 +641,12 @@
       {
         "district": "Katihar",
         "notes": "",
-        "active": 11,
-        "confirmed": 11,
+        "active": 12,
+        "confirmed": 12,
         "deceased": 0,
         "recovered": 0,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
@@ -706,12 +706,12 @@
       {
         "district": "Madhubani",
         "notes": "",
-        "active": 29,
-        "confirmed": 29,
+        "active": 30,
+        "confirmed": 30,
         "deceased": 0,
         "recovered": 0,
         "delta": {
-          "confirmed": 3,
+          "confirmed": 4,
           "deceased": 0,
           "recovered": 0
         }
@@ -732,12 +732,12 @@
       {
         "district": "Muzaffarpur",
         "notes": "",
-        "active": 9,
-        "confirmed": 9,
+        "active": 12,
+        "confirmed": 12,
         "deceased": 0,
         "recovered": 0,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 3,
           "deceased": 0,
           "recovered": 0
         }
@@ -771,12 +771,12 @@
       {
         "district": "Patna",
         "notes": "",
-        "active": 36,
-        "confirmed": 73,
+        "active": 42,
+        "confirmed": 79,
         "deceased": 1,
         "recovered": 36,
         "delta": {
-          "confirmed": 1,
+          "confirmed": 7,
           "deceased": 0,
           "recovered": 1
         }
@@ -931,6 +931,19 @@
         "confirmed": 11,
         "deceased": 0,
         "recovered": 3,
+        "delta": {
+          "confirmed": 0,
+          "deceased": 0,
+          "recovered": 0
+        }
+      },
+      {
+        "district": "Unknown",
+        "notes": "",
+        "active": 14,
+        "confirmed": 14,
+        "deceased": 0,
+        "recovered": 0,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
