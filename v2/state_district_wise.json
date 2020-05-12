@@ -38,25 +38,25 @@
       {
         "district": "Anantapur",
         "notes": "",
-        "active": 66,
+        "active": 63,
         "confirmed": 115,
         "deceased": 4,
-        "recovered": 45,
+        "recovered": 48,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 3
         }
       },
       {
         "district": "Chittoor",
         "notes": "",
-        "active": 47,
-        "confirmed": 121,
+        "active": 57,
+        "confirmed": 131,
         "deceased": 0,
         "recovered": 74,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 10,
           "deceased": 0,
           "recovered": 0
         }
@@ -64,12 +64,12 @@
       {
         "district": "East Godavari",
         "notes": "",
-        "active": 15,
-        "confirmed": 46,
+        "active": 16,
+        "confirmed": 47,
         "deceased": 0,
         "recovered": 31,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
@@ -90,27 +90,27 @@
       {
         "district": "Krishna",
         "notes": "",
-        "active": 187,
-        "confirmed": 342,
-        "deceased": 13,
-        "recovered": 142,
+        "active": 155,
+        "confirmed": 346,
+        "deceased": 14,
+        "recovered": 177,
         "delta": {
-          "confirmed": 0,
-          "deceased": 0,
-          "recovered": 0
+          "confirmed": 4,
+          "deceased": 1,
+          "recovered": 35
         }
       },
       {
         "district": "Kurnool",
         "notes": "",
-        "active": 292,
-        "confirmed": 575,
+        "active": 284,
+        "confirmed": 584,
         "deceased": 16,
-        "recovered": 267,
+        "recovered": 284,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 9,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 17
         }
       },
       {
@@ -142,12 +142,12 @@
       {
         "district": "S.P.S. Nellore",
         "notes": "",
-        "active": 23,
-        "confirmed": 102,
+        "active": 32,
+        "confirmed": 111,
         "deceased": 3,
         "recovered": 76,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 9,
           "deceased": 0,
           "recovered": 0
         }
@@ -155,14 +155,14 @@
       {
         "district": "Srikakulam",
         "notes": "",
-        "active": 5,
+        "active": 4,
         "confirmed": 5,
         "deceased": 0,
-        "recovered": 0,
+        "recovered": 1,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 1
         }
       },
       {
@@ -194,27 +194,27 @@
       {
         "district": "West Godavari",
         "notes": "",
-        "active": 35,
+        "active": 34,
         "confirmed": 68,
         "deceased": 0,
-        "recovered": 33,
+        "recovered": 34,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 1
         }
       },
       {
         "district": "Y.S.R. Kadapa",
         "notes": "",
-        "active": 52,
+        "active": 51,
         "confirmed": 97,
         "deceased": 0,
-        "recovered": 45,
+        "recovered": 46,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 1
         }
       }
     ]
@@ -2298,6 +2298,19 @@
         "confirmed": 2,
         "deceased": 0,
         "recovered": 2,
+        "delta": {
+          "confirmed": 0,
+          "deceased": 0,
+          "recovered": 0
+        }
+      },
+      {
+        "district": "Unknown",
+        "notes": "",
+        "active": 2,
+        "confirmed": 2,
+        "deceased": 0,
+        "recovered": 0,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
