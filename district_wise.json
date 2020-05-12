@@ -3146,12 +3146,12 @@
 			"statecode": "GJ"
 		},
 		{
-			"active": "19",
+			"active": "18",
 			"confirmed": "66",
-			"deceased": "1",
-			"deltaactive": "0",
+			"deceased": "2",
+			"deltaactive": "-1",
 			"deltaconfirmed": "0",
-			"deltadeceased": "0",
+			"deltadeceased": "1",
 			"deltarecovered": "0",
 			"district": "Rajkot",
 			"districtkey": "GJ_Rajkot",
@@ -12904,9 +12904,9 @@
 			"statecode": "GA"
 		},
 		{
-			"active": "-1",
+			"active": "0",
 			"confirmed": "0",
-			"deceased": "1",
+			"deceased": "0",
 			"deltaactive": "0",
 			"deltaconfirmed": "0",
 			"deltadeceased": "0",
