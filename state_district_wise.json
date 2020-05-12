@@ -1683,12 +1683,12 @@
     "districtData": {
       "Ambala": {
         "notes": "",
-        "active": 1,
-        "confirmed": 41,
+        "active": 2,
+        "confirmed": 42,
         "deceased": 2,
         "recovered": 38,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
@@ -1719,12 +1719,12 @@
       },
       "Faridabad": {
         "notes": "",
-        "active": 43,
-        "confirmed": 102,
+        "active": 47,
+        "confirmed": 106,
         "deceased": 4,
         "recovered": 55,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 4,
           "deceased": 0,
           "recovered": 0
         }
@@ -1743,14 +1743,14 @@
       },
       "Gurugram": {
         "notes": "",
-        "active": 94,
+        "active": 91,
         "confirmed": 145,
         "deceased": 0,
-        "recovered": 51,
+        "recovered": 54,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 3
         }
       },
       "Hisar": {
@@ -1815,24 +1815,24 @@
       },
       "Karnal": {
         "notes": "",
-        "active": 8,
-        "confirmed": 14,
+        "active": 9,
+        "confirmed": 15,
         "deceased": 1,
         "recovered": 5,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
       },
       "Kurukshetra": {
         "notes": "",
-        "active": 0,
-        "confirmed": 2,
+        "active": 1,
+        "confirmed": 3,
         "deceased": 0,
         "recovered": 2,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
@@ -1875,12 +1875,12 @@
       },
       "Panchkula": {
         "notes": "",
-        "active": 4,
-        "confirmed": 22,
+        "active": 5,
+        "confirmed": 23,
         "deceased": 0,
         "recovered": 18,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
@@ -1899,12 +1899,12 @@
       },
       "Rewari": {
         "notes": "",
-        "active": 3,
-        "confirmed": 3,
+        "active": 4,
+        "confirmed": 4,
         "deceased": 0,
         "recovered": 0,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
@@ -1935,12 +1935,12 @@
       },
       "Sonipat": {
         "notes": "",
-        "active": 81,
-        "confirmed": 105,
+        "active": 83,
+        "confirmed": 107,
         "deceased": 0,
         "recovered": 24,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 2,
           "deceased": 0,
           "recovered": 0
         }
@@ -2358,14 +2358,14 @@
     "districtData": {
       "Bagalkote": {
         "notes": "",
-        "active": 46,
+        "active": 40,
         "confirmed": 68,
         "deceased": 1,
-        "recovered": 21,
+        "recovered": 27,
         "delta": {
           "confirmed": 15,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 6
         }
       },
       "Ballari": {
@@ -2406,12 +2406,12 @@
       },
       "Bengaluru Urban": {
         "notes": "One death on 27th Apr is not included as it's not counted as covid related death by the Karnataka govt.",
-        "active": 82,
-        "confirmed": 181,
+        "active": 83,
+        "confirmed": 182,
         "deceased": 7,
         "recovered": 91,
         "delta": {
-          "confirmed": 3,
+          "confirmed": 4,
           "deceased": 0,
           "recovered": 0
         }
@@ -2466,12 +2466,12 @@
       },
       "Davanagere": {
         "notes": "",
-        "active": 65,
-        "confirmed": 71,
+        "active": 77,
+        "confirmed": 83,
         "deceased": 4,
         "recovered": 2,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 12,
           "deceased": 0,
           "recovered": 0
         }
@@ -2490,12 +2490,12 @@
       },
       "Gadag": {
         "notes": "",
-        "active": 0,
-        "confirmed": 5,
+        "active": 3,
+        "confirmed": 8,
         "deceased": 1,
         "recovered": 4,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 3,
           "deceased": 0,
           "recovered": 0
         }
@@ -2544,6 +2544,18 @@
         "recovered": 1,
         "delta": {
           "confirmed": 0,
+          "deceased": 0,
+          "recovered": 0
+        }
+      },
+      "Kolar": {
+        "notes": "",
+        "active": 5,
+        "confirmed": 5,
+        "deceased": 0,
+        "recovered": 0,
+        "delta": {
+          "confirmed": 5,
           "deceased": 0,
           "recovered": 0
         }
@@ -2634,14 +2646,14 @@
       },
       "Vijayapura": {
         "notes": "",
-        "active": 14,
+        "active": 13,
         "confirmed": 50,
         "deceased": 3,
-        "recovered": 33,
+        "recovered": 34,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 1
         }
       },
       "Yadgir": {
