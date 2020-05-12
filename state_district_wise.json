@@ -4878,12 +4878,12 @@
     "districtData": {
       "Other State": {
         "notes": "",
-        "active": 25,
-        "confirmed": 25,
+        "active": 11,
+        "confirmed": 11,
         "deceased": 0,
         "recovered": 0,
         "delta": {
-          "confirmed": 14,
+          "confirmed": 0,
           "deceased": 0,
           "recovered": 0
         }
@@ -4914,24 +4914,24 @@
       },
       "Hyderabad": {
         "notes": "",
-        "active": 488,
+        "active": 473,
         "confirmed": 796,
-        "deceased": 21,
-        "recovered": 287,
+        "deceased": 23,
+        "recovered": 300,
         "delta": {
           "confirmed": 37,
-          "deceased": 0,
-          "recovered": 0
+          "deceased": 2,
+          "recovered": 13
         }
       },
       "Jagtial": {
         "notes": "",
-        "active": 2,
-        "confirmed": 4,
+        "active": 4,
+        "confirmed": 6,
         "deceased": 0,
         "recovered": 2,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 2,
           "deceased": 0,
           "recovered": 0
         }
@@ -5070,14 +5070,14 @@
       },
       "Medchal Malkajgiri": {
         "notes": "",
-        "active": 13,
+        "active": 12,
         "confirmed": 22,
         "deceased": 1,
-        "recovered": 8,
+        "recovered": 9,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 1
         }
       },
       "Mulugu": {
@@ -5178,14 +5178,14 @@
       },
       "Ranga Reddy": {
         "notes": "",
-        "active": 20,
+        "active": 17,
         "confirmed": 36,
         "deceased": 2,
-        "recovered": 14,
+        "recovered": 17,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 3
         }
       },
       "Sangareddy": {
@@ -5214,14 +5214,14 @@
       },
       "Suryapet": {
         "notes": "",
-        "active": 62,
+        "active": 59,
         "confirmed": 83,
         "deceased": 0,
-        "recovered": 21,
+        "recovered": 24,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 3
         }
       },
       "Vikarabad": {
@@ -5238,12 +5238,24 @@
       },
       "Warangal Urban": {
         "notes": "",
-        "active": 5,
+        "active": 4,
         "confirmed": 27,
         "deceased": 0,
-        "recovered": 22,
+        "recovered": 23,
         "delta": {
           "confirmed": 0,
+          "deceased": 0,
+          "recovered": 1
+        }
+      },
+      "Yadadri Bhuvanagiri": {
+        "notes": "",
+        "active": 12,
+        "confirmed": 12,
+        "deceased": 0,
+        "recovered": 0,
+        "delta": {
+          "confirmed": 12,
           "deceased": 0,
           "recovered": 0
         }
