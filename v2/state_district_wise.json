@@ -511,14 +511,14 @@
       {
         "district": "Begusarai",
         "notes": "",
-        "active": 32,
+        "active": 31,
         "confirmed": 40,
         "deceased": 0,
-        "recovered": 8,
+        "recovered": 9,
         "delta": {
           "confirmed": 9,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 1
         }
       },
       {
@@ -550,14 +550,14 @@
       {
         "district": "Buxar",
         "notes": "",
-        "active": 1,
+        "active": 0,
         "confirmed": 56,
         "deceased": 0,
-        "recovered": 55,
+        "recovered": 56,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 1
         }
       },
       {
@@ -680,14 +680,14 @@
       {
         "district": "Lakhisarai",
         "notes": "",
-        "active": -1,
+        "active": 0,
         "confirmed": 4,
         "deceased": 0,
-        "recovered": 5,
+        "recovered": 4,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": -1
         }
       },
       {
@@ -771,14 +771,14 @@
       {
         "district": "Patna",
         "notes": "",
-        "active": 36,
+        "active": 35,
         "confirmed": 72,
         "deceased": 1,
-        "recovered": 35,
+        "recovered": 36,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 1
         }
       },
       {
@@ -836,14 +836,14 @@
       {
         "district": "Saran",
         "notes": "",
-        "active": 2,
+        "active": 0,
         "confirmed": 8,
         "deceased": 0,
-        "recovered": 6,
+        "recovered": 8,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 2
         }
       },
       {
@@ -888,14 +888,14 @@
       {
         "district": "Siwan",
         "notes": "",
-        "active": 2,
+        "active": 1,
         "confirmed": 33,
         "deceased": 0,
-        "recovered": 31,
+        "recovered": 32,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 1
         }
       },
       {
@@ -946,12 +946,12 @@
       {
         "district": "Chandigarh",
         "notes": "",
-        "active": 150,
-        "confirmed": 181,
+        "active": 156,
+        "confirmed": 187,
         "deceased": 3,
         "recovered": 28,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 6,
           "deceased": 0,
           "recovered": 0
         }
