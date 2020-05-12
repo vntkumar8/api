@@ -615,12 +615,12 @@
       {
         "district": "Jehanabad",
         "notes": "",
-        "active": 1,
-        "confirmed": 5,
+        "active": 4,
+        "confirmed": 8,
         "deceased": 0,
         "recovered": 4,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 3,
           "deceased": 0,
           "recovered": 0
         }
@@ -745,12 +745,12 @@
       {
         "district": "Nalanda",
         "notes": "",
-        "active": 15,
-        "confirmed": 51,
+        "active": 27,
+        "confirmed": 63,
         "deceased": 0,
         "recovered": 36,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 12,
           "deceased": 0,
           "recovered": 0
         }
@@ -933,6 +933,19 @@
         "recovered": 3,
         "delta": {
           "confirmed": 14,
+          "deceased": 0,
+          "recovered": 0
+        }
+      },
+      {
+        "district": "Unknown",
+        "notes": "",
+        "active": 34,
+        "confirmed": 34,
+        "deceased": 0,
+        "recovered": 0,
+        "delta": {
+          "confirmed": 0,
           "deceased": 0,
           "recovered": 0
         }
