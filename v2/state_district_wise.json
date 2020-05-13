@@ -5182,14 +5182,14 @@
       {
         "district": "Agar Malwa",
         "notes": "",
-        "active": 2,
+        "active": 0,
         "confirmed": 13,
         "deceased": 1,
-        "recovered": 10,
+        "recovered": 12,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 2
         }
       },
       {
@@ -5247,14 +5247,14 @@
       {
         "district": "Barwani",
         "notes": "",
-        "active": 1,
+        "active": 0,
         "confirmed": 26,
         "deceased": 0,
-        "recovered": 25,
+        "recovered": 26,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 1
         }
       },
       {
@@ -5286,27 +5286,27 @@
       {
         "district": "Bhopal",
         "notes": "",
-        "active": 364,
+        "active": 335,
         "confirmed": 858,
-        "deceased": 34,
-        "recovered": 460,
+        "deceased": 35,
+        "recovered": 488,
         "delta": {
           "confirmed": 54,
-          "deceased": 0,
-          "recovered": 0
+          "deceased": 1,
+          "recovered": 28
         }
       },
       {
         "district": "Burhanpur",
         "notes": "",
-        "active": 54,
+        "active": 41,
         "confirmed": 60,
         "deceased": 6,
-        "recovered": 0,
+        "recovered": 13,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 13
         }
       },
       {
@@ -5416,66 +5416,66 @@
       {
         "district": "Gwalior",
         "notes": "",
-        "active": 27,
+        "active": 25,
         "confirmed": 31,
-        "deceased": 0,
-        "recovered": 4,
+        "deceased": 1,
+        "recovered": 5,
         "delta": {
           "confirmed": 2,
-          "deceased": 0,
-          "recovered": 0
+          "deceased": 1,
+          "recovered": 1
         }
       },
       {
         "district": "Harda",
         "notes": "",
-        "active": 3,
+        "active": 0,
         "confirmed": 3,
         "deceased": 0,
-        "recovered": 0,
+        "recovered": 3,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 3
         }
       },
       {
         "district": "Hoshangabad",
         "notes": "",
-        "active": 4,
+        "active": 3,
         "confirmed": 37,
         "deceased": 3,
-        "recovered": 30,
+        "recovered": 31,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 1
         }
       },
       {
         "district": "Indore",
         "notes": "",
-        "active": 1089,
+        "active": 1038,
         "confirmed": 2107,
-        "deceased": 92,
-        "recovered": 926,
+        "deceased": 95,
+        "recovered": 974,
         "delta": {
           "confirmed": 91,
-          "deceased": 0,
-          "recovered": 0
+          "deceased": 3,
+          "recovered": 48
         }
       },
       {
         "district": "Jabalpur",
         "notes": "",
-        "active": 98,
+        "active": 92,
         "confirmed": 147,
-        "deceased": 7,
-        "recovered": 42,
+        "deceased": 8,
+        "recovered": 47,
         "delta": {
           "confirmed": 10,
-          "deceased": 0,
-          "recovered": 0
+          "deceased": 1,
+          "recovered": 5
         }
       },
       {
@@ -5507,27 +5507,27 @@
       {
         "district": "Khandwa",
         "notes": "",
-        "active": 39,
+        "active": 34,
         "confirmed": 80,
-        "deceased": 7,
-        "recovered": 34,
+        "deceased": 8,
+        "recovered": 38,
         "delta": {
           "confirmed": 1,
-          "deceased": 0,
-          "recovered": 0
+          "deceased": 1,
+          "recovered": 4
         }
       },
       {
         "district": "Khargone",
         "notes": "MP Bulletin dated 25/04 reduced one case in Khargone as there was a repetition",
-        "active": 35,
+        "active": 34,
         "confirmed": 95,
         "deceased": 8,
-        "recovered": 52,
+        "recovered": 53,
         "delta": {
           "confirmed": 3,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 1
         }
       },
       {
@@ -5559,14 +5559,14 @@
       {
         "district": "Morena",
         "notes": "MP Bulletin dated 25/04 reduced one case in Morena as there were repetitions",
-        "active": 12,
+        "active": 8,
         "confirmed": 25,
         "deceased": 0,
-        "recovered": 13,
+        "recovered": 17,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 4
         }
       },
       {
@@ -5637,14 +5637,14 @@
       {
         "district": "Raisen",
         "notes": "",
-        "active": 28,
+        "active": 20,
         "confirmed": 65,
         "deceased": 3,
-        "recovered": 34,
+        "recovered": 42,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 8
         }
       },
       {
@@ -5676,14 +5676,14 @@
       {
         "district": "Rewa",
         "notes": "",
-        "active": 3,
+        "active": 2,
         "confirmed": 3,
         "deceased": 0,
-        "recovered": 0,
+        "recovered": 1,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 1
         }
       },
       {
@@ -5832,14 +5832,14 @@
       {
         "district": "Ujjain",
         "notes": "",
-        "active": 118,
+        "active": 94,
         "confirmed": 269,
         "deceased": 45,
-        "recovered": 106,
+        "recovered": 130,
         "delta": {
           "confirmed": 5,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 24
         }
       },
       {
