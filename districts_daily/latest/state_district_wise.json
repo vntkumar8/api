@@ -3402,26 +3402,26 @@
       },
       "Ballari": {
         "notes": "",
-        "active": 6,
-        "confirmed": 17,
+        "active": 7,
+        "confirmed": 18,
         "deceased": 0,
         "recovered": 11,
         "delta": {
-          "confirmed": 1,
+          "confirmed": 2,
           "deceased": 0,
           "recovered": 0
         }
       },
       "Belagavi": {
         "notes": "",
-        "active": 76,
+        "active": 71,
         "confirmed": 113,
         "deceased": 1,
-        "recovered": 36,
+        "recovered": 41,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 5
         }
       },
       "Bengaluru Rural": {
@@ -3438,24 +3438,24 @@
       },
       "Bengaluru Urban": {
         "notes": "One death on 27th Apr is not included as it's not counted as covid related death by the Karnataka govt.",
-        "active": 84,
-        "confirmed": 183,
+        "active": 81,
+        "confirmed": 184,
         "deceased": 7,
-        "recovered": 91,
+        "recovered": 95,
         "delta": {
-          "confirmed": 1,
+          "confirmed": 2,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 4
         }
       },
       "Bidar": {
         "notes": "",
-        "active": 26,
-        "confirmed": 40,
+        "active": 28,
+        "confirmed": 42,
         "deceased": 1,
         "recovered": 13,
         "delta": {
-          "confirmed": 11,
+          "confirmed": 13,
           "deceased": 0,
           "recovered": 0
         }
@@ -3511,12 +3511,12 @@
       "Dakshina Kannada": {
         "notes": "",
         "active": 18,
-        "confirmed": 28,
-        "deceased": 3,
+        "confirmed": 29,
+        "deceased": 4,
         "recovered": 7,
         "delta": {
-          "confirmed": 1,
-          "deceased": 0,
+          "confirmed": 2,
+          "deceased": 1,
           "recovered": 0
         }
       },
@@ -3582,12 +3582,12 @@
       },
       "Kalaburagi": {
         "notes": "",
-        "active": 24,
-        "confirmed": 75,
+        "active": 30,
+        "confirmed": 81,
         "deceased": 7,
         "recovered": 44,
         "delta": {
-          "confirmed": 2,
+          "confirmed": 8,
           "deceased": 1,
           "recovered": 0
         }
@@ -3738,12 +3738,12 @@
       },
       "Vijayapura": {
         "notes": "",
-        "active": 15,
-        "confirmed": 52,
+        "active": 16,
+        "confirmed": 53,
         "deceased": 3,
         "recovered": 34,
         "delta": {
-          "confirmed": 2,
+          "confirmed": 3,
           "deceased": 0,
           "recovered": 0
         }
@@ -3754,18 +3754,6 @@
         "confirmed": 2,
         "deceased": 0,
         "recovered": 0,
-        "delta": {
-          "confirmed": 0,
-          "deceased": 0,
-          "recovered": 0
-        }
-      },
-      "Unknown": {
-        "notes": "",
-        "active": -9,
-        "confirmed": 0,
-        "deceased": 0,
-        "recovered": 9,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
