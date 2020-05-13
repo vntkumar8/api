@@ -1043,12 +1043,12 @@
       },
       "East Champaran": {
         "notes": "",
-        "active": 12,
-        "confirmed": 14,
+        "active": 13,
+        "confirmed": 15,
         "deceased": 1,
         "recovered": 1,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
@@ -1383,18 +1383,6 @@
         "confirmed": 25,
         "deceased": 0,
         "recovered": 3,
-        "delta": {
-          "confirmed": 0,
-          "deceased": 0,
-          "recovered": 0
-        }
-      },
-      "Unknown": {
-        "notes": "",
-        "active": 1,
-        "confirmed": 1,
-        "deceased": 0,
-        "recovered": 0,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
@@ -8220,13 +8208,13 @@
       },
       "Gautam Buddha Nagar": {
         "notes": "",
-        "active": 106,
+        "active": 105,
         "confirmed": 249,
-        "deceased": 2,
+        "deceased": 3,
         "recovered": 141,
         "delta": {
           "confirmed": 14,
-          "deceased": 0,
+          "deceased": 1,
           "recovered": 0
         }
       },
@@ -8556,13 +8544,13 @@
       },
       "Moradabad": {
         "notes": "",
-        "active": 38,
+        "active": 36,
         "confirmed": 135,
-        "deceased": 7,
+        "deceased": 9,
         "recovered": 90,
         "delta": {
           "confirmed": 7,
-          "deceased": 0,
+          "deceased": 2,
           "recovered": 0
         }
       },
@@ -8664,13 +8652,13 @@
       },
       "Sant Kabir Nagar": {
         "notes": "",
-        "active": 15,
+        "active": 14,
         "confirmed": 32,
-        "deceased": 0,
+        "deceased": 1,
         "recovered": 17,
         "delta": {
           "confirmed": 1,
-          "deceased": 0,
+          "deceased": 1,
           "recovered": 0
         }
       },
