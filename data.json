@@ -939,13 +939,13 @@
 	],
 	"statewise": [
 		{
-			"active": "47617",
-			"confirmed": "74954",
-			"deaths": "2437",
-			"deltaconfirmed": "624",
-			"deltadeaths": "22",
+			"active": "47644",
+			"confirmed": "74983",
+			"deaths": "2439",
+			"deltaconfirmed": "653",
+			"deltadeaths": "24",
 			"deltarecovered": "443",
-			"lastupdatedtime": "13/05/2020 15:42:23",
+			"lastupdatedtime": "13/05/2020 16:01:23",
 			"recovered": "24896",
 			"state": "Total",
 			"statecode": "TT",
@@ -1004,13 +1004,13 @@
 			"statenotes": "[10-May]<br>\n\nDelhi will be releasing bulletins in the morning, containing data of the previous day. We will add that data to the date on which the report is released, rather than the previous day."
 		},
 		{
-			"active": "1641",
+			"active": "1639",
 			"confirmed": "4213",
-			"deaths": "117",
+			"deaths": "119",
 			"deltaconfirmed": "87",
-			"deltadeaths": "0",
+			"deltadeaths": "2",
 			"deltarecovered": "1",
-			"lastupdatedtime": "13/05/2020 09:43:24",
+			"lastupdatedtime": "13/05/2020 16:01:23",
 			"recovered": "2455",
 			"state": "Rajasthan",
 			"statecode": "RJ",
@@ -1043,19 +1043,6 @@
 			"statenotes": ""
 		},
 		{
-			"active": "948",
-			"confirmed": "2137",
-			"deaths": "47",
-			"deltaconfirmed": "48",
-			"deltadeaths": "1",
-			"deltarecovered": "86",
-			"lastupdatedtime": "13/05/2020 11:54:24",
-			"recovered": "1142",
-			"state": "Andhra Pradesh",
-			"statecode": "AP",
-			"statenotes": ""
-		},
-		{
 			"active": "1363",
 			"confirmed": "2173",
 			"deaths": "198",
@@ -1067,6 +1054,19 @@
 			"state": "West Bengal",
 			"statecode": "WB",
 			"statenotes": "- Cases updated as per WB bulletin as it now provides total number of cases.<br>\n- Deaths due to comorbidities added to total deceased<br>\n- Zones updated as per WB bulletin<br>"
+		},
+		{
+			"active": "948",
+			"confirmed": "2137",
+			"deaths": "47",
+			"deltaconfirmed": "48",
+			"deltadeaths": "1",
+			"deltarecovered": "86",
+			"lastupdatedtime": "13/05/2020 11:54:24",
+			"recovered": "1142",
+			"state": "Andhra Pradesh",
+			"statecode": "AP",
+			"statenotes": ""
 		},
 		{
 			"active": "1711",
@@ -1095,6 +1095,19 @@
 			"statenotes": ""
 		},
 		{
+			"active": "476",
+			"confirmed": "951",
+			"deaths": "32",
+			"deltaconfirmed": "26",
+			"deltadeaths": "1",
+			"deltarecovered": "9",
+			"lastupdatedtime": "13/05/2020 15:42:24",
+			"recovered": "442",
+			"state": "Karnataka",
+			"statecode": "KA",
+			"statenotes": "One active case in KA reduced as a confirmed patient died of non-CoViD19 related reasons"
+		},
+		{
 			"active": "469",
 			"confirmed": "934",
 			"deaths": "10",
@@ -1108,17 +1121,17 @@
 			"statenotes": ""
 		},
 		{
-			"active": "476",
-			"confirmed": "951",
-			"deaths": "32",
-			"deltaconfirmed": "26",
-			"deltadeaths": "1",
-			"deltarecovered": "9",
-			"lastupdatedtime": "13/05/2020 15:42:24",
-			"recovered": "442",
-			"state": "Karnataka",
-			"statecode": "KA",
-			"statenotes": "One active case in KA reduced as a confirmed patient died of non-CoViD19 related reasons"
+			"active": "520",
+			"confirmed": "908",
+			"deaths": "6",
+			"deltaconfirmed": "29",
+			"deltadeaths": "0",
+			"deltarecovered": "0",
+			"lastupdatedtime": "13/05/2020 16:01:24",
+			"recovered": "382",
+			"state": "Bihar",
+			"statecode": "BR",
+			"statenotes": ""
 		},
 		{
 			"active": "427",
@@ -1134,16 +1147,16 @@
 			"statenotes": ""
 		},
 		{
-			"active": "491",
-			"confirmed": "879",
-			"deaths": "6",
-			"deltaconfirmed": "0",
+			"active": "419",
+			"confirmed": "538",
+			"deaths": "3",
+			"deltaconfirmed": "101",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
-			"lastupdatedtime": "13/05/2020 11:10:24",
-			"recovered": "382",
-			"state": "Bihar",
-			"statecode": "BR",
+			"lastupdatedtime": "13/05/2020 09:22:24",
+			"recovered": "116",
+			"state": "Odisha",
+			"statecode": "OR",
 			"statenotes": ""
 		},
 		{
@@ -1158,19 +1171,6 @@
 			"state": "Kerala",
 			"statecode": "KL",
 			"statenotes": "Mahe native who expired in Kannur included in Kerala's tally"
-		},
-		{
-			"active": "419",
-			"confirmed": "538",
-			"deaths": "3",
-			"deltaconfirmed": "101",
-			"deltadeaths": "0",
-			"deltarecovered": "0",
-			"lastupdatedtime": "13/05/2020 09:22:24",
-			"recovered": "116",
-			"state": "Odisha",
-			"statecode": "OR",
-			"statenotes": ""
 		},
 		{
 			"active": "156",
@@ -1225,6 +1225,19 @@
 			"statenotes": ""
 		},
 		{
+			"active": "25",
+			"confirmed": "66",
+			"deaths": "3",
+			"deltaconfirmed": "0",
+			"deltadeaths": "0",
+			"deltarecovered": "0",
+			"lastupdatedtime": "12/05/2020 22:52:24",
+			"recovered": "35",
+			"state": "Himachal Pradesh",
+			"statecode": "HP",
+			"statenotes": "HP has 4 Migrated cases which are reduced from Active #. Also, death of Tibetan refugee is included in deceased numbers, but not in confirmed"
+		},
+		{
 			"active": "23",
 			"confirmed": "65",
 			"deaths": "2",
@@ -1249,19 +1262,6 @@
 			"state": "Chhattisgarh",
 			"statecode": "CT",
 			"statenotes": ""
-		},
-		{
-			"active": "25",
-			"confirmed": "66",
-			"deaths": "3",
-			"deltaconfirmed": "0",
-			"deltadeaths": "0",
-			"deltarecovered": "0",
-			"lastupdatedtime": "12/05/2020 22:52:24",
-			"recovered": "35",
-			"state": "Himachal Pradesh",
-			"statecode": "HP",
-			"statenotes": "HP has 4 Migrated cases which are reduced from Active #. Also, death of Tibetan refugee is included in deceased numbers, but not in confirmed"
 		},
 		{
 			"active": "20",
