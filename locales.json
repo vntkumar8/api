@@ -8,13 +8,14 @@
 			"isdistrict": "N",
 			"isincurrentlocale": "N",
 			"kannada": "0.76",
-			"malayalam": "0.76",
+			"malayalam": "0.77",
 			"marathi": "0.76",
-			"odiya": "0.76",
+			"odiya": "0.78",
 			"punjabi": "0.99",
 			"stringnum": "1",
 			"tamil": "0.76",
 			"telugu": "1.00",
+			"temp": "",
 			"urdu": "0.01"
 		},
 		{
@@ -32,6 +33,7 @@
 			"stringnum": "2",
 			"tamil": "மொழி",
 			"telugu": "భాషా",
+			"temp": "Language",
 			"urdu": "زبان"
 		},
 		{
@@ -44,11 +46,12 @@
 			"kannada": "ಏರ್ಪೋರ್ಟ್ ಸಂಪರ್ಕ ತಡೆ",
 			"malayalam": "വിമാനത്താവളം സ്പെയർപാർട്ടുകൾ",
 			"marathi": "विमानतळ अलग ठेवणे",
-			"odiya": "ବନ୍ଦର ଅଟକ ରଖିବା",
+			"odiya": "ବିମାନ ବନ୍ଦରରେ ଅଣସର",
 			"punjabi": "ਹਵਾਈਅੱਡਾ ਕੁਆਰੰਟੀਨ",
 			"stringnum": "3",
 			"tamil": "விமான தொற்றுநோய்",
 			"telugu": "విమానాశ్రయ దిగ్బంధం",
+			"temp": "വിമാനത്താവളം ക്വറന്റീൻ ",
 			"urdu": "ہوائی اڈے سنگرودھ"
 		},
 		{
@@ -66,6 +69,7 @@
 			"stringnum": "4",
 			"tamil": "ஒரு கூட்டு முன்முயற்சி.",
 			"telugu": "ఈ వెబ్సైట్ జనసాయంతో చేయబడినది",
+			"temp": "ഒരു ജനകീയ കൂട്ടായ്മ",
 			"urdu": "ایک crowdsourced پہل."
 		},
 		{
@@ -83,6 +87,7 @@
 			"stringnum": "5",
 			"tamil": "எங்களை பற்றி",
 			"telugu": "వెబ్సైట్ గురించి తెలుసుకోండి",
+			"temp": "ഞങ്ങളെ കുറിച്ച് ",
 			"urdu": "کے بارے میں"
 		},
 		{
@@ -98,8 +103,9 @@
 			"odiya": "ସକ୍ରିୟ",
 			"punjabi": "ਕਿਰਿਆਸ਼ੀਲ",
 			"stringnum": "6",
-			"tamil": "தொற்றுள்ளவர்கள்",
+			"tamil": "நடப்பில்",
 			"telugu": "                                                                యాక్టీవ్",
+			"temp": "നിലവിൽ ",
 			"urdu": "فعال"
 		},
 		{
@@ -117,6 +123,7 @@
 			"stringnum": "7",
 			"tamil": "முன்பு",
 			"telugu": "క్రితం",
+			"temp": "മുൻപ് ",
 			"urdu": "پہلے"
 		},
 		{
@@ -134,6 +141,7 @@
 			"stringnum": "8",
 			"tamil": "அனைத்து மாநிலங்கள்",
 			"telugu": "అన్ని రాష్ట్రాలు",
+			"temp": "എല്ലാ സംസ്ഥാനങ്ങളും ",
 			"urdu": "تمام ریاستیں"
 		},
 		{
@@ -151,6 +159,7 @@
 			"stringnum": "9",
 			"tamil": "அந்தமான் நிக்கோபார் தீவுகள்",
 			"telugu": "అండమాన్ నికోబార్ దీవులు",
+			"temp": "Andaman and Nicobar Islands",
 			"urdu": ""
 		},
 		{
@@ -168,6 +177,7 @@
 			"stringnum": "10",
 			"tamil": "வரை",
 			"telugu": "నాటికి",
+			"temp": "പുതുക്കിയത് ",
 			"urdu": "کے طور پر"
 		},
 		{
@@ -185,6 +195,7 @@
 			"stringnum": "11",
 			"tamil": "என்சிபி 2019 மக்கள் தொகை கணிப்பு அடிப்படையில்",
 			"telugu": "ఎన్సిపి 2019 జనాభా సంఖ్య ప్రొజెక్షన్ ఆధారంగా",
+			"temp": "NCP പ്രകാരമുള്ള 2019 ജനസംഖ്യ പ്രൊജക്ഷൻ അടിസ്ഥാനമാക്കി",
 			"urdu": ""
 		},
 		{
@@ -202,6 +213,7 @@
 			"stringnum": "12",
 			"tamil": "பி.எஸ்.எஃப் முகாம்",
 			"telugu": "బిఎస్ఎఫ్ క్యాంప్",
+			"temp": "ബിഎസ്എഫ് ക്യാമ്പ്",
 			"urdu": "بی ایس ایف کیمپ"
 		},
 		{
@@ -219,6 +231,7 @@
 			"stringnum": "13",
 			"tamil": "மில்லியனுக்கு வழக்குகள்",
 			"telugu": "పర్ మిలియన్ కేసులు",
+			"temp": "കേസുകൾ ഓരോ ദശലക്ഷത്തിലും",
 			"urdu": "فی ملین مقدمات"
 		},
 		{
@@ -236,6 +249,7 @@
 			"stringnum": "14",
 			"tamil": "இயல்பான  அளவிட்டில் சீரான முறையில் சரிபார்க்கப்பட்டது.",
 			"telugu": " సమానత్వం కోసం ముందే టిక్ చేయబడినది ",
+			"temp": "ഒരേപോലെ സ്കെയിൽ ചെയ്യുക ",
 			"urdu": ""
 		},
 		{
@@ -253,6 +267,7 @@
 			"stringnum": "15",
 			"tamil": "மாநில அரசிடம் இருந்து தொகுக்கப்பட்ட. எண்கள்",
 			"telugu": "స్టేట్ గవర్నమెంట్  సంఖ్యలను ఆధారంగా తీసుకోబడింది",
+			"temp": "സംസ്ഥാന സർക്കാർ ബുള്ളറ്റിനുകളിൽ നിന്ന് ശേഖരിച്ചത് ",
 			"urdu": ""
 		},
 		{
@@ -268,8 +283,9 @@
 			"odiya": "ନିଶ୍ଚିତ",
 			"punjabi": "ਪੱਕਾ",
 			"stringnum": "16",
-			"tamil": "உறுதி செய்யப்பட்டவர்கள்",
+			"tamil": "உறுதியானவர்கள்",
 			"telugu": "ధ్రువీకరించబడినవి",
+			"temp": "സ്ഥിരീകരിച്ചവർ ",
 			"urdu": "اس بات کی تصدیق"
 		},
 		{
@@ -287,6 +303,7 @@
 			"stringnum": "17",
 			"tamil": "திரள்",
 			"telugu": "మొత్తం లెక్క",
+			"temp": "സഞ്ചിതം",
 			"urdu": "مجموعی"
 		},
 		{
@@ -304,6 +321,7 @@
 			"stringnum": "18",
 			"tamil": "தாத்ரா மற்றும் நகர் ஹவேலி மற்றும் தமன் மற்றும் டியு",
 			"telugu": "దాద్రా మరియు నగర్ హవేలీ, డామన్ మరియు డయ్యూ",
+			"temp": "Dadra and Nagar Haveli and Daman and Diu",
 			"urdu": ""
 		},
 		{
@@ -321,6 +339,7 @@
 			"stringnum": "19",
 			"tamil": "தினசரி",
 			"telugu": "రోజు వారీ లెక్క",
+			"temp": "ദിവസേന",
 			"urdu": "ڈیلی"
 		},
 		{
@@ -338,6 +357,7 @@
 			"stringnum": "20",
 			"tamil": "இறந்தவர்கள்",
 			"telugu": "మరణించినవారు",
+			"temp": "മരിച്ചവർ ",
 			"urdu": "میت"
 		},
 		{
@@ -355,6 +375,7 @@
 			"stringnum": "21",
 			"tamil": "ஆழமான முழுக்கு",
 			"telugu": "పూర్తి విశ్లేషణ",
+			"temp": "ഡീപ് ഡൈവ്",
 			"urdu": "گہری ڈبکی"
 		},
 		{
@@ -372,6 +393,7 @@
 			"stringnum": "22",
 			"tamil": "விளக்கப்படங்கள்",
 			"telugu": "జనాభా విశ్లేషణ",
+			"temp": "ഡെമോഗ്രാഫിക്‌സ് ",
 			"urdu": "آبادیات"
 		},
 		{
@@ -389,6 +411,7 @@
 			"stringnum": "23",
 			"tamil": "மாவட்டம்",
 			"telugu": "జిల్లా",
+			"temp": "ജില്ല",
 			"urdu": "ضلع"
 		},
 		{
@@ -406,6 +429,7 @@
 			"stringnum": "24",
 			"tamil": "மாவட்ட வாரியாக எண்கள் சமரசம் செய்யப்படுகின்றன",
 			"telugu": "జిల్లా వారీగా సంఖ్యలు  అప్డేట్ చేస్తూ ఉన్నాము",
+			"temp": "ജില്ല തിരിച്ചുള്ള നമ്പറുകൾ തിട്ടപ്പെടുത്തിക്കൊണ്ടിരിക്കുന്നു ",
 			"urdu": ""
 		},
 		{
@@ -423,6 +447,7 @@
 			"stringnum": "25",
 			"tamil": "அத்தியாவசியங்கள்",
 			"telugu": "నిత్య అవసర వస్తువులు",
+			"temp": "ആവശ്യവസ്തുക്കൾ ",
 			"urdu": "لوازم"
 		},
 		{
@@ -440,6 +465,7 @@
 			"stringnum": "26",
 			"tamil": "வெளியேற்றப்பட்டவர்கள்",
 			"telugu": "నిర్వాసితులు",
+			"temp": "മാറ്റിപാർപ്പിച്ചവർ",
 			"urdu": "پناہ گزینوں"
 		},
 		{
@@ -457,6 +483,7 @@
 			"stringnum": "27",
 			"tamil": "மேலும் விவரங்களுக்கு",
 			"telugu": "మరిన్ని వివరాలకు",
+			"temp": "കൂടുതൽ വിവരങ്ങൾക്ക്",
 			"urdu": "مزید تفصیلات کے لیے"
 		},
 		{
@@ -474,6 +501,7 @@
 			"stringnum": "28",
 			"tamil": "முகப்பு",
 			"telugu": "హోమ్ పేజీ",
+			"temp": "ഹോം ",
 			"urdu": "گھر"
 		},
 		{
@@ -486,11 +514,12 @@
 			"kannada": "ಸುತ್ತುತ್ತಿರು",
 			"malayalam": "ഹോവർ",
 			"marathi": "त्यावर न्या",
-			"odiya": "ନେବାକୁ ପଡିବ",
+			"odiya": "ହାତ ରଖନ୍ତୁ",
 			"punjabi": "ਮੰਡਰਾਣਾ ",
 			"stringnum": "29",
 			"tamil": "மிதவை",
 			"telugu": "కర్సర్ పైన ఉంచండి ",
+			"temp": "ഹോവർ",
 			"urdu": "ہوور"
 		},
 		{
@@ -508,6 +537,7 @@
 			"stringnum": "31",
 			"tamil": "இந்தியா",
 			"telugu": "భారతదేశం",
+			"temp": "ഇന്ത്യ",
 			"urdu": "بھارت"
 		},
 		{
@@ -525,6 +555,7 @@
 			"stringnum": "32",
 			"tamil": "மேலும் தெரிந்து கொள்ள ",
 			"telugu": "మరింత తెలుసుకోండి",
+			"temp": "കൂടുതൽ അറിയൂ ",
 			"urdu": "زیادہ جانو"
 		},
 		{
@@ -542,6 +573,7 @@
 			"stringnum": "33",
 			"tamil": "கடைசியாகப் புதுப்பித்தது",
 			"telugu": "చివరిగా నవీకరించబడింది",
+			"temp": "അവസാനമായി പുതുക്കിയത്",
 			"urdu": "آخری بار اپ ڈیٹ"
 		},
 		{
@@ -559,6 +591,7 @@
 			"stringnum": "34",
 			"tamil": "மடக்கை",
 			"telugu": "సంవర్గమాన",
+			"temp": "സംവര്‍ഗ്ഗമാനം",
 			"urdu": "لوگارتمی"
 		},
 		{
@@ -576,6 +609,7 @@
 			"stringnum": "35",
 			"tamil": "வரைபடம்",
 			"telugu": "మ్యాప్",
+			"temp": "ഭൂപടം",
 			"urdu": "نقشہ"
 		},
 		{
@@ -593,6 +627,7 @@
 			"stringnum": "36",
 			"tamil": "மாதம்",
 			"telugu": "నెల",
+			"temp": "മാസം",
 			"urdu": "مہینہ"
 		},
 		{
@@ -610,6 +645,7 @@
 			"stringnum": "37",
 			"tamil": "மற்ற பகுதி",
 			"telugu": "ఇతర ప్రాంతం",
+			"temp": "മറ്റ് പ്രദേശങ്ങൾ ",
 			"urdu": "دوسرے علاقے"
 		},
 		{
@@ -627,6 +663,7 @@
 			"stringnum": "38",
 			"tamil": "மற்ற மாநிலம் ",
 			"telugu": "ఇతర రాష్ట్రం",
+			"temp": "മറ്റ് സംസ്‌ഥാനങ്ങൾ ",
 			"urdu": "دیگر فلیش"
 		},
 		{
@@ -644,6 +681,7 @@
 			"stringnum": "39",
 			"tamil": "மற்ற மாநிலம் ",
 			"telugu": "ఇతర రాష్ట్రం",
+			"temp": "മറ്റ് സംസ്‌ഥാനങ്ങൾ ",
 			"urdu": "دوسری ریاست"
 		},
 		{
@@ -661,6 +699,7 @@
 			"stringnum": "40",
 			"tamil": "10 லட்சங்களுக்கு",
 			"telugu": "మిలియన్ చొప్పున",
+			"temp": "ഒരു ദശലക്ഷത്തിൽ ",
 			"urdu": "ملین فی"
 		},
 		{
@@ -676,8 +715,9 @@
 			"odiya": "ସୁସ୍ଥ ହେଇଯାଇଛନ୍ତି ",
 			"punjabi": "ਬਰਾਮਦ",
 			"stringnum": "41",
-			"tamil": "குணமடைந்தவர்கள்",
+			"tamil": "மீண்டவர்கள்",
 			"telugu": "కోలుకున్నవారు",
+			"temp": "സുഖമായവർ ",
 			"urdu": "بحال شدہ"
 		},
 		{
@@ -695,6 +735,7 @@
 			"stringnum": "42",
 			"tamil": "அறிக்கை",
 			"telugu": "నివేదిక",
+			"temp": "റിപ്പോർട്ട്",
 			"urdu": "رپورٹ"
 		},
 		{
@@ -712,6 +753,7 @@
 			"stringnum": "43",
 			"tamil": "அளவீட்டு முறைகள்",
 			"telugu": "కొలమాన విధానాలు ",
+			"temp": "സ്കെയിൽ മോഡുകൾ",
 			"urdu": "اسکیل طریقوں"
 		},
 		{
@@ -729,6 +771,7 @@
 			"stringnum": "44",
 			"tamil": "உங்கள் நகரம், வளங்கள் போன்றவற்றைத் தேடுக",
 			"telugu": "మీ నగరం, వనరులు మొదలైనవి శోధించండి.",
+			"temp": "നിങ്ങളുടെ നഗരം, വിഭവങ്ങൾ തുടങ്ങിയവ തിരയുക",
 			"urdu": ""
 		},
 		{
@@ -746,6 +789,7 @@
 			"stringnum": "45",
 			"tamil": "ஷாஹித் பகத் சிங் நகர்",
 			"telugu": "షాహిద్ భగత్ సింగ్ నగర్",
+			"temp": "Shahid Bhagat Singh Nagar",
 			"urdu": ""
 		},
 		{
@@ -763,6 +807,7 @@
 			"stringnum": "46",
 			"tamil": "தொற்று  போக்குகள்",
 			"telugu": "వ్యాప్తి ట్రెండ్లు",
+			"temp": "സ്പ്രെഡ് ട്രെൻഡുകൾ",
 			"urdu": "سپریڈ رجحانات"
 		},
 		{
@@ -780,6 +825,7 @@
 			"stringnum": "47",
 			"tamil": "மாநிலம்",
 			"telugu": "రాష్ట్రం",
+			"temp": "സംസ്ഥാനം",
 			"urdu": "حالت"
 		},
 		{
@@ -797,6 +843,7 @@
 			"stringnum": "48",
 			"tamil": "மாநிலம் / யூனியன் பிரதேசம் ",
 			"telugu": "రాష్ట్రం / కేంద్ర పాలిత ప్రాంతం",
+			"temp": "സംസ്ഥാനം / UT",
 			"urdu": "ریاست / یونین"
 		},
 		{
@@ -814,6 +861,7 @@
 			"stringnum": "49",
 			"tamil": "மாநிலம் / யூடி",
 			"telugu": "రాష్ట్రం / కేంద్ర పాలిత ప్రాంతం",
+			"temp": "സംസ്ഥാനം / UT",
 			"urdu": "ریاست / یونین"
 		},
 		{
@@ -831,6 +879,7 @@
 			"stringnum": "50",
 			"tamil": "சோதிக்கப்பட்டது",
 			"telugu": "పరీక్షించబడినవి",
+			"temp": "പരീക്ഷിച്ചവർ ",
 			"urdu": "تجربہ کیا"
 		},
 		{
@@ -848,6 +897,7 @@
 			"stringnum": "51",
 			"tamil": "சோதிக்கப்பட்ட விளக்கப்படம் சீரான அளவிலிருந்து சுயாதீனமாக உள்ளது",
 			"telugu": "పరీక్షల పట్టికకు  ఏకరీతి కొలమానముతో సంబంధం లేదు ",
+			"temp": "ടെസ്റ്റ് ചാർട്ട്  യൂണിഫോം സ്കെയിലിങ്ങിൽനിന്നു വ്യത്യസ്തമാണ് ",
 			"urdu": ""
 		},
 		{
@@ -865,6 +915,7 @@
 			"stringnum": "52",
 			"tamil": "மொத்தம்",
 			"telugu": "మొత్తం",
+			"temp": "ആകെ",
 			"urdu": "کل"
 		},
 		{
@@ -882,6 +933,7 @@
 			"stringnum": "53",
 			"tamil": "மொத்த வழக்குகள்",
 			"telugu": "మొత్తం కేసులు",
+			"temp": "ആകെ കേസുകൾ",
 			"urdu": "کل مقدمات"
 		},
 		{
@@ -899,6 +951,7 @@
 			"stringnum": "54",
 			"tamil": "சீரான",
 			"telugu": "సమాంతర లెక్క",
+			"temp": "ഒരേപോലെ",
 			"urdu": "وردی"
 		},
 		{
@@ -916,6 +969,7 @@
 			"stringnum": "55",
 			"tamil": "தெரியவில்லை",
 			"telugu": "తెలియనివి",
+			"temp": "ജില്ല അറിയപ്പെടാത്തത്‌ ",
 			"urdu": "نامعلوم"
 		},
 		{
@@ -933,6 +987,7 @@
 			"stringnum": "56",
 			"tamil": "மாநிலப் பக்கத்தைப் பார்வையிடவும்",
 			"telugu": "రాష్ట్ర పేజీకి వెళ్ళండి",
+			"temp": "സംസ്‌ഥാനത്തിന്റെ പേജ് സന്ദർശിക്കുക",
 			"urdu": "دورہ ریاست کے صفحے"
 		},
 		{
@@ -950,6 +1005,7 @@
 			"stringnum": "57",
 			"tamil": "முன்னணியில் போராடும் அனைவருடனும் துணை நிற்போம்",
 			"telugu": "మేము ముందడుగు వేసి పోరాడే వాళ్ళతో నిలబడతాము",
+			"temp": "നാം എന്നും മുൻ നിരയിൽ നിന്ന് പോരാടുന്നവരോടൊപ്പം!",
 			"urdu": ""
 		},
 		{
@@ -967,6 +1023,7 @@
 			"stringnum": "58",
 			"tamil": "வாரங்கள்",
 			"telugu": "వారాలు",
+			"temp": "ആഴ്ചകൾ",
 			"urdu": "ہفتے"
 		},
 		{
@@ -979,11 +1036,12 @@
 			"kannada": "ಅಲಿಪುರದೌರ್",
 			"malayalam": "അലിപുര്ദുഅര്",
 			"marathi": "Alipurduar",
-			"odiya": "Alipurduar",
+			"odiya": "ଆଲିପୁରଦୁଆର",
 			"punjabi": "ਅਲੀਪੁਰਦੁਆਰ",
 			"stringnum": "59",
 			"tamil": "அலிப்பூர்துவர்",
 			"telugu": "అలీపూర్ద్వార్",
+			"temp": "Alipurduar",
 			"urdu": "Alipurduar"
 		},
 		{
@@ -996,11 +1054,12 @@
 			"kannada": "ಅಂಬೇಡ್ಕರ್ ನಗರ",
 			"malayalam": "അംബേദ്കർ നഗർ",
 			"marathi": "आंबेडकर नगर",
-			"odiya": "Ambedkar Nagar",
+			"odiya": "ଆମ୍ବେଦକର ନଗର",
 			"punjabi": "ਅੰਬੇਦਕਰ ਨਗਰ",
 			"stringnum": "60",
 			"tamil": "அம்பேத்கர் நகர்",
 			"telugu": "అంబేద్కర్ నగర్",
+			"temp": "Ambedkar Nagar",
 			"urdu": "امبیڈکر نگر"
 		},
 		{
@@ -1013,11 +1072,12 @@
 			"kannada": "Amreli",
 			"malayalam": "അമ്രേലിയിൽ",
 			"marathi": "अमरेली",
-			"odiya": "Amreli",
+			"odiya": "ଅମରେଲି",
 			"punjabi": "ਅਮਰੇਲੀ",
 			"stringnum": "61",
 			"tamil": "Amreli",
 			"telugu": "అమ్రేలి",
+			"temp": "Amreli",
 			"urdu": "امریلی"
 		},
 		{
@@ -1035,6 +1095,7 @@
 			"stringnum": "62",
 			"tamil": "Angul",
 			"telugu": "అంగుల్",
+			"temp": "Angul",
 			"urdu": "انگل"
 		},
 		{
@@ -1047,11 +1108,12 @@
 			"kannada": "Anjaw",
 			"malayalam": "അന്ജവ്",
 			"marathi": "Anjaw",
-			"odiya": "Anjaw",
+			"odiya": "ଅଂଜବ",
 			"punjabi": "ਅੰਜਾਵ",
 			"stringnum": "63",
 			"tamil": "Anjaw",
 			"telugu": "అంజవ్ ",
+			"temp": "Anjaw",
 			"urdu": "Anjaw"
 		},
 		{
@@ -1064,11 +1126,12 @@
 			"kannada": "Bageshwar",
 			"malayalam": "ബാഗേശ്വർ",
 			"marathi": "Bageshwar",
-			"odiya": "Bageshwar",
+			"odiya": "ବାଗେଶ୍ଵର",
 			"punjabi": "ਬਾਗੇਸ਼ਵਰ",
 			"stringnum": "64",
 			"tamil": "பேகேஸ்வர்",
 			"telugu": "బాగేశ్వర్",
+			"temp": "Bageshwar",
 			"urdu": "باگیشور"
 		},
 		{
@@ -1081,11 +1144,12 @@
 			"kannada": "ಬಕ್ಸಾ",
 			"malayalam": "ബാക്സ",
 			"marathi": "चिरांग",
-			"odiya": "Baksa",
+			"odiya": "ବକ୍ସା",
 			"punjabi": "ਬਕਸਾ",
 			"stringnum": "65",
 			"tamil": "Baksa",
 			"telugu": "బక్స ",
+			"temp": "Baksa",
 			"urdu": "Baksa"
 		},
 		{
@@ -1098,11 +1162,12 @@
 			"kannada": "ಬಾಲಘಾಟ್",
 			"malayalam": "ബലഘത്",
 			"marathi": "बालाघाट",
-			"odiya": "Balaghat",
+			"odiya": "ବାଲଘାଟ",
 			"punjabi": "ਬਾਲਾਘਾਟ",
 			"stringnum": "66",
 			"tamil": "விசாத்து வரும் பாலாகாட்டின்",
 			"telugu": "బాలాఘాట్",
+			"temp": "Balaghat",
 			"urdu": "بالاگھاٹ"
 		},
 		{
@@ -1115,11 +1180,12 @@
 			"kannada": "ಬಲ್ಲಿಯಾ",
 			"malayalam": "ബല്ലിഅ",
 			"marathi": "बलिया",
-			"odiya": "Ballia",
+			"odiya": "ବଲ୍ଲିଆ",
 			"punjabi": "ਬਾਲਿਆ",
 			"stringnum": "67",
 			"tamil": "பாலியா",
 			"telugu": "బాలియా",
+			"temp": "Ballia",
 			"urdu": "بلیا"
 		},
 		{
@@ -1132,11 +1198,12 @@
 			"kannada": "Balod",
 			"malayalam": "ബലൊദ്",
 			"marathi": "Balod",
-			"odiya": "Balod",
+			"odiya": "ବଲୋଡ଼",
 			"punjabi": "ਬਾਲੋਦ",
 			"stringnum": "68",
 			"tamil": "Balod",
 			"telugu": "బాలోద్ ",
+			"temp": "Balod",
 			"urdu": "Balod"
 		},
 		{
@@ -1149,11 +1216,12 @@
 			"kannada": "Baloda ಬಜಾರ್",
 			"malayalam": "ബലൊദ ബസാർ",
 			"marathi": "Baloda बाजार",
-			"odiya": "Baloda Bazar",
+			"odiya": "ବଲୋଡା଼ ବଜ଼ାର",
 			"punjabi": "ਬਲੋਦਾ ਬਾਜ਼ਾਰ",
 			"stringnum": "69",
 			"tamil": "Baloda பஜார்",
 			"telugu": "బాలోద బజార్",
+			"temp": "Baloda Bazar",
 			"urdu": "Baloda بازار"
 		},
 		{
@@ -1166,11 +1234,12 @@
 			"kannada": "Bametara",
 			"malayalam": "ബമെതര",
 			"marathi": "Bametara",
-			"odiya": "Bametara",
+			"odiya": "ବେମେତର",
 			"punjabi": "ਬਮੇਟਾਰਾ",
 			"stringnum": "70",
 			"tamil": "Bametara",
 			"telugu": "బమేతర ",
+			"temp": "Bemetara",
 			"urdu": "Bametara"
 		},
 		{
@@ -1183,11 +1252,12 @@
 			"kannada": "ಬಂಕುರ",
 			"malayalam": "ബങ്കുര",
 			"marathi": "बांकुरा",
-			"odiya": "Bankura",
+			"odiya": "ବାଙ୍କୁରା",
 			"punjabi": "ਬਾਨਕੁਰਾ",
 			"stringnum": "71",
 			"tamil": "பங்குரா",
 			"telugu": "బంకురా",
+			"temp": "Bankura",
 			"urdu": "بانکڑا"
 		},
 		{
@@ -1200,11 +1270,12 @@
 			"kannada": "ಬಾರ್ಗರ್",
 			"malayalam": "ബര്ഗര്ഹ്",
 			"marathi": "Bargarh",
-			"odiya": "ବରଗଡ଼",
+			"odiya": "ବରଗଡ",
 			"punjabi": "ਬਾਰਗੜ",
 			"stringnum": "72",
 			"tamil": "Bargarh",
 			"telugu": "బార్గర్హ్ ",
+			"temp": "Bargarh",
 			"urdu": "Bargarh"
 		},
 		{
@@ -1222,6 +1293,7 @@
 			"stringnum": "73",
 			"tamil": "பர்பேடா",
 			"telugu": "బార్పేట",
+			"temp": "Barpeta",
 			"urdu": "Barpeta"
 		},
 		{
@@ -1239,6 +1311,7 @@
 			"stringnum": "74",
 			"tamil": "பஸ்தர்",
 			"telugu": "బస్తర్",
+			"temp": "Bastar",
 			"urdu": "بستر"
 		},
 		{
@@ -1256,6 +1329,7 @@
 			"stringnum": "75",
 			"tamil": "பிஜப்பூர்",
 			"telugu": "బీజాపూర్",
+			"temp": "Bijapur",
 			"urdu": "بیجاپور"
 		},
 		{
@@ -1273,6 +1347,7 @@
 			"stringnum": "76",
 			"tamil": "பிஷ்ணுபூர்",
 			"telugu": "బిష్ణుపూర్",
+			"temp": "Bishnupur",
 			"urdu": "Bishnupur"
 		},
 		{
@@ -1290,6 +1365,7 @@
 			"stringnum": "77",
 			"tamil": "Biswanath",
 			"telugu": "బిశ్వనాథ్ ",
+			"temp": "Biswanath",
 			"urdu": "بشوناتھ"
 		},
 		{
@@ -1307,6 +1383,7 @@
 			"stringnum": "78",
 			"tamil": "Boudh",
 			"telugu": "బౌధ్ ",
+			"temp": "Boudh",
 			"urdu": "Boudh"
 		},
 		{
@@ -1324,6 +1401,7 @@
 			"stringnum": "79",
 			"tamil": "பூந்தி",
 			"telugu": "బుండి",
+			"temp": "Bundi",
 			"urdu": "Bundi"
 		},
 		{
@@ -1341,6 +1419,7 @@
 			"stringnum": "80",
 			"tamil": "Chamarajanagara",
 			"telugu": "చామరాజనగర ",
+			"temp": "Chamarajanagara",
 			"urdu": "Chamarajanagara"
 		},
 		{
@@ -1358,6 +1437,7 @@
 			"stringnum": "81",
 			"tamil": "சாமோலி",
 			"telugu": "చమోలి",
+			"temp": "Chamoli",
 			"urdu": "چمولی"
 		},
 		{
@@ -1375,6 +1455,7 @@
 			"stringnum": "82",
 			"tamil": "சம்பவத்",
 			"telugu": "చంపావత్",
+			"temp": "Champawat",
 			"urdu": "چمپاوت"
 		},
 		{
@@ -1392,6 +1473,7 @@
 			"stringnum": "83",
 			"tamil": "சாம்பாய்",
 			"telugu": "చంపావత్ ",
+			"temp": "Champhai",
 			"urdu": "Champhai"
 		},
 		{
@@ -1409,6 +1491,7 @@
 			"stringnum": "84",
 			"tamil": "வாரணாசி",
 			"telugu": "చందౌలీ",
+			"temp": "Chandauli",
 			"urdu": "چندولی"
 		},
 		{
@@ -1426,6 +1509,7 @@
 			"stringnum": "85",
 			"tamil": "சான்டெல்",
 			"telugu": "చందేల్",
+			"temp": "Chandel",
 			"urdu": "چندیل"
 		},
 		{
@@ -1443,6 +1527,7 @@
 			"stringnum": "86",
 			"tamil": "Changlang",
 			"telugu": "చాంగ్లాంగ్",
+			"temp": "Changlang",
 			"urdu": "چانگلانگ"
 		},
 		{
@@ -1460,6 +1545,7 @@
 			"stringnum": "87",
 			"tamil": "Charaideo",
 			"telugu": "చరైడియో ",
+			"temp": "Charaideo",
 			"urdu": "Charaideo"
 		},
 		{
@@ -1477,6 +1563,7 @@
 			"stringnum": "88",
 			"tamil": "Chatra",
 			"telugu": "చాట్ర ",
+			"temp": "Chatra",
 			"urdu": "چترا"
 		},
 		{
@@ -1494,6 +1581,7 @@
 			"stringnum": "89",
 			"tamil": "சாட்டார்புர்",
 			"telugu": "చ్ఛాత్తర్ పూర్ ",
+			"temp": "Chhatarpur",
 			"urdu": "چھترپر"
 		},
 		{
@@ -1511,6 +1599,7 @@
 			"stringnum": "90",
 			"tamil": "சிக்கமகளூருவில்",
 			"telugu": "చిక్కమంగళూరు",
+			"temp": "Chikkamagaluru",
 			"urdu": "Chikkamagaluru"
 		},
 		{
@@ -1528,6 +1617,7 @@
 			"stringnum": "91",
 			"tamil": "சிராங்",
 			"telugu": "చిరాంగ్",
+			"temp": "Chirang",
 			"urdu": "چرانگ"
 		},
 		{
@@ -1545,6 +1635,7 @@
 			"stringnum": "92",
 			"tamil": "சுரசந்த்பூர்",
 			"telugu": "చురచంద్పూర్",
+			"temp": "Churachandpur",
 			"urdu": "Churachandpur"
 		},
 		{
@@ -1562,6 +1653,7 @@
 			"stringnum": "93",
 			"tamil": "கூச்",
 			"telugu": "కూచ్ బెహార్",
+			"temp": "Cooch Behar",
 			"urdu": "Cooch بہار"
 		},
 		{
@@ -1579,6 +1671,7 @@
 			"stringnum": "94",
 			"tamil": "தக்ஷிண் பேஸ்டரின் தண்டேவாடா",
 			"telugu": "దక్షిణ్ బస్తర్ దంతేవాడ",
+			"temp": "Dakshin Bastar Dantewada",
 			"urdu": "جنوبی بستر دانتیوادا"
 		},
 		{
@@ -1596,6 +1689,7 @@
 			"stringnum": "95",
 			"tamil": "தக்ஷிண் டினாஜ்பூர்",
 			"telugu": "దక్షిణ దినాజ్పూర్",
+			"temp": "Dakshin Dinajpur",
 			"urdu": "جنوبی دناجپر"
 		},
 		{
@@ -1613,6 +1707,7 @@
 			"stringnum": "96",
 			"tamil": "டாமன்",
 			"telugu": "డామన్",
+			"temp": "Daman",
 			"urdu": "دمن"
 		},
 		{
@@ -1630,6 +1725,7 @@
 			"stringnum": "97",
 			"tamil": "தாமோ",
 			"telugu": "డమోహ్ ",
+			"temp": "Damoh",
 			"urdu": "دموہ"
 		},
 		{
@@ -1647,6 +1743,7 @@
 			"stringnum": "98",
 			"tamil": "Darrang",
 			"telugu": "డర్రంగ్ ",
+			"temp": "Darrang",
 			"urdu": "دارانگ"
 		},
 		{
@@ -1664,6 +1761,7 @@
 			"stringnum": "99",
 			"tamil": "டாடியா",
 			"telugu": "దటియా",
+			"temp": "Datia",
 			"urdu": "دتیا"
 		},
 		{
@@ -1681,6 +1779,7 @@
 			"stringnum": "100",
 			"tamil": "தம்தரியில்",
 			"telugu": "దంతారి ",
+			"temp": "Dhamtari",
 			"urdu": "Dhamtari"
 		},
 		{
@@ -1698,6 +1797,7 @@
 			"stringnum": "101",
 			"tamil": "Dhemaji",
 			"telugu": "దేమాజి ",
+			"temp": "Dhemaji",
 			"urdu": "Dhemaji"
 		},
 		{
@@ -1715,6 +1815,7 @@
 			"stringnum": "102",
 			"tamil": "திப்ருகார்",
 			"telugu": "దిబ్రుగార్హ",
+			"temp": "Dibrugarh",
 			"urdu": "ڈبروگڑھ"
 		},
 		{
@@ -1732,6 +1833,7 @@
 			"stringnum": "103",
 			"tamil": "திமா Hasao",
 			"telugu": "డిమా హాసావు ",
+			"temp": "Dima Hasao",
 			"urdu": "دیما Hasao"
 		},
 		{
@@ -1749,6 +1851,7 @@
 			"stringnum": "104",
 			"tamil": "டையூ",
 			"telugu": "డయ్యూ",
+			"temp": "Diu",
 			"urdu": "دیو"
 		},
 		{
@@ -1766,6 +1869,7 @@
 			"stringnum": "105",
 			"tamil": "தோடா",
 			"telugu": "దోడ",
+			"temp": "Doda",
 			"urdu": "ڈوڈہ"
 		},
 		{
@@ -1783,6 +1887,7 @@
 			"stringnum": "106",
 			"tamil": "கிழக்கு கரோ ஹில்ஸ்",
 			"telugu": "తూర్పు గారో హిల్స్",
+			"temp": "East Garo Hills",
 			"urdu": "مشرقی گارو ہلز"
 		},
 		{
@@ -1800,6 +1905,7 @@
 			"stringnum": "107",
 			"tamil": "கிழக்கு ஜெயின்டியா ஹில்ஸ்",
 			"telugu": "తూర్పు జైన్టియా హిల్స్",
+			"temp": "East Jaintia Hills",
 			"urdu": "ایسٹ جینتیا ہلز"
 		},
 		{
@@ -1817,6 +1923,7 @@
 			"stringnum": "108",
 			"tamil": "கிழக்கு Kameng",
 			"telugu": "తూర్పు కమెంగ్",
+			"temp": "East Kameng",
 			"urdu": "مشرقی کامیںگ"
 		},
 		{
@@ -1834,6 +1941,7 @@
 			"stringnum": "109",
 			"tamil": "கிழக்கு சியாங்",
 			"telugu": "తూర్పు సియాంగ్",
+			"temp": "East Siang",
 			"urdu": "مشرقی سیانگ"
 		},
 		{
@@ -1851,6 +1959,7 @@
 			"stringnum": "110",
 			"tamil": "கிழக்கு சிங்பும்",
 			"telugu": "తూర్పు సింఘ్భుం",
+			"temp": "East Singhbhum",
 			"urdu": "مشرقی سنگھ بھم"
 		},
 		{
@@ -1868,6 +1977,7 @@
 			"stringnum": "111",
 			"tamil": "Farrukhabad",
 			"telugu": "ఫరూఖాబాద్",
+			"temp": "Farrukhabad",
 			"urdu": "فرخ آباد"
 		},
 		{
@@ -1885,6 +1995,7 @@
 			"stringnum": "112",
 			"tamil": "Gajapati",
 			"telugu": "గజపతి",
+			"temp": "Gajapati",
 			"urdu": "گجپتی"
 		},
 		{
@@ -1902,6 +2013,7 @@
 			"stringnum": "113",
 			"tamil": "கங்கா நகர்",
 			"telugu": "గంగానగర్",
+			"temp": "Ganganagar",
 			"urdu": "گنگانگر"
 		},
 		{
@@ -1919,6 +2031,7 @@
 			"stringnum": "114",
 			"tamil": "Gariaband",
 			"telugu": "గారియాబంద్",
+			"temp": "Gariaband",
 			"urdu": "Gariaband"
 		},
 		{
@@ -1936,6 +2049,7 @@
 			"stringnum": "115",
 			"tamil": "கும்லா",
 			"telugu": "గుంలా",
+			"temp": "Gumla",
 			"urdu": "گملا"
 		},
 		{
@@ -1953,6 +2067,7 @@
 			"stringnum": "116",
 			"tamil": "ஹாசன்",
 			"telugu": "హసన్",
+			"temp": "Hassan",
 			"urdu": "حسن"
 		},
 		{
@@ -1970,6 +2085,7 @@
 			"stringnum": "117",
 			"tamil": "Hnahthial",
 			"telugu": "హనహ్థియాల్",
+			"temp": "Hnahthial",
 			"urdu": "Hnahthial"
 		},
 		{
@@ -1987,6 +2103,7 @@
 			"stringnum": "118",
 			"tamil": "Hojai",
 			"telugu": "హోజాయ్",
+			"temp": "Hojai",
 			"urdu": "Hojai"
 		},
 		{
@@ -2004,6 +2121,7 @@
 			"stringnum": "119",
 			"tamil": "ஜமுய்",
 			"telugu": "జముయి",
+			"temp": "Jamui",
 			"urdu": "جموئی"
 		},
 		{
@@ -2021,6 +2139,7 @@
 			"stringnum": "120",
 			"tamil": "Janjgir சம்பா",
 			"telugu": "జంజ్గిర్ చంపా",
+			"temp": "Janjgir Champa",
 			"urdu": "Janjgir چمپا"
 		},
 		{
@@ -2038,6 +2157,7 @@
 			"stringnum": "121",
 			"tamil": "Jashpur",
 			"telugu": "జష్ పుర్",
+			"temp": "Jashpur",
 			"urdu": "جشپر"
 		},
 		{
@@ -2055,6 +2175,7 @@
 			"stringnum": "122",
 			"tamil": "ஜார்கிராம்",
 			"telugu": "జార్గ్రామ్",
+			"temp": "Jhargram",
 			"urdu": "Jhargram"
 		},
 		{
@@ -2072,6 +2193,7 @@
 			"stringnum": "123",
 			"tamil": "Jiribam",
 			"telugu": "జిరిబం",
+			"temp": "Jiribam",
 			"urdu": "جریبام"
 		},
 		{
@@ -2089,6 +2211,7 @@
 			"stringnum": "124",
 			"tamil": "ஜோர்கட்",
 			"telugu": "జోర్హాట",
+			"temp": "Jorhat",
 			"urdu": "جورہاٹ"
 		},
 		{
@@ -2106,6 +2229,7 @@
 			"stringnum": "125",
 			"tamil": "Kakching",
 			"telugu": "కక్చింగ్",
+			"temp": "Kakching",
 			"urdu": "Kakching"
 		},
 		{
@@ -2123,6 +2247,7 @@
 			"stringnum": "126",
 			"tamil": "Kamjong",
 			"telugu": "కంజోంగ్",
+			"temp": "Kamjong",
 			"urdu": "Kamjong"
 		},
 		{
@@ -2140,6 +2265,7 @@
 			"stringnum": "127",
 			"tamil": "Kamle",
 			"telugu": "కంలే",
+			"temp": "Kamle",
 			"urdu": "Kamle"
 		},
 		{
@@ -2157,6 +2283,7 @@
 			"stringnum": "128",
 			"tamil": "கந்தமால்",
 			"telugu": "కంధమాల",
+			"temp": "Kandhamal",
 			"urdu": "کندھمال"
 		},
 		{
@@ -2174,6 +2301,7 @@
 			"stringnum": "129",
 			"tamil": "Kangpokpi",
 			"telugu": "కంగ్పోక్పి",
+			"temp": "Kangpokpi",
 			"urdu": "Kangpokpi"
 		},
 		{
@@ -2191,6 +2319,7 @@
 			"stringnum": "130",
 			"tamil": "காரைக்கால்",
 			"telugu": "కారైకాల్",
+			"temp": "Karaikal",
 			"urdu": "Karaikal"
 		},
 		{
@@ -2208,6 +2337,7 @@
 			"stringnum": "131",
 			"tamil": "கர்பி Anglong",
 			"telugu": "కర్బీ ఆంగ్లాంగ్",
+			"temp": "Karbi Anglong",
 			"urdu": "کاربی Anglong"
 		},
 		{
@@ -2225,6 +2355,7 @@
 			"stringnum": "132",
 			"tamil": "கட்னி",
 			"telugu": "కాట్నీ",
+			"temp": "Katni",
 			"urdu": "Katni"
 		},
 		{
@@ -2242,6 +2373,7 @@
 			"stringnum": "133",
 			"tamil": "Khawzawl",
 			"telugu": "ఖావ్జావ్ల్",
+			"temp": "Khawzawl",
 			"urdu": "Khawzawl"
 		},
 		{
@@ -2259,6 +2391,7 @@
 			"stringnum": "134",
 			"tamil": "Khowai",
 			"telugu": "ఖోవాయి",
+			"temp": "Khowai",
 			"urdu": "کھووائی"
 		},
 		{
@@ -2276,6 +2409,7 @@
 			"stringnum": "135",
 			"tamil": "ராஞ்சி",
 			"telugu": "ఖుంటి",
+			"temp": "Khunti",
 			"urdu": "Khunti"
 		},
 		{
@@ -2293,6 +2427,7 @@
 			"stringnum": "136",
 			"tamil": "கின்னார்",
 			"telugu": "కిన్నౌర్",
+			"temp": "Kinnaur",
 			"urdu": "کننور"
 		},
 		{
@@ -2310,6 +2445,7 @@
 			"stringnum": "137",
 			"tamil": "கோலார்",
 			"telugu": "కోలార్",
+			"temp": "Kolar",
 			"urdu": "کولار"
 		},
 		{
@@ -2327,6 +2463,7 @@
 			"stringnum": "138",
 			"tamil": "Kolasib",
 			"telugu": "కోలసిబ్",
+			"temp": "Kolasib",
 			"urdu": "Kolasib"
 		},
 		{
@@ -2344,6 +2481,7 @@
 			"stringnum": "139",
 			"tamil": "Kondagaon",
 			"telugu": "కొండగాన్",
+			"temp": "Kondagaon",
 			"urdu": "Kondagaon"
 		},
 		{
@@ -2361,6 +2499,7 @@
 			"stringnum": "140",
 			"tamil": "கொப்பல்",
 			"telugu": "కొప్పల్",
+			"temp": "Koppal",
 			"urdu": "Koppal"
 		},
 		{
@@ -2378,6 +2517,7 @@
 			"stringnum": "141",
 			"tamil": "Koriya",
 			"telugu": "కొరియా",
+			"temp": "Koriya",
 			"urdu": "Koriya"
 		},
 		{
@@ -2395,6 +2535,7 @@
 			"stringnum": "142",
 			"tamil": "க்ரா Daadi",
 			"telugu": "క్రా దాది",
+			"temp": "Kra Daadi",
 			"urdu": "Kra کی Daadi"
 		},
 		{
@@ -2412,6 +2553,7 @@
 			"stringnum": "143",
 			"tamil": "குலு",
 			"telugu": "కుల్లు",
+			"temp": "Kullu",
 			"urdu": "کللو"
 		},
 		{
@@ -2429,6 +2571,7 @@
 			"stringnum": "144",
 			"tamil": "Kurung Kumey",
 			"telugu": "కురుంగ్ కుమే",
+			"temp": "Kurung Kumey",
 			"urdu": "Kurung Kumey"
 		},
 		{
@@ -2446,6 +2589,7 @@
 			"stringnum": "145",
 			"tamil": "லாகால் மற்றும் ஸ்பிட்டி",
 			"telugu": "లాహౌల్, స్పితి",
+			"temp": "Lahaul and Spiti",
 			"urdu": "لاہول اور سپیتی"
 		},
 		{
@@ -2463,6 +2607,7 @@
 			"stringnum": "146",
 			"tamil": "லலித்புர்",
 			"telugu": "లలిత్పూర్",
+			"temp": "Lalitpur",
 			"urdu": "Lalitpur"
 		},
 		{
@@ -2480,6 +2625,7 @@
 			"stringnum": "147",
 			"tamil": "Latehar",
 			"telugu": "లాతేహార్",
+			"temp": "Latehar",
 			"urdu": "Latehar"
 		},
 		{
@@ -2497,6 +2643,7 @@
 			"stringnum": "148",
 			"tamil": "Lawngtlai",
 			"telugu": "లవంగ్త్లై",
+			"temp": "Lawngtlai",
 			"urdu": "Lawngtlai"
 		},
 		{
@@ -2514,6 +2661,7 @@
 			"stringnum": "149",
 			"tamil": "Lepa ராடா",
 			"telugu": "లేప రాదా",
+			"temp": "Lepa Rada",
 			"urdu": "سے Lepa Rada کی"
 		},
 		{
@@ -2531,6 +2679,7 @@
 			"stringnum": "150",
 			"tamil": "லோஹர்டாகா",
 			"telugu": "లోహర్ దగా",
+			"temp": "Lohardaga",
 			"urdu": "لوہارڈاگا"
 		},
 		{
@@ -2548,6 +2697,7 @@
 			"stringnum": "151",
 			"tamil": "Longding",
 			"telugu": "లాంగ్ డింగ్",
+			"temp": "Longding",
 			"urdu": "Longding"
 		},
 		{
@@ -2565,6 +2715,7 @@
 			"stringnum": "152",
 			"tamil": "லோவர் Dibang பள்ளத்தாக்கு",
 			"telugu": "లోయర్ దిబాంగ్ లోయ",
+			"temp": "Lower Dibang Valley",
 			"urdu": "لوئر دبانگ ویلی"
 		},
 		{
@@ -2582,6 +2733,7 @@
 			"stringnum": "153",
 			"tamil": "லோவர் சியாங்",
 			"telugu": "లోయర్ సియాంగ్",
+			"temp": "Lower Siang",
 			"urdu": "لوئر سیانگ"
 		},
 		{
@@ -2599,6 +2751,7 @@
 			"stringnum": "154",
 			"tamil": "லோவர் Subansiri",
 			"telugu": "లోయర్ సుబన్సిరి",
+			"temp": "Lower Subansiri",
 			"urdu": "لوئر Subansiri"
 		},
 		{
@@ -2616,6 +2769,7 @@
 			"stringnum": "155",
 			"tamil": "Lunglei",
 			"telugu": "లంగ్లై",
+			"temp": "Lunglei",
 			"urdu": "Lunglei"
 		},
 		{
@@ -2633,6 +2787,7 @@
 			"stringnum": "156",
 			"tamil": "மகாசமுந்த்",
 			"telugu": "మహాసముండ్",
+			"temp": "Mahasamund",
 			"urdu": "Mahasamund"
 		},
 		{
@@ -2650,6 +2805,7 @@
 			"stringnum": "157",
 			"tamil": "மஜுலி",
 			"telugu": "మజూలి",
+			"temp": "Majuli",
 			"urdu": "Majuli"
 		},
 		{
@@ -2667,6 +2823,7 @@
 			"stringnum": "158",
 			"tamil": "Malkangiri",
 			"telugu": "మల్కాన్గిరి",
+			"temp": "Malkangiri",
 			"urdu": "ملکانگری"
 		},
 		{
@@ -2684,6 +2841,7 @@
 			"stringnum": "159",
 			"tamil": "Mamit",
 			"telugu": "మామిట్",
+			"temp": "Mamit",
 			"urdu": "Mamit"
 		},
 		{
@@ -2701,6 +2859,7 @@
 			"stringnum": "160",
 			"tamil": "மாண்டலா",
 			"telugu": "మాండ్ల",
+			"temp": "Mandla",
 			"urdu": "منڈلا"
 		},
 		{
@@ -2718,6 +2877,7 @@
 			"stringnum": "161",
 			"tamil": "மிர்பூர்",
 			"telugu": "మిర్పూర్",
+			"temp": "Mirpur",
 			"urdu": "میرپور"
 		},
 		{
@@ -2735,6 +2895,7 @@
 			"stringnum": "162",
 			"tamil": "Mungeli",
 			"telugu": "ముంగెలి",
+			"temp": "Mungeli",
 			"urdu": "سے Mungeli"
 		},
 		{
@@ -2752,6 +2913,7 @@
 			"stringnum": "163",
 			"tamil": "முசாபராபாத்தை",
 			"telugu": "ముజఫరాబాద్",
+			"temp": "Muzaffarabad",
 			"urdu": "مظفرآباد"
 		},
 		{
@@ -2769,6 +2931,7 @@
 			"stringnum": "164",
 			"tamil": "Nabarangapur",
 			"telugu": "నబరంగాపుర్",
+			"temp": "Nabarangapur",
 			"urdu": "Nabarangapur"
 		},
 		{
@@ -2786,6 +2949,7 @@
 			"stringnum": "165",
 			"tamil": "Nagaon",
 			"telugu": "నాగావ్",
+			"temp": "Nagaon",
 			"urdu": "Nagaon"
 		},
 		{
@@ -2803,6 +2967,7 @@
 			"stringnum": "166",
 			"tamil": "Namsai",
 			"telugu": "నామసాయి",
+			"temp": "Namsai",
 			"urdu": "Namsai"
 		},
 		{
@@ -2820,6 +2985,7 @@
 			"stringnum": "167",
 			"tamil": "நாராயண்பூர்",
 			"telugu": "నారాయణ్పూర్",
+			"temp": "Narayanpur",
 			"urdu": "نارائن"
 		},
 		{
@@ -2837,6 +3003,7 @@
 			"stringnum": "168",
 			"tamil": "Narsinghpur",
 			"telugu": "నర్సింగ్ పుర్",
+			"temp": "Narsinghpur",
 			"urdu": "Narsinghpur"
 		},
 		{
@@ -2854,6 +3021,7 @@
 			"stringnum": "169",
 			"tamil": "நிகோபார்ஸ்",
 			"telugu": "నికోబార్లు",
+			"temp": "Nicobars",
 			"urdu": "Nicobars"
 		},
 		{
@@ -2871,6 +3039,7 @@
 			"stringnum": "170",
 			"tamil": "Niwari",
 			"telugu": "నివారి",
+			"temp": "Niwari",
 			"urdu": "Niwari"
 		},
 		{
@@ -2888,6 +3057,7 @@
 			"stringnum": "171",
 			"tamil": "Noney",
 			"telugu": "నోనే",
+			"temp": "Noney",
 			"urdu": "Noney"
 		},
 		{
@@ -2905,6 +3075,7 @@
 			"stringnum": "172",
 			"tamil": "வட கரோ ஹில்ஸ்",
 			"telugu": "ఉత్తర గారో హిల్స్",
+			"temp": "North Garo Hills",
 			"urdu": "شمالی گارو ہلز"
 		},
 		{
@@ -2922,6 +3093,7 @@
 			"stringnum": "173",
 			"tamil": "Nuapada",
 			"telugu": "నుఆపద",
+			"temp": "Nuapada",
 			"urdu": "Nuapada"
 		},
 		{
@@ -2939,6 +3111,7 @@
 			"stringnum": "174",
 			"tamil": "Pakke Kessang",
 			"telugu": "పక్కే కెస్సంగ్",
+			"temp": "Pakke Kessang",
 			"urdu": "Pakke Kessang"
 		},
 		{
@@ -2956,6 +3129,7 @@
 			"stringnum": "175",
 			"tamil": "Pakur",
 			"telugu": "పాకూర్",
+			"temp": "Pakur",
 			"urdu": "Pakur"
 		},
 		{
@@ -2973,6 +3147,7 @@
 			"stringnum": "176",
 			"tamil": "Papum பரே",
 			"telugu": "పాపుమ్ పారె",
+			"temp": "Papum Pare",
 			"urdu": "Papum پیر"
 		},
 		{
@@ -2990,6 +3165,7 @@
 			"stringnum": "177",
 			"tamil": "Pherzawl",
 			"telugu": "ఫేర్జాల్",
+			"temp": "Pherzawl",
 			"urdu": "Pherzawl"
 		},
 		{
@@ -3007,6 +3183,7 @@
 			"stringnum": "178",
 			"tamil": "பித்தோகார்க்",
 			"telugu": "పితోరగర్",
+			"temp": "Pithoragarh",
 			"urdu": "پتوراگڑھ"
 		},
 		{
@@ -3024,6 +3201,7 @@
 			"stringnum": "179",
 			"tamil": "பன்ச்",
 			"telugu": "పంచ్",
+			"temp": "Punch",
 			"urdu": "گھونسہ مارنا"
 		},
 		{
@@ -3041,6 +3219,7 @@
 			"stringnum": "180",
 			"tamil": "புருலியா",
 			"telugu": "పురులియా",
+			"temp": "Purulia",
 			"urdu": "پرولیا"
 		},
 		{
@@ -3058,6 +3237,7 @@
 			"stringnum": "181",
 			"tamil": "ராய்ச்சூர்",
 			"telugu": "రాయచూర్",
+			"temp": "Raichur",
 			"urdu": "رائچور"
 		},
 		{
@@ -3075,6 +3255,7 @@
 			"stringnum": "182",
 			"tamil": "ராய்கர்",
 			"telugu": "రాయ్గఢ్",
+			"temp": "Raigarh",
 			"urdu": "رایگڑھ"
 		},
 		{
@@ -3092,6 +3273,7 @@
 			"stringnum": "183",
 			"tamil": "ராமநகரா",
 			"telugu": "రామనగర",
+			"temp": "Ramanagara",
 			"urdu": "Ramanagara"
 		},
 		{
@@ -3109,6 +3291,7 @@
 			"stringnum": "184",
 			"tamil": "ராம்கர்",
 			"telugu": "రాంగడ్",
+			"temp": "Ramgarh",
 			"urdu": "رامگڑھ"
 		},
 		{
@@ -3126,6 +3309,7 @@
 			"stringnum": "185",
 			"tamil": "Rayagada",
 			"telugu": "రాయగడ",
+			"temp": "Rayagada",
 			"urdu": "Rayagada"
 		},
 		{
@@ -3143,6 +3327,7 @@
 			"stringnum": "186",
 			"tamil": "Ribhoi",
 			"telugu": "రిభోయి",
+			"temp": "Ribhoi",
 			"urdu": "Ribhoi"
 		},
 		{
@@ -3160,6 +3345,7 @@
 			"stringnum": "187",
 			"tamil": "ருத்ரபிரயாக்",
 			"telugu": "రుద్రప్రయాగ",
+			"temp": "Rudraprayag",
 			"urdu": "رودر پریاگ"
 		},
 		{
@@ -3177,6 +3363,7 @@
 			"stringnum": "188",
 			"tamil": "சாஹிப்கன்ஜ்",
 			"telugu": "సాహిబ్ గంజ్",
+			"temp": "Sahibganj",
 			"urdu": "Sahibganj"
 		},
 		{
@@ -3194,6 +3381,7 @@
 			"stringnum": "189",
 			"tamil": "Saiha",
 			"telugu": "సైహ",
+			"temp": "Saiha",
 			"urdu": "Saiha"
 		},
 		{
@@ -3211,6 +3399,7 @@
 			"stringnum": "190",
 			"tamil": "Saitual",
 			"telugu": "సైతుఅల్",
+			"temp": "Saitual",
 			"urdu": "Saitual"
 		},
 		{
@@ -3228,6 +3417,7 @@
 			"stringnum": "191",
 			"tamil": "சம்பல்பூர்",
 			"telugu": "సంబల్పూర్",
+			"temp": "Sambalpur",
 			"urdu": "سمبلپر"
 		},
 		{
@@ -3245,6 +3435,7 @@
 			"stringnum": "192",
 			"tamil": "Saraikela-Kharsawan",
 			"telugu": "సరైకెల-ఖర్సవాన్",
+			"temp": "Saraikela-Kharsawan",
 			"urdu": "Saraikela-Kharsawan"
 		},
 		{
@@ -3262,6 +3453,7 @@
 			"stringnum": "193",
 			"tamil": "சேனாபதி",
 			"telugu": "సేనాపతి",
+			"temp": "Senapati",
 			"urdu": "سیناپتی"
 		},
 		{
@@ -3279,6 +3471,7 @@
 			"stringnum": "194",
 			"tamil": "சியோனி",
 			"telugu": "సియోనీ",
+			"temp": "Seoni",
 			"urdu": "سیونی"
 		},
 		{
@@ -3296,6 +3489,7 @@
 			"stringnum": "195",
 			"tamil": "Serchhip",
 			"telugu": "సెర్చ్ఛిప్",
+			"temp": "Serchhip",
 			"urdu": "Serchhip"
 		},
 		{
@@ -3313,6 +3507,7 @@
 			"stringnum": "196",
 			"tamil": "ஷி Yomi",
 			"telugu": "షి యామి",
+			"temp": "Shi Yomi",
 			"urdu": "ش یومی"
 		},
 		{
@@ -3330,6 +3525,7 @@
 			"stringnum": "197",
 			"tamil": "Shivamogga",
 			"telugu": "శివమొగ్గ",
+			"temp": "Shivamogga",
 			"urdu": "Shivamogga"
 		},
 		{
@@ -3347,6 +3543,7 @@
 			"stringnum": "198",
 			"tamil": "சியாங்",
 			"telugu": "సియాంగ్",
+			"temp": "Siang",
 			"urdu": "سیانگ"
 		},
 		{
@@ -3364,6 +3561,7 @@
 			"stringnum": "199",
 			"tamil": "சித்தியிலிருந்து",
 			"telugu": "సిద్ధి",
+			"temp": "Sidhi",
 			"urdu": "Sidhi کا"
 		},
 		{
@@ -3381,6 +3579,7 @@
 			"stringnum": "200",
 			"tamil": "Singrauli",
 			"telugu": "సింగ్రౌలి",
+			"temp": "Singrauli",
 			"urdu": "Singrauli"
 		},
 		{
@@ -3398,6 +3597,7 @@
 			"stringnum": "201",
 			"tamil": "Sipahijala",
 			"telugu": "సిపాహిజాల",
+			"temp": "Sipahijala",
 			"urdu": "Sipahijala"
 		},
 		{
@@ -3415,6 +3615,7 @@
 			"stringnum": "202",
 			"tamil": "Sivasagar",
 			"telugu": "శివసాగర్",
+			"temp": "Sivasagar",
 			"urdu": "Sivasagar"
 		},
 		{
@@ -3432,6 +3633,7 @@
 			"stringnum": "203",
 			"tamil": "Sonbhadra",
 			"telugu": "సొంభద్ర",
+			"temp": "Sonbhadra",
 			"urdu": "Sonbhadra"
 		},
 		{
@@ -3449,6 +3651,7 @@
 			"stringnum": "204",
 			"tamil": "சோனித்பூர்",
 			"telugu": "సోనిత్పూర్",
+			"temp": "Sonitpur",
 			"urdu": "سونتپر"
 		},
 		{
@@ -3466,6 +3669,7 @@
 			"stringnum": "205",
 			"tamil": "தென் கரோ ஹில்ஸ்",
 			"telugu": "దక్షిణ గారో హిల్స్",
+			"temp": "South Garo Hills",
 			"urdu": "جنوبی گارو ہلز"
 		},
 		{
@@ -3483,6 +3687,7 @@
 			"stringnum": "206",
 			"tamil": "தென் திரிபுரா",
 			"telugu": "సౌత్ త్రిపుర",
+			"temp": "South Tripura",
 			"urdu": "جنوبی ترپرا"
 		},
 		{
@@ -3500,6 +3705,7 @@
 			"stringnum": "207",
 			"tamil": "தென் மேற்கு கரோ ஹில்ஸ்",
 			"telugu": "సౌత్ వెస్ట్ గారో హిల్స్",
+			"temp": "South West Garo Hills",
 			"urdu": "جنوب مغربی گارو ہلز"
 		},
 		{
@@ -3517,6 +3723,7 @@
 			"stringnum": "208",
 			"tamil": "தென் மேற்கு காசி ஹில்ஸ்",
 			"telugu": "సౌత్ వెస్ట్ కాశీ హిల్స్",
+			"temp": "South West Khasi Hills",
 			"urdu": "جنوبی مغربی کھاسی ہلز"
 		},
 		{
@@ -3534,6 +3741,7 @@
 			"stringnum": "209",
 			"tamil": "Subarnapur",
 			"telugu": "సుబర్నపుర్",
+			"temp": "Subarnapur",
 			"urdu": "Subarnapur"
 		},
 		{
@@ -3551,6 +3759,7 @@
 			"stringnum": "210",
 			"tamil": "சுக்மா",
 			"telugu": "సుక్మా",
+			"temp": "Sukma",
 			"urdu": "Sukma کی"
 		},
 		{
@@ -3568,6 +3777,7 @@
 			"stringnum": "211",
 			"tamil": "சர்குஜா",
 			"telugu": " సుర్గుజా",
+			"temp": "Surguja",
 			"urdu": "Surguja"
 		},
 		{
@@ -3585,6 +3795,7 @@
 			"stringnum": "212",
 			"tamil": "Tamenglong",
 			"telugu": "తమెంగ్లాంగ్",
+			"temp": "Tamenglong",
 			"urdu": "Tamenglong"
 		},
 		{
@@ -3602,6 +3813,7 @@
 			"stringnum": "213",
 			"tamil": "தவாங்",
 			"telugu": "తవాంగ్",
+			"temp": "Tawang",
 			"urdu": "توانگ"
 		},
 		{
@@ -3619,6 +3831,7 @@
 			"stringnum": "214",
 			"tamil": "டெஹ்ரி கர்வால்",
 			"telugu": "టెహ్రీ గర్వాల్",
+			"temp": "Tehri Garhwal",
 			"urdu": "ٹہری گڑھوال"
 		},
 		{
@@ -3636,6 +3849,7 @@
 			"stringnum": "215",
 			"tamil": "Tengnoupal",
 			"telugu": "టెన్గ్నౌపాల్",
+			"temp": "Tengnoupal",
 			"urdu": "Tengnoupal"
 		},
 		{
@@ -3653,6 +3867,7 @@
 			"stringnum": "216",
 			"tamil": "Thoubal",
 			"telugu": "తౌబాల్",
+			"temp": "Thoubal",
 			"urdu": "Thoubal"
 		},
 		{
@@ -3670,6 +3885,7 @@
 			"stringnum": "217",
 			"tamil": "தின்சுகியா",
 			"telugu": "టిన్సుకియా",
+			"temp": "Tinsukia",
 			"urdu": "تنسکیا"
 		},
 		{
@@ -3687,6 +3903,7 @@
 			"stringnum": "218",
 			"tamil": "Tirap",
 			"telugu": "తిరాప్",
+			"temp": "Tirap",
 			"urdu": "Tirap"
 		},
 		{
@@ -3704,6 +3921,7 @@
 			"stringnum": "219",
 			"tamil": "உடல்குரி",
 			"telugu": "ఉడాల్గురి",
+			"temp": "Udalguri",
 			"urdu": "Udalguri"
 		},
 		{
@@ -3721,6 +3939,7 @@
 			"stringnum": "220",
 			"tamil": "Ukhrul",
 			"telugu": "ఉఖ్రుల్",
+			"temp": "Ukhrul",
 			"urdu": "اخرول"
 		},
 		{
@@ -3738,6 +3957,7 @@
 			"stringnum": "221",
 			"tamil": "Umaria",
 			"telugu": "ఉమారియా",
+			"temp": "Umaria",
 			"urdu": "Umaria کی"
 		},
 		{
@@ -3755,6 +3975,7 @@
 			"stringnum": "222",
 			"tamil": "Unokoti",
 			"telugu": "ఉనోకోటి",
+			"temp": "Unokoti",
 			"urdu": "Unokoti"
 		},
 		{
@@ -3772,6 +3993,7 @@
 			"stringnum": "223",
 			"tamil": "அப்பர் Dibang பள்ளத்தாக்கு",
 			"telugu": "అప్పర్ దిబాంగ్ లోయ",
+			"temp": "Upper Dibang Valley",
 			"urdu": "بالائی دبانگ ویلی"
 		},
 		{
@@ -3789,6 +4011,7 @@
 			"stringnum": "224",
 			"tamil": "அப்பர் சியாங்",
 			"telugu": "అప్పర్ సియాంగ్",
+			"temp": "Upper Siang",
 			"urdu": "بالائی سیانگ"
 		},
 		{
@@ -3806,6 +4029,7 @@
 			"stringnum": "225",
 			"tamil": "அப்பர் Subansiri",
 			"telugu": "అప్పర్ సుబన్సిరి",
+			"temp": "Upper Subansiri",
 			"urdu": "بالائی Subansiri"
 		},
 		{
@@ -3823,6 +4047,7 @@
 			"stringnum": "226",
 			"tamil": "உத்தரப் பேஸ்டரின் Kanker",
 			"telugu": "ఉత్తర బస్తర్ కంకేర్",
+			"temp": "Uttar Bastar Kanker",
 			"urdu": "اتر بستر Kanker"
 		},
 		{
@@ -3840,6 +4065,7 @@
 			"stringnum": "227",
 			"tamil": "உத்தர் டினாஜ்பூர்",
 			"telugu": "ఉత్తర దినాజ్పూర్",
+			"temp": "Uttar Dinajpur",
 			"urdu": "اتر دیناج پور"
 		},
 		{
@@ -3857,6 +4083,7 @@
 			"stringnum": "228",
 			"tamil": "உத்தரகாசி",
 			"telugu": "ఉత్తరకాశీ",
+			"temp": "Uttarkashi",
 			"urdu": "اترکاشی"
 		},
 		{
@@ -3874,6 +4101,7 @@
 			"stringnum": "229",
 			"tamil": "Wanaparthy",
 			"telugu": "వనపర్తి",
+			"temp": "Wanaparthy",
 			"urdu": "Wanaparthy"
 		},
 		{
@@ -3891,6 +4119,7 @@
 			"stringnum": "230",
 			"tamil": "வாரங்கல் ஊரக",
 			"telugu": "వరంగల్ రూరల్",
+			"temp": "Warangal Rural",
 			"urdu": "وارنگل رورل"
 		},
 		{
@@ -3908,6 +4137,7 @@
 			"stringnum": "231",
 			"tamil": "மேற்கு கரோ ஹில்ஸ்",
 			"telugu": "వెస్ట్ గారో హిల్స్",
+			"temp": "West Garo Hills",
 			"urdu": "ویسٹ گارو ہلز"
 		},
 		{
@@ -3925,6 +4155,7 @@
 			"stringnum": "232",
 			"tamil": "மேற்கு ஜெயின்டியா ஹில்ஸ்",
 			"telugu": "వెస్ట్ జైన్టియా హిల్స్",
+			"temp": "West Jaintia Hills",
 			"urdu": "ویسٹ جینتیا ہلز"
 		},
 		{
@@ -3942,6 +4173,7 @@
 			"stringnum": "233",
 			"tamil": "மேற்கு Kameng",
 			"telugu": "పశ్చిమ కమెంగ్",
+			"temp": "West Kameng",
 			"urdu": "ویسٹ کامیںگ"
 		},
 		{
@@ -3959,6 +4191,7 @@
 			"stringnum": "234",
 			"tamil": "மேற்கு கர்பி Anglong",
 			"telugu": "వెస్ట్ కర్బీ ఆంగ్లాంగ్",
+			"temp": "West Karbi Anglong",
 			"urdu": "ویسٹ کاربی Anglong"
 		},
 		{
@@ -3976,6 +4209,7 @@
 			"stringnum": "235",
 			"tamil": "மேற்கு காசி ஹில்ஸ்",
 			"telugu": "వెస్ట్ కాశీ హిల్స్",
+			"temp": "West Khasi Hills",
 			"urdu": "مغربی کھاسی ہلز"
 		},
 		{
@@ -3993,6 +4227,7 @@
 			"stringnum": "236",
 			"tamil": "மேற்கு சியாங்",
 			"telugu": "పశ్చిమ సియాంగ్",
+			"temp": "West Siang",
 			"urdu": "مغربی سیانگ"
 		},
 		{
@@ -4010,6 +4245,7 @@
 			"stringnum": "237",
 			"tamil": "மேற்கு சிங்பும்",
 			"telugu": "వెస్ట్ సింఘ్భుం",
+			"temp": "West Singhbhum",
 			"urdu": "مغربی سنگھ بھم"
 		},
 		{
@@ -4027,6 +4263,7 @@
 			"stringnum": "238",
 			"tamil": "மேற்கு திரிபுரா",
 			"telugu": "వెస్ట్ త్రిపుర",
+			"temp": "West Tripura",
 			"urdu": "مغربی ترپرا"
 		},
 		{
@@ -4044,6 +4281,7 @@
 			"stringnum": "239",
 			"tamil": "Yadadri புவனகிரி",
 			"telugu": "యాదాద్రి భువనగిరి",
+			"temp": "Yadadri Bhuvanagiri",
 			"urdu": "Yadadri سے Bhuvanagiri"
 		},
 		{
@@ -4061,6 +4299,7 @@
 			"stringnum": "240",
 			"tamil": "யாதகிரி",
 			"telugu": "యదగిర్",
+			"temp": "Yadgir",
 			"urdu": "Yadgir"
 		},
 		{
@@ -4078,6 +4317,7 @@
 			"stringnum": "241",
 			"tamil": "யானம்",
 			"telugu": "యానాం",
+			"temp": "Yanam",
 			"urdu": "Yanam کی"
 		},
 		{
@@ -4095,6 +4335,7 @@
 			"stringnum": "242",
 			"tamil": "அடிலாபாத்",
 			"telugu": "ఆదిలాబాద్",
+			"temp": "Adilabad",
 			"urdu": "عادل آباد"
 		},
 		{
@@ -4112,6 +4353,7 @@
 			"stringnum": "243",
 			"tamil": "அகர் மால்வா",
 			"telugu": "అగర్ మాల్వా",
+			"temp": "Agar Malwa",
 			"urdu": "آگر مالوا"
 		},
 		{
@@ -4129,6 +4371,7 @@
 			"stringnum": "244",
 			"tamil": "ஆக்ரா",
 			"telugu": "ఆగ్రా",
+			"temp": "Agra",
 			"urdu": "آگرہ"
 		},
 		{
@@ -4146,6 +4389,7 @@
 			"stringnum": "245",
 			"tamil": "அகமதாபாத்",
 			"telugu": "అహ్మదాబాద్",
+			"temp": "Ahmedabad",
 			"urdu": "احمد آباد"
 		},
 		{
@@ -4163,6 +4407,7 @@
 			"stringnum": "246",
 			"tamil": "அகமதுநகர்",
 			"telugu": "అహ్మద్ నగర్",
+			"temp": "Ahmednagar",
 			"urdu": "احمد نگر"
 		},
 		{
@@ -4180,6 +4425,7 @@
 			"stringnum": "247",
 			"tamil": "அய்சால்",
 			"telugu": "ఏయిసావ్ల్",
+			"temp": "Aizawl",
 			"urdu": "Aizawl"
 		},
 		{
@@ -4197,6 +4443,7 @@
 			"stringnum": "248",
 			"tamil": "அஜ்மீர்",
 			"telugu": "అజ్మీర్",
+			"temp": "Ajmer",
 			"urdu": "اجمیر"
 		},
 		{
@@ -4214,6 +4461,7 @@
 			"stringnum": "249",
 			"tamil": "அகோலா",
 			"telugu": "అకోలా",
+			"temp": "Akola",
 			"urdu": "اکولا"
 		},
 		{
@@ -4231,6 +4479,7 @@
 			"stringnum": "250",
 			"tamil": "ஆலப்புழை",
 			"telugu": "అలప్పుజ",
+			"temp": "Alappuzha",
 			"urdu": "الاپپجھا"
 		},
 		{
@@ -4248,6 +4497,7 @@
 			"stringnum": "251",
 			"tamil": "அலிகார்",
 			"telugu": "అలిగర్",
+			"temp": "Aligarh",
 			"urdu": "علی گڑھ"
 		},
 		{
@@ -4265,6 +4515,7 @@
 			"stringnum": "252",
 			"tamil": "அலிராஜ்பூர்",
 			"telugu": "అలీరాజపూర్",
+			"temp": "Alirajpur",
 			"urdu": "Alirajpur"
 		},
 		{
@@ -4282,6 +4533,7 @@
 			"stringnum": "253",
 			"tamil": "அல்மோரா",
 			"telugu": "అల్మోర",
+			"temp": "Almora",
 			"urdu": "الموڑا"
 		},
 		{
@@ -4299,6 +4551,7 @@
 			"stringnum": "254",
 			"tamil": "ஆழ்வார்",
 			"telugu": "అల్వార్",
+			"temp": "Alwar",
 			"urdu": "الور"
 		},
 		{
@@ -4316,6 +4569,7 @@
 			"stringnum": "255",
 			"tamil": "அம்பாலா",
 			"telugu": "అంబాలా",
+			"temp": "Ambala",
 			"urdu": "امبالا"
 		},
 		{
@@ -4333,6 +4587,7 @@
 			"stringnum": "256",
 			"tamil": "அமேதி",
 			"telugu": "అమేథి",
+			"temp": "Amethi",
 			"urdu": "امیٹھی"
 		},
 		{
@@ -4350,6 +4605,7 @@
 			"stringnum": "257",
 			"tamil": "அமராவதி",
 			"telugu": "అమరావతి",
+			"temp": "Amravati",
 			"urdu": "امراوتی"
 		},
 		{
@@ -4367,6 +4623,7 @@
 			"stringnum": "258",
 			"tamil": "அமிர்தசரஸ்",
 			"telugu": "అమృత్సర్",
+			"temp": "Amritsar",
 			"urdu": "امرتسر"
 		},
 		{
@@ -4384,6 +4641,7 @@
 			"stringnum": "259",
 			"tamil": "அம்ரோகா",
 			"telugu": "అంరోహ",
+			"temp": "Amroha",
 			"urdu": "امروہہ"
 		},
 		{
@@ -4401,6 +4659,7 @@
 			"stringnum": "260",
 			"tamil": "ஆனந்த்",
 			"telugu": "ఆనంద్",
+			"temp": "Anand",
 			"urdu": "آنند"
 		},
 		{
@@ -4418,6 +4677,7 @@
 			"stringnum": "261",
 			"tamil": "அனந்தபூர்",
 			"telugu": "అనంతపురం",
+			"temp": "Anantapur",
 			"urdu": "اننت پور"
 		},
 		{
@@ -4435,6 +4695,7 @@
 			"stringnum": "262",
 			"tamil": "அனந்த்நாக்",
 			"telugu": "అనంతనాగ్",
+			"temp": "Anantnag",
 			"urdu": "اننت ناگ"
 		},
 		{
@@ -4452,6 +4713,7 @@
 			"stringnum": "263",
 			"tamil": "ஆந்திரப் பிரதேசம்",
 			"telugu": "ఆంధ్రప్రదేశ్",
+			"temp": "Andhra Pradesh",
 			"urdu": "آندھرا پردیش"
 		},
 		{
@@ -4469,6 +4731,7 @@
 			"stringnum": "264",
 			"tamil": "அனுப்பூர்",
 			"telugu": "అనుప్పుర్",
+			"temp": "Anuppur",
 			"urdu": "Anuppur"
 		},
 		{
@@ -4486,6 +4749,7 @@
 			"stringnum": "265",
 			"tamil": "அராரியாவில்",
 			"telugu": "ఆరారియా",
+			"temp": "Araria",
 			"urdu": "Araria"
 		},
 		{
@@ -4503,6 +4767,7 @@
 			"stringnum": "266",
 			"tamil": "ஆரவல்லி",
 			"telugu": "ఆరావళి",
+			"temp": "Aravalli",
 			"urdu": "اراولی"
 		},
 		{
@@ -4520,6 +4785,7 @@
 			"stringnum": "267",
 			"tamil": "அரியலூர்",
 			"telugu": "అరియాలూర్",
+			"temp": "Ariyalur",
 			"urdu": "Ariyalur"
 		},
 		{
@@ -4537,6 +4803,7 @@
 			"stringnum": "268",
 			"tamil": "அருணாச்சல பிரதேசம்",
 			"telugu": "అరుణాచల్ ప్రదేశ్",
+			"temp": "Arunachal Pradesh",
 			"urdu": "اروناچل پردیش"
 		},
 		{
@@ -4554,6 +4821,7 @@
 			"stringnum": "269",
 			"tamil": "அர்வால்",
 			"telugu": "ఆర్వాల్",
+			"temp": "Arwal",
 			"urdu": "Arwal"
 		},
 		{
@@ -4571,6 +4839,7 @@
 			"stringnum": "270",
 			"tamil": "அசோக்நகர்",
 			"telugu": "అశోక్ నగర్",
+			"temp": "Ashoknagar",
 			"urdu": "Ashoknagar"
 		},
 		{
@@ -4588,6 +4857,7 @@
 			"stringnum": "271",
 			"tamil": "அசாம்",
 			"telugu": "అస్సాం",
+			"temp": "Assam",
 			"urdu": "آسام"
 		},
 		{
@@ -4605,6 +4875,7 @@
 			"stringnum": "272",
 			"tamil": "அவுரியா",
 			"telugu": "ఔరయ్యా",
+			"temp": "Auraiya",
 			"urdu": "Auraiya"
 		},
 		{
@@ -4622,6 +4893,7 @@
 			"stringnum": "273",
 			"tamil": "அவுரங்காபாத்",
 			"telugu": "ఔరంగాబాద్",
+			"temp": "Aurangabad",
 			"urdu": "اورنگ آباد"
 		},
 		{
@@ -4639,6 +4911,7 @@
 			"stringnum": "274",
 			"tamil": "அயோத்தி",
 			"telugu": "అయోధ్య",
+			"temp": "Ayodhya",
 			"urdu": "ایودھیا"
 		},
 		{
@@ -4656,6 +4929,7 @@
 			"stringnum": "275",
 			"tamil": "ஆசம்கர்",
 			"telugu": "ఆజంగఢ్",
+			"temp": "Azamgarh",
 			"urdu": "اعظم گڑھ"
 		},
 		{
@@ -4673,6 +4947,7 @@
 			"stringnum": "276",
 			"tamil": "பகல்கோதி",
 			"telugu": "బగల్కొటే",
+			"temp": "Bagalkote",
 			"urdu": "Bagalkote"
 		},
 		{
@@ -4690,6 +4965,7 @@
 			"stringnum": "277",
 			"tamil": "பக்பட்",
 			"telugu": "బాగ్ పట్",
+			"temp": "Baghpat",
 			"urdu": "Baghpat"
 		},
 		{
@@ -4707,6 +4983,7 @@
 			"stringnum": "278",
 			"tamil": "பகிரிச்",
 			"telugu": "బహ్రెయిచ్",
+			"temp": "Bahraich",
 			"urdu": "بہرائچ"
 		},
 		{
@@ -4724,6 +5001,7 @@
 			"stringnum": "279",
 			"tamil": "பாலாங்கீர்",
 			"telugu": "బలంగీర్",
+			"temp": "Balangir",
 			"urdu": "Balangir"
 		},
 		{
@@ -4741,6 +5019,7 @@
 			"stringnum": "280",
 			"tamil": "பலாசோர்",
 			"telugu": "బాలాసోర్",
+			"temp": "Balasore",
 			"urdu": "بالاسور"
 		},
 		{
@@ -4758,6 +5037,7 @@
 			"stringnum": "281",
 			"tamil": "பல்லாரி",
 			"telugu": "బళ్లారి",
+			"temp": "Ballari",
 			"urdu": "Ballari"
 		},
 		{
@@ -4775,6 +5055,7 @@
 			"stringnum": "282",
 			"tamil": "பல்ராம்பூர்",
 			"telugu": "బలరామ్పూర్",
+			"temp": "Balrampur",
 			"urdu": "بلرام پور"
 		},
 		{
@@ -4792,6 +5073,7 @@
 			"stringnum": "283",
 			"tamil": "பனஸ்கன்தா",
 			"telugu": "బనస్కాంత",
+			"temp": "Banaskantha",
 			"urdu": "بناسکانٹھا"
 		},
 		{
@@ -4809,6 +5091,7 @@
 			"stringnum": "284",
 			"tamil": "பண்டா",
 			"telugu": "బండ",
+			"temp": "Banda",
 			"urdu": "بندہ"
 		},
 		{
@@ -4826,6 +5109,7 @@
 			"stringnum": "285",
 			"tamil": "பண்டிபோரா",
 			"telugu": "బండిపొర",
+			"temp": "Bandipora",
 			"urdu": "بانڈی پورہ"
 		},
 		{
@@ -4843,6 +5127,7 @@
 			"stringnum": "286",
 			"tamil": "பங்கா",
 			"telugu": "బంకా",
+			"temp": "Banka",
 			"urdu": "بانکا"
 		},
 		{
@@ -4860,6 +5145,7 @@
 			"stringnum": "287",
 			"tamil": "பன்ஸ்வாரா",
 			"telugu": "బన్స్వారా",
+			"temp": "Banswara",
 			"urdu": "Banswara"
 		},
 		{
@@ -4877,6 +5163,7 @@
 			"stringnum": "288",
 			"tamil": "பாராபங்கி",
 			"telugu": "బారాబంకి",
+			"temp": "Barabanki",
 			"urdu": "بارہ بنکی"
 		},
 		{
@@ -4894,6 +5181,7 @@
 			"stringnum": "289",
 			"tamil": "பாரமுல்லா",
 			"telugu": "బారాముల్లా",
+			"temp": "Baramulla",
 			"urdu": "بارہمولہ"
 		},
 		{
@@ -4911,6 +5199,7 @@
 			"stringnum": "290",
 			"tamil": "பாரன்",
 			"telugu": "బరన్",
+			"temp": "Baran",
 			"urdu": "باراں"
 		},
 		{
@@ -4928,6 +5217,7 @@
 			"stringnum": "291",
 			"tamil": "பரேலி",
 			"telugu": "బారెల్లీ",
+			"temp": "Bareilly",
 			"urdu": "بریلی"
 		},
 		{
@@ -4945,6 +5235,7 @@
 			"stringnum": "292",
 			"tamil": "பார்மர்",
 			"telugu": "బార్మర్",
+			"temp": "Barmer",
 			"urdu": "باڑمیر"
 		},
 		{
@@ -4962,6 +5253,7 @@
 			"stringnum": "293",
 			"tamil": "பர்னாலா",
 			"telugu": "బర్నాల",
+			"temp": "Barnala",
 			"urdu": "برنالا"
 		},
 		{
@@ -4979,6 +5271,7 @@
 			"stringnum": "294",
 			"tamil": "பற்வானி",
 			"telugu": "బర్వాని",
+			"temp": "Barwani",
 			"urdu": "Barwani"
 		},
 		{
@@ -4996,6 +5289,7 @@
 			"stringnum": "295",
 			"tamil": "பஸ்தி",
 			"telugu": "బస్తీ",
+			"temp": "Basti",
 			"urdu": "بستی"
 		},
 		{
@@ -5013,6 +5307,7 @@
 			"stringnum": "296",
 			"tamil": "பதிந்தா",
 			"telugu": "భటిండా",
+			"temp": "Bathinda",
 			"urdu": "بٹنڈا"
 		},
 		{
@@ -5030,6 +5325,7 @@
 			"stringnum": "297",
 			"tamil": "பீட்",
 			"telugu": "బీడ్",
+			"temp": "Beed",
 			"urdu": "بیڑ"
 		},
 		{
@@ -5047,6 +5343,7 @@
 			"stringnum": "298",
 			"tamil": "தொடங்கி",
 			"telugu": "ప్రారంభం ",
+			"temp": "Beginning",
 			"urdu": "شروع"
 		},
 		{
@@ -5064,6 +5361,7 @@
 			"stringnum": "299",
 			"tamil": "பெகுஸராய்",
 			"telugu": "బెగుసారై",
+			"temp": "Begusarai",
 			"urdu": "بیگوسارائی"
 		},
 		{
@@ -5081,6 +5379,7 @@
 			"stringnum": "300",
 			"tamil": "பெலாகவி",
 			"telugu": "బెలగావి",
+			"temp": "Belagavi",
 			"urdu": "سے Belagavi"
 		},
 		{
@@ -5098,6 +5397,7 @@
 			"stringnum": "301",
 			"tamil": "பெங்களூரு ஊரகம்",
 			"telugu": "బెంగళూరు రూరల్",
+			"temp": "Bengaluru Rural",
 			"urdu": "بنگلور دیہی"
 		},
 		{
@@ -5115,6 +5415,7 @@
 			"stringnum": "302",
 			"tamil": "பெங்களூரு நகர்",
 			"telugu": "బెంగళూరు అర్బన్",
+			"temp": "Bengaluru Urban",
 			"urdu": "بنگلور شہری"
 		},
 		{
@@ -5132,6 +5433,7 @@
 			"stringnum": "303",
 			"tamil": "பெடுல்",
 			"telugu": "బెతుల్",
+			"temp": "Betul",
 			"urdu": "سے Betul"
 		},
 		{
@@ -5149,6 +5451,7 @@
 			"stringnum": "304",
 			"tamil": "படோகி",
 			"telugu": "భదోహి",
+			"temp": "Bhadohi",
 			"urdu": "Bhadohi"
 		},
 		{
@@ -5166,6 +5469,7 @@
 			"stringnum": "305",
 			"tamil": "பதார்திரி கொத்தகுடம்",
 			"telugu": "భద్రాద్రి కొత్తగూడెం",
+			"temp": "Bhadradri Kothagudem",
 			"urdu": "Bhadradri Kothagudem"
 		},
 		{
@@ -5183,6 +5487,7 @@
 			"stringnum": "306",
 			"tamil": "பாத்ராக்",
 			"telugu": "భద్రక్",
+			"temp": "Bhadrak",
 			"urdu": "بدرک"
 		},
 		{
@@ -5200,6 +5505,7 @@
 			"stringnum": "307",
 			"tamil": "பாகல்பூர்",
 			"telugu": "భాగల్పూర్",
+			"temp": "Bhagalpur",
 			"urdu": "بھاگلپور"
 		},
 		{
@@ -5217,6 +5523,7 @@
 			"stringnum": "308",
 			"tamil": "பண்டாரா",
 			"telugu": "భండారా",
+			"temp": "Bhandara",
 			"urdu": "بھنڈارہ"
 		},
 		{
@@ -5234,6 +5541,7 @@
 			"stringnum": "309",
 			"tamil": "பரத்பூர்",
 			"telugu": "భరత్పూర్",
+			"temp": "Bharatpur",
 			"urdu": "برتپر"
 		},
 		{
@@ -5251,6 +5559,7 @@
 			"stringnum": "310",
 			"tamil": "பாருச்",
 			"telugu": "బారుచ్",
+			"temp": "Bharuch",
 			"urdu": "بروچ"
 		},
 		{
@@ -5268,6 +5577,7 @@
 			"stringnum": "311",
 			"tamil": "பாவ்நகர்",
 			"telugu": "భావ్నగర్",
+			"temp": "Bhavnagar",
 			"urdu": "باونگر"
 		},
 		{
@@ -5285,6 +5595,7 @@
 			"stringnum": "312",
 			"tamil": "பில்வரா",
 			"telugu": "భిల్వారా",
+			"temp": "Bhilwara",
 			"urdu": "بھیلواڑا"
 		},
 		{
@@ -5302,6 +5613,7 @@
 			"stringnum": "313",
 			"tamil": "பின்ட்",
 			"telugu": "భింద్ ",
+			"temp": "Bhind",
 			"urdu": "بنڈ"
 		},
 		{
@@ -5319,6 +5631,7 @@
 			"stringnum": "314",
 			"tamil": "பிவானி",
 			"telugu": "భివాని",
+			"temp": "Bhiwani",
 			"urdu": "بیوانی"
 		},
 		{
@@ -5336,6 +5649,7 @@
 			"stringnum": "315",
 			"tamil": "போஜ்பூர்",
 			"telugu": "భోజ్పూర్",
+			"temp": "Bhojpur",
 			"urdu": "بھوجپور"
 		},
 		{
@@ -5353,6 +5667,7 @@
 			"stringnum": "316",
 			"tamil": "போபால்",
 			"telugu": "భూపాల్",
+			"temp": "Bhopal",
 			"urdu": "بھوپال"
 		},
 		{
@@ -5370,6 +5685,7 @@
 			"stringnum": "317",
 			"tamil": "பிதார்",
 			"telugu": "బీదర్",
+			"temp": "Bidar",
 			"urdu": "بیدر"
 		},
 		{
@@ -5387,6 +5703,7 @@
 			"stringnum": "318",
 			"tamil": "பீகார்",
 			"telugu": "బీహార్",
+			"temp": "Bihar",
 			"urdu": "بہار"
 		},
 		{
@@ -5404,6 +5721,7 @@
 			"stringnum": "319",
 			"tamil": "பிஜ்னூர்",
 			"telugu": "బిజ్నోర్",
+			"temp": "Bijnor",
 			"urdu": "بجنور"
 		},
 		{
@@ -5421,6 +5739,7 @@
 			"stringnum": "320",
 			"tamil": "பிகானீர்",
 			"telugu": "బికానెర్",
+			"temp": "Bikaner",
 			"urdu": "بیکانیر"
 		},
 		{
@@ -5438,6 +5757,7 @@
 			"stringnum": "321",
 			"tamil": "பிலாஸ்பூர்",
 			"telugu": "బిలాస్పూర్",
+			"temp": "Bilaspur",
 			"urdu": "بلاسپر"
 		},
 		{
@@ -5455,6 +5775,7 @@
 			"stringnum": "322",
 			"tamil": "பிர்பும்",
 			"telugu": "బీర్బుమ్",
+			"temp": "Birbhum",
 			"urdu": "بیربھوم"
 		},
 		{
@@ -5472,6 +5793,7 @@
 			"stringnum": "323",
 			"tamil": "பொகாரோ",
 			"telugu": "బొకారో",
+			"temp": "Bokaro",
 			"urdu": "بوکارو"
 		},
 		{
@@ -5489,6 +5811,7 @@
 			"stringnum": "324",
 			"tamil": "பொங்காய்கான்",
 			"telugu": "బొంగైగోన్",
+			"temp": "Bongaigaon",
 			"urdu": "Bongaigaon"
 		},
 		{
@@ -5506,6 +5829,7 @@
 			"stringnum": "325",
 			"tamil": "போட்டாட்",
 			"telugu": "బోటడ్లు",
+			"temp": "Botad",
 			"urdu": "Botad"
 		},
 		{
@@ -5523,6 +5847,7 @@
 			"stringnum": "326",
 			"tamil": "புதவுன்",
 			"telugu": "బడౌన్",
+			"temp": "Budaun",
 			"urdu": "Budaun"
 		},
 		{
@@ -5540,6 +5865,7 @@
 			"stringnum": "327",
 			"tamil": "புடகம்",
 			"telugu": "బడ్ గాం",
+			"temp": "Budgam",
 			"urdu": "بڈگام"
 		},
 		{
@@ -5557,6 +5883,7 @@
 			"stringnum": "328",
 			"tamil": "புலந்த்ஷல்",
 			"telugu": "బులంద్షహర్",
+			"temp": "Bulandshahr",
 			"urdu": "بلندشہر"
 		},
 		{
@@ -5574,6 +5901,7 @@
 			"stringnum": "329",
 			"tamil": "புல்தானா",
 			"telugu": "బుల్దానా",
+			"temp": "Buldhana",
 			"urdu": "Buldhana"
 		},
 		{
@@ -5591,6 +5919,7 @@
 			"stringnum": "330",
 			"tamil": "பர்ஹான்புரை",
 			"telugu": "బురహన్పూర్లలో",
+			"temp": "Burhanpur",
 			"urdu": "Burhanpur"
 		},
 		{
@@ -5608,6 +5937,7 @@
 			"stringnum": "331",
 			"tamil": "பக்சர்",
 			"telugu": "బక్సర్",
+			"temp": "Buxar",
 			"urdu": "بکسر"
 		},
 		{
@@ -5625,6 +5955,7 @@
 			"stringnum": "332",
 			"tamil": "சாச்சர்",
 			"telugu": "కచార్",
+			"temp": "Cachar",
 			"urdu": "کچھار"
 		},
 		{
@@ -5642,6 +5973,7 @@
 			"stringnum": "333",
 			"tamil": "மத்திய தில்லி",
 			"telugu": "సెంట్రల్ ఢిల్లీ",
+			"temp": "Central Delhi",
 			"urdu": "مرکزی دہلی"
 		},
 		{
@@ -5659,6 +5991,7 @@
 			"stringnum": "334",
 			"tamil": "சம்பா",
 			"telugu": "చంబా",
+			"temp": "Chamba",
 			"urdu": "چمبا"
 		},
 		{
@@ -5676,6 +6009,7 @@
 			"stringnum": "335",
 			"tamil": "சண்டிகர்",
 			"telugu": "చండీగఢ్",
+			"temp": "Chandigarh",
 			"urdu": "چندی گڑھ"
 		},
 		{
@@ -5693,6 +6027,7 @@
 			"stringnum": "336",
 			"tamil": "சந்திராபூர்",
 			"telugu": "చంద్రపూర్",
+			"temp": "Chandrapur",
 			"urdu": "چندرپر"
 		},
 		{
@@ -5710,6 +6045,7 @@
 			"stringnum": "337",
 			"tamil": "சர்கீ தாத்ரி",
 			"telugu": "దాద్రి చర్కి",
+			"temp": "Charkhi Dadri",
 			"urdu": "چرخی دادری"
 		},
 		{
@@ -5727,6 +6063,7 @@
 			"stringnum": "338",
 			"tamil": "செங்கல்பட்டு",
 			"telugu": "చెంగల్పట్టు",
+			"temp": "Chengalpattu",
 			"urdu": "Chengalpattu"
 		},
 		{
@@ -5744,6 +6081,7 @@
 			"stringnum": "339",
 			"tamil": "சென்னை",
 			"telugu": "చెన్నై",
+			"temp": "Chennai",
 			"urdu": "چنئی"
 		},
 		{
@@ -5761,6 +6099,7 @@
 			"stringnum": "340",
 			"tamil": "சத்தீஸ்கர்",
 			"telugu": "ఛత్తీస్గఢ్",
+			"temp": "Chhattisgarh",
 			"urdu": "چھتیس گڑھ"
 		},
 		{
@@ -5778,6 +6117,7 @@
 			"stringnum": "341",
 			"tamil": "சிக்கிந்வாராவில்",
 			"telugu": "చింద్వారా",
+			"temp": "Chhindwara",
 			"urdu": "چھندواڑا"
 		},
 		{
@@ -5795,6 +6135,7 @@
 			"stringnum": "342",
 			"tamil": "சோட்டா உதய்பூர்",
 			"telugu": "చోటా ఉదయపూర్",
+			"temp": "Chhota Udaipur",
 			"urdu": "چھوٹا ادیپر"
 		},
 		{
@@ -5812,6 +6153,7 @@
 			"stringnum": "343",
 			"tamil": "சிக்கபல்லபுரா",
 			"telugu": "చిక్కబల్లపురా",
+			"temp": "Chikkaballapura",
 			"urdu": "Chikkaballapura"
 		},
 		{
@@ -5829,6 +6171,7 @@
 			"stringnum": "344",
 			"tamil": "சித்ரதுர்கா",
 			"telugu": "చిత్రదుర్గ",
+			"temp": "Chitradurga",
 			"urdu": "Chitradurga"
 		},
 		{
@@ -5846,6 +6189,7 @@
 			"stringnum": "345",
 			"tamil": "சித்ரகூட்",
 			"telugu": "చిత్రకూట్",
+			"temp": "Chitrakoot",
 			"urdu": "چترکوٹ"
 		},
 		{
@@ -5863,6 +6207,7 @@
 			"stringnum": "346",
 			"tamil": "சித்தூர்",
 			"telugu": "చిత్తూరు",
+			"temp": "Chittoor",
 			"urdu": "چتور"
 		},
 		{
@@ -5880,6 +6225,7 @@
 			"stringnum": "347",
 			"tamil": "சிட்டர்கர்",
 			"telugu": "చిత్తోర్ గర్",
+			"temp": "Chittorgarh",
 			"urdu": "چتوڈغڑھ"
 		},
 		{
@@ -5897,6 +6243,7 @@
 			"stringnum": "348",
 			"tamil": "சுரு",
 			"telugu": "చురు",
+			"temp": "Churu",
 			"urdu": "چورو"
 		},
 		{
@@ -5914,6 +6261,7 @@
 			"stringnum": "349",
 			"tamil": "கோயம்புத்தூர்",
 			"telugu": "కోయంబత్తూరు",
+			"temp": "Coimbatore",
 			"urdu": "کویمبٹور"
 		},
 		{
@@ -5931,6 +6279,7 @@
 			"stringnum": "350",
 			"tamil": "கடலூர்",
 			"telugu": "కడలూరు",
+			"temp": "Cuddalore",
 			"urdu": "کڈڈلور"
 		},
 		{
@@ -5948,6 +6297,7 @@
 			"stringnum": "351",
 			"tamil": "கட்டாக்",
 			"telugu": "కటక్",
+			"temp": "Cuttack",
 			"urdu": "کٹک"
 		},
 		{
@@ -5965,6 +6315,7 @@
 			"stringnum": "352",
 			"tamil": "தாத்ரா மற்றும் நாகர் ஹவேலி",
 			"telugu": "దాద్రా మరియు నగర్ హవేలీ",
+			"temp": "Dadra and Nagar Haveli",
 			"urdu": ""
 		},
 		{
@@ -5982,6 +6333,7 @@
 			"stringnum": "353",
 			"tamil": "டஹூட்",
 			"telugu": "దాహోడ్",
+			"temp": "Dahod",
 			"urdu": "داہود"
 		},
 		{
@@ -5999,6 +6351,7 @@
 			"stringnum": "354",
 			"tamil": "தக்ஷின கன்னடா",
 			"telugu": "దక్షిణ కన్నడ",
+			"temp": "Dakshina Kannada",
 			"urdu": "دکشنتا کناڈا"
 		},
 		{
@@ -6016,6 +6369,7 @@
 			"stringnum": "355",
 			"tamil": "டாமன் மற்றும் டையூ",
 			"telugu": "డామన్ మరియు డయ్యు",
+			"temp": "Daman and Diu",
 			"urdu": "دمن اور دیو"
 		},
 		{
@@ -6033,6 +6387,7 @@
 			"stringnum": "356",
 			"tamil": "டாங்",
 			"telugu": "డాంగ్",
+			"temp": "Dang",
 			"urdu": "ڈانگ"
 		},
 		{
@@ -6050,6 +6405,7 @@
 			"stringnum": "357",
 			"tamil": "தர்பங்கா",
 			"telugu": "దర్భాంగా",
+			"temp": "Darbhanga",
 			"urdu": "دربھنگہ"
 		},
 		{
@@ -6067,6 +6423,7 @@
 			"stringnum": "358",
 			"tamil": "டார்ஜீலிங்",
 			"telugu": "డార్జిలింగ్",
+			"temp": "Darjeeling",
 			"urdu": "دارجلنگ"
 		},
 		{
@@ -6084,6 +6441,7 @@
 			"stringnum": "359",
 			"tamil": "தவுஸா",
 			"telugu": "దౌసా",
+			"temp": "Dausa",
 			"urdu": "دوسا"
 		},
 		{
@@ -6101,6 +6459,7 @@
 			"stringnum": "360",
 			"tamil": "தேவநகரி",
 			"telugu": "దావణగేరె",
+			"temp": "Davanagere",
 			"urdu": "Davanagere"
 		},
 		{
@@ -6118,6 +6477,7 @@
 			"stringnum": "361",
 			"tamil": "டேராடூன்",
 			"telugu": "డెహ్రాడూన్",
+			"temp": "Dehradun",
 			"urdu": "دہرادون"
 		},
 		{
@@ -6135,6 +6495,7 @@
 			"stringnum": "362",
 			"tamil": "தில்லி",
 			"telugu": "ఢిల్లీ",
+			"temp": "Delhi",
 			"urdu": "دہلی"
 		},
 		{
@@ -6152,6 +6513,7 @@
 			"stringnum": "363",
 			"tamil": "டியோகர்",
 			"telugu": "డియోగర్",
+			"temp": "Deogarh",
 			"urdu": "دیوگڑھ"
 		},
 		{
@@ -6169,6 +6531,7 @@
 			"stringnum": "364",
 			"tamil": "தியோகார்",
 			"telugu": "డియోఘర్",
+			"temp": "Deoghar",
 			"urdu": "Deoghar"
 		},
 		{
@@ -6186,6 +6549,7 @@
 			"stringnum": "365",
 			"tamil": "தியோரியா",
 			"telugu": "డెఒరియా",
+			"temp": "Deoria",
 			"urdu": "دیوریا"
 		},
 		{
@@ -6203,6 +6567,7 @@
 			"stringnum": "366",
 			"tamil": "தேவ் பூமி துவாரகா",
 			"telugu": "దేవభూమి ద్వారకా",
+			"temp": "Devbhumi Dwarka",
 			"urdu": "Devbhumi دوارکا"
 		},
 		{
@@ -6220,6 +6585,7 @@
 			"stringnum": "367",
 			"tamil": "தேவாஸ்",
 			"telugu": "దేవాస్",
+			"temp": "Dewas",
 			"urdu": "دیواس"
 		},
 		{
@@ -6237,6 +6603,7 @@
 			"stringnum": "368",
 			"tamil": "தலாய்",
 			"telugu": "దలై",
+			"temp": "Dhalai",
 			"urdu": "Dhalai"
 		},
 		{
@@ -6254,6 +6621,7 @@
 			"stringnum": "369",
 			"tamil": "தான்பாத்",
 			"telugu": "ధన్బాద్",
+			"temp": "Dhanbad",
 			"urdu": "دھنباد"
 		},
 		{
@@ -6271,6 +6639,7 @@
 			"stringnum": "370",
 			"tamil": "தார்",
 			"telugu": "ధర్",
+			"temp": "Dhar",
 			"urdu": "دھر"
 		},
 		{
@@ -6288,6 +6657,7 @@
 			"stringnum": "371",
 			"tamil": "தர்மபுரி",
 			"telugu": "ధర్మపురి",
+			"temp": "Dharmapuri",
 			"urdu": "Dharmapuri"
 		},
 		{
@@ -6305,6 +6675,7 @@
 			"stringnum": "372",
 			"tamil": "தர்வாதைச்",
 			"telugu": "ధార్వాడ్",
+			"temp": "Dharwad",
 			"urdu": "دارواڑ"
 		},
 		{
@@ -6322,6 +6693,7 @@
 			"stringnum": "373",
 			"tamil": "தென்கனல்",
 			"telugu": "దెంకనల్",
+			"temp": "Dhenkanal",
 			"urdu": "Dhenkanal"
 		},
 		{
@@ -6339,6 +6711,7 @@
 			"stringnum": "374",
 			"tamil": "டோல்பூர்",
 			"telugu": "ధోల్పూర్",
+			"temp": "Dholpur",
 			"urdu": "دولپر"
 		},
 		{
@@ -6356,6 +6729,7 @@
 			"stringnum": "375",
 			"tamil": "துப்ரி",
 			"telugu": "ధుబ్రి",
+			"temp": "Dhubri",
 			"urdu": "دوبری"
 		},
 		{
@@ -6373,6 +6747,7 @@
 			"stringnum": "376",
 			"tamil": "துலே",
 			"telugu": "ధూలే",
+			"temp": "Dhule",
 			"urdu": "دلی"
 		},
 		{
@@ -6390,6 +6765,7 @@
 			"stringnum": "377",
 			"tamil": "திண்டுக்கல்",
 			"telugu": "దిండిగల్",
+			"temp": "Dindigul",
 			"urdu": "ڈنڈیگل"
 		},
 		{
@@ -6407,6 +6783,7 @@
 			"stringnum": "378",
 			"tamil": "தின்தோரி",
 			"telugu": "దిందోరి",
+			"temp": "Dindori",
 			"urdu": "Dindori"
 		},
 		{
@@ -6424,6 +6801,7 @@
 			"stringnum": "379",
 			"tamil": "தும்கா",
 			"telugu": "దుమ్కా",
+			"temp": "Dumka",
 			"urdu": "دمکا"
 		},
 		{
@@ -6441,6 +6819,7 @@
 			"stringnum": "380",
 			"tamil": "துங்கர்பூர்",
 			"telugu": "కొండల రాజ్యం",
+			"temp": "Dungarpur",
 			"urdu": "ڈونگرپر"
 		},
 		{
@@ -6458,6 +6837,7 @@
 			"stringnum": "381",
 			"tamil": "துர்க்",
 			"telugu": "దుర్గ్",
+			"temp": "Durg",
 			"urdu": "درگ"
 		},
 		{
@@ -6475,6 +6855,7 @@
 			"stringnum": "382",
 			"tamil": "கிழக்கு சம்பரன்",
 			"telugu": "తూర్పు చంపారణ్",
+			"temp": "East Champaran",
 			"urdu": "مشرقی چمپارن"
 		},
 		{
@@ -6492,6 +6873,7 @@
 			"stringnum": "383",
 			"tamil": "கிழக்கு தில்லி",
 			"telugu": "తూర్పు ఢిల్లీ",
+			"temp": "East Delhi",
 			"urdu": "مشرقی دہلی"
 		},
 		{
@@ -6509,6 +6891,7 @@
 			"stringnum": "384",
 			"tamil": "கிழக்கு கோதாவரி",
 			"telugu": "తూర్పు గోదావరి",
+			"temp": "East Godavari",
 			"urdu": "مشرقی گوداوری"
 		},
 		{
@@ -6526,6 +6909,7 @@
 			"stringnum": "385",
 			"tamil": "கிழக்கு காசி ஹில்ஸ்",
 			"telugu": "ఈస్ట్ కాశీ హిల్స్",
+			"temp": "East Khasi Hills",
 			"urdu": "مشرقی Khasi ہلز"
 		},
 		{
@@ -6543,6 +6927,7 @@
 			"stringnum": "386",
 			"tamil": "எர்ணாகுளம்",
 			"telugu": "ఎర్నాకులం",
+			"temp": "Ernakulam",
 			"urdu": "یرناکلم"
 		},
 		{
@@ -6560,6 +6945,7 @@
 			"stringnum": "387",
 			"tamil": "ஈரோடு",
 			"telugu": "ఈరోడ్",
+			"temp": "Erode",
 			"urdu": "اروڈ"
 		},
 		{
@@ -6577,6 +6963,7 @@
 			"stringnum": "388",
 			"tamil": "எடாவிலிருந்து",
 			"telugu": "ఎటాహ్",
+			"temp": "Etah",
 			"urdu": "Etah"
 		},
 		{
@@ -6594,6 +6981,7 @@
 			"stringnum": "389",
 			"tamil": "எட்டாவ்",
 			"telugu": "ఎటావాహ్",
+			"temp": "Etawah",
 			"urdu": "اٹاوا"
 		},
 		{
@@ -6611,6 +6999,7 @@
 			"stringnum": "390",
 			"tamil": "பரிதாபாத்",
 			"telugu": "ఫరీదాబాద్",
+			"temp": "Faridabad",
 			"urdu": "فرید آباد"
 		},
 		{
@@ -6628,6 +7017,7 @@
 			"stringnum": "391",
 			"tamil": "ஃபரித்கோட்",
 			"telugu": "ఫరీద్కోట్",
+			"temp": "Faridkot",
 			"urdu": "فریدکوٹ"
 		},
 		{
@@ -6645,6 +7035,7 @@
 			"stringnum": "392",
 			"tamil": "பதீகாபாத்",
 			"telugu": "ఫతేహాబాద్",
+			"temp": "Fatehabad",
 			"urdu": "فتےہاباد"
 		},
 		{
@@ -6662,6 +7053,7 @@
 			"stringnum": "393",
 			"tamil": "பதீகிரா சாஹிப்",
 			"telugu": "ఫతేగఢ్ సాహిబ్",
+			"temp": "Fatehgarh Sahib",
 			"urdu": "Fatehgarh صاحب"
 		},
 		{
@@ -6679,6 +7071,7 @@
 			"stringnum": "394",
 			"tamil": "ஃபதேபூர்",
 			"telugu": "ఫతేపూర్",
+			"temp": "Fatehpur",
 			"urdu": "فتح پور"
 		},
 		{
@@ -6696,6 +7089,7 @@
 			"stringnum": "395",
 			"tamil": "பஸீல்கா",
 			"telugu": "ఫాజిల్కా",
+			"temp": "Fazilka",
 			"urdu": "Fazilka"
 		},
 		{
@@ -6713,6 +7107,7 @@
 			"stringnum": "396",
 			"tamil": "பிறோஸீபூர்",
 			"telugu": "ఫిరోజ్పూర్",
+			"temp": "Ferozepur",
 			"urdu": "فیروزپور"
 		},
 		{
@@ -6730,6 +7125,7 @@
 			"stringnum": "397",
 			"tamil": "பிரோசாபாத்",
 			"telugu": "ఫిరోజాబాద్",
+			"temp": "Firozabad",
 			"urdu": "Firozabad"
 		},
 		{
@@ -6747,6 +7143,7 @@
 			"stringnum": "398",
 			"tamil": "கடக்",
 			"telugu": "గడగ్",
+			"temp": "Gadag",
 			"urdu": "Gadag"
 		},
 		{
@@ -6764,6 +7161,7 @@
 			"stringnum": "399",
 			"tamil": "கட்சிரோலி",
 			"telugu": "గడ్చిరోలి",
+			"temp": "Gadchiroli",
 			"urdu": "Gadchiroli"
 		},
 		{
@@ -6781,6 +7179,7 @@
 			"stringnum": "400",
 			"tamil": "கண்டேர்பல்",
 			"telugu": "గండేర్బాల్",
+			"temp": "Ganderbal",
 			"urdu": "گاندربل"
 		},
 		{
@@ -6798,6 +7197,7 @@
 			"stringnum": "401",
 			"tamil": "காந்திநகர்",
 			"telugu": "గాంధీనగర్",
+			"temp": "Gandhinagar",
 			"urdu": "گاندھی نگر"
 		},
 		{
@@ -6815,6 +7215,7 @@
 			"stringnum": "402",
 			"tamil": "கஞ்சம்",
 			"telugu": "గంజాం",
+			"temp": "Ganjam",
 			"urdu": "گنجم"
 		},
 		{
@@ -6832,6 +7233,7 @@
 			"stringnum": "403",
 			"tamil": "கார்வா",
 			"telugu": "గర్హ్వా",
+			"temp": "Garhwa",
 			"urdu": "Garhwa"
 		},
 		{
@@ -6849,6 +7251,7 @@
 			"stringnum": "404",
 			"tamil": "கவுதம் புத்தா நகர்",
 			"telugu": "గౌతమ్ బుద్ధ నగర్",
+			"temp": "Gautam Buddha Nagar",
 			"urdu": "گوتم بدھ نگر"
 		},
 		{
@@ -6866,6 +7269,7 @@
 			"stringnum": "405",
 			"tamil": "கயா",
 			"telugu": "గయ",
+			"temp": "Gaya",
 			"urdu": "Gaya میں"
 		},
 		{
@@ -6883,6 +7287,7 @@
 			"stringnum": "406",
 			"tamil": "காஸியாபாத்",
 			"telugu": "ఘజియాబాద్",
+			"temp": "Ghaziabad",
 			"urdu": "غازی آباد"
 		},
 		{
@@ -6900,6 +7305,7 @@
 			"stringnum": "407",
 			"tamil": "கஷிபூர்",
 			"telugu": "గాజీపూర్",
+			"temp": "Ghazipur",
 			"urdu": "Ghazipur"
 		},
 		{
@@ -6917,6 +7323,7 @@
 			"stringnum": "408",
 			"tamil": "கிர் சோம்நாத்",
 			"telugu": "గిర్ సోమనాథ్",
+			"temp": "Gir Somnath",
 			"urdu": "گر سومناتھ"
 		},
 		{
@@ -6934,6 +7341,7 @@
 			"stringnum": "409",
 			"tamil": "கிரிடிஹ்",
 			"telugu": "గిరిధ్",
+			"temp": "Giridih",
 			"urdu": "گریڈیہ"
 		},
 		{
@@ -6951,6 +7359,7 @@
 			"stringnum": "410",
 			"tamil": "கோவா",
 			"telugu": "గోవా",
+			"temp": "Goa",
 			"urdu": "گوا"
 		},
 		{
@@ -6968,6 +7377,7 @@
 			"stringnum": "411",
 			"tamil": "கோல்பாரா",
 			"telugu": "గోల్పార",
+			"temp": "Goalpara",
 			"urdu": "Goalpara"
 		},
 		{
@@ -6985,6 +7395,7 @@
 			"stringnum": "412",
 			"tamil": "கோடா",
 			"telugu": "గొడ్డా",
+			"temp": "Godda",
 			"urdu": "Godda"
 		},
 		{
@@ -7002,6 +7413,7 @@
 			"stringnum": "413",
 			"tamil": "கோலாகாத்",
 			"telugu": "గోలాఘాట్",
+			"temp": "Golaghat",
 			"urdu": "گولاگھاٹ"
 		},
 		{
@@ -7019,6 +7431,7 @@
 			"stringnum": "414",
 			"tamil": "கோமதி",
 			"telugu": "గోమతి",
+			"temp": "Gomati",
 			"urdu": "گومتی"
 		},
 		{
@@ -7036,6 +7449,7 @@
 			"stringnum": "415",
 			"tamil": "கோண்டா",
 			"telugu": "గోండా",
+			"temp": "Gonda",
 			"urdu": "گونڈا"
 		},
 		{
@@ -7053,6 +7467,7 @@
 			"stringnum": "416",
 			"tamil": "ஒடிசா",
 			"telugu": "గోండియా",
+			"temp": "Gondia",
 			"urdu": "Gondia"
 		},
 		{
@@ -7070,6 +7485,7 @@
 			"stringnum": "417",
 			"tamil": "கோபால்கஞ்ச்",
 			"telugu": "గోపాల్ గంజ్",
+			"temp": "Gopalganj",
 			"urdu": "گوپالگنج"
 		},
 		{
@@ -7087,6 +7503,7 @@
 			"stringnum": "418",
 			"tamil": "கோரக்பூர்",
 			"telugu": "గోరఖ్పూర్",
+			"temp": "Gorakhpur",
 			"urdu": "گورکھپور"
 		},
 		{
@@ -7104,6 +7521,7 @@
 			"stringnum": "419",
 			"tamil": "குஜராத்",
 			"telugu": "గుజరాత్",
+			"temp": "Gujarat",
 			"urdu": "گجرات"
 		},
 		{
@@ -7121,6 +7539,7 @@
 			"stringnum": "420",
 			"tamil": "குணா",
 			"telugu": "గుణ",
+			"temp": "Guna",
 			"urdu": "Guna میں"
 		},
 		{
@@ -7138,6 +7557,7 @@
 			"stringnum": "421",
 			"tamil": "குண்டூர்",
 			"telugu": "గుంటూరు",
+			"temp": "Guntur",
 			"urdu": "گنٹور"
 		},
 		{
@@ -7155,6 +7575,7 @@
 			"stringnum": "422",
 			"tamil": "குர்தாஸ்பூர்",
 			"telugu": "గురుదాస్పూర్",
+			"temp": "Gurdaspur",
 			"urdu": "گرداسپر"
 		},
 		{
@@ -7172,6 +7593,7 @@
 			"stringnum": "423",
 			"tamil": "குருகிராம்",
 			"telugu": "గురుగామ్",
+			"temp": "Gurugram",
 			"urdu": "Gurugram"
 		},
 		{
@@ -7189,6 +7611,7 @@
 			"stringnum": "424",
 			"tamil": "குவாலியர்",
 			"telugu": "గౌలియార్",
+			"temp": "Gwalior",
 			"urdu": "گوالیر"
 		},
 		{
@@ -7206,6 +7629,7 @@
 			"stringnum": "425",
 			"tamil": "ஹய்லாகண்டி",
 			"telugu": "హైలాకండి",
+			"temp": "Hailakandi",
 			"urdu": "Hailakandi"
 		},
 		{
@@ -7223,6 +7647,7 @@
 			"stringnum": "426",
 			"tamil": "ஹமீர்புர்",
 			"telugu": "హమీర్ పూర్",
+			"temp": "Hamirpur",
 			"urdu": "ہمیرپر"
 		},
 		{
@@ -7240,6 +7665,7 @@
 			"stringnum": "427",
 			"tamil": "ஹனுமன்கர்",
 			"telugu": "హనుమాన్ గర్",
+			"temp": "Hanumangarh",
 			"urdu": "ہنخمینگڑھ"
 		},
 		{
@@ -7257,6 +7683,7 @@
 			"stringnum": "428",
 			"tamil": "ஷபூர்",
 			"telugu": "హాపూర్",
+			"temp": "Hapur",
 			"urdu": "Hapur"
 		},
 		{
@@ -7274,6 +7701,7 @@
 			"stringnum": "429",
 			"tamil": "ஹர்தா",
 			"telugu": "హర్దా",
+			"temp": "Harda",
 			"urdu": "Harda"
 		},
 		{
@@ -7291,6 +7719,7 @@
 			"stringnum": "430",
 			"tamil": "ஹற்டோய்",
 			"telugu": "హార్దోయ్",
+			"temp": "Hardoi",
 			"urdu": "ہردوئ"
 		},
 		{
@@ -7308,6 +7737,7 @@
 			"stringnum": "431",
 			"tamil": "ஹரித்வார்",
 			"telugu": "హరిద్వార్",
+			"temp": "Haridwar",
 			"urdu": "ہردوار"
 		},
 		{
@@ -7325,6 +7755,7 @@
 			"stringnum": "432",
 			"tamil": "ஹரியானா",
 			"telugu": "హర్యానా",
+			"temp": "Haryana",
 			"urdu": "ہریانہ"
 		},
 		{
@@ -7342,6 +7773,7 @@
 			"stringnum": "433",
 			"tamil": "ஹத்ராஸ்",
 			"telugu": "హత్రాస్",
+			"temp": "Hathras",
 			"urdu": "Hathras"
 		},
 		{
@@ -7359,6 +7791,7 @@
 			"stringnum": "434",
 			"tamil": "ஹாவேரி",
 			"telugu": "హావేరి",
+			"temp": "Haveri",
 			"urdu": "Haveri"
 		},
 		{
@@ -7376,6 +7809,7 @@
 			"stringnum": "435",
 			"tamil": "ஹசாரிபாக்",
 			"telugu": "హజారీబాగ్",
+			"temp": "Hazaribagh",
 			"urdu": "ہجاریباگ"
 		},
 		{
@@ -7393,6 +7827,7 @@
 			"stringnum": "436",
 			"tamil": "இமாசலப் பிரதேசம்",
 			"telugu": "హిమాచల్ ప్రదేశ్",
+			"temp": "Himachal Pradesh",
 			"urdu": "ہماچل پردیش"
 		},
 		{
@@ -7410,6 +7845,7 @@
 			"stringnum": "437",
 			"tamil": "ஹின்கோலி",
 			"telugu": "హింగోలీ",
+			"temp": "Hingoli",
 			"urdu": "Hingoli"
 		},
 		{
@@ -7427,6 +7863,7 @@
 			"stringnum": "438",
 			"tamil": "ஹிசார்",
 			"telugu": "హిసార్",
+			"temp": "Hisar",
 			"urdu": "ہسار"
 		},
 		{
@@ -7444,6 +7881,7 @@
 			"stringnum": "439",
 			"tamil": "ஹூக்ளி",
 			"telugu": "హుగ్లీ",
+			"temp": "Hooghly",
 			"urdu": "ہگلی"
 		},
 		{
@@ -7461,6 +7899,7 @@
 			"stringnum": "440",
 			"tamil": "ஹோஷங்காபாத்",
 			"telugu": "హొసంగాబాద్",
+			"temp": "Hoshangabad",
 			"urdu": "ہوشنگاباد"
 		},
 		{
@@ -7478,6 +7917,7 @@
 			"stringnum": "441",
 			"tamil": "ஹோஷியார்பூர்",
 			"telugu": "హోషియార్పూర్",
+			"temp": "Hoshiarpur",
 			"urdu": "ہوشیارپر"
 		},
 		{
@@ -7495,6 +7935,7 @@
 			"stringnum": "442",
 			"tamil": "ஹவுரா",
 			"telugu": "హౌరా",
+			"temp": "Howrah",
 			"urdu": "ہاوڑا"
 		},
 		{
@@ -7512,6 +7953,7 @@
 			"stringnum": "443",
 			"tamil": "ஹைதெராபாத்",
 			"telugu": "హైదరాబాద్",
+			"temp": "Hyderabad",
 			"urdu": "حیدرآباد"
 		},
 		{
@@ -7529,6 +7971,7 @@
 			"stringnum": "444",
 			"tamil": "இடுக்கி",
 			"telugu": "ఇడుక్కి",
+			"temp": "Idukki",
 			"urdu": "ایڈوکی"
 		},
 		{
@@ -7546,6 +7989,7 @@
 			"stringnum": "445",
 			"tamil": "இம்பால் கிழக்கு",
 			"telugu": "ఇంఫాల్ ఈస్ట్",
+			"temp": "Imphal East",
 			"urdu": "امپھال ایسٹ"
 		},
 		{
@@ -7563,6 +8007,7 @@
 			"stringnum": "446",
 			"tamil": "இம்பால் மேற்கு",
 			"telugu": "ఇంఫాల్ వెస్ట్",
+			"temp": "Imphal West",
 			"urdu": "امپھال ویسٹ"
 		},
 		{
@@ -7580,6 +8025,7 @@
 			"stringnum": "447",
 			"tamil": "இந்தூர்",
 			"telugu": "ఇండోర్",
+			"temp": "Indore",
 			"urdu": "اندور"
 		},
 		{
@@ -7597,6 +8043,7 @@
 			"stringnum": "448",
 			"tamil": "இத்தாலியர்கள்",
 			"telugu": "ఇటాలియన్లు",
+			"temp": "Italians",
 			"urdu": "اطالویوں"
 		},
 		{
@@ -7614,6 +8061,7 @@
 			"stringnum": "449",
 			"tamil": "ஜபல்பூர்",
 			"telugu": "జబల్పూర్",
+			"temp": "Jabalpur",
 			"urdu": "جبلپر"
 		},
 		{
@@ -7631,6 +8079,7 @@
 			"stringnum": "450",
 			"tamil": "ஜகத்சிங்பூர்",
 			"telugu": "జగత్సింగ్పూర్",
+			"temp": "Jagatsinghpur",
 			"urdu": "Jagatsinghpur"
 		},
 		{
@@ -7648,6 +8097,7 @@
 			"stringnum": "451",
 			"tamil": "ஜக்தியால்",
 			"telugu": "జగిత్యాల",
+			"temp": "Jagtial",
 			"urdu": "Jagtial"
 		},
 		{
@@ -7665,6 +8115,7 @@
 			"stringnum": "452",
 			"tamil": "ஜெய்ப்பூர்",
 			"telugu": "జైపూర్",
+			"temp": "Jaipur",
 			"urdu": "جے پور"
 		},
 		{
@@ -7682,6 +8133,7 @@
 			"stringnum": "453",
 			"tamil": "ஜெய்சால்மர்",
 			"telugu": "జైసల్మేర్",
+			"temp": "Jaisalmer",
 			"urdu": "جیسلمیر"
 		},
 		{
@@ -7699,6 +8151,7 @@
 			"stringnum": "454",
 			"tamil": "ஜாஜ்பூர்",
 			"telugu": "జైపూర్",
+			"temp": "Jajpur",
 			"urdu": "Jajpur"
 		},
 		{
@@ -7716,6 +8169,7 @@
 			"stringnum": "455",
 			"tamil": "ஜலந்தர்",
 			"telugu": "జలంధర్",
+			"temp": "Jalandhar",
 			"urdu": "جالندھر"
 		},
 		{
@@ -7733,6 +8187,7 @@
 			"stringnum": "456",
 			"tamil": "ஜலாவுன்",
 			"telugu": "జలాఉన్",
+			"temp": "Jalaun",
 			"urdu": "جالون"
 		},
 		{
@@ -7750,6 +8205,7 @@
 			"stringnum": "457",
 			"tamil": "ஜல்கான்",
 			"telugu": "జల్గావ్",
+			"temp": "Jalgaon",
 			"urdu": "جلگانو"
 		},
 		{
@@ -7767,6 +8223,7 @@
 			"stringnum": "458",
 			"tamil": "ஜல்னா",
 			"telugu": "జాల్నా",
+			"temp": "Jalna",
 			"urdu": "Jalna"
 		},
 		{
@@ -7784,6 +8241,7 @@
 			"stringnum": "459",
 			"tamil": "ஜலுர்",
 			"telugu": "జాలూరు",
+			"temp": "Jalore",
 			"urdu": "Jalore"
 		},
 		{
@@ -7801,6 +8259,7 @@
 			"stringnum": "460",
 			"tamil": "ஜல்பைகுரி",
 			"telugu": "జల్పైగురి",
+			"temp": "Jalpaiguri",
 			"urdu": "جلپائیگڑی"
 		},
 		{
@@ -7818,6 +8277,7 @@
 			"stringnum": "461",
 			"tamil": "ஜம்மு",
 			"telugu": "జమ్మూ",
+			"temp": "Jammu",
 			"urdu": "جموں"
 		},
 		{
@@ -7835,6 +8295,7 @@
 			"stringnum": "462",
 			"tamil": "ஜம்மு காஷ்மீர்",
 			"telugu": "జమ్మూ కాశ్మీర్",
+			"temp": "Jammu and Kashmir",
 			"urdu": "جموں و کشمیر"
 		},
 		{
@@ -7852,6 +8313,7 @@
 			"stringnum": "463",
 			"tamil": "ஜாம்நகர்",
 			"telugu": "జామ్నగర్",
+			"temp": "Jamnagar",
 			"urdu": "جام نگر"
 		},
 		{
@@ -7869,6 +8331,7 @@
 			"stringnum": "464",
 			"tamil": "ஜாம்தரா",
 			"telugu": "జంతారా",
+			"temp": "Jamtara",
 			"urdu": "Jamtara"
 		},
 		{
@@ -7886,6 +8349,7 @@
 			"stringnum": "465",
 			"tamil": "ஜன்கோன்",
 			"telugu": "జనగాం",
+			"temp": "Jangaon",
 			"urdu": "Jangaon"
 		},
 		{
@@ -7903,6 +8367,7 @@
 			"stringnum": "466",
 			"tamil": "ஜான்பூர்",
 			"telugu": "జౌన్పూర్",
+			"temp": "Jaunpur",
 			"urdu": "جونپور"
 		},
 		{
@@ -7920,6 +8385,7 @@
 			"stringnum": "467",
 			"tamil": "ஜொயசங்கர் புபாலபள்ளி",
 			"telugu": " జయశంకర్ భూపాలపల్లి",
+			"temp": "Jayashankar Bhupalapally",
 			"urdu": "Jayashankar Bhupalapally"
 		},
 		{
@@ -7937,6 +8403,7 @@
 			"stringnum": "468",
 			"tamil": "ஜிகன்பாத்",
 			"telugu": "జెహానాబాద్",
+			"temp": "Jehanabad",
 			"urdu": "Jehanabad"
 		},
 		{
@@ -7954,6 +8421,7 @@
 			"stringnum": "469",
 			"tamil": "ஜுபுவா",
 			"telugu": "జబువా",
+			"temp": "Jhabua",
 			"urdu": "Jhabua"
 		},
 		{
@@ -7971,6 +8439,7 @@
 			"stringnum": "470",
 			"tamil": "ஜஜ்ஜார்",
 			"telugu": "ఝజ్జర్",
+			"temp": "Jhajjar",
 			"urdu": "جھججر"
 		},
 		{
@@ -7988,6 +8457,7 @@
 			"stringnum": "471",
 			"tamil": "ஜலவால்",
 			"telugu": "ఝలావర్",
+			"temp": "Jhalawar",
 			"urdu": "جھالاواڑ"
 		},
 		{
@@ -8005,6 +8475,7 @@
 			"stringnum": "472",
 			"tamil": "ஜான்சி",
 			"telugu": "ఝాన్సీ",
+			"temp": "Jhansi",
 			"urdu": "جھانسی"
 		},
 		{
@@ -8022,6 +8493,7 @@
 			"stringnum": "473",
 			"tamil": "ஜார்கண்ட்",
 			"telugu": "జార్ఖండ్",
+			"temp": "Jharkhand",
 			"urdu": "جھارکھنڈ"
 		},
 		{
@@ -8039,6 +8511,7 @@
 			"stringnum": "474",
 			"tamil": "ஜர்ஸுகுடா",
 			"telugu": "ఝర్సుగుడా",
+			"temp": "Jharsuguda",
 			"urdu": "جھرسگڈا"
 		},
 		{
@@ -8056,6 +8529,7 @@
 			"stringnum": "475",
 			"tamil": "ஜுன்ஜுனு",
 			"telugu": "జున్జును",
+			"temp": "Jhunjhunu",
 			"urdu": "جھوبجھنو"
 		},
 		{
@@ -8073,6 +8547,7 @@
 			"stringnum": "476",
 			"tamil": "ஜிந்த்",
 			"telugu": "జింద్",
+			"temp": "Jind",
 			"urdu": "جند"
 		},
 		{
@@ -8090,6 +8565,7 @@
 			"stringnum": "477",
 			"tamil": "ஜோத்பூர்",
 			"telugu": "జోధ్పూర్",
+			"temp": "Jodhpur",
 			"urdu": "جودھپور"
 		},
 		{
@@ -8107,6 +8583,7 @@
 			"stringnum": "478",
 			"tamil": "ஜொகுலம்பா காட்வால்",
 			"telugu": "జోగులాంబ గద్వాల్",
+			"temp": "Jogulamba Gadwal",
 			"urdu": "Jogulamba Gadwal"
 		},
 		{
@@ -8124,6 +8601,7 @@
 			"stringnum": "479",
 			"tamil": "ஜூனாகத்",
 			"telugu": "జునాగఢ్",
+			"temp": "Junagadh",
 			"urdu": "جوشہڑھ"
 		},
 		{
@@ -8141,6 +8619,7 @@
 			"stringnum": "480",
 			"tamil": "கபீர்தம்",
 			"telugu": "కబీర్దామ్ ",
+			"temp": "Kabeerdham",
 			"urdu": "Kabeerdham"
 		},
 		{
@@ -8158,6 +8637,7 @@
 			"stringnum": "481",
 			"tamil": "கைமூர்",
 			"telugu": "కైమూర్",
+			"temp": "Kaimur",
 			"urdu": "Kaimur"
 		},
 		{
@@ -8175,6 +8655,7 @@
 			"stringnum": "482",
 			"tamil": "கெய்தாலில்",
 			"telugu": "కైతల్",
+			"temp": "Kaithal",
 			"urdu": "Kaithal"
 		},
 		{
@@ -8192,6 +8673,7 @@
 			"stringnum": "483",
 			"tamil": "காலாபுராகி",
 			"telugu": "కాలాబురగి",
+			"temp": "Kalaburagi",
 			"urdu": "Kalaburagi"
 		},
 		{
@@ -8209,6 +8691,7 @@
 			"stringnum": "484",
 			"tamil": "காலாஹண்டி",
 			"telugu": "కలహండి",
+			"temp": "Kalahandi",
 			"urdu": "کالاہانڈی"
 		},
 		{
@@ -8226,6 +8709,7 @@
 			"stringnum": "485",
 			"tamil": "கலிம்போன்ங்",
 			"telugu": "కాలింపాంగ్ లో",
+			"temp": "Kalimpong",
 			"urdu": "Kalimpong"
 		},
 		{
@@ -8243,6 +8727,7 @@
 			"stringnum": "486",
 			"tamil": "கள்ளக்குறிச்சி",
 			"telugu": "కల్లకురిచి",
+			"temp": "Kallakurichi",
 			"urdu": "Kallakurichi"
 		},
 		{
@@ -8260,6 +8745,7 @@
 			"stringnum": "487",
 			"tamil": "காமாரெட்டி",
 			"telugu": "కామారెడ్డి",
+			"temp": "Kamareddy",
 			"urdu": "Kamareddy"
 		},
 		{
@@ -8277,6 +8763,7 @@
 			"stringnum": "488",
 			"tamil": "கம்ருப்",
 			"telugu": "కామరూప్",
+			"temp": "Kamrup",
 			"urdu": "کامروپ"
 		},
 		{
@@ -8294,6 +8781,7 @@
 			"stringnum": "489",
 			"tamil": "கம்ருப் பெருநகர்",
 			"telugu": "కామరూప్ మెట్రోపాలిటన్",
+			"temp": "Kamrup Metropolitan",
 			"urdu": "کامروپ میٹرو پولیٹن"
 		},
 		{
@@ -8311,6 +8799,7 @@
 			"stringnum": "490",
 			"tamil": "காஞ்சிபுரம்",
 			"telugu": "కాంచీపురం",
+			"temp": "Kancheepuram",
 			"urdu": "کانچیپرم"
 		},
 		{
@@ -8328,6 +8817,7 @@
 			"stringnum": "491",
 			"tamil": "காங்க்ரா",
 			"telugu": "కాంగ్రా",
+			"temp": "Kangra",
 			"urdu": "کانگڑا"
 		},
 		{
@@ -8345,6 +8835,7 @@
 			"stringnum": "492",
 			"tamil": "கன்னோஜ்",
 			"telugu": "కనౌజ్",
+			"temp": "Kannauj",
 			"urdu": "قنوج"
 		},
 		{
@@ -8362,6 +8853,7 @@
 			"stringnum": "493",
 			"tamil": "கண்ணூர்",
 			"telugu": "కన్నూర్",
+			"temp": "Kannur",
 			"urdu": "کننور"
 		},
 		{
@@ -8379,6 +8871,7 @@
 			"stringnum": "494",
 			"tamil": "கான்பூர் டிகத்",
 			"telugu": "కాన్పూర్ దేహత్",
+			"temp": "Kanpur Dehat",
 			"urdu": "کانپور Dehat"
 		},
 		{
@@ -8396,6 +8889,7 @@
 			"stringnum": "495",
 			"tamil": "கான்பூர் நகர்",
 			"telugu": "కాన్పూర్ నగర్",
+			"temp": "Kanpur Nagar",
 			"urdu": "کانپور نگر"
 		},
 		{
@@ -8413,6 +8907,7 @@
 			"stringnum": "496",
 			"tamil": "கன்னியாகுமாரி",
 			"telugu": "కన్యాకుమారి",
+			"temp": "Kanyakumari",
 			"urdu": "کنیاکماری"
 		},
 		{
@@ -8430,6 +8925,7 @@
 			"stringnum": "497",
 			"tamil": "காபுர்தாலாவில்",
 			"telugu": "కపుర్తలా",
+			"temp": "Kapurthala",
 			"urdu": "کپورتلا"
 		},
 		{
@@ -8447,6 +8943,7 @@
 			"stringnum": "498",
 			"tamil": "கரவ்லி",
 			"telugu": "కరౌలి",
+			"temp": "Karauli",
 			"urdu": "کرولی"
 		},
 		{
@@ -8464,6 +8961,7 @@
 			"stringnum": "499",
 			"tamil": "கார்கில்",
 			"telugu": "కార్గిల్",
+			"temp": "Kargil",
 			"urdu": "کارگل"
 		},
 		{
@@ -8481,6 +8979,7 @@
 			"stringnum": "500",
 			"tamil": "கரீம்கஞ்ச்",
 			"telugu": "కరీంగంజ్",
+			"temp": "Karimganj",
 			"urdu": "Karimganj"
 		},
 		{
@@ -8498,6 +8997,7 @@
 			"stringnum": "501",
 			"tamil": "கரீம்நகர்",
 			"telugu": "కరీంనగర్",
+			"temp": "Karimnagar",
 			"urdu": "کریمنگر"
 		},
 		{
@@ -8515,6 +9015,7 @@
 			"stringnum": "502",
 			"tamil": "கர்னல்",
 			"telugu": "కర్నాల్",
+			"temp": "Karnal",
 			"urdu": "کرنال"
 		},
 		{
@@ -8532,6 +9033,7 @@
 			"stringnum": "503",
 			"tamil": "கர்நாடக",
 			"telugu": "కర్ణాటక",
+			"temp": "Karnataka",
 			"urdu": "کرناٹک"
 		},
 		{
@@ -8549,6 +9051,7 @@
 			"stringnum": "504",
 			"tamil": "கரூர்",
 			"telugu": "కరూర్",
+			"temp": "Karur",
 			"urdu": "Karur"
 		},
 		{
@@ -8566,6 +9069,7 @@
 			"stringnum": "505",
 			"tamil": "காசர்கோடு",
 			"telugu": "కాసర్గోడ్",
+			"temp": "Kasaragod",
 			"urdu": "Kasaragod"
 		},
 		{
@@ -8583,6 +9087,7 @@
 			"stringnum": "506",
 			"tamil": "காஸ்கஞ்ச்",
 			"telugu": "కస్ గంజ్",
+			"temp": "Kasganj",
 			"urdu": "Kasganj"
 		},
 		{
@@ -8600,6 +9105,7 @@
 			"stringnum": "507",
 			"tamil": "கதுவா",
 			"telugu": "కథువ",
+			"temp": "Kathua",
 			"urdu": "کٹھوعہ"
 		},
 		{
@@ -8617,6 +9123,7 @@
 			"stringnum": "508",
 			"tamil": "கடிஹர்",
 			"telugu": "కటిహర్",
+			"temp": "Katihar",
 			"urdu": "کٹہار"
 		},
 		{
@@ -8634,6 +9141,7 @@
 			"stringnum": "509",
 			"tamil": "கவுசாம்பி",
 			"telugu": "కుశంబి",
+			"temp": "Kaushambi",
 			"urdu": "Kaushambi"
 		},
 		{
@@ -8651,6 +9159,7 @@
 			"stringnum": "510",
 			"tamil": "கேந்திரபரா",
 			"telugu": "కేంద్రపారా",
+			"temp": "Kendrapara",
 			"urdu": "Kendrapara"
 		},
 		{
@@ -8668,6 +9177,7 @@
 			"stringnum": "511",
 			"tamil": "கென்துஹார்",
 			"telugu": "కెందుజ్ హర్",
+			"temp": "Kendujhar",
 			"urdu": "Kendujhar"
 		},
 		{
@@ -8685,6 +9195,7 @@
 			"stringnum": "512",
 			"tamil": "கேரளா",
 			"telugu": "కేరళ",
+			"temp": "Kerala",
 			"urdu": "کیرالہ"
 		},
 		{
@@ -8702,6 +9213,7 @@
 			"stringnum": "513",
 			"tamil": "கஜாரியா",
 			"telugu": "ఖగరియా",
+			"temp": "Khagaria",
 			"urdu": "Khagaria"
 		},
 		{
@@ -8719,6 +9231,7 @@
 			"stringnum": "514",
 			"tamil": "கம்மம்",
 			"telugu": "ఖమ్మం",
+			"temp": "Khammam",
 			"urdu": "ھمام"
 		},
 		{
@@ -8736,6 +9249,7 @@
 			"stringnum": "515",
 			"tamil": "கந்த்வா",
 			"telugu": "ఖాండ్వా",
+			"temp": "Khandwa",
 			"urdu": "کھنڈوا"
 		},
 		{
@@ -8753,6 +9267,7 @@
 			"stringnum": "516",
 			"tamil": "கர்கோனி",
 			"telugu": "ఖర్గోన్",
+			"temp": "Khargone",
 			"urdu": "Khargone"
 		},
 		{
@@ -8770,6 +9285,7 @@
 			"stringnum": "517",
 			"tamil": "கீடா",
 			"telugu": "ఖేడా",
+			"temp": "Kheda",
 			"urdu": "کھیڑا"
 		},
 		{
@@ -8787,6 +9303,7 @@
 			"stringnum": "518",
 			"tamil": "கோர்தா",
 			"telugu": "ఖోర్ధ",
+			"temp": "Khordha",
 			"urdu": "Khordha"
 		},
 		{
@@ -8804,6 +9321,7 @@
 			"stringnum": "519",
 			"tamil": "கிஷான்கஞ்ச்",
 			"telugu": "కిషన్గంజ్",
+			"temp": "Kishanganj",
 			"urdu": "کشن"
 		},
 		{
@@ -8821,6 +9339,7 @@
 			"stringnum": "520",
 			"tamil": "கிஷ்ட்வார்",
 			"telugu": "కిష్ట్వార్",
+			"temp": "Kishtwar",
 			"urdu": "کشتواڑ"
 		},
 		{
@@ -8838,6 +9357,7 @@
 			"stringnum": "521",
 			"tamil": "குடகு",
 			"telugu": "కొడగు",
+			"temp": "Kodagu",
 			"urdu": "Kodagu"
 		},
 		{
@@ -8855,6 +9375,7 @@
 			"stringnum": "522",
 			"tamil": "கொடீர்மூ",
 			"telugu": "కోడెర్మ",
+			"temp": "Koderma",
 			"urdu": "Koderma"
 		},
 		{
@@ -8872,6 +9393,7 @@
 			"stringnum": "523",
 			"tamil": "கோக்ரஜார்",
 			"telugu": "కోక్రాఝర్",
+			"temp": "Kokrajhar",
 			"urdu": "کوکراجھار"
 		},
 		{
@@ -8889,6 +9411,7 @@
 			"stringnum": "524",
 			"tamil": "கோலாப்பூர்",
 			"telugu": "కొల్హాపూర్",
+			"temp": "Kolhapur",
 			"urdu": "کولہاپر"
 		},
 		{
@@ -8906,6 +9429,7 @@
 			"stringnum": "525",
 			"tamil": "கொல்கத்தா",
 			"telugu": "కోలకతా",
+			"temp": "Kolkata",
 			"urdu": "کولکاتا"
 		},
 		{
@@ -8923,6 +9447,7 @@
 			"stringnum": "526",
 			"tamil": "கொல்லம்",
 			"telugu": "కొల్లాం",
+			"temp": "Kollam",
 			"urdu": "کوللم"
 		},
 		{
@@ -8940,6 +9465,7 @@
 			"stringnum": "527",
 			"tamil": "கோமரம் பீம்",
 			"telugu": "కొమరం భీమ్",
+			"temp": "Komaram Bheem",
 			"urdu": "Komaram بھیم"
 		},
 		{
@@ -8957,6 +9483,7 @@
 			"stringnum": "528",
 			"tamil": "கோரபுட்",
 			"telugu": "కోరాపుట్",
+			"temp": "Koraput",
 			"urdu": "کوراپٹ"
 		},
 		{
@@ -8974,6 +9501,7 @@
 			"stringnum": "529",
 			"tamil": "கோர்பா",
 			"telugu": "కోర్బా",
+			"temp": "Korba",
 			"urdu": "کوربا"
 		},
 		{
@@ -8991,6 +9519,7 @@
 			"stringnum": "530",
 			"tamil": "கோட்டா",
 			"telugu": "కోటా",
+			"temp": "Kota",
 			"urdu": "کوٹہ"
 		},
 		{
@@ -9008,6 +9537,7 @@
 			"stringnum": "531",
 			"tamil": "கோட்டயம்",
 			"telugu": "కొట్టాయం",
+			"temp": "Kottayam",
 			"urdu": "کوٹٹیم"
 		},
 		{
@@ -9025,6 +9555,7 @@
 			"stringnum": "532",
 			"tamil": "கோழிக்கோடு",
 			"telugu": "కోజికోడ్",
+			"temp": "Kozhikode",
 			"urdu": "کوجھیکوڈ"
 		},
 		{
@@ -9042,6 +9573,7 @@
 			"stringnum": "533",
 			"tamil": "கிருஷ்ணா",
 			"telugu": "కృష్ణ",
+			"temp": "Krishna",
 			"urdu": "کرشنا"
 		},
 		{
@@ -9059,6 +9591,7 @@
 			"stringnum": "534",
 			"tamil": "கிருஷ்ணகிரி",
 			"telugu": "క్రిష్ణగిరి",
+			"temp": "Krishnagiri",
 			"urdu": "کرشناگر"
 		},
 		{
@@ -9076,6 +9609,7 @@
 			"stringnum": "535",
 			"tamil": "குல்கம்",
 			"telugu": "కుల్లామ్",
+			"temp": "Kulgam",
 			"urdu": "کولگام"
 		},
 		{
@@ -9093,6 +9627,7 @@
 			"stringnum": "536",
 			"tamil": "குப்வாரா",
 			"telugu": "కుప్వారా",
+			"temp": "Kupwara",
 			"urdu": "کپوارہ"
 		},
 		{
@@ -9110,6 +9645,7 @@
 			"stringnum": "537",
 			"tamil": "கர்னூல்",
 			"telugu": "కర్నూలు",
+			"temp": "Kurnool",
 			"urdu": "کرنول"
 		},
 		{
@@ -9127,6 +9663,7 @@
 			"stringnum": "538",
 			"tamil": "குருஷேத்ரா",
 			"telugu": "కురుక్షేత్ర",
+			"temp": "Kurukshetra",
 			"urdu": "کرکشیتر"
 		},
 		{
@@ -9144,6 +9681,7 @@
 			"stringnum": "539",
 			"tamil": "குஷிநகர்",
 			"telugu": "కుషినగర్",
+			"temp": "Kushinagar",
 			"urdu": "Kushinagar"
 		},
 		{
@@ -9161,6 +9699,7 @@
 			"stringnum": "540",
 			"tamil": "கட்ச்",
 			"telugu": "కచ్",
+			"temp": "Kutch",
 			"urdu": "کچرچھ"
 		},
 		{
@@ -9178,6 +9717,7 @@
 			"stringnum": "541",
 			"tamil": "லடாக்",
 			"telugu": "లడఖ్",
+			"temp": "Ladakh",
 			"urdu": "لداخ"
 		},
 		{
@@ -9195,6 +9735,7 @@
 			"stringnum": "542",
 			"tamil": "லக்கிம்பூர்",
 			"telugu": "లఖింపూర్",
+			"temp": "Lakhimpur",
 			"urdu": "لکھیم پور"
 		},
 		{
@@ -9212,6 +9753,7 @@
 			"stringnum": "543",
 			"tamil": "லக்கிம்பூர் கேரி",
 			"telugu": "లఖింపూర్ ఖేరి",
+			"temp": "Lakhimpur Kheri",
 			"urdu": "لکھیم پور Kheri"
 		},
 		{
@@ -9229,6 +9771,7 @@
 			"stringnum": "544",
 			"tamil": "லக்கிசராய்",
 			"telugu": "లఖిసరై",
+			"temp": "Lakhisarai",
 			"urdu": "لکھی سرائے"
 		},
 		{
@@ -9246,6 +9789,7 @@
 			"stringnum": "545",
 			"tamil": "இலட்சத்தீவுகள்",
 			"telugu": "లక్షద్వీప్",
+			"temp": "Lakshadweep",
 			"urdu": "لکشادیپ"
 		},
 		{
@@ -9263,6 +9807,7 @@
 			"stringnum": "546",
 			"tamil": "லத்தூர்",
 			"telugu": "లాతూర్",
+			"temp": "Latur",
 			"urdu": "لاتور"
 		},
 		{
@@ -9280,6 +9825,7 @@
 			"stringnum": "547",
 			"tamil": "லே",
 			"telugu": "లేహ్",
+			"temp": "Leh",
 			"urdu": "لیہہ"
 		},
 		{
@@ -9297,6 +9843,7 @@
 			"stringnum": "548",
 			"tamil": "லோஹித்",
 			"telugu": "లోహిత్",
+			"temp": "Lohit",
 			"urdu": "لوہت"
 		},
 		{
@@ -9314,6 +9861,7 @@
 			"stringnum": "549",
 			"tamil": "லக்னோ",
 			"telugu": "లక్నో",
+			"temp": "Lucknow",
 			"urdu": "لکھنؤ"
 		},
 		{
@@ -9331,6 +9879,7 @@
 			"stringnum": "550",
 			"tamil": "லூதியானா",
 			"telugu": "లుధియానా",
+			"temp": "Ludhiana",
 			"urdu": "لدھیانہ"
 		},
 		{
@@ -9348,6 +9897,7 @@
 			"stringnum": "551",
 			"tamil": "மாதேபுரா",
 			"telugu": "మాధేపురా",
+			"temp": "Madhepura",
 			"urdu": "Madhepura"
 		},
 		{
@@ -9365,6 +9915,7 @@
 			"stringnum": "552",
 			"tamil": "மதுபானி",
 			"telugu": "మధుబని",
+			"temp": "Madhubani",
 			"urdu": "مدھوبنی"
 		},
 		{
@@ -9382,6 +9933,7 @@
 			"stringnum": "553",
 			"tamil": "மத்தியப் பிரதேசம்",
 			"telugu": "మధ్యప్రదేశ్",
+			"temp": "Madhya Pradesh",
 			"urdu": "مدھیہ پردیش"
 		},
 		{
@@ -9399,6 +9951,7 @@
 			"stringnum": "554",
 			"tamil": "மதுரை",
 			"telugu": "మధురై",
+			"temp": "Madurai",
 			"urdu": "مدری"
 		},
 		{
@@ -9416,6 +9969,7 @@
 			"stringnum": "555",
 			"tamil": "மெகபுபாபாத்",
 			"telugu": "మహబూబాబాద్",
+			"temp": "Mahabubabad",
 			"urdu": "Mahabubabad"
 		},
 		{
@@ -9433,6 +9987,7 @@
 			"stringnum": "556",
 			"tamil": "மகபூப்நகர்",
 			"telugu": "మహబూబ్ నగర్",
+			"temp": "Mahabubnagar",
 			"urdu": "Mahabubnagar"
 		},
 		{
@@ -9450,6 +10005,7 @@
 			"stringnum": "557",
 			"tamil": "மஹாராஜ்கஞ்ச்",
 			"telugu": "మహరాజ్గంజ్",
+			"temp": "Maharajganj",
 			"urdu": "Maharajganj"
 		},
 		{
@@ -9467,6 +10023,7 @@
 			"stringnum": "558",
 			"tamil": "மகாராஷ்டிரா",
 			"telugu": "మహారాష్ట్ర",
+			"temp": "Maharashtra",
 			"urdu": "مہاراشٹر"
 		},
 		{
@@ -9484,6 +10041,7 @@
 			"stringnum": "559",
 			"tamil": "மாஹே",
 			"telugu": "మాహే",
+			"temp": "Mahe",
 			"urdu": "ماہی"
 		},
 		{
@@ -9501,6 +10059,7 @@
 			"stringnum": "560",
 			"tamil": "மகேந்திரகர்",
 			"telugu": "మహేంద్ర ఘర్",
+			"temp": "Mahendragarh",
 			"urdu": "Mahendragarh"
 		},
 		{
@@ -9518,6 +10077,7 @@
 			"stringnum": "561",
 			"tamil": "மஹிஸாகர்",
 			"telugu": "మహి సాగర్",
+			"temp": "Mahisagar",
 			"urdu": "Mahisagar"
 		},
 		{
@@ -9535,6 +10095,7 @@
 			"stringnum": "562",
 			"tamil": "மஹோபா",
 			"telugu": "మహోబ",
+			"temp": "Mahoba",
 			"urdu": "Mahoba"
 		},
 		{
@@ -9552,6 +10113,7 @@
 			"stringnum": "563",
 			"tamil": "மைன்புரி",
 			"telugu": "మెయిన్పురి",
+			"temp": "Mainpuri",
 			"urdu": "مین پوری"
 		},
 		{
@@ -9569,6 +10131,7 @@
 			"stringnum": "564",
 			"tamil": "மலப்புரம்",
 			"telugu": "మలప్పురం",
+			"temp": "Malappuram",
 			"urdu": "ملپپرم"
 		},
 		{
@@ -9586,6 +10149,7 @@
 			"stringnum": "565",
 			"tamil": "மால்டா",
 			"telugu": "మాల్దా",
+			"temp": "Malda",
 			"urdu": "مالدا"
 		},
 		{
@@ -9603,6 +10167,7 @@
 			"stringnum": "566",
 			"tamil": "மஞ்செரியல்",
 			"telugu": "మంచేరియాల్",
+			"temp": "Mancherial",
 			"urdu": "Mancherial"
 		},
 		{
@@ -9620,6 +10185,7 @@
 			"stringnum": "567",
 			"tamil": "மண்டி",
 			"telugu": "మండి",
+			"temp": "Mandi",
 			"urdu": "منڈی"
 		},
 		{
@@ -9637,6 +10203,7 @@
 			"stringnum": "568",
 			"tamil": "மண்ட்சோர்",
 			"telugu": "మాంద్సౌర్",
+			"temp": "Mandsaur",
 			"urdu": "مندسور"
 		},
 		{
@@ -9654,6 +10221,7 @@
 			"stringnum": "569",
 			"tamil": "மாண்டியா",
 			"telugu": "మాండ్య",
+			"temp": "Mandya",
 			"urdu": "مانڈیا"
 		},
 		{
@@ -9671,6 +10239,7 @@
 			"stringnum": "570",
 			"tamil": "மணிப்பூர்",
 			"telugu": "మణిపూర్",
+			"temp": "Manipur",
 			"urdu": "منی پور"
 		},
 		{
@@ -9688,6 +10257,7 @@
 			"stringnum": "571",
 			"tamil": "மன்சா",
 			"telugu": "మాన్సా",
+			"temp": "Mansa",
 			"urdu": "منسا"
 		},
 		{
@@ -9705,6 +10275,7 @@
 			"stringnum": "572",
 			"tamil": "மதுராவில்",
 			"telugu": "మధుర",
+			"temp": "Mathura",
 			"urdu": "متھرا"
 		},
 		{
@@ -9722,6 +10293,7 @@
 			"stringnum": "573",
 			"tamil": "மாவ்",
 			"telugu": "మాయు",
+			"temp": "Mau",
 			"urdu": "مؤ"
 		},
 		{
@@ -9739,6 +10311,7 @@
 			"stringnum": "574",
 			"tamil": "மயுர்பஞ்ச்",
 			"telugu": "మయూర్",
+			"temp": "Mayurbhanj",
 			"urdu": "میوربنج"
 		},
 		{
@@ -9756,6 +10329,7 @@
 			"stringnum": "575",
 			"tamil": "மேடக்",
 			"telugu": "మెదక్",
+			"temp": "Medak",
 			"urdu": "میڈک"
 		},
 		{
@@ -9773,6 +10347,7 @@
 			"stringnum": "576",
 			"tamil": "மெட்சல் மல்கஜ்கிரி",
 			"telugu": "మేడ్చల్ మల్కాజ్గిరి",
+			"temp": "Medchal Malkajgiri",
 			"urdu": "Medchal Malkajgiri"
 		},
 		{
@@ -9790,6 +10365,7 @@
 			"stringnum": "577",
 			"tamil": "மீரட்",
 			"telugu": "మీరట్",
+			"temp": "Meerut",
 			"urdu": "میرٹھ"
 		},
 		{
@@ -9807,6 +10383,7 @@
 			"stringnum": "578",
 			"tamil": "மேகாலயா",
 			"telugu": "మేఘాలయ",
+			"temp": "Meghalaya",
 			"urdu": "میگھالیہ"
 		},
 		{
@@ -9824,6 +10401,7 @@
 			"stringnum": "579",
 			"tamil": "மேசனா",
 			"telugu": "మెహసానా",
+			"temp": "Mehsana",
 			"urdu": "مہساتا"
 		},
 		{
@@ -9841,6 +10419,7 @@
 			"stringnum": "580",
 			"tamil": "மிர்சாபூர்",
 			"telugu": "మిర్జాపూర్",
+			"temp": "Mirzapur",
 			"urdu": "مرجاپر"
 		},
 		{
@@ -9858,6 +10437,7 @@
 			"stringnum": "581",
 			"tamil": "மிசோரம்",
 			"telugu": "మిజోరం",
+			"temp": "Mizoram",
 			"urdu": "میزورم"
 		},
 		{
@@ -9875,6 +10455,7 @@
 			"stringnum": "582",
 			"tamil": "மோகா",
 			"telugu": "మోగ",
+			"temp": "Moga",
 			"urdu": "موگا"
 		},
 		{
@@ -9892,6 +10473,7 @@
 			"stringnum": "583",
 			"tamil": "மொரதாபாத்",
 			"telugu": "మోరాడాబాద్",
+			"temp": "Moradabad",
 			"urdu": "مرادآباد"
 		},
 		{
@@ -9909,6 +10491,7 @@
 			"stringnum": "584",
 			"tamil": "ஃபேப்ரிக்",
 			"telugu": "మూర్బి",
+			"temp": "Morbi",
 			"urdu": "فیبرک"
 		},
 		{
@@ -9926,6 +10509,7 @@
 			"stringnum": "585",
 			"tamil": "மொரீனா",
 			"telugu": "మోరేన",
+			"temp": "Morena",
 			"urdu": "مرینا"
 		},
 		{
@@ -9943,6 +10527,7 @@
 			"stringnum": "586",
 			"tamil": "மெரிகாயோன்",
 			"telugu": "మోరిగాన్",
+			"temp": "Morigaon",
 			"urdu": "Morigaon"
 		},
 		{
@@ -9960,6 +10545,7 @@
 			"stringnum": "587",
 			"tamil": "முழுகூ",
 			"telugu": "ములుగు",
+			"temp": "Mulugu",
 			"urdu": "Mulugu"
 		},
 		{
@@ -9977,6 +10563,7 @@
 			"stringnum": "588",
 			"tamil": "மும்பை",
 			"telugu": "ముంబై",
+			"temp": "Mumbai",
 			"urdu": "ممبئی"
 		},
 		{
@@ -9994,6 +10581,7 @@
 			"stringnum": "589",
 			"tamil": "மும்பை புறநகர்",
 			"telugu": "ముంబై సబర్బన్",
+			"temp": "Mumbai Suburban",
 			"urdu": "ممبئی اپنگریی"
 		},
 		{
@@ -10011,6 +10599,7 @@
 			"stringnum": "590",
 			"tamil": "முங்கர்",
 			"telugu": "ముంగేర్",
+			"temp": "Munger",
 			"urdu": "منگیر"
 		},
 		{
@@ -10028,6 +10617,7 @@
 			"stringnum": "591",
 			"tamil": "மூர்ஷிதாபாத்",
 			"telugu": "ముర్షిదాబాద్",
+			"temp": "Murshidabad",
 			"urdu": "مرشداباد"
 		},
 		{
@@ -10045,6 +10635,7 @@
 			"stringnum": "592",
 			"tamil": "முசாபர்நகர்",
 			"telugu": "ముజఫర్నగర్",
+			"temp": "Muzaffarnagar",
 			"urdu": "مظفر نگر"
 		},
 		{
@@ -10062,6 +10653,7 @@
 			"stringnum": "593",
 			"tamil": "முஸாபர்பூர்",
 			"telugu": "ముజఫర్పూర్",
+			"temp": "Muzaffarpur",
 			"urdu": "مظفرپور"
 		},
 		{
@@ -10079,6 +10671,7 @@
 			"stringnum": "594",
 			"tamil": "மைசூரு",
 			"telugu": "మైసూరు",
+			"temp": "Mysuru",
 			"urdu": "Mysuru"
 		},
 		{
@@ -10096,6 +10689,7 @@
 			"stringnum": "595",
 			"tamil": "நாடியா",
 			"telugu": "నాడియా",
+			"temp": "Nadia",
 			"urdu": "نادیہ"
 		},
 		{
@@ -10113,6 +10707,7 @@
 			"stringnum": "596",
 			"tamil": "நாகாலாந்து",
 			"telugu": "నాగాలాండ్",
+			"temp": "Nagaland",
 			"urdu": "ناگالینڈ"
 		},
 		{
@@ -10130,6 +10725,7 @@
 			"stringnum": "597",
 			"tamil": "நாகப்பட்டினம்",
 			"telugu": "నాగపట్నం",
+			"temp": "Nagapattinam",
 			"urdu": "شہاپٹنم"
 		},
 		{
@@ -10147,6 +10743,7 @@
 			"stringnum": "598",
 			"tamil": "நாகர்குர்ணுல்",
 			"telugu": "నాగర్ కర్నూల్",
+			"temp": "Nagarkurnool",
 			"urdu": "Nagarkurnool"
 		},
 		{
@@ -10164,6 +10761,7 @@
 			"stringnum": "599",
 			"tamil": "நாகவ்ர்",
 			"telugu": "నాగౌర్",
+			"temp": "Nagaur",
 			"urdu": "Nagaur"
 		},
 		{
@@ -10181,6 +10779,7 @@
 			"stringnum": "600",
 			"tamil": "நாக்பூர்",
 			"telugu": "నాగ్పూర్",
+			"temp": "Nagpur",
 			"urdu": "ناگپور"
 		},
 		{
@@ -10198,6 +10797,7 @@
 			"stringnum": "601",
 			"tamil": "நைனிடால்",
 			"telugu": "నైనిటాల్",
+			"temp": "Nainital",
 			"urdu": "نینی تال"
 		},
 		{
@@ -10215,6 +10815,7 @@
 			"stringnum": "602",
 			"tamil": "நாளந்தா",
 			"telugu": "నలంద",
+			"temp": "Nalanda",
 			"urdu": "نالندہ"
 		},
 		{
@@ -10232,6 +10833,7 @@
 			"stringnum": "603",
 			"tamil": "நலபாரி",
 			"telugu": "నల్బరి",
+			"temp": "Nalbari",
 			"urdu": "نلباڑی"
 		},
 		{
@@ -10249,6 +10851,7 @@
 			"stringnum": "604",
 			"tamil": "நல்கொண்டா",
 			"telugu": "నల్గొండ",
+			"temp": "Nalgonda",
 			"urdu": "نلگونڈا"
 		},
 		{
@@ -10266,6 +10869,7 @@
 			"stringnum": "605",
 			"tamil": "நாமக்கல்",
 			"telugu": "నమక్కల్",
+			"temp": "Namakkal",
 			"urdu": "نمککل"
 		},
 		{
@@ -10283,6 +10887,7 @@
 			"stringnum": "606",
 			"tamil": "நந்தீத்",
 			"telugu": "నాందేడ్",
+			"temp": "Nanded",
 			"urdu": "ناندیڑ"
 		},
 		{
@@ -10300,6 +10905,7 @@
 			"stringnum": "607",
 			"tamil": "நந்தர்பார்",
 			"telugu": "నన్దూర్ బార్",
+			"temp": "Nandurbar",
 			"urdu": "Nandurbar"
 		},
 		{
@@ -10317,6 +10923,7 @@
 			"stringnum": "608",
 			"tamil": "நாராயண்பெட்",
 			"telugu": "నారాయణపేట",
+			"temp": "Narayanpet",
 			"urdu": "Narayanpet"
 		},
 		{
@@ -10334,6 +10941,7 @@
 			"stringnum": "609",
 			"tamil": "நர்மதா",
 			"telugu": "నర్మదా",
+			"temp": "Narmada",
 			"urdu": "نرمدا"
 		},
 		{
@@ -10351,6 +10959,7 @@
 			"stringnum": "610",
 			"tamil": "நாசிக்",
 			"telugu": "నాసిక్",
+			"temp": "Nashik",
 			"urdu": "ناسک"
 		},
 		{
@@ -10368,6 +10977,7 @@
 			"stringnum": "611",
 			"tamil": "நவ்சாரி",
 			"telugu": "నవసారి",
+			"temp": "Navsari",
 			"urdu": "نوساری"
 		},
 		{
@@ -10385,6 +10995,7 @@
 			"stringnum": "612",
 			"tamil": "நவாதா",
 			"telugu": "నవాడా",
+			"temp": "Nawada",
 			"urdu": "نوادا"
 		},
 		{
@@ -10402,6 +11013,7 @@
 			"stringnum": "613",
 			"tamil": "நாயகர்க்",
 			"telugu": "నయగర్",
+			"temp": "Nayagarh",
 			"urdu": "نیاگڑھ"
 		},
 		{
@@ -10419,6 +11031,7 @@
 			"stringnum": "614",
 			"tamil": "நீமுச்",
 			"telugu": "నీముచ్",
+			"temp": "Neemuch",
 			"urdu": "Neemuch"
 		},
 		{
@@ -10436,6 +11049,7 @@
 			"stringnum": "615",
 			"tamil": "புது தில்லி",
 			"telugu": "న్యూఢిల్లీ",
+			"temp": "New Delhi",
 			"urdu": "نئی دہلی"
 		},
 		{
@@ -10453,6 +11067,7 @@
 			"stringnum": "616",
 			"tamil": "நீலகிரி",
 			"telugu": "నీల్గిరిస్",
+			"temp": "Nilgiris",
 			"urdu": "نیلگری"
 		},
 		{
@@ -10470,6 +11085,7 @@
 			"stringnum": "617",
 			"tamil": "நிர்மல்",
 			"telugu": "నిర్మల్",
+			"temp": "Nirmal",
 			"urdu": "نرمل"
 		},
 		{
@@ -10487,6 +11103,7 @@
 			"stringnum": "618",
 			"tamil": "நிஜாமாபாத்",
 			"telugu": "నిజామాబాద్",
+			"temp": "Nizamabad",
 			"urdu": "نظام آباد"
 		},
 		{
@@ -10504,6 +11121,7 @@
 			"stringnum": "619",
 			"tamil": "வட 24 பர்கானாஸ்",
 			"telugu": "ఉత్తర 24 పరగణాల",
+			"temp": "North 24 Parganas",
 			"urdu": "شمالی 24 پرگنہ"
 		},
 		{
@@ -10521,6 +11139,7 @@
 			"stringnum": "620",
 			"tamil": "வடக்கு மற்றும் மத்திய அந்தமான்",
 			"telugu": "ఉత్తర మరియు మధ్య అండమాన్",
+			"temp": "North and Middle Andaman",
 			"urdu": ""
 		},
 		{
@@ -10538,6 +11157,7 @@
 			"stringnum": "621",
 			"tamil": "வட தில்லி",
 			"telugu": "ఉత్తర ఢిల్లీ",
+			"temp": "North Delhi",
 			"urdu": "شمالی دہلی"
 		},
 		{
@@ -10555,6 +11175,7 @@
 			"stringnum": "622",
 			"tamil": "வடகிழக்கு தில்லி",
 			"telugu": "ఈశాన్య ఢిల్లీ",
+			"temp": "North East Delhi",
 			"urdu": "شمال مشرقی دہلی"
 		},
 		{
@@ -10572,6 +11193,7 @@
 			"stringnum": "623",
 			"tamil": "வடக்கு கோவா",
 			"telugu": "నార్త్ గోవా",
+			"temp": "North Goa",
 			"urdu": "شمالی گوا"
 		},
 		{
@@ -10589,6 +11211,7 @@
 			"stringnum": "624",
 			"tamil": "வட திரிபுரா",
 			"telugu": "నార్త్ త్రిపుర",
+			"temp": "North Tripura",
 			"urdu": "شمالی تریپورہ"
 		},
 		{
@@ -10606,6 +11229,7 @@
 			"stringnum": "625",
 			"tamil": "வட மேற்கு தில்லி",
 			"telugu": "నార్త్ వెస్ట్ ఢిల్లీ",
+			"temp": "North West Delhi",
 			"urdu": "شمال مغربی دہلی"
 		},
 		{
@@ -10623,6 +11247,7 @@
 			"stringnum": "626",
 			"tamil": "நூக்",
 			"telugu": "నుహ్",
+			"temp": "Nuh",
 			"urdu": "نوح"
 		},
 		{
@@ -10640,6 +11265,7 @@
 			"stringnum": "627",
 			"tamil": "ஒடிசா",
 			"telugu": "ఒడిషా",
+			"temp": "Odisha",
 			"urdu": "اڑیسہ"
 		},
 		{
@@ -10657,6 +11283,7 @@
 			"stringnum": "628",
 			"tamil": "உஸ்மனாபாத்",
 			"telugu": "ఉస్మానాబాద్",
+			"temp": "Osmanabad",
 			"urdu": "Osmanabad"
 		},
 		{
@@ -10674,6 +11301,7 @@
 			"stringnum": "629",
 			"tamil": "பாலக்காடு",
 			"telugu": "పాలక్కాడ్",
+			"temp": "Palakkad",
 			"urdu": "پلککڑ"
 		},
 		{
@@ -10691,6 +11319,7 @@
 			"stringnum": "630",
 			"tamil": "பலாமு",
 			"telugu": "ఇదికూడా",
+			"temp": "Palamu",
 			"urdu": "پالامو"
 		},
 		{
@@ -10708,6 +11337,7 @@
 			"stringnum": "631",
 			"tamil": "பால்ஹர்",
 			"telugu": "పల్ఘర్",
+			"temp": "Palghar",
 			"urdu": "Palghar"
 		},
 		{
@@ -10725,6 +11355,7 @@
 			"stringnum": "632",
 			"tamil": "பாலி",
 			"telugu": "పాలి",
+			"temp": "Pali",
 			"urdu": "پالی"
 		},
 		{
@@ -10742,6 +11373,7 @@
 			"stringnum": "633",
 			"tamil": "பல்வால்",
 			"telugu": "పల్వాల్",
+			"temp": "Palwal",
 			"urdu": "Palwal"
 		},
 		{
@@ -10759,6 +11391,7 @@
 			"stringnum": "634",
 			"tamil": "பஞ்ச்குலா",
 			"telugu": "పంచకుల",
+			"temp": "Panchkula",
 			"urdu": "پنچکولا"
 		},
 		{
@@ -10776,6 +11409,7 @@
 			"stringnum": "635",
 			"tamil": "பஞ்ச்மகால்",
 			"telugu": "పంచమహల్",
+			"temp": "Panchmahal",
 			"urdu": "پنچمہل"
 		},
 		{
@@ -10793,6 +11427,7 @@
 			"stringnum": "636",
 			"tamil": "பானிபட்",
 			"telugu": "పానిపట్",
+			"temp": "Panipat",
 			"urdu": "پانی پت"
 		},
 		{
@@ -10810,6 +11445,7 @@
 			"stringnum": "637",
 			"tamil": "பன்னா",
 			"telugu": "పన్నా",
+			"temp": "Panna",
 			"urdu": "پاس"
 		},
 		{
@@ -10827,6 +11463,7 @@
 			"stringnum": "638",
 			"tamil": "பர்பானி",
 			"telugu": "పర్భాని",
+			"temp": "Parbhani",
 			"urdu": "Parbhani"
 		},
 		{
@@ -10844,6 +11481,7 @@
 			"stringnum": "639",
 			"tamil": "மேற்கு பர்தாமன்",
 			"telugu": "పశ్చిమ్ బర్ధమాన్",
+			"temp": "Paschim Bardhaman",
 			"urdu": "Paschim Bardhaman"
 		},
 		{
@@ -10861,6 +11499,7 @@
 			"stringnum": "640",
 			"tamil": "பாஸிசிம் மேதினிபூர்",
 			"telugu": "పశ్చిమ్ మిడ్నాపూర్",
+			"temp": "Paschim Medinipur",
 			"urdu": "Paschim Medinipur"
 		},
 		{
@@ -10878,6 +11517,7 @@
 			"stringnum": "641",
 			"tamil": "படான்",
 			"telugu": "పటాన్",
+			"temp": "Patan",
 			"urdu": "پاٹن"
 		},
 		{
@@ -10895,6 +11535,7 @@
 			"stringnum": "642",
 			"tamil": "பத்தனம்திட்டா",
 			"telugu": "పతనంతిట్ట",
+			"temp": "Pathanamthitta",
 			"urdu": "پتانامتٹٹا"
 		},
 		{
@@ -10912,6 +11553,7 @@
 			"stringnum": "643",
 			"tamil": "பதான்கோட்",
 			"telugu": "పఠాంకోట్",
+			"temp": "Pathankot",
 			"urdu": "پٹھانکوٹ"
 		},
 		{
@@ -10929,6 +11571,7 @@
 			"stringnum": "644",
 			"tamil": "பாட்டியாலா",
 			"telugu": "పాటియాలా",
+			"temp": "Patiala",
 			"urdu": "پٹیالہ"
 		},
 		{
@@ -10946,6 +11589,7 @@
 			"stringnum": "645",
 			"tamil": "பாட்னா",
 			"telugu": "పాట్నా",
+			"temp": "Patna",
 			"urdu": "پٹنہ"
 		},
 		{
@@ -10963,6 +11607,7 @@
 			"stringnum": "646",
 			"tamil": "பாவ்ரி கர்வால்",
 			"telugu": "పూరీ గర్హ్వాల్",
+			"temp": "Pauri Garhwal",
 			"urdu": "پوڑی گڑھوال"
 		},
 		{
@@ -10980,6 +11625,7 @@
 			"stringnum": "647",
 			"tamil": "பெடபள்ளி",
 			"telugu": "పెద్దపల్లి",
+			"temp": "Peddapalli",
 			"urdu": "Peddapalli"
 		},
 		{
@@ -10997,6 +11643,7 @@
 			"stringnum": "648",
 			"tamil": "பெரம்பலூர்",
 			"telugu": "పెరంబలూర్",
+			"temp": "Perambalur",
 			"urdu": "پیرامبلور"
 		},
 		{
@@ -11014,6 +11661,7 @@
 			"stringnum": "649",
 			"tamil": "பிலிபிட்",
 			"telugu": "పిలిభిత్",
+			"temp": "Pilibhit",
 			"urdu": "پیلی بھیت"
 		},
 		{
@@ -11031,6 +11679,7 @@
 			"stringnum": "650",
 			"tamil": "போர்பந்தர்",
 			"telugu": "పోర్బందర్",
+			"temp": "Porbandar",
 			"urdu": "پوربندر"
 		},
 		{
@@ -11048,6 +11697,7 @@
 			"stringnum": "651",
 			"tamil": "பிரகாசம்",
 			"telugu": "ప్రకాశం",
+			"temp": "Prakasam",
 			"urdu": "پرکاشم"
 		},
 		{
@@ -11065,6 +11715,7 @@
 			"stringnum": "652",
 			"tamil": "பிரதாப்கர்",
 			"telugu": "ప్రతాప్గఢ్",
+			"temp": "Pratapgarh",
 			"urdu": "پرتاپگڑھ"
 		},
 		{
@@ -11082,6 +11733,7 @@
 			"stringnum": "653",
 			"tamil": "பிறயாக்ராஜ்",
 			"telugu": "ప్రయాగ్రాజ్",
+			"temp": "Prayagraj",
 			"urdu": "Prayagraj"
 		},
 		{
@@ -11099,6 +11751,7 @@
 			"stringnum": "654",
 			"tamil": "புதுச்சேரி",
 			"telugu": "పుదుచ్చేరి",
+			"temp": "Puducherry",
 			"urdu": "پڈوچیری"
 		},
 		{
@@ -11116,6 +11769,7 @@
 			"stringnum": "655",
 			"tamil": "புதுக்கோட்டை",
 			"telugu": "పుడుక్కొట్టాయ్",
+			"temp": "Pudukkottai",
 			"urdu": "Pudukkottai"
 		},
 		{
@@ -11133,6 +11787,7 @@
 			"stringnum": "656",
 			"tamil": "புல்வாமா",
 			"telugu": "పుల్వామా",
+			"temp": "Pulwama",
 			"urdu": "پلوامہ"
 		},
 		{
@@ -11150,6 +11805,7 @@
 			"stringnum": "657",
 			"tamil": "புனே",
 			"telugu": "పూనే",
+			"temp": "Pune",
 			"urdu": "پونے"
 		},
 		{
@@ -11167,6 +11823,7 @@
 			"stringnum": "658",
 			"tamil": "பஞ்சாப்",
 			"telugu": "పంజాబ్",
+			"temp": "Punjab",
 			"urdu": "پنجاب"
 		},
 		{
@@ -11184,6 +11841,7 @@
 			"stringnum": "659",
 			"tamil": "கிழக்கு பர்தாமன்",
 			"telugu": "పుర్బా బర్ధమాన్",
+			"temp": "Purba Bardhaman",
 			"urdu": "Purba کی Bardhaman"
 		},
 		{
@@ -11201,6 +11859,7 @@
 			"stringnum": "660",
 			"tamil": "புர்பா மேதினிபூர்",
 			"telugu": "పూర్బా మేదినీపూర్",
+			"temp": "Purba Medinipur",
 			"urdu": "Purba کی Medinipur"
 		},
 		{
@@ -11218,6 +11877,7 @@
 			"stringnum": "661",
 			"tamil": "பூரி",
 			"telugu": "పూరి",
+			"temp": "Puri",
 			"urdu": "پوری"
 		},
 		{
@@ -11235,6 +11895,7 @@
 			"stringnum": "662",
 			"tamil": "பூர்னியாவில்",
 			"telugu": "పూర్ణియా",
+			"temp": "Purnia",
 			"urdu": "پورنیا"
 		},
 		{
@@ -11252,6 +11913,7 @@
 			"stringnum": "663",
 			"tamil": "ரே பரேலி",
 			"telugu": "రాయ్బరేలీ",
+			"temp": "Rae Bareli",
 			"urdu": "رائے بریلی"
 		},
 		{
@@ -11269,6 +11931,7 @@
 			"stringnum": "664",
 			"tamil": "ராய்காட்",
 			"telugu": "రాయగడ్",
+			"temp": "Raigad",
 			"urdu": "Raigad"
 		},
 		{
@@ -11286,6 +11949,7 @@
 			"stringnum": "665",
 			"tamil": "ராய்ப்பூர்",
 			"telugu": "రాయ్పూర్",
+			"temp": "Raipur",
 			"urdu": "رائے پور"
 		},
 		{
@@ -11303,6 +11967,7 @@
 			"stringnum": "666",
 			"tamil": "உயர்ந்தது",
 			"telugu": "రాయ్సేన్",
+			"temp": "Raisen",
 			"urdu": "Raisen"
 		},
 		{
@@ -11320,6 +11985,7 @@
 			"stringnum": "667",
 			"tamil": "ராஜண்ணா சிர்சிலா",
 			"telugu": "రాజన్న సిర్సిల్ల",
+			"temp": "Rajanna Sircilla",
 			"urdu": "Rajanna کی Sircilla"
 		},
 		{
@@ -11337,6 +12003,7 @@
 			"stringnum": "668",
 			"tamil": "ராஜஸ்தான்",
 			"telugu": "రాజస్థాన్",
+			"temp": "Rajasthan",
 			"urdu": "راجستھان"
 		},
 		{
@@ -11354,6 +12021,7 @@
 			"stringnum": "669",
 			"tamil": "ராஜ்கர்",
 			"telugu": "రాజ్ఘర్",
+			"temp": "Rajgarh",
 			"urdu": "رازگڑ"
 		},
 		{
@@ -11371,6 +12039,7 @@
 			"stringnum": "670",
 			"tamil": "ராஜ்கோட்",
 			"telugu": "రాజ్కోట్",
+			"temp": "Rajkot",
 			"urdu": "راجکوٹ"
 		},
 		{
@@ -11388,6 +12057,7 @@
 			"stringnum": "671",
 			"tamil": "ராஜ்நந்த்கான்",
 			"telugu": "రాజ్ నంద్ గావ్",
+			"temp": "Rajnandgaon",
 			"urdu": "Rajnandgaon"
 		},
 		{
@@ -11405,6 +12075,7 @@
 			"stringnum": "672",
 			"tamil": "ரஜோரி",
 			"telugu": "రాజౌరి",
+			"temp": "Rajouri",
 			"urdu": "راجوری"
 		},
 		{
@@ -11422,6 +12093,7 @@
 			"stringnum": "673",
 			"tamil": "ராஜச்மன்ட்",
 			"telugu": "రాజసమండ్",
+			"temp": "Rajsamand",
 			"urdu": "راجسمند"
 		},
 		{
@@ -11439,6 +12111,7 @@
 			"stringnum": "674",
 			"tamil": "ராமநாதபுரம்",
 			"telugu": "రామనాథపురం",
+			"temp": "Ramanathapuram",
 			"urdu": "رامناتھپرم"
 		},
 		{
@@ -11456,6 +12129,7 @@
 			"stringnum": "675",
 			"tamil": "ரம்பன்",
 			"telugu": "రాంబన్",
+			"temp": "Ramban",
 			"urdu": "رام بن"
 		},
 		{
@@ -11473,6 +12147,7 @@
 			"stringnum": "676",
 			"tamil": "ராம்பூர்",
 			"telugu": "రాంపూర్",
+			"temp": "Rampur",
 			"urdu": "رام پور"
 		},
 		{
@@ -11490,6 +12165,7 @@
 			"stringnum": "677",
 			"tamil": "ராஞ்சி",
 			"telugu": "రాంచీ",
+			"temp": "Ranchi",
 			"urdu": "رانچی"
 		},
 		{
@@ -11507,6 +12183,7 @@
 			"stringnum": "678",
 			"tamil": "ரங்கா ரெட்டி",
 			"telugu": "రంగారెడ్డి",
+			"temp": "Ranga Reddy",
 			"urdu": "رنگا ریڈی"
 		},
 		{
@@ -11524,6 +12201,7 @@
 			"stringnum": "679",
 			"tamil": "ராணிப்பேட்டை",
 			"telugu": "రాణిపేట",
+			"temp": "Ranipet",
 			"urdu": "Ranipet"
 		},
 		{
@@ -11541,6 +12219,7 @@
 			"stringnum": "680",
 			"tamil": "ரட்லாம்",
 			"telugu": "రత్లాం",
+			"temp": "Ratlam",
 			"urdu": "رتلام"
 		},
 		{
@@ -11558,6 +12237,7 @@
 			"stringnum": "681",
 			"tamil": "ரத்னகிரி",
 			"telugu": "రత్నగిరి",
+			"temp": "Ratnagiri",
 			"urdu": "رتناگری"
 		},
 		{
@@ -11575,6 +12255,7 @@
 			"stringnum": "682",
 			"tamil": "ரியாசி",
 			"telugu": "రియాసి",
+			"temp": "Reasi",
 			"urdu": "ریاسی"
 		},
 		{
@@ -11592,6 +12273,7 @@
 			"stringnum": "683",
 			"tamil": "ரேவா",
 			"telugu": "రేవా",
+			"temp": "Rewa",
 			"urdu": "ریوا"
 		},
 		{
@@ -11609,6 +12291,7 @@
 			"stringnum": "684",
 			"tamil": "ரேவாரி",
 			"telugu": "రేవారి",
+			"temp": "Rewari",
 			"urdu": "ریواڑی"
 		},
 		{
@@ -11626,6 +12309,7 @@
 			"stringnum": "685",
 			"tamil": "ரோதக்",
 			"telugu": "రోహ్తక్",
+			"temp": "Rohtak",
 			"urdu": "روہتک"
 		},
 		{
@@ -11643,6 +12327,7 @@
 			"stringnum": "686",
 			"tamil": "ரோஹ்தாஸ்",
 			"telugu": "రోహ్తాస్",
+			"temp": "Rohtas",
 			"urdu": "روہتاس"
 		},
 		{
@@ -11660,6 +12345,7 @@
 			"stringnum": "687",
 			"tamil": "ரூப்நகர்",
 			"telugu": "రూప్నగర్",
+			"temp": "Rupnagar",
 			"urdu": "Rupnagar"
 		},
 		{
@@ -11677,6 +12363,7 @@
 			"stringnum": "688",
 			"tamil": "எஸ்.ஏ.எஸ் நகர்",
 			"telugu": "S.A.S. నగర్",
+			"temp": "S.A.S. Nagar",
 			"urdu": "ادینست بلنگ سروس نگر"
 		},
 		{
@@ -11694,6 +12381,7 @@
 			"stringnum": "689",
 			"tamil": "S.P.S. நெல்லூர்",
 			"telugu": "శ్రీ పొట్టి శ్రీరాములు నెల్లూరు",
+			"temp": "S.P.S. Nellore",
 			"urdu": "S.P.S. نیلور"
 		},
 		{
@@ -11711,6 +12399,7 @@
 			"stringnum": "690",
 			"tamil": "சபர்கந்தா",
 			"telugu": "సబర్కాంత",
+			"temp": "Sabarkantha",
 			"urdu": "Sabarkantha"
 		},
 		{
@@ -11728,6 +12417,7 @@
 			"stringnum": "691",
 			"tamil": "சாகர்",
 			"telugu": "సాగర్",
+			"temp": "Sagar",
 			"urdu": "ساگر"
 		},
 		{
@@ -11745,6 +12435,7 @@
 			"stringnum": "692",
 			"tamil": "சஹாரான்பூர்",
 			"telugu": "సహారన్పూర్",
+			"temp": "Saharanpur",
 			"urdu": "سہارنپور"
 		},
 		{
@@ -11762,6 +12453,7 @@
 			"stringnum": "693",
 			"tamil": "சஹார்சா",
 			"telugu": "సహర్ష",
+			"temp": "Saharsa",
 			"urdu": "سہرسا"
 		},
 		{
@@ -11779,6 +12471,7 @@
 			"stringnum": "694",
 			"tamil": "சேலம்",
 			"telugu": "సేలం",
+			"temp": "Salem",
 			"urdu": "سلیم"
 		},
 		{
@@ -11796,6 +12489,7 @@
 			"stringnum": "695",
 			"tamil": "சமஸ்திபூர்",
 			"telugu": "సమస్తిపూర్",
+			"temp": "Samastipur",
 			"urdu": "سمستیپر"
 		},
 		{
@@ -11813,6 +12507,7 @@
 			"stringnum": "696",
 			"tamil": "சம்பா",
 			"telugu": "సాంబా",
+			"temp": "Samba",
 			"urdu": "سامبا"
 		},
 		{
@@ -11830,6 +12525,7 @@
 			"stringnum": "697",
 			"tamil": "சம்பல்",
 			"telugu": "సంభల్",
+			"temp": "Sambhal",
 			"urdu": "سمنسل"
 		},
 		{
@@ -11847,6 +12543,7 @@
 			"stringnum": "698",
 			"tamil": "சங்கரெட்டி",
 			"telugu": "సంగారెడ్డి",
+			"temp": "Sangareddy",
 			"urdu": "Sangareddy"
 		},
 		{
@@ -11864,6 +12561,7 @@
 			"stringnum": "699",
 			"tamil": "சாங்க்லி",
 			"telugu": "సాంగ్లి",
+			"temp": "Sangli",
 			"urdu": "سانگلی"
 		},
 		{
@@ -11881,6 +12579,7 @@
 			"stringnum": "700",
 			"tamil": "சங்குரூர்",
 			"telugu": "సంగ్రూర్",
+			"temp": "Sangrur",
 			"urdu": "سنگرور"
 		},
 		{
@@ -11898,6 +12597,7 @@
 			"stringnum": "701",
 			"tamil": "சந்த் கபீர் நகர்",
 			"telugu": "సంత్ కబీర్ నగర్",
+			"temp": "Sant Kabir Nagar",
 			"urdu": "سنت کبیر نگر"
 		},
 		{
@@ -11915,6 +12615,7 @@
 			"stringnum": "702",
 			"tamil": "சரண்",
 			"telugu": "సరన్",
+			"temp": "Saran",
 			"urdu": "سرن"
 		},
 		{
@@ -11932,6 +12633,7 @@
 			"stringnum": "703",
 			"tamil": "சதாரா",
 			"telugu": "సతారా",
+			"temp": "Satara",
 			"urdu": "ستارا"
 		},
 		{
@@ -11949,6 +12651,7 @@
 			"stringnum": "704",
 			"tamil": "சாத்னா",
 			"telugu": "సాత్నా",
+			"temp": "Satna",
 			"urdu": "ستنا"
 		},
 		{
@@ -11966,6 +12669,7 @@
 			"stringnum": "705",
 			"tamil": "சவாய் மாதோபூர்",
 			"telugu": "శవై మధోపూర్",
+			"temp": "Sawai Madhopur",
 			"urdu": "سوائی Madhopur"
 		},
 		{
@@ -11983,6 +12687,7 @@
 			"stringnum": "706",
 			"tamil": "சீகூரி",
 			"telugu": "సిహోరే",
+			"temp": "Sehore",
 			"urdu": "Sehore"
 		},
 		{
@@ -12000,6 +12705,7 @@
 			"stringnum": "707",
 			"tamil": "ஷாதராவில்",
 			"telugu": " షాహ్దార",
+			"temp": "Shahdara",
 			"urdu": "شاہدرہ"
 		},
 		{
@@ -12017,6 +12723,7 @@
 			"stringnum": "708",
 			"tamil": "சகாடோல்",
 			"telugu": "శాహ్డోలు",
+			"temp": "Shahdol",
 			"urdu": "شہڈول"
 		},
 		{
@@ -12034,6 +12741,7 @@
 			"stringnum": "709",
 			"tamil": "ஷாஜகான்பூர்",
 			"telugu": "షాజహాన్పూర్",
+			"temp": "Shahjahanpur",
 			"urdu": "شاہجہامپر"
 		},
 		{
@@ -12051,6 +12759,7 @@
 			"stringnum": "710",
 			"tamil": "சாஜாபூர்",
 			"telugu": "షాజాపూర్",
+			"temp": "Shajapur",
 			"urdu": "Shajapur"
 		},
 		{
@@ -12068,6 +12777,7 @@
 			"stringnum": "711",
 			"tamil": "ஷாம்லி",
 			"telugu": "షామిలి",
+			"temp": "Shamli",
 			"urdu": "شاملی"
 		},
 		{
@@ -12085,6 +12795,7 @@
 			"stringnum": "712",
 			"tamil": "ஸெய்கபூரா",
 			"telugu": "షేక్ పురా",
+			"temp": "Sheikhpura",
 			"urdu": "شیخوپورہ"
 		},
 		{
@@ -12102,6 +12813,7 @@
 			"stringnum": "713",
 			"tamil": "ஸியோகர்",
 			"telugu": "శియోహర్",
+			"temp": "Sheohar",
 			"urdu": "Sheohar"
 		},
 		{
@@ -12119,6 +12831,7 @@
 			"stringnum": "714",
 			"tamil": "ஷியோபூர்",
 			"telugu": "శియోపూర్",
+			"temp": "Sheopur",
 			"urdu": "Sheopur"
 		},
 		{
@@ -12136,6 +12849,7 @@
 			"stringnum": "715",
 			"tamil": "சிம்லா",
 			"telugu": "సిమ్లా",
+			"temp": "Shimla",
 			"urdu": "شملہ"
 		},
 		{
@@ -12153,6 +12867,7 @@
 			"stringnum": "716",
 			"tamil": "ஷிவ்புரி",
 			"telugu": "శివపురి",
+			"temp": "Shivpuri",
 			"urdu": "شوپری"
 		},
 		{
@@ -12170,6 +12885,7 @@
 			"stringnum": "717",
 			"tamil": "சோபியான்",
 			"telugu": "షోపియాన్",
+			"temp": "Shopiyan",
 			"urdu": "Shopiyan"
 		},
 		{
@@ -12187,6 +12903,7 @@
 			"stringnum": "718",
 			"tamil": "ஸரவஸ்தி",
 			"telugu": "శ్రవస్తి",
+			"temp": "Shrawasti",
 			"urdu": "Shrawasti"
 		},
 		{
@@ -12204,6 +12921,7 @@
 			"stringnum": "719",
 			"tamil": "சித்தார்த்நகர்",
 			"telugu": "సిద్దార్థ్ నగర్",
+			"temp": "Siddharthnagar",
 			"urdu": "Siddharthnagar"
 		},
 		{
@@ -12221,6 +12939,7 @@
 			"stringnum": "720",
 			"tamil": "சித்திபெட்",
 			"telugu": "సిద్దిపేట",
+			"temp": "Siddipet",
 			"urdu": "Siddipet"
 		},
 		{
@@ -12238,6 +12957,7 @@
 			"stringnum": "721",
 			"tamil": "சிகார்",
 			"telugu": "సికార్",
+			"temp": "Sikar",
 			"urdu": "سیکر"
 		},
 		{
@@ -12255,6 +12975,7 @@
 			"stringnum": "722",
 			"tamil": "சிக்கிம்",
 			"telugu": "సిక్కిం",
+			"temp": "Sikkim",
 			"urdu": "سککم"
 		},
 		{
@@ -12272,6 +12993,7 @@
 			"stringnum": "723",
 			"tamil": "சிம்டிகா",
 			"telugu": "సిందేగా",
+			"temp": "Simdega",
 			"urdu": "Simdega"
 		},
 		{
@@ -12289,6 +13011,7 @@
 			"stringnum": "724",
 			"tamil": "சிந்துதுர்க்",
 			"telugu": "సింధుదుర్గ్",
+			"temp": "Sindhudurg",
 			"urdu": "سندودرگ"
 		},
 		{
@@ -12306,6 +13029,7 @@
 			"stringnum": "725",
 			"tamil": "சிர்மாவூர்",
 			"telugu": "శ్రీమౌర్",
+			"temp": "Sirmaur",
 			"urdu": "Sirmaur"
 		},
 		{
@@ -12323,6 +13047,7 @@
 			"stringnum": "726",
 			"tamil": "சிரோஹி",
 			"telugu": "సిరోహి",
+			"temp": "Sirohi",
 			"urdu": "سروہی"
 		},
 		{
@@ -12340,6 +13065,7 @@
 			"stringnum": "727",
 			"tamil": "சிர்சா",
 			"telugu": "సిర్సా",
+			"temp": "Sirsa",
 			"urdu": "سرسا"
 		},
 		{
@@ -12357,6 +13083,7 @@
 			"stringnum": "728",
 			"tamil": "சித்தமார்கி",
 			"telugu": "సీతామర్హి",
+			"temp": "Sitamarhi",
 			"urdu": "Sitamarhi"
 		},
 		{
@@ -12374,6 +13101,7 @@
 			"stringnum": "729",
 			"tamil": "சீதாப்புர்",
 			"telugu": "సీతాపూర్",
+			"temp": "Sitapur",
 			"urdu": "سیتاپر"
 		},
 		{
@@ -12391,6 +13119,7 @@
 			"stringnum": "730",
 			"tamil": "சிவகங்கை",
 			"telugu": "శివగంగ",
+			"temp": "Sivaganga",
 			"urdu": "Sivaganga"
 		},
 		{
@@ -12408,6 +13137,7 @@
 			"stringnum": "731",
 			"tamil": "சிவான்",
 			"telugu": "శివన్",
+			"temp": "Siwan",
 			"urdu": "سیوان"
 		},
 		{
@@ -12425,6 +13155,7 @@
 			"stringnum": "732",
 			"tamil": "சோலன்",
 			"telugu": "సోలన్",
+			"temp": "Solan",
 			"urdu": "سولن"
 		},
 		{
@@ -12442,6 +13173,7 @@
 			"stringnum": "733",
 			"tamil": "சோலாப்பூர்",
 			"telugu": "సోలాపూర్",
+			"temp": "Solapur",
 			"urdu": "سولاپر"
 		},
 		{
@@ -12459,6 +13191,7 @@
 			"stringnum": "734",
 			"tamil": "சோனிபட்",
 			"telugu": "సోనిపట్",
+			"temp": "Sonipat",
 			"urdu": "Sonipat"
 		},
 		{
@@ -12476,6 +13209,7 @@
 			"stringnum": "735",
 			"tamil": "தென் 24 பர்கானாஸ்",
 			"telugu": "దక్షిణ 24 పరగణాల",
+			"temp": "South 24 Parganas",
 			"urdu": "جنوبی 24 پرگنہ"
 		},
 		{
@@ -12493,6 +13227,7 @@
 			"stringnum": "736",
 			"tamil": "தென் அந்தமான்",
 			"telugu": "దక్షిణ అండమాన్",
+			"temp": "South Andaman",
 			"urdu": "جنوبی انڈمان"
 		},
 		{
@@ -12510,6 +13245,7 @@
 			"stringnum": "737",
 			"tamil": "தென் தில்லி",
 			"telugu": "దక్షిణ ఢిల్లీ",
+			"temp": "South Delhi",
 			"urdu": "جنوبی دہلی"
 		},
 		{
@@ -12527,6 +13263,7 @@
 			"stringnum": "738",
 			"tamil": "தென் கிழக்கு தில்லி",
 			"telugu": "ఆగ్నేయ ఢిల్లీ",
+			"temp": "South East Delhi",
 			"urdu": "جنوب مشرقی دہلی"
 		},
 		{
@@ -12544,6 +13281,7 @@
 			"stringnum": "739",
 			"tamil": "தெற்கு கோவா",
 			"telugu": "దక్షిణ గోవా",
+			"temp": "South Goa",
 			"urdu": "جنوبی گوا"
 		},
 		{
@@ -12561,6 +13299,7 @@
 			"stringnum": "740",
 			"tamil": "தென் சலமாரா மன்கசர்",
 			"telugu": "దక్షిణ సాలమర మంకచర్",
+			"temp": "South Salmara Mankachar",
 			"urdu": "جنوبی Salmara Mankachar"
 		},
 		{
@@ -12578,6 +13317,7 @@
 			"stringnum": "741",
 			"tamil": "தென் மேற்கு தில்லி",
 			"telugu": "దక్షిణ పశ్చిమ ఢిల్లీ",
+			"temp": "South West Delhi",
 			"urdu": "جنوب مغربی دہلی"
 		},
 		{
@@ -12595,6 +13335,7 @@
 			"stringnum": "742",
 			"tamil": "ஸ்ரீ முக்ட்சர் சாஹிப்",
 			"telugu": "శ్రీ ముక్త్సార్ సాహిబ్",
+			"temp": "Sri Muktsar Sahib",
 			"urdu": "سری مکتسر صاحب"
 		},
 		{
@@ -12612,6 +13353,7 @@
 			"stringnum": "743",
 			"tamil": "ஸ்ரீகாகுளம்",
 			"telugu": "శ్రీకాకుళం",
+			"temp": "Srikakulam",
 			"urdu": "شریقاکلم"
 		},
 		{
@@ -12629,6 +13371,7 @@
 			"stringnum": "744",
 			"tamil": "ஸ்ரீநகர்",
 			"telugu": "శ్రీనగర్",
+			"temp": "Srinagar",
 			"urdu": "سری نگر"
 		},
 		{
@@ -12646,6 +13389,7 @@
 			"stringnum": "745",
 			"tamil": "சுல்தான்பூர்",
 			"telugu": "సుల్తాన్పూర్",
+			"temp": "Sultanpur",
 			"urdu": "سلطان"
 		},
 		{
@@ -12663,6 +13407,7 @@
 			"stringnum": "746",
 			"tamil": "சுந்தர்கர்",
 			"telugu": "సుందర్గఢ్",
+			"temp": "Sundargarh",
 			"urdu": "Sundargarh"
 		},
 		{
@@ -12680,6 +13425,7 @@
 			"stringnum": "747",
 			"tamil": "சுபால்",
 			"telugu": "సుపౌల్",
+			"temp": "Supaul",
 			"urdu": "Supaul"
 		},
 		{
@@ -12697,6 +13443,7 @@
 			"stringnum": "748",
 			"tamil": "சுர்ஜ்பூர்",
 			"telugu": "షార్జాపూర్",
+			"temp": "Surajpur",
 			"urdu": "Surajpur"
 		},
 		{
@@ -12714,6 +13461,7 @@
 			"stringnum": "749",
 			"tamil": "சூரத்",
 			"telugu": "సూరత్",
+			"temp": "Surat",
 			"urdu": "سورت"
 		},
 		{
@@ -12731,6 +13479,7 @@
 			"stringnum": "750",
 			"tamil": "சுரேந்தரநகர்",
 			"telugu": "సురేంద్రనగర్",
+			"temp": "Surendranagar",
 			"urdu": "سریندر"
 		},
 		{
@@ -12748,6 +13497,7 @@
 			"stringnum": "751",
 			"tamil": "சூரியாபெட்",
 			"telugu": "సూర్యాపేట",
+			"temp": "Suryapet",
 			"urdu": "Suryapet"
 		},
 		{
@@ -12765,6 +13515,7 @@
 			"stringnum": "752",
 			"tamil": "தமிழ்நாடு",
 			"telugu": "తమిళనాడు",
+			"temp": "Tamil Nadu",
 			"urdu": "تمل ناڈو"
 		},
 		{
@@ -12782,6 +13533,7 @@
 			"stringnum": "753",
 			"tamil": "தாபி",
 			"telugu": "టపి",
+			"temp": "Tapi",
 			"urdu": "تاپی"
 		},
 		{
@@ -12799,6 +13551,7 @@
 			"stringnum": "754",
 			"tamil": "தார் தரன்",
 			"telugu": "టార్న్ తరణ్",
+			"temp": "Tarn Taran",
 			"urdu": "ٹارن ترن"
 		},
 		{
@@ -12816,6 +13569,7 @@
 			"stringnum": "755",
 			"tamil": "தெலுங்கானா",
 			"telugu": "తెలంగాణ",
+			"temp": "Telangana",
 			"urdu": "تلنگانہ"
 		},
 		{
@@ -12833,6 +13587,7 @@
 			"stringnum": "756",
 			"tamil": "தென்காசி",
 			"telugu": "తేన్కాసి",
+			"temp": "Tenkasi",
 			"urdu": "Tenkasi"
 		},
 		{
@@ -12850,6 +13605,7 @@
 			"stringnum": "757",
 			"tamil": "தானே",
 			"telugu": "థానే",
+			"temp": "Thane",
 			"urdu": "تانی"
 		},
 		{
@@ -12867,6 +13623,7 @@
 			"stringnum": "758",
 			"tamil": "தஞ்சாவூர்",
 			"telugu": "తంజావూరు",
+			"temp": "Thanjavur",
 			"urdu": "تنجاور"
 		},
 		{
@@ -12884,6 +13641,7 @@
 			"stringnum": "759",
 			"tamil": "தேனி ",
 			"telugu": "థేని",
+			"temp": "Theni",
 			"urdu": "پھر میں"
 		},
 		{
@@ -12901,6 +13659,7 @@
 			"stringnum": "760",
 			"tamil": "திருவள்ளூர்",
 			"telugu": "తిరువల్లూర్",
+			"temp": "Thiruvallur",
 			"urdu": "Thiruvallur"
 		},
 		{
@@ -12918,6 +13677,7 @@
 			"stringnum": "761",
 			"tamil": "திருவனந்தபுரம்",
 			"telugu": "తిరువంతపురం",
+			"temp": "Thiruvananthapuram",
 			"urdu": "ترواننتپرم"
 		},
 		{
@@ -12935,6 +13695,7 @@
 			"stringnum": "762",
 			"tamil": "திருவாரூர்",
 			"telugu": "తిరువరూర్",
+			"temp": "Thiruvarur",
 			"urdu": "Thiruvarur"
 		},
 		{
@@ -12952,6 +13713,7 @@
 			"stringnum": "763",
 			"tamil": "தூத்துக்குடி",
 			"telugu": "తూతుక్కుడి",
+			"temp": "Thoothukkudi",
 			"urdu": "Thoothukkudi"
 		},
 		{
@@ -12969,6 +13731,7 @@
 			"stringnum": "764",
 			"tamil": "திருச்சூர்",
 			"telugu": "త్రిస్సూర్",
+			"temp": "Thrissur",
 			"urdu": "ترسور"
 		},
 		{
@@ -12986,6 +13749,7 @@
 			"stringnum": "765",
 			"tamil": "திகம்கரா",
 			"telugu": "తికంగర్",
+			"temp": "Tikamgarh",
 			"urdu": "Tikamgarh"
 		},
 		{
@@ -13003,6 +13767,7 @@
 			"stringnum": "766",
 			"tamil": "திருச்சிராப்பள்ளி",
 			"telugu": "తిరుచిరాపల్లి",
+			"temp": "Tiruchirappalli",
 			"urdu": "ترچراپللی"
 		},
 		{
@@ -13020,6 +13785,7 @@
 			"stringnum": "767",
 			"tamil": "திருநெல்வேலி",
 			"telugu": "తిరునల్వేలి",
+			"temp": "Tirunelveli",
 			"urdu": "ترونیلویلی"
 		},
 		{
@@ -13037,6 +13803,7 @@
 			"stringnum": "768",
 			"tamil": "திருப்பத்தூர் ",
 			"telugu": "తిరుపతూర్",
+			"temp": "Tirupathur",
 			"urdu": "Tirupathur"
 		},
 		{
@@ -13054,6 +13821,7 @@
 			"stringnum": "769",
 			"tamil": "திருப்பூர்",
 			"telugu": "తిరుప్పూర్",
+			"temp": "Tiruppur",
 			"urdu": "Tiruppur"
 		},
 		{
@@ -13071,6 +13839,7 @@
 			"stringnum": "770",
 			"tamil": "திருவண்ணாமலை",
 			"telugu": "తిరువన్నమలై",
+			"temp": "Tiruvannamalai",
 			"urdu": "Tiruvannamalai"
 		},
 		{
@@ -13088,6 +13857,7 @@
 			"stringnum": "771",
 			"tamil": "டோங்க்",
 			"telugu": "టాంక్",
+			"temp": "Tonk",
 			"urdu": "ٹونک"
 		},
 		{
@@ -13105,6 +13875,7 @@
 			"stringnum": "772",
 			"tamil": "திரிபுரா",
 			"telugu": "త్రిపుర",
+			"temp": "Tripura",
 			"urdu": "تریپورہ"
 		},
 		{
@@ -13122,6 +13893,7 @@
 			"stringnum": "773",
 			"tamil": "துமகுரு",
 			"telugu": "తుముకూరు",
+			"temp": "Tumakuru",
 			"urdu": "Tumakuru"
 		},
 		{
@@ -13139,6 +13911,7 @@
 			"stringnum": "774",
 			"tamil": "உதய்பூர்",
 			"telugu": "ఉదయపూర్",
+			"temp": "Udaipur",
 			"urdu": "ادیپر"
 		},
 		{
@@ -13156,6 +13929,7 @@
 			"stringnum": "775",
 			"tamil": "உதம் சிங் நகர்",
 			"telugu": "ఉద్దం సింగ్ నగర్",
+			"temp": "Udham Singh Nagar",
 			"urdu": "اودھم سنگھ نگر"
 		},
 		{
@@ -13173,6 +13947,7 @@
 			"stringnum": "776",
 			"tamil": "உதம்பூர்",
 			"telugu": "ఉధంపూర్",
+			"temp": "Udhampur",
 			"urdu": "اودھمپور"
 		},
 		{
@@ -13190,6 +13965,7 @@
 			"stringnum": "777",
 			"tamil": "உடுப்பி",
 			"telugu": "ఉడిపి",
+			"temp": "Udupi",
 			"urdu": "اڈوپی"
 		},
 		{
@@ -13207,6 +13983,7 @@
 			"stringnum": "778",
 			"tamil": "உஜ்ஜைன்",
 			"telugu": "ఉజ్జయినీ",
+			"temp": "Ujjain",
 			"urdu": "اجین"
 		},
 		{
@@ -13224,6 +14001,7 @@
 			"stringnum": "779",
 			"tamil": "உணா",
 			"telugu": "ఉన",
+			"temp": "Una",
 			"urdu": "ؤنا"
 		},
 		{
@@ -13241,6 +14019,7 @@
 			"stringnum": "780",
 			"tamil": "உன்னாவோ",
 			"telugu": "ఉన్నావ్",
+			"temp": "Unnao",
 			"urdu": "اناؤ"
 		},
 		{
@@ -13258,6 +14037,7 @@
 			"stringnum": "781",
 			"tamil": "உத்திரப் பிரதேசம்",
 			"telugu": "ఉత్తర ప్రదేశ్",
+			"temp": "Uttar Pradesh",
 			"urdu": "اتر پردیش"
 		},
 		{
@@ -13275,6 +14055,7 @@
 			"stringnum": "782",
 			"tamil": "உத்தர கன்னட",
 			"telugu": "ఉత్తర కన్నడ",
+			"temp": "Uttara Kannada",
 			"urdu": "اترا کناڈا"
 		},
 		{
@@ -13292,6 +14073,7 @@
 			"stringnum": "783",
 			"tamil": "உத்தரகண்ட்",
 			"telugu": "ఉత్తరాఖండ్",
+			"temp": "Uttarakhand",
 			"urdu": "اتراکھنڈ"
 		},
 		{
@@ -13309,6 +14091,7 @@
 			"stringnum": "784",
 			"tamil": "வதோதரா",
 			"telugu": "వడోదర",
+			"temp": "Vadodara",
 			"urdu": "وڈودرا"
 		},
 		{
@@ -13326,6 +14109,7 @@
 			"stringnum": "785",
 			"tamil": "வைசாலி",
 			"telugu": "వైశాలి",
+			"temp": "Vaishali",
 			"urdu": "ویشالی"
 		},
 		{
@@ -13343,6 +14127,7 @@
 			"stringnum": "786",
 			"tamil": "வால்சட்",
 			"telugu": "వల్సాడ్",
+			"temp": "Valsad",
 			"urdu": "Valsad"
 		},
 		{
@@ -13360,6 +14145,7 @@
 			"stringnum": "787",
 			"tamil": "வாரணாசி",
 			"telugu": "వారణాసి",
+			"temp": "Varanasi",
 			"urdu": "وارانسی"
 		},
 		{
@@ -13377,6 +14163,7 @@
 			"stringnum": "788",
 			"tamil": "வேலூர்",
 			"telugu": "వెల్లూర్",
+			"temp": "Vellore",
 			"urdu": "ویلور"
 		},
 		{
@@ -13394,6 +14181,7 @@
 			"stringnum": "789",
 			"tamil": "விதிஷா",
 			"telugu": "విదీష",
+			"temp": "Vidisha",
 			"urdu": "ودشا"
 		},
 		{
@@ -13411,6 +14199,7 @@
 			"stringnum": "790",
 			"tamil": "விஜயபுரா",
 			"telugu": "విజయపుర",
+			"temp": "Vijayapura",
 			"urdu": "Vijayapura"
 		},
 		{
@@ -13428,6 +14217,7 @@
 			"stringnum": "791",
 			"tamil": "விக்ரபாத்",
 			"telugu": "వికారాబాద్",
+			"temp": "Vikarabad",
 			"urdu": "Vikarabad"
 		},
 		{
@@ -13445,6 +14235,7 @@
 			"stringnum": "792",
 			"tamil": "விழுப்புரம்",
 			"telugu": "విలుప్పురం",
+			"temp": "Viluppuram",
 			"urdu": "Viluppuram"
 		},
 		{
@@ -13462,6 +14253,7 @@
 			"stringnum": "793",
 			"tamil": "விருதுநகர்",
 			"telugu": "విరుదునగర్",
+			"temp": "Virudhunagar",
 			"urdu": "سے Virudhunagar"
 		},
 		{
@@ -13479,6 +14271,7 @@
 			"stringnum": "794",
 			"tamil": "விசாகப்பட்டினம்",
 			"telugu": "విశాఖపట్నం",
+			"temp": "Visakhapatnam",
 			"urdu": "وشاکھاپٹنم"
 		},
 		{
@@ -13496,6 +14289,7 @@
 			"stringnum": "795",
 			"tamil": "விஜயநகரம்",
 			"telugu": "విజయనగరం",
+			"temp": "Vizianagaram",
 			"urdu": "Vizianagaram"
 		},
 		{
@@ -13513,6 +14307,7 @@
 			"stringnum": "796",
 			"tamil": "வாரங்கல் நகர்",
 			"telugu": "వరంగల్ అర్బన్",
+			"temp": "Warangal Urban",
 			"urdu": "وارنگل شہری"
 		},
 		{
@@ -13530,6 +14325,7 @@
 			"stringnum": "797",
 			"tamil": "வார்தா",
 			"telugu": "వార్ధా",
+			"temp": "Wardha",
 			"urdu": "وردا"
 		},
 		{
@@ -13547,6 +14343,7 @@
 			"stringnum": "798",
 			"tamil": "வாஷிம்",
 			"telugu": "వాషిం",
+			"temp": "Washim",
 			"urdu": "Washim"
 		},
 		{
@@ -13564,6 +14361,7 @@
 			"stringnum": "799",
 			"tamil": "வயநாடு",
 			"telugu": "వయనాడ్",
+			"temp": "Wayanad",
 			"urdu": "Wayanad"
 		},
 		{
@@ -13581,6 +14379,7 @@
 			"stringnum": "800",
 			"tamil": "மேற்கு வங்காளம்",
 			"telugu": "వెస్ట్ బెంగాల్",
+			"temp": "West Bengal",
 			"urdu": "مغربی بنگال"
 		},
 		{
@@ -13598,6 +14397,7 @@
 			"stringnum": "801",
 			"tamil": "மேற்கு சம்பரன்",
 			"telugu": "వెస్ట్ చంపారన్",
+			"temp": "West Champaran",
 			"urdu": "مغربی چمپارن"
 		},
 		{
@@ -13615,6 +14415,7 @@
 			"stringnum": "802",
 			"tamil": "மேற்கு தில்லி",
 			"telugu": "పశ్చిమ ఢిల్లీ",
+			"temp": "West Delhi",
 			"urdu": "مغربی دہلی"
 		},
 		{
@@ -13632,6 +14433,7 @@
 			"stringnum": "803",
 			"tamil": "மேற்கு கோதாவரி",
 			"telugu": "పశ్చిమ గోదావరి",
+			"temp": "West Godavari",
 			"urdu": "مغربی گوداوری"
 		},
 		{
@@ -13649,6 +14451,7 @@
 			"stringnum": "804",
 			"tamil": "Y.S.R. கடப்பா",
 			"telugu": "వైయస్సార్ కడప",
+			"temp": "Y.S.R. Kadapa",
 			"urdu": "Y.S.R. کڑپہ"
 		},
 		{
@@ -13666,6 +14469,7 @@
 			"stringnum": "805",
 			"tamil": "யமுனா நகர்",
 			"telugu": "యమునా",
+			"temp": "Yamunanagar",
 			"urdu": "یمنانگر"
 		},
 		{
@@ -13683,6 +14487,7 @@
 			"stringnum": "806",
 			"tamil": "யாவத்மால்",
 			"telugu": "యావత్మల్",
+			"temp": "Yavatmal",
 			"urdu": "یوتمال"
 		},
 		{
@@ -13700,6 +14505,7 @@
 			"stringnum": "807",
 			"tamil": "",
 			"telugu": "భారతదేశం మాప్",
+			"temp": "ഇന്ത്യ : ഭൂപടം",
 			"urdu": ""
 		},
 		{
@@ -13717,6 +14523,7 @@
 			"stringnum": "808",
 			"tamil": "Bametara",
 			"telugu": "బమేతారా",
+			"temp": "Bametara",
 			"urdu": "Bametara"
 		},
 		{
@@ -13734,6 +14541,7 @@
 			"stringnum": "809",
 			"tamil": "MoHFW மூலம் வெளியிடப்பட்ட மாவட்ட மண்டலங்களை",
 			"telugu": "MoHFW ప్రచురించిన జిల్లా మండలాలు",
+			"temp": "ജില്ലാ മേഖലകൾ MoHFW പ്രസിദ്ധീകരിച്ച പ്രകാരം",
 			"urdu": "MoHFW طرف سے شائع طور ڈسٹرکٹ زون"
 		},
 		{
@@ -13751,6 +14559,7 @@
 			"stringnum": "810",
 			"tamil": "மூல",
 			"telugu": "మూలం",
+			"temp": "ഉറവിടം",
 			"urdu": "ذریعہ"
 		},
 		{
@@ -13768,6 +14577,7 @@
 			"stringnum": "811",
 			"tamil": "நெருக்கமான",
 			"telugu": "మూయండి",
+			"temp": "അടയ്ക്കുക",
 			"urdu": "بند کریں"
 		},
 		{
@@ -13785,6 +14595,7 @@
 			"stringnum": "812",
 			"tamil": "பட்டியல்",
 			"telugu": "మెను",
+			"temp": "മെനു",
 			"urdu": "مینو"
 		}
 	]
