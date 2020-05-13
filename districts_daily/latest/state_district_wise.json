@@ -1396,12 +1396,12 @@
     "districtData": {
       "Chandigarh": {
         "notes": "",
-        "active": 154,
-        "confirmed": 187,
+        "active": 156,
+        "confirmed": 189,
         "deceased": 3,
         "recovered": 30,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 2,
           "deceased": 0,
           "recovered": 0
         }
@@ -3754,6 +3754,18 @@
         "confirmed": 2,
         "deceased": 0,
         "recovered": 0,
+        "delta": {
+          "confirmed": 0,
+          "deceased": 0,
+          "recovered": 0
+        }
+      },
+      "Unknown": {
+        "notes": "",
+        "active": 16,
+        "confirmed": 26,
+        "deceased": 1,
+        "recovered": 9,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
