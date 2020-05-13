@@ -116,12 +116,12 @@
       {
         "district": "Kurnool",
         "notes": "",
-        "active": 307,
-        "confirmed": 621,
+        "active": 277,
+        "confirmed": 591,
         "deceased": 17,
         "recovered": 297,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 7,
           "deceased": 1,
           "recovered": 13
         }
@@ -129,8 +129,8 @@
       {
         "district": "Other State",
         "notes": "",
-        "active": 35,
-        "confirmed": 35,
+        "active": 73,
+        "confirmed": 73,
         "deceased": 0,
         "recovered": 0,
         "delta": {
@@ -225,7 +225,7 @@
         "deceased": 0,
         "recovered": 56,
         "delta": {
-          "confirmed": -1,
+          "confirmed": 0,
           "deceased": 0,
           "recovered": 10
         }
