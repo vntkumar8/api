@@ -1497,8 +1497,8 @@
 			"statecode": "BR"
 		},
 		{
-			"active": "1",
-			"confirmed": "1",
+			"active": "2",
+			"confirmed": "2",
 			"deceased": "0",
 			"deltaactive": "0",
 			"deltaconfirmed": "0",
@@ -1514,8 +1514,8 @@
 			"statecode": "BR"
 		},
 		{
-			"active": "17",
-			"confirmed": "21",
+			"active": "33",
+			"confirmed": "37",
 			"deceased": "0",
 			"deltaactive": "0",
 			"deltaconfirmed": "0",
@@ -1599,8 +1599,8 @@
 			"statecode": "BR"
 		},
 		{
-			"active": "1",
-			"confirmed": "5",
+			"active": "2",
+			"confirmed": "6",
 			"deceased": "0",
 			"deltaactive": "0",
 			"deltaconfirmed": "0",
@@ -1650,8 +1650,8 @@
 			"statecode": "BR"
 		},
 		{
-			"active": "55",
-			"confirmed": "116",
+			"active": "56",
+			"confirmed": "117",
 			"deceased": "1",
 			"deltaactive": "0",
 			"deltaconfirmed": "0",
@@ -1684,8 +1684,8 @@
 			"statecode": "BR"
 		},
 		{
-			"active": "27",
-			"confirmed": "63",
+			"active": "39",
+			"confirmed": "75",
 			"deceased": "0",
 			"deltaactive": "0",
 			"deltaconfirmed": "0",
@@ -1701,8 +1701,8 @@
 			"statecode": "BR"
 		},
 		{
-			"active": "12",
-			"confirmed": "15",
+			"active": "14",
+			"confirmed": "17",
 			"deceased": "0",
 			"deltaactive": "0",
 			"deltaconfirmed": "0",
@@ -1718,8 +1718,8 @@
 			"statecode": "BR"
 		},
 		{
-			"active": "53",
-			"confirmed": "90",
+			"active": "64",
+			"confirmed": "101",
 			"deceased": "1",
 			"deltaactive": "0",
 			"deltaconfirmed": "0",
@@ -1786,8 +1786,8 @@
 			"statecode": "BR"
 		},
 		{
-			"active": "13",
-			"confirmed": "13",
+			"active": "15",
+			"confirmed": "15",
 			"deceased": "0",
 			"deltaactive": "0",
 			"deltaconfirmed": "0",
@@ -1803,8 +1803,8 @@
 			"statecode": "BR"
 		},
 		{
-			"active": "2",
-			"confirmed": "10",
+			"active": "3",
+			"confirmed": "11",
 			"deceased": "0",
 			"deltaactive": "0",
 			"deltaconfirmed": "0",
@@ -1820,8 +1820,8 @@
 			"statecode": "BR"
 		},
 		{
-			"active": "8",
-			"confirmed": "8",
+			"active": "10",
+			"confirmed": "10",
 			"deceased": "0",
 			"deltaactive": "0",
 			"deltaconfirmed": "0",
@@ -6121,18 +6121,18 @@
 			"statecode": "ML"
 		},
 		{
-			"active": "2",
+			"active": "1",
 			"confirmed": "13",
 			"deceased": "1",
-			"deltaactive": "0",
+			"deltaactive": "-1",
 			"deltaconfirmed": "0",
 			"deltadeceased": "0",
-			"deltarecovered": "0",
+			"deltarecovered": "1",
 			"district": "East Khasi Hills",
 			"districtkey": "ML_East Khasi Hills",
 			"districtnotes": "",
 			"lastupdated": "",
-			"recovered": "10",
+			"recovered": "11",
 			"slno": "423",
 			"state": "Meghalaya",
 			"statecode": "ML"
@@ -12870,9 +12870,9 @@
 			"statecode": "DN"
 		},
 		{
-			"active": "4254",
-			"confirmed": "6851",
-			"deceased": "85",
+			"active": "4247",
+			"confirmed": "7210",
+			"deceased": "105",
 			"deltaactive": "0",
 			"deltaconfirmed": "0",
 			"deltadeceased": "0",
@@ -12881,7 +12881,7 @@
 			"districtkey": "DL_Unknown",
 			"districtnotes": "",
 			"lastupdated": "",
-			"recovered": "2512",
+			"recovered": "2858",
 			"slno": "737",
 			"state": "Delhi",
 			"statecode": "DL"
