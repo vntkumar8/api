@@ -3671,12 +3671,12 @@
       {
         "district": "Bagalkote",
         "notes": "",
-        "active": 40,
-        "confirmed": 68,
+        "active": 41,
+        "confirmed": 69,
         "deceased": 1,
         "recovered": 27,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
@@ -3697,12 +3697,12 @@
       {
         "district": "Belagavi",
         "notes": "",
-        "active": 71,
-        "confirmed": 113,
+        "active": 72,
+        "confirmed": 114,
         "deceased": 1,
         "recovered": 41,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
@@ -3723,12 +3723,12 @@
       {
         "district": "Bengaluru Urban",
         "notes": "One death on 27th Apr is not included as it's not counted as covid related death by the Karnataka govt.",
-        "active": 81,
-        "confirmed": 184,
+        "active": 86,
+        "confirmed": 189,
         "deceased": 7,
         "recovered": 95,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 5,
           "deceased": 0,
           "recovered": 0
         }
@@ -3736,12 +3736,12 @@
       {
         "district": "Bidar",
         "notes": "",
-        "active": 26,
-        "confirmed": 41,
+        "active": 30,
+        "confirmed": 45,
         "deceased": 1,
         "recovered": 14,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 4,
           "deceased": 0,
           "recovered": 0
         }
@@ -3801,25 +3801,25 @@
       {
         "district": "Dakshina Kannada",
         "notes": "",
-        "active": 16,
+        "active": 15,
         "confirmed": 28,
-        "deceased": 4,
+        "deceased": 5,
         "recovered": 8,
         "delta": {
           "confirmed": 0,
-          "deceased": 0,
+          "deceased": 1,
           "recovered": 0
         }
       },
       {
         "district": "Davanagere",
         "notes": "",
-        "active": 79,
-        "confirmed": 85,
+        "active": 82,
+        "confirmed": 88,
         "deceased": 4,
         "recovered": 2,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 3,
           "deceased": 0,
           "recovered": 0
         }
@@ -3840,12 +3840,12 @@
       {
         "district": "Gadag",
         "notes": "",
-        "active": 3,
-        "confirmed": 8,
+        "active": 7,
+        "confirmed": 12,
         "deceased": 1,
         "recovered": 4,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 4,
           "deceased": 0,
           "recovered": 0
         }
@@ -3931,12 +3931,12 @@
       {
         "district": "Mandya",
         "notes": "",
-        "active": 12,
-        "confirmed": 31,
+        "active": 16,
+        "confirmed": 35,
         "deceased": 0,
         "recovered": 19,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 4,
           "deceased": 0,
           "recovered": 0
         }
@@ -3957,13 +3957,13 @@
       {
         "district": "Other State",
         "notes": "Includes Cases of other States and International Quarantined Passengers.",
-        "active": 3,
+        "active": 2,
         "confirmed": 22,
-        "deceased": 0,
+        "deceased": 1,
         "recovered": 19,
         "delta": {
           "confirmed": 0,
-          "deceased": 0,
+          "deceased": 1,
           "recovered": 0
         }
       },
@@ -4065,6 +4065,19 @@
         "confirmed": 2,
         "deceased": 0,
         "recovered": 0,
+        "delta": {
+          "confirmed": 0,
+          "deceased": 0,
+          "recovered": 0
+        }
+      },
+      {
+        "district": "Unknown",
+        "notes": "",
+        "active": -4,
+        "confirmed": 0,
+        "deceased": 0,
+        "recovered": 4,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
