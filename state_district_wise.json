@@ -4761,6 +4761,18 @@
           "deceased": 0,
           "recovered": 0
         }
+      },
+      "Unknown": {
+        "notes": "",
+        "active": 1,
+        "confirmed": 1,
+        "deceased": 0,
+        "recovered": 0,
+        "delta": {
+          "confirmed": 0,
+          "deceased": 0,
+          "recovered": 0
+        }
       }
     },
     "statecode": "MN"
@@ -4865,14 +4877,14 @@
       },
       "Bhopal": {
         "notes": "",
-        "active": 377,
+        "active": 356,
         "confirmed": 900,
         "deceased": 35,
-        "recovered": 488,
+        "recovered": 509,
         "delta": {
           "confirmed": 42,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 21
         }
       },
       "Burhanpur": {
@@ -4949,14 +4961,14 @@
       },
       "Dhar": {
         "notes": "State bulletin on 20th Apr reported 5 extra cases in Dhar distrct. This has been reconciled - MP Health Dept Bulletin, 22 Apr",
-        "active": 46,
+        "active": 18,
         "confirmed": 89,
         "deceased": 2,
-        "recovered": 41,
+        "recovered": 69,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 28
         }
       },
       "Dindori": {
@@ -5009,38 +5021,38 @@
       },
       "Hoshangabad": {
         "notes": "",
-        "active": 3,
+        "active": 2,
         "confirmed": 37,
         "deceased": 3,
-        "recovered": 31,
+        "recovered": 32,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 1
         }
       },
       "Indore": {
         "notes": "",
-        "active": 1168,
+        "active": 1096,
         "confirmed": 2238,
         "deceased": 96,
-        "recovered": 974,
+        "recovered": 1046,
         "delta": {
           "confirmed": 131,
           "deceased": 1,
-          "recovered": 0
+          "recovered": 72
         }
       },
       "Jabalpur": {
         "notes": "",
-        "active": 102,
+        "active": 84,
         "confirmed": 157,
         "deceased": 8,
-        "recovered": 47,
+        "recovered": 65,
         "delta": {
           "confirmed": 10,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 18
         }
       },
       "Jhabua": {
@@ -5081,14 +5093,14 @@
       },
       "Khargone": {
         "notes": "MP Bulletin dated 25/04 reduced one case in Khargone as there was a repetition",
-        "active": 36,
+        "active": 34,
         "confirmed": 97,
         "deceased": 8,
-        "recovered": 53,
+        "recovered": 55,
         "delta": {
           "confirmed": 2,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 2
         }
       },
       "Mandla": {
@@ -5141,14 +5153,14 @@
       },
       "Neemuch": {
         "notes": "",
-        "active": 44,
+        "active": 40,
         "confirmed": 45,
         "deceased": 1,
-        "recovered": 0,
+        "recovered": 4,
         "delta": {
           "confirmed": 7,
           "deceased": 1,
-          "recovered": 0
+          "recovered": 4
         }
       },
       "Niwari": {
@@ -5189,14 +5201,14 @@
       },
       "Raisen": {
         "notes": "",
-        "active": 20,
+        "active": 12,
         "confirmed": 65,
         "deceased": 3,
-        "recovered": 42,
+        "recovered": 50,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 8
         }
       },
       "Rajgarh": {
@@ -5357,26 +5369,26 @@
       },
       "Tikamgarh": {
         "notes": "",
-        "active": 1,
+        "active": 0,
         "confirmed": 3,
         "deceased": 0,
-        "recovered": 2,
+        "recovered": 3,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 1
         }
       },
       "Ujjain": {
         "notes": "",
-        "active": 99,
+        "active": 87,
         "confirmed": 274,
         "deceased": 45,
-        "recovered": 130,
+        "recovered": 142,
         "delta": {
           "confirmed": 5,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 12
         }
       },
       "Umaria": {
@@ -8933,8 +8945,8 @@
       },
       "Unknown": {
         "notes": "",
-        "active": 1,
-        "confirmed": 1,
+        "active": 4,
+        "confirmed": 4,
         "deceased": 0,
         "recovered": 0,
         "delta": {
