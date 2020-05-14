@@ -944,18 +944,27 @@
 			"totalconfirmed": "78056",
 			"totaldeceased": "2551",
 			"totalrecovered": "26417"
+		},
+		{
+			"dailyconfirmed": "3932",
+			"dailydeceased": "97",
+			"dailyrecovered": "1552",
+			"date": "14 May ",
+			"totalconfirmed": "81988",
+			"totaldeceased": "2648",
+			"totalrecovered": "27969"
 		}
 	],
 	"statewise": [
 		{
-			"active": "51379",
+			"active": "51366",
 			"confirmed": "81989",
 			"deaths": "2649",
 			"deltaconfirmed": "3932",
 			"deltadeaths": "97",
-			"deltarecovered": "1539",
-			"lastupdatedtime": "14/05/2020 23:03:23",
-			"recovered": "27956",
+			"deltarecovered": "1552",
+			"lastupdatedtime": "14/05/2020 23:52:23",
+			"recovered": "27969",
 			"state": "Total",
 			"statecode": "TT",
 			"statenotes": ""
@@ -1208,14 +1217,14 @@
 			"statenotes": ""
 		},
 		{
-			"active": "139",
+			"active": "126",
 			"confirmed": "155",
 			"deaths": "0",
 			"deltaconfirmed": "0",
 			"deltadeaths": "0",
-			"deltarecovered": "14",
-			"lastupdatedtime": "14/05/2020 10:33:24",
-			"recovered": "16",
+			"deltarecovered": "27",
+			"lastupdatedtime": "14/05/2020 23:52:26",
+			"recovered": "29",
 			"state": "Tripura",
 			"statecode": "TR",
 			"statenotes": ""
