@@ -1091,12 +1091,12 @@
       },
       "Jehanabad": {
         "notes": "",
-        "active": 20,
-        "confirmed": 25,
+        "active": 21,
+        "confirmed": 26,
         "deceased": 0,
         "recovered": 5,
         "delta": {
-          "confirmed": 4,
+          "confirmed": 5,
           "deceased": 0,
           "recovered": 0
         }
@@ -1151,12 +1151,12 @@
       },
       "Lakhisarai": {
         "notes": "",
-        "active": 1,
-        "confirmed": 6,
+        "active": 7,
+        "confirmed": 12,
         "deceased": 0,
         "recovered": 5,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 6,
           "deceased": 0,
           "recovered": 0
         }
@@ -1211,12 +1211,12 @@
       },
       "Nalanda": {
         "notes": "",
-        "active": 27,
-        "confirmed": 63,
+        "active": 30,
+        "confirmed": 66,
         "deceased": 0,
         "recovered": 36,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 3,
           "deceased": 0,
           "recovered": 0
         }
@@ -1307,12 +1307,12 @@
       },
       "Sheikhpura": {
         "notes": "",
-        "active": 10,
-        "confirmed": 10,
+        "active": 12,
+        "confirmed": 12,
         "deceased": 0,
         "recovered": 0,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 2,
           "deceased": 0,
           "recovered": 0
         }
@@ -1973,13 +1973,13 @@
       },
       "Ahmedabad": {
         "notes": "",
-        "active": 4352,
+        "active": 4333,
         "confirmed": 6910,
-        "deceased": 446,
+        "deceased": 465,
         "recovered": 2112,
         "delta": {
           "confirmed": 265,
-          "deceased": 0,
+          "deceased": 19,
           "recovered": 0
         }
       },
@@ -1997,12 +1997,12 @@
       },
       "Anand": {
         "notes": "",
-        "active": 3,
-        "confirmed": 80,
+        "active": 5,
+        "confirmed": 82,
         "deceased": 7,
         "recovered": 70,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 2,
           "deceased": 0,
           "recovered": 0
         }
@@ -2309,13 +2309,13 @@
       },
       "Surat": {
         "notes": "",
-        "active": 378,
+        "active": 377,
         "confirmed": 983,
-        "deceased": 43,
+        "deceased": 44,
         "recovered": 562,
         "delta": {
           "confirmed": 16,
-          "deceased": 0,
+          "deceased": 1,
           "recovered": 0
         }
       },
@@ -2361,18 +2361,6 @@
         "confirmed": 6,
         "deceased": 1,
         "recovered": 4,
-        "delta": {
-          "confirmed": 0,
-          "deceased": 0,
-          "recovered": 0
-        }
-      },
-      "Unknown": {
-        "notes": "",
-        "active": -18,
-        "confirmed": 2,
-        "deceased": 20,
-        "recovered": 0,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
@@ -4422,6 +4410,18 @@
         "confirmed": 99,
         "deceased": 0,
         "recovered": 50,
+        "delta": {
+          "confirmed": 0,
+          "deceased": 0,
+          "recovered": 0
+        }
+      },
+      "Unknown": {
+        "notes": "",
+        "active": 1046,
+        "confirmed": 1602,
+        "deceased": 44,
+        "recovered": 512,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
@@ -8825,38 +8825,38 @@
       },
       "Dehradun": {
         "notes": "",
-        "active": 12,
+        "active": 10,
         "confirmed": 39,
         "deceased": 1,
-        "recovered": 26,
+        "recovered": 28,
         "delta": {
           "confirmed": 3,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 2
         }
       },
       "Haridwar": {
         "notes": "",
-        "active": 2,
+        "active": 1,
         "confirmed": 7,
         "deceased": 0,
-        "recovered": 5,
+        "recovered": 6,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 1
         }
       },
       "Nainital": {
         "notes": "",
-        "active": 2,
+        "active": 1,
         "confirmed": 11,
         "deceased": 0,
-        "recovered": 9,
+        "recovered": 10,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 1
         }
       },
       "Pauri Garhwal": {
@@ -8933,10 +8933,10 @@
       },
       "Unknown": {
         "notes": "",
-        "active": -3,
+        "active": 1,
         "confirmed": 1,
         "deceased": 0,
-        "recovered": 4,
+        "recovered": 0,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
