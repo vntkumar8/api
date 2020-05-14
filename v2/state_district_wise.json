@@ -7492,12 +7492,12 @@
       {
         "district": "Other State",
         "notes": "",
-        "active": 35,
-        "confirmed": 35,
+        "active": 37,
+        "confirmed": 37,
         "deceased": 0,
         "recovered": 0,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 2,
           "deceased": 0,
           "recovered": 0
         }
@@ -7531,12 +7531,12 @@
       {
         "district": "Hyderabad",
         "notes": "",
-        "active": 504,
-        "confirmed": 827,
+        "active": 544,
+        "confirmed": 867,
         "deceased": 23,
         "recovered": 300,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 40,
           "deceased": 0,
           "recovered": 0
         }
@@ -7817,12 +7817,12 @@
       {
         "district": "Ranga Reddy",
         "notes": "",
-        "active": 17,
-        "confirmed": 36,
+        "active": 22,
+        "confirmed": 41,
         "deceased": 2,
         "recovered": 17,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 5,
           "deceased": 0,
           "recovered": 0
         }
@@ -7934,10 +7934,10 @@
       {
         "district": "Unknown",
         "notes": "",
-        "active": -359,
+        "active": -372,
         "confirmed": 40,
         "deceased": 4,
-        "recovered": 395,
+        "recovered": 408,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
