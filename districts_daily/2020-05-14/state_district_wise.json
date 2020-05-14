@@ -738,12 +738,12 @@
       },
       "Kamrup Metropolitan": {
         "notes": "",
-        "active": 19,
-        "confirmed": 21,
+        "active": 27,
+        "confirmed": 29,
         "deceased": 1,
         "recovered": 1,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 8,
           "deceased": 0,
           "recovered": 0
         }
@@ -810,12 +810,12 @@
       },
       "Morigaon": {
         "notes": "",
-        "active": 1,
-        "confirmed": 7,
+        "active": 0,
+        "confirmed": 6,
         "deceased": 0,
         "recovered": 6,
         "delta": {
-          "confirmed": 0,
+          "confirmed": -1,
           "deceased": 0,
           "recovered": 0
         }
@@ -920,18 +920,6 @@
         "notes": "",
         "active": 0,
         "confirmed": 0,
-        "deceased": 0,
-        "recovered": 0,
-        "delta": {
-          "confirmed": 0,
-          "deceased": 0,
-          "recovered": 0
-        }
-      },
-      "Unknown": {
-        "notes": "",
-        "active": 7,
-        "confirmed": 7,
         "deceased": 0,
         "recovered": 0,
         "delta": {
