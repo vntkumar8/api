@@ -2698,12 +2698,12 @@
       {
         "district": "Sirmaur",
         "notes": "",
-        "active": 0,
-        "confirmed": 2,
+        "active": 2,
+        "confirmed": 4,
         "deceased": 0,
         "recovered": 2,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 2,
           "deceased": 0,
           "recovered": 0
         }
@@ -6675,14 +6675,14 @@
       {
         "district": "Jalandhar",
         "notes": "",
-        "active": 173,
-        "confirmed": 198,
+        "active": 171,
+        "confirmed": 205,
         "deceased": 5,
-        "recovered": 20,
+        "recovered": 29,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 7,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 9
         }
       },
       {
@@ -6701,12 +6701,12 @@
       {
         "district": "Ludhiana",
         "notes": "",
-        "active": 134,
-        "confirmed": 148,
+        "active": 137,
+        "confirmed": 151,
         "deceased": 6,
         "recovered": 8,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 3,
           "deceased": 0,
           "recovered": 0
         }
@@ -6714,14 +6714,14 @@
       {
         "district": "Mansa",
         "notes": "",
-        "active": 26,
+        "active": 23,
         "confirmed": 32,
         "deceased": 0,
-        "recovered": 6,
+        "recovered": 9,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 3
         }
       },
       {
@@ -6740,27 +6740,27 @@
       {
         "district": "Pathankot",
         "notes": "",
-        "active": 17,
+        "active": 14,
         "confirmed": 29,
         "deceased": 1,
-        "recovered": 11,
+        "recovered": 14,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 3
         }
       },
       {
         "district": "Patiala",
         "notes": "",
-        "active": 77,
-        "confirmed": 99,
+        "active": 70,
+        "confirmed": 100,
         "deceased": 2,
-        "recovered": 20,
+        "recovered": 28,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 8
         }
       },
       {
@@ -8399,6 +8399,19 @@
         "confirmed": 45,
         "deceased": 0,
         "recovered": 31,
+        "delta": {
+          "confirmed": 0,
+          "deceased": 0,
+          "recovered": 0
+        }
+      },
+      {
+        "district": "Unknown",
+        "notes": "",
+        "active": 445,
+        "confirmed": 447,
+        "deceased": 2,
+        "recovered": 0,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
