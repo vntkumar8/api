@@ -9147,18 +9147,18 @@
 			"statecode": "RJ"
 		},
 		{
-			"active": "2",
+			"active": "1",
 			"confirmed": "47",
 			"deceased": "0",
-			"deltaactive": "0",
+			"deltaactive": "-1",
 			"deltaconfirmed": "0",
 			"deltadeceased": "0",
-			"deltarecovered": "0",
+			"deltarecovered": "1",
 			"district": "Jhalawar",
 			"districtkey": "RJ_Jhalawar",
 			"districtnotes": "",
 			"lastupdated": "",
-			"recovered": "45",
+			"recovered": "46",
 			"slno": "526",
 			"state": "Rajasthan",
 			"statecode": "RJ"
@@ -9300,18 +9300,18 @@
 			"statecode": "RJ"
 		},
 		{
-			"active": "27",
+			"active": "23",
 			"confirmed": "29",
 			"deceased": "0",
-			"deltaactive": "3",
+			"deltaactive": "-1",
 			"deltaconfirmed": "3",
 			"deltadeceased": "0",
-			"deltarecovered": "0",
+			"deltarecovered": "4",
 			"district": "Rajsamand",
 			"districtkey": "RJ_Rajsamand",
 			"districtnotes": "",
 			"lastupdated": "",
-			"recovered": "2",
+			"recovered": "6",
 			"slno": "534",
 			"state": "Rajasthan",
 			"statecode": "RJ"
@@ -13312,7 +13312,7 @@
 			"statecode": "UP"
 		},
 		{
-			"active": "1",
+			"active": "-3",
 			"confirmed": "1",
 			"deceased": "0",
 			"deltaactive": "0",
@@ -13323,7 +13323,7 @@
 			"districtkey": "UT_Unknown",
 			"districtnotes": "",
 			"lastupdated": "",
-			"recovered": "0",
+			"recovered": "4",
 			"slno": "763",
 			"state": "Uttarakhand",
 			"statecode": "UT"

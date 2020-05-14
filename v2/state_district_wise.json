@@ -7220,14 +7220,14 @@
       {
         "district": "Jhalawar",
         "notes": "",
-        "active": 2,
+        "active": 1,
         "confirmed": 47,
         "deceased": 0,
-        "recovered": 45,
+        "recovered": 46,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 1
         }
       },
       {
@@ -7337,14 +7337,14 @@
       {
         "district": "Rajsamand",
         "notes": "",
-        "active": 27,
+        "active": 23,
         "confirmed": 29,
         "deceased": 0,
-        "recovered": 2,
+        "recovered": 6,
         "delta": {
           "confirmed": 3,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 4
         }
       },
       {
@@ -9713,10 +9713,10 @@
       {
         "district": "Unknown",
         "notes": "",
-        "active": 1,
+        "active": -3,
         "confirmed": 1,
         "deceased": 0,
-        "recovered": 0,
+        "recovered": 4,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
