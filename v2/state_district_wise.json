@@ -2795,14 +2795,14 @@
       {
         "district": "Faridabad",
         "notes": "",
-        "active": 69,
+        "active": 65,
         "confirmed": 131,
         "deceased": 4,
-        "recovered": 58,
+        "recovered": 62,
         "delta": {
           "confirmed": 12,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 4
         }
       },
       {
@@ -2821,12 +2821,12 @@
       {
         "district": "Gurugram",
         "notes": "",
-        "active": 104,
-        "confirmed": 166,
+        "active": 108,
+        "confirmed": 170,
         "deceased": 0,
         "recovered": 62,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 4,
           "deceased": 0,
           "recovered": 0
         }
@@ -2860,12 +2860,12 @@
       {
         "district": "Jhajjar",
         "notes": "",
-        "active": 60,
-        "confirmed": 84,
+        "active": 63,
+        "confirmed": 87,
         "deceased": 0,
         "recovered": 24,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 3,
           "deceased": 0,
           "recovered": 0
         }
@@ -2873,12 +2873,12 @@
       {
         "district": "Jind",
         "notes": "",
-        "active": 8,
-        "confirmed": 18,
+        "active": 10,
+        "confirmed": 20,
         "deceased": 0,
         "recovered": 10,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 2,
           "deceased": 0,
           "recovered": 0
         }
@@ -2899,12 +2899,12 @@
       {
         "district": "Karnal",
         "notes": "",
-        "active": 9,
-        "confirmed": 15,
+        "active": 11,
+        "confirmed": 17,
         "deceased": 1,
         "recovered": 5,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 2,
           "deceased": 0,
           "recovered": 0
         }
@@ -2951,14 +2951,14 @@
       {
         "district": "Palwal",
         "notes": "",
-        "active": 3,
+        "active": 2,
         "confirmed": 37,
         "deceased": 0,
-        "recovered": 34,
+        "recovered": 35,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 1
         }
       },
       {
@@ -2977,14 +2977,14 @@
       {
         "district": "Panipat",
         "notes": "",
-        "active": 11,
+        "active": 9,
         "confirmed": 36,
         "deceased": 3,
-        "recovered": 22,
+        "recovered": 24,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 2
         }
       },
       {
@@ -3029,27 +3029,27 @@
       {
         "district": "Sonipat",
         "notes": "",
-        "active": 66,
+        "active": 56,
         "confirmed": 120,
         "deceased": 0,
-        "recovered": 54,
+        "recovered": 64,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 10
         }
       },
       {
         "district": "Yamunanagar",
         "notes": "",
-        "active": 4,
+        "active": 0,
         "confirmed": 8,
         "deceased": 0,
-        "recovered": 4,
+        "recovered": 8,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 4
         }
       }
     ]
@@ -8213,12 +8213,12 @@
       {
         "district": "Sivaganga",
         "notes": "",
-        "active": 0,
-        "confirmed": 12,
+        "active": 1,
+        "confirmed": 13,
         "deceased": 0,
         "recovered": 12,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
@@ -8403,19 +8403,6 @@
           "confirmed": 0,
           "deceased": 0,
           "recovered": 1
-        }
-      },
-      {
-        "district": "Unknown",
-        "notes": "",
-        "active": 1,
-        "confirmed": 1,
-        "deceased": 0,
-        "recovered": 0,
-        "delta": {
-          "confirmed": 0,
-          "deceased": 0,
-          "recovered": 0
         }
       }
     ]
