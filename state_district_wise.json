@@ -3791,14 +3791,14 @@
       },
       "Kannur": {
         "notes": "Case of Mahe native who expired in Kannur, added in tally.",
-        "active": 4,
+        "active": 5,
         "confirmed": 119,
         "deceased": 1,
-        "recovered": 114,
+        "recovered": 113,
         "delta": {
           "confirmed": 2,
           "deceased": 0,
-          "recovered": 2
+          "recovered": 1
         }
       },
       "Kasaragod": {
@@ -3815,14 +3815,14 @@
       },
       "Kollam": {
         "notes": "",
-        "active": 1,
+        "active": 0,
         "confirmed": 20,
         "deceased": 0,
-        "recovered": 19,
+        "recovered": 20,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 1
+          "recovered": 2
         }
       },
       "Kottayam": {
@@ -7310,24 +7310,24 @@
       },
       "Chengalpattu": {
         "notes": "",
-        "active": 342,
-        "confirmed": 411,
+        "active": 351,
+        "confirmed": 420,
         "deceased": 3,
         "recovered": 66,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 9,
           "deceased": 0,
           "recovered": 0
         }
       },
       "Chennai": {
         "notes": "",
-        "active": 4468,
-        "confirmed": 5262,
+        "active": 4831,
+        "confirmed": 5625,
         "deceased": 45,
         "recovered": 749,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 363,
           "deceased": 2,
           "recovered": 0
         }
@@ -7370,12 +7370,12 @@
       },
       "Dindigul": {
         "notes": "",
-        "active": 31,
-        "confirmed": 111,
+        "active": 32,
+        "confirmed": 112,
         "deceased": 1,
         "recovered": 79,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
@@ -7406,36 +7406,36 @@
       },
       "Kancheepuram": {
         "notes": "",
-        "active": 129,
-        "confirmed": 157,
+        "active": 137,
+        "confirmed": 165,
         "deceased": 1,
         "recovered": 27,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 8,
           "deceased": 0,
           "recovered": 0
         }
       },
       "Kanyakumari": {
         "notes": "",
-        "active": 10,
-        "confirmed": 27,
+        "active": 15,
+        "confirmed": 32,
         "deceased": 1,
         "recovered": 16,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 5,
           "deceased": 0,
           "recovered": 0
         }
       },
       "Karur": {
         "notes": "",
-        "active": 11,
-        "confirmed": 53,
+        "active": 13,
+        "confirmed": 55,
         "deceased": 0,
         "recovered": 42,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 2,
           "deceased": 0,
           "recovered": 0
         }
@@ -7454,12 +7454,12 @@
       },
       "Madurai": {
         "notes": "",
-        "active": 39,
-        "confirmed": 124,
+        "active": 48,
+        "confirmed": 133,
         "deceased": 2,
         "recovered": 83,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 9,
           "deceased": 0,
           "recovered": 0
         }
@@ -7502,12 +7502,12 @@
       },
       "Perambalur": {
         "notes": "",
-        "active": 134,
-        "confirmed": 142,
+        "active": 138,
+        "confirmed": 146,
         "deceased": 0,
         "recovered": 8,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 4,
           "deceased": 0,
           "recovered": 0
         }
@@ -7526,12 +7526,12 @@
       },
       "Ramanathapuram": {
         "notes": "",
-        "active": 15,
-        "confirmed": 31,
+        "active": 16,
+        "confirmed": 32,
         "deceased": 1,
         "recovered": 15,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
@@ -7574,12 +7574,12 @@
       },
       "Tenkasi": {
         "notes": "",
-        "active": 18,
-        "confirmed": 50,
+        "active": 19,
+        "confirmed": 51,
         "deceased": 0,
         "recovered": 32,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
@@ -7598,24 +7598,24 @@
       },
       "Theni": {
         "notes": "",
-        "active": 29,
-        "confirmed": 72,
+        "active": 30,
+        "confirmed": 73,
         "deceased": 1,
         "recovered": 42,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
       },
       "Thiruvallur": {
         "notes": "",
-        "active": 409,
-        "confirmed": 495,
+        "active": 424,
+        "confirmed": 510,
         "deceased": 3,
         "recovered": 83,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 15,
           "deceased": 0,
           "recovered": 0
         }
@@ -7634,12 +7634,12 @@
       },
       "Thoothukkudi": {
         "notes": "",
-        "active": 9,
-        "confirmed": 36,
+        "active": 12,
+        "confirmed": 39,
         "deceased": 1,
         "recovered": 26,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 3,
           "deceased": 0,
           "recovered": 0
         }
@@ -7658,12 +7658,12 @@
       },
       "Tirunelveli": {
         "notes": "",
-        "active": 38,
-        "confirmed": 101,
+        "active": 54,
+        "confirmed": 117,
         "deceased": 1,
         "recovered": 62,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 16,
           "deceased": 0,
           "recovered": 0
         }
@@ -7694,12 +7694,12 @@
       },
       "Tiruvannamalai": {
         "notes": "",
-        "active": 116,
-        "confirmed": 129,
+        "active": 124,
+        "confirmed": 137,
         "deceased": 0,
         "recovered": 13,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 8,
           "deceased": 0,
           "recovered": 0
         }
@@ -7742,8 +7742,8 @@
       },
       "Unknown": {
         "notes": "",
-        "active": 447,
-        "confirmed": 447,
+        "active": 1,
+        "confirmed": 1,
         "deceased": 0,
         "recovered": 0,
         "delta": {
