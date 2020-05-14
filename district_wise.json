@@ -1956,11 +1956,11 @@
 			"statecode": "CH"
 		},
 		{
-			"active": "0",
-			"confirmed": "0",
+			"active": "1",
+			"confirmed": "1",
 			"deceased": "0",
-			"deltaactive": "0",
-			"deltaconfirmed": "0",
+			"deltaactive": "1",
+			"deltaconfirmed": "1",
 			"deltadeceased": "0",
 			"deltarecovered": "0",
 			"district": "Balod",
@@ -4030,11 +4030,11 @@
 			"statecode": "JH"
 		},
 		{
-			"active": "9",
-			"confirmed": "12",
+			"active": "15",
+			"confirmed": "18",
 			"deceased": "0",
-			"deltaactive": "2",
-			"deltaconfirmed": "2",
+			"deltaactive": "8",
+			"deltaconfirmed": "8",
 			"deltadeceased": "0",
 			"deltarecovered": "0",
 			"district": "Hazaribagh",
@@ -10694,11 +10694,11 @@
 			"statecode": "TN"
 		},
 		{
-			"active": "124",
-			"confirmed": "151",
+			"active": "125",
+			"confirmed": "152",
 			"deceased": "0",
-			"deltaactive": "-27",
-			"deltaconfirmed": "0",
+			"deltaactive": "-26",
+			"deltaconfirmed": "1",
 			"deltadeceased": "0",
 			"deltarecovered": "27",
 			"district": "Dhalai",
