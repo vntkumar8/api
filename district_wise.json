@@ -6325,11 +6325,11 @@
 			"statecode": "MN"
 		},
 		{
-			"active": "0",
-			"confirmed": "1",
+			"active": "1",
+			"confirmed": "2",
 			"deceased": "0",
-			"deltaactive": "0",
-			"deltaconfirmed": "0",
+			"deltaactive": "1",
+			"deltaconfirmed": "1",
 			"deltadeceased": "0",
 			"deltarecovered": "0",
 			"district": "Imphal East",
@@ -13091,8 +13091,8 @@
 			"statecode": "MH"
 		},
 		{
-			"active": "1",
-			"confirmed": "1",
+			"active": "0",
+			"confirmed": "0",
 			"deceased": "0",
 			"deltaactive": "0",
 			"deltaconfirmed": "0",
