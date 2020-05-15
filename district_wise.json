@@ -12785,7 +12785,7 @@
 			"statecode": "AR"
 		},
 		{
-			"active": "0",
+			"active": "-1",
 			"confirmed": "0",
 			"deceased": "0",
 			"deltaactive": "0",
@@ -12796,13 +12796,13 @@
 			"districtkey": "AS_Unknown",
 			"districtnotes": "",
 			"lastupdated": "",
-			"recovered": "0",
+			"recovered": "1",
 			"slno": "731",
 			"state": "Assam",
 			"statecode": "AS"
 		},
 		{
-			"active": "-13",
+			"active": "-40",
 			"confirmed": "0",
 			"deceased": "0",
 			"deltaactive": "0",
@@ -12813,7 +12813,7 @@
 			"districtkey": "BR_Unknown",
 			"districtnotes": "",
 			"lastupdated": "",
-			"recovered": "13",
+			"recovered": "40",
 			"slno": "732",
 			"state": "Bihar",
 			"statecode": "BR"
