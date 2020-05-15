@@ -3710,14 +3710,14 @@
       {
         "district": "Belagavi",
         "notes": "",
-        "active": 72,
+        "active": 71,
         "confirmed": 114,
         "deceased": 1,
-        "recovered": 41,
+        "recovered": 42,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 1
         }
       },
       {
@@ -3736,14 +3736,14 @@
       {
         "district": "Bengaluru Urban",
         "notes": "One death on 27th Apr is not included as it's not counted as covid related death by the Karnataka govt.",
-        "active": 97,
+        "active": 93,
         "confirmed": 202,
         "deceased": 7,
-        "recovered": 97,
+        "recovered": 101,
         "delta": {
           "confirmed": 13,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 4
         }
       },
       {
@@ -4087,10 +4087,10 @@
       {
         "district": "Unknown",
         "notes": "",
-        "active": -20,
+        "active": -15,
         "confirmed": 0,
         "deceased": 0,
-        "recovered": 20,
+        "recovered": 15,
         "delta": {
           "confirmed": 0,
           "deceased": 0,

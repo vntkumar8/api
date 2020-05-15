@@ -4676,18 +4676,18 @@
 			"statecode": "KA"
 		},
 		{
-			"active": "72",
+			"active": "71",
 			"confirmed": "114",
 			"deceased": "1",
-			"deltaactive": "0",
+			"deltaactive": "-1",
 			"deltaconfirmed": "0",
 			"deltadeceased": "0",
-			"deltarecovered": "0",
+			"deltarecovered": "1",
 			"district": "Belagavi",
 			"districtkey": "KA_Belagavi",
 			"districtnotes": "",
 			"lastupdated": "",
-			"recovered": "41",
+			"recovered": "42",
 			"slno": "272",
 			"state": "Karnataka",
 			"statecode": "KA"
@@ -4710,18 +4710,18 @@
 			"statecode": "KA"
 		},
 		{
-			"active": "97",
+			"active": "93",
 			"confirmed": "202",
 			"deceased": "7",
-			"deltaactive": "13",
+			"deltaactive": "9",
 			"deltaconfirmed": "13",
 			"deltadeceased": "0",
-			"deltarecovered": "0",
+			"deltarecovered": "4",
 			"district": "Bengaluru Urban",
 			"districtkey": "KA_Bengaluru Urban",
 			"districtnotes": "One death on 27th Apr is not included as it's not counted as covid related death by the Karnataka govt.",
 			"lastupdated": "",
-			"recovered": "97",
+			"recovered": "101",
 			"slno": "273",
 			"state": "Karnataka",
 			"statecode": "KA"
@@ -12989,7 +12989,7 @@
 			"statecode": "JH"
 		},
 		{
-			"active": "-20",
+			"active": "-15",
 			"confirmed": "0",
 			"deceased": "0",
 			"deltaactive": "0",
@@ -13000,7 +13000,7 @@
 			"districtkey": "KA_Unknown",
 			"districtnotes": "",
 			"lastupdated": "",
-			"recovered": "20",
+			"recovered": "15",
 			"slno": "744",
 			"state": "Karnataka",
 			"statecode": "KA"
