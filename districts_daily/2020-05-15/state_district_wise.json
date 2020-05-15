@@ -1388,6 +1388,18 @@
           "deceased": 0,
           "recovered": 0
         }
+      },
+      "Unknown": {
+        "notes": "",
+        "active": -13,
+        "confirmed": 0,
+        "deceased": 0,
+        "recovered": 13,
+        "delta": {
+          "confirmed": 0,
+          "deceased": 0,
+          "recovered": 0
+        }
       }
     },
     "statecode": "BR"
