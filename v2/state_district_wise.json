@@ -804,12 +804,12 @@
       {
         "district": "Kamrup Metropolitan",
         "notes": "",
-        "active": 27,
-        "confirmed": 29,
+        "active": 30,
+        "confirmed": 32,
         "deceased": 1,
         "recovered": 1,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 3,
           "deceased": 0,
           "recovered": 0
         }
@@ -1096,12 +1096,12 @@
       {
         "district": "Bhojpur",
         "notes": "",
-        "active": 11,
-        "confirmed": 29,
+        "active": 12,
+        "confirmed": 30,
         "deceased": 0,
         "recovered": 18,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
@@ -1239,12 +1239,12 @@
       {
         "district": "Kishanganj",
         "notes": "",
-        "active": 10,
-        "confirmed": 10,
+        "active": 12,
+        "confirmed": 12,
         "deceased": 0,
         "recovered": 0,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 2,
           "deceased": 0,
           "recovered": 0
         }
@@ -1265,12 +1265,12 @@
       {
         "district": "Madhepura",
         "notes": "",
-        "active": 7,
-        "confirmed": 9,
+        "active": 14,
+        "confirmed": 16,
         "deceased": 0,
         "recovered": 2,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 7,
           "deceased": 0,
           "recovered": 0
         }
@@ -1382,12 +1382,12 @@
       {
         "district": "Saharsa",
         "notes": "",
-        "active": 10,
-        "confirmed": 10,
+        "active": 13,
+        "confirmed": 13,
         "deceased": 0,
         "recovered": 0,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 3,
           "deceased": 0,
           "recovered": 0
         }
@@ -1473,12 +1473,12 @@
       {
         "district": "Supaul",
         "notes": "",
-        "active": 9,
-        "confirmed": 9,
+        "active": 11,
+        "confirmed": 11,
         "deceased": 0,
         "recovered": 0,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 2,
           "deceased": 0,
           "recovered": 0
         }
@@ -8304,9 +8304,9 @@
       {
         "district": "Thoothukkudi",
         "notes": "",
-        "active": 21,
+        "active": 20,
         "confirmed": 48,
-        "deceased": 1,
+        "deceased": 2,
         "recovered": 26,
         "delta": {
           "confirmed": 10,
@@ -8414,19 +8414,6 @@
         "recovered": 32,
         "delta": {
           "confirmed": 2,
-          "deceased": 0,
-          "recovered": 0
-        }
-      },
-      {
-        "district": "Unknown",
-        "notes": "",
-        "active": -1,
-        "confirmed": 0,
-        "deceased": 1,
-        "recovered": 0,
-        "delta": {
-          "confirmed": 0,
           "deceased": 0,
           "recovered": 0
         }
