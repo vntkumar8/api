@@ -783,18 +783,18 @@
 			"statecode": "AS"
 		},
 		{
-			"active": "10",
+			"active": "9",
 			"confirmed": "11",
 			"deceased": "0",
-			"deltaactive": "0",
+			"deltaactive": "-1",
 			"deltaconfirmed": "0",
 			"deltadeceased": "0",
-			"deltarecovered": "0",
+			"deltarecovered": "1",
 			"district": "Cachar",
 			"districtkey": "AS_Cachar",
 			"districtnotes": "",
 			"lastupdated": "",
-			"recovered": "1",
+			"recovered": "2",
 			"slno": "46",
 			"state": "Assam",
 			"statecode": "AS"
@@ -1939,18 +1939,18 @@
 			"statecode": "BR"
 		},
 		{
-			"active": "151",
+			"active": "148",
 			"confirmed": "191",
 			"deceased": "3",
-			"deltaactive": "0",
+			"deltaactive": "-3",
 			"deltaconfirmed": "0",
 			"deltadeceased": "0",
-			"deltarecovered": "0",
+			"deltarecovered": "3",
 			"district": "Chandigarh",
 			"districtkey": "CH_Chandigarh",
 			"districtnotes": "",
 			"lastupdated": "",
-			"recovered": "37",
+			"recovered": "40",
 			"slno": "113",
 			"state": "Chandigarh",
 			"statecode": "CH"
@@ -3316,8 +3316,8 @@
 			"statecode": "HP"
 		},
 		{
-			"active": "12",
-			"confirmed": "17",
+			"active": "13",
+			"confirmed": "18",
 			"deceased": "1",
 			"deltaactive": "0",
 			"deltaconfirmed": "0",
@@ -12785,7 +12785,7 @@
 			"statecode": "AR"
 		},
 		{
-			"active": "-1",
+			"active": "0",
 			"confirmed": "0",
 			"deceased": "0",
 			"deltaactive": "0",
@@ -12796,7 +12796,7 @@
 			"districtkey": "AS_Unknown",
 			"districtnotes": "",
 			"lastupdated": "",
-			"recovered": "1",
+			"recovered": "0",
 			"slno": "731",
 			"state": "Assam",
 			"statecode": "AS"
@@ -12938,8 +12938,8 @@
 			"statecode": "HR"
 		},
 		{
-			"active": "1",
-			"confirmed": "1",
+			"active": "0",
+			"confirmed": "0",
 			"deceased": "0",
 			"deltaactive": "0",
 			"deltaconfirmed": "0",
@@ -12972,8 +12972,8 @@
 			"statecode": "JK"
 		},
 		{
-			"active": "0",
-			"confirmed": "0",
+			"active": "2",
+			"confirmed": "2",
 			"deceased": "0",
 			"deltaactive": "0",
 			"deltaconfirmed": "0",

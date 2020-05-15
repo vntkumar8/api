@@ -570,14 +570,14 @@
       },
       "Cachar": {
         "notes": "",
-        "active": 10,
+        "active": 9,
         "confirmed": 11,
         "deceased": 0,
-        "recovered": 1,
+        "recovered": 2,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 1
         }
       },
       "Charaideo": {
@@ -922,18 +922,6 @@
         "confirmed": 0,
         "deceased": 0,
         "recovered": 0,
-        "delta": {
-          "confirmed": 0,
-          "deceased": 0,
-          "recovered": 0
-        }
-      },
-      "Unknown": {
-        "notes": "",
-        "active": -1,
-        "confirmed": 0,
-        "deceased": 0,
-        "recovered": 1,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
@@ -1420,14 +1408,14 @@
     "districtData": {
       "Chandigarh": {
         "notes": "",
-        "active": 151,
+        "active": 148,
         "confirmed": 191,
         "deceased": 3,
-        "recovered": 37,
+        "recovered": 40,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 3
         }
       }
     },
@@ -2434,8 +2422,8 @@
       },
       "Kangra": {
         "notes": "",
-        "active": 12,
-        "confirmed": 17,
+        "active": 13,
+        "confirmed": 18,
         "deceased": 1,
         "recovered": 4,
         "delta": {
@@ -2536,18 +2524,6 @@
         "recovered": 16,
         "delta": {
           "confirmed": 1,
-          "deceased": 0,
-          "recovered": 0
-        }
-      },
-      "Unknown": {
-        "notes": "",
-        "active": 1,
-        "confirmed": 1,
-        "deceased": 0,
-        "recovered": 0,
-        "delta": {
-          "confirmed": 0,
           "deceased": 0,
           "recovered": 0
         }
@@ -3118,6 +3094,18 @@
         "notes": "",
         "active": 0,
         "confirmed": 0,
+        "deceased": 0,
+        "recovered": 0,
+        "delta": {
+          "confirmed": 0,
+          "deceased": 0,
+          "recovered": 0
+        }
+      },
+      "Unknown": {
+        "notes": "",
+        "active": 2,
+        "confirmed": 2,
         "deceased": 0,
         "recovered": 0,
         "delta": {
