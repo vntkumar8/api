@@ -4119,14 +4119,14 @@
       {
         "district": "Kannur",
         "notes": "",
-        "active": 5,
+        "active": 3,
         "confirmed": 119,
         "deceased": 1,
-        "recovered": 113,
+        "recovered": 115,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 2
         }
       },
       {
@@ -4171,12 +4171,12 @@
       {
         "district": "Kozhikode",
         "notes": "",
-        "active": 5,
-        "confirmed": 29,
+        "active": 8,
+        "confirmed": 32,
         "deceased": 0,
         "recovered": 24,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 3,
           "deceased": 0,
           "recovered": 0
         }
@@ -4184,12 +4184,12 @@
       {
         "district": "Malappuram",
         "notes": "",
-        "active": 17,
-        "confirmed": 41,
+        "active": 19,
+        "confirmed": 43,
         "deceased": 1,
         "recovered": 23,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 2,
           "deceased": 0,
           "recovered": 0
         }
@@ -4197,12 +4197,12 @@
       {
         "district": "Palakkad",
         "notes": "",
-        "active": 7,
-        "confirmed": 20,
+        "active": 9,
+        "confirmed": 22,
         "deceased": 0,
         "recovered": 13,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 2,
           "deceased": 0,
           "recovered": 0
         }
@@ -4236,12 +4236,12 @@
       {
         "district": "Thrissur",
         "notes": "",
-        "active": 2,
-        "confirmed": 15,
+        "active": 6,
+        "confirmed": 19,
         "deceased": 0,
         "recovered": 13,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 4,
           "deceased": 0,
           "recovered": 0
         }
@@ -4249,14 +4249,14 @@
       {
         "district": "Wayanad",
         "notes": "",
-        "active": 18,
+        "active": 16,
         "confirmed": 21,
         "deceased": 0,
-        "recovered": 3,
+        "recovered": 5,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 2
         }
       }
     ]
