@@ -3378,24 +3378,24 @@
     "districtData": {
       "Bagalkote": {
         "notes": "",
-        "active": 42,
-        "confirmed": 70,
+        "active": 43,
+        "confirmed": 71,
         "deceased": 1,
         "recovered": 27,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
       },
       "Ballari": {
         "notes": "",
-        "active": 4,
-        "confirmed": 17,
+        "active": 5,
+        "confirmed": 18,
         "deceased": 0,
         "recovered": 13,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
@@ -3426,12 +3426,12 @@
       },
       "Bengaluru Urban": {
         "notes": "",
-        "active": 94,
-        "confirmed": 202,
+        "active": 108,
+        "confirmed": 216,
         "deceased": 7,
         "recovered": 101,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 14,
           "deceased": 0,
           "recovered": 0
         }
@@ -3510,24 +3510,24 @@
       },
       "Davanagere": {
         "notes": "",
-        "active": 82,
-        "confirmed": 88,
+        "active": 83,
+        "confirmed": 89,
         "deceased": 4,
         "recovered": 2,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
       },
       "Dharwad": {
         "notes": "",
-        "active": 14,
-        "confirmed": 21,
+        "active": 15,
+        "confirmed": 22,
         "deceased": 0,
         "recovered": 7,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
@@ -3546,12 +3546,12 @@
       },
       "Hassan": {
         "notes": "",
-        "active": 16,
-        "confirmed": 16,
+        "active": 19,
+        "confirmed": 19,
         "deceased": 0,
         "recovered": 0,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 3,
           "deceased": 0,
           "recovered": 0
         }
@@ -3618,12 +3618,12 @@
       },
       "Mandya": {
         "notes": "",
-        "active": 30,
-        "confirmed": 49,
+        "active": 31,
+        "confirmed": 50,
         "deceased": 0,
         "recovered": 19,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
@@ -3702,12 +3702,12 @@
       },
       "Udupi": {
         "notes": "",
-        "active": 5,
-        "confirmed": 8,
+        "active": 6,
+        "confirmed": 9,
         "deceased": 0,
         "recovered": 3,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
@@ -3742,6 +3742,18 @@
         "confirmed": 2,
         "deceased": 0,
         "recovered": 0,
+        "delta": {
+          "confirmed": 0,
+          "deceased": 0,
+          "recovered": 0
+        }
+      },
+      "Unknown": {
+        "notes": "",
+        "active": -14,
+        "confirmed": 0,
+        "deceased": 0,
+        "recovered": 14,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
