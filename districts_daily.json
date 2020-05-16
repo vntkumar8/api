@@ -6566,14 +6566,6 @@
           "deceased": 0,
           "recovered": 21,
           "date": "2020-04-30"
-        },
-        {
-          "notes": "",
-          "active": 1,
-          "confirmed": 1,
-          "deceased": 0,
-          "recovered": 0,
-          "date": "2020-05-16"
         }
       ],
       "Bongaigaon": [
@@ -15461,6 +15453,14 @@
           "deceased": 0,
           "recovered": 0,
           "date": "2020-05-01"
+        },
+        {
+          "notes": "",
+          "active": 1,
+          "confirmed": 1,
+          "deceased": 0,
+          "recovered": 0,
+          "date": "2020-05-16"
         }
       ],
       "Surajpur": [
@@ -30777,8 +30777,8 @@
         },
         {
           "notes": "",
-          "active": 5,
-          "confirmed": 7,
+          "active": 6,
+          "confirmed": 8,
           "deceased": 0,
           "recovered": 2,
           "date": "2020-05-16"
@@ -37236,10 +37236,10 @@
         },
         {
           "notes": "",
-          "active": 30,
+          "active": 18,
           "confirmed": 103,
           "deceased": 2,
-          "recovered": 71,
+          "recovered": 83,
           "date": "2020-05-16"
         }
       ],
@@ -37532,6 +37532,14 @@
           "deceased": 0,
           "recovered": 0,
           "date": "2020-05-13"
+        },
+        {
+          "notes": "",
+          "active": -2,
+          "confirmed": 0,
+          "deceased": 0,
+          "recovered": 2,
+          "date": "2020-05-16"
         }
       ],
       "Palamu": [
@@ -38387,10 +38395,10 @@
         },
         {
           "notes": "",
-          "active": 2,
+          "active": 0,
           "confirmed": 2,
           "deceased": 0,
-          "recovered": 0,
+          "recovered": 2,
           "date": "2020-05-16"
         }
       ],
