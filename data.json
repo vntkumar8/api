@@ -964,25 +964,34 @@
 			"totalrecovered": "30245"
 		},
 		{
-			"dailyconfirmed": "4759",
+			"dailyconfirmed": "4792",
 			"dailydeceased": "118",
-			"dailyrecovered": "3975",
+			"dailyrecovered": "3979",
 			"date": "16 May ",
-			"totalconfirmed": "90614",
+			"totalconfirmed": "90647",
 			"totaldeceased": "2870",
-			"totalrecovered": "34220"
+			"totalrecovered": "34224"
+		},
+		{
+			"dailyconfirmed": "0",
+			"dailydeceased": "0",
+			"dailyrecovered": "0",
+			"date": "17 May ",
+			"totalconfirmed": "90647",
+			"totaldeceased": "2870",
+			"totalrecovered": "34224"
 		}
 	],
 	"statewise": [
 		{
-			"active": "53519",
-			"confirmed": "90615",
+			"active": "53548",
+			"confirmed": "90648",
 			"deaths": "2871",
-			"deltaconfirmed": "4759",
+			"deltaconfirmed": "4792",
 			"deltadeaths": "118",
-			"deltarecovered": "3975",
-			"lastupdatedtime": "16/05/2020 23:34:23",
-			"recovered": "34220",
+			"deltarecovered": "3979",
+			"lastupdatedtime": "16/05/2020 23:51:23",
+			"recovered": "34224",
 			"state": "Total",
 			"statecode": "TT",
 			"statenotes": ""
@@ -1131,13 +1140,13 @@
 			"statenotes": ""
 		},
 		{
-			"active": "698",
-			"confirmed": "1145",
+			"active": "731",
+			"confirmed": "1178",
 			"deaths": "7",
-			"deltaconfirmed": "112",
+			"deltaconfirmed": "145",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
-			"lastupdatedtime": "16/05/2020 20:29:28",
+			"lastupdatedtime": "16/05/2020 23:51:24",
 			"recovered": "440",
 			"state": "Bihar",
 			"statecode": "BR",
@@ -1274,14 +1283,14 @@
 			"statenotes": ""
 		},
 		{
-			"active": "37",
+			"active": "33",
 			"confirmed": "78",
 			"deaths": "3",
 			"deltaconfirmed": "2",
 			"deltadeaths": "0",
-			"deltarecovered": "0",
-			"lastupdatedtime": "16/05/2020 23:34:27",
-			"recovered": "35",
+			"deltarecovered": "4",
+			"lastupdatedtime": "16/05/2020 23:51:26",
+			"recovered": "39",
 			"state": "Himachal Pradesh",
 			"statecode": "HP",
 			"statenotes": "HP has 4 Migrated cases which are reduced from Active #. Also, death of Tibetan refugee is included in deceased numbers, but not in confirmed"
