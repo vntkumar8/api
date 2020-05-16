@@ -6308,11 +6308,11 @@
 			"statecode": "MN"
 		},
 		{
-			"active": "0",
-			"confirmed": "0",
+			"active": "1",
+			"confirmed": "1",
 			"deceased": "0",
-			"deltaactive": "0",
-			"deltaconfirmed": "0",
+			"deltaactive": "1",
+			"deltaconfirmed": "1",
 			"deltadeceased": "0",
 			"deltarecovered": "0",
 			"district": "Churachandpur",
@@ -6342,11 +6342,11 @@
 			"statecode": "MN"
 		},
 		{
-			"active": "0",
-			"confirmed": "1",
+			"active": "2",
+			"confirmed": "3",
 			"deceased": "0",
-			"deltaactive": "0",
-			"deltaconfirmed": "0",
+			"deltaactive": "2",
+			"deltaconfirmed": "2",
 			"deltadeceased": "0",
 			"deltarecovered": "0",
 			"district": "Imphal West",
@@ -13091,8 +13091,8 @@
 			"statecode": "MH"
 		},
 		{
-			"active": "4",
-			"confirmed": "4",
+			"active": "1",
+			"confirmed": "1",
 			"deceased": "0",
 			"deltaactive": "0",
 			"deltaconfirmed": "0",
