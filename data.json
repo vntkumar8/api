@@ -965,24 +965,24 @@
 		},
 		{
 			"dailyconfirmed": "139",
-			"dailydeceased": "0",
-			"dailyrecovered": "5",
+			"dailydeceased": "1",
+			"dailyrecovered": "106",
 			"date": "16 May ",
 			"totalconfirmed": "85994",
-			"totaldeceased": "2752",
-			"totalrecovered": "30263"
+			"totaldeceased": "2753",
+			"totalrecovered": "30364"
 		}
 	],
 	"statewise": [
 		{
-			"active": "52974",
+			"active": "52872",
 			"confirmed": "85995",
-			"deaths": "2753",
+			"deaths": "2754",
 			"deltaconfirmed": "139",
-			"deltadeaths": "0",
-			"deltarecovered": "5",
-			"lastupdatedtime": "16/05/2020 12:01:28",
-			"recovered": "30263",
+			"deltadeaths": "1",
+			"deltarecovered": "106",
+			"lastupdatedtime": "16/05/2020 12:11:23",
+			"recovered": "30364",
 			"state": "Total",
 			"statecode": "TT",
 			"statenotes": ""
@@ -1092,14 +1092,14 @@
 			"statenotes": "- Cases updated as per WB bulletin as it now provides total number of cases.<br>\n- Deaths due to comorbidities added to total deceased<br>\n- Zones updated as per WB bulletin<br>"
 		},
 		{
-			"active": "1055",
+			"active": "953",
 			"confirmed": "2355",
-			"deaths": "48",
+			"deaths": "49",
 			"deltaconfirmed": "48",
-			"deltadeaths": "0",
-			"deltarecovered": "0",
-			"lastupdatedtime": "16/05/2020 12:01:30",
-			"recovered": "1252",
+			"deltadeaths": "1",
+			"deltarecovered": "101",
+			"lastupdatedtime": "16/05/2020 12:11:24",
+			"recovered": "1353",
 			"state": "Andhra Pradesh",
 			"statecode": "AP",
 			"statenotes": "Total includes patients from other states."
