@@ -975,13 +975,13 @@
 	],
 	"statewise": [
 		{
-			"active": "55814",
-			"confirmed": "95639",
+			"active": "55823",
+			"confirmed": "95648",
 			"deaths": "3025",
-			"deltaconfirmed": "4990",
+			"deltaconfirmed": "4999",
 			"deltadeaths": "152",
 			"deltarecovered": "2537",
-			"lastupdatedtime": "17/05/2020 22:33:23",
+			"lastupdatedtime": "17/05/2020 22:51:23",
 			"recovered": "36794",
 			"state": "Total",
 			"statecode": "TT",
@@ -1001,19 +1001,6 @@
 			"statenotes": ""
 		},
 		{
-			"active": "6973",
-			"confirmed": "11224",
-			"deaths": "79",
-			"deltaconfirmed": "639",
-			"deltadeaths": "4",
-			"deltarecovered": "634",
-			"lastupdatedtime": "17/05/2020 19:13:23",
-			"recovered": "4172",
-			"state": "Tamil Nadu",
-			"statecode": "TN",
-			"statenotes": ""
-		},
-		{
 			"active": "6222",
 			"confirmed": "11380",
 			"deaths": "659",
@@ -1024,6 +1011,19 @@
 			"recovered": "4499",
 			"state": "Gujarat",
 			"statecode": "GJ",
+			"statenotes": ""
+		},
+		{
+			"active": "6973",
+			"confirmed": "11224",
+			"deaths": "79",
+			"deltaconfirmed": "639",
+			"deltadeaths": "4",
+			"deltarecovered": "634",
+			"lastupdatedtime": "17/05/2020 19:13:23",
+			"recovered": "4172",
+			"state": "Tamil Nadu",
+			"statecode": "TN",
 			"statenotes": ""
 		},
 		{
@@ -1040,19 +1040,6 @@
 			"statenotes": "[10-May]<br>\n\nDelhi will be releasing bulletins in the morning, containing data of the previous day. We will add that data to the date on which the report is released, rather than the previous day."
 		},
 		{
-			"active": "2326",
-			"confirmed": "4977",
-			"deaths": "248",
-			"deltaconfirmed": "187",
-			"deltadeaths": "5",
-			"deltarecovered": "88",
-			"lastupdatedtime": "17/05/2020 21:03:24",
-			"recovered": "2403",
-			"state": "Madhya Pradesh",
-			"statecode": "MP",
-			"statenotes": ""
-		},
-		{
 			"active": "2016",
 			"confirmed": "5202",
 			"deaths": "131",
@@ -1063,6 +1050,19 @@
 			"recovered": "3055",
 			"state": "Rajasthan",
 			"statecode": "RJ",
+			"statenotes": ""
+		},
+		{
+			"active": "2326",
+			"confirmed": "4977",
+			"deaths": "248",
+			"deltaconfirmed": "187",
+			"deltadeaths": "5",
+			"deltarecovered": "88",
+			"lastupdatedtime": "17/05/2020 21:03:24",
+			"recovered": "2403",
+			"state": "Madhya Pradesh",
+			"statecode": "MP",
 			"statenotes": ""
 		},
 		{
@@ -1144,19 +1144,6 @@
 			"statenotes": ""
 		},
 		{
-			"active": "600",
-			"confirmed": "1147",
-			"deaths": "37",
-			"deltaconfirmed": "55",
-			"deltadeaths": "1",
-			"deltarecovered": "13",
-			"lastupdatedtime": "17/05/2020 19:40:24",
-			"recovered": "509",
-			"state": "Karnataka",
-			"statecode": "KA",
-			"statenotes": "One active case in KA reduced as a confirmed patient died of non-CoViD19 related reasons"
-		},
-		{
 			"active": "595",
 			"confirmed": "1183",
 			"deaths": "13",
@@ -1168,6 +1155,19 @@
 			"state": "Jammu and Kashmir",
 			"statecode": "JK",
 			"statenotes": ""
+		},
+		{
+			"active": "600",
+			"confirmed": "1147",
+			"deaths": "37",
+			"deltaconfirmed": "55",
+			"deltadeaths": "1",
+			"deltarecovered": "13",
+			"lastupdatedtime": "17/05/2020 19:40:24",
+			"recovered": "509",
+			"state": "Karnataka",
+			"statecode": "KA",
+			"statenotes": "One active case in KA reduced as a confirmed patient died of non-CoViD19 related reasons"
 		},
 		{
 			"active": "334",
@@ -1209,19 +1209,6 @@
 			"statenotes": "Mahe native who expired in Kannur included in Kerala's tally"
 		},
 		{
-			"active": "137",
-			"confirmed": "191",
-			"deaths": "3",
-			"deltaconfirmed": "0",
-			"deltadeaths": "0",
-			"deltarecovered": "0",
-			"lastupdatedtime": "16/05/2020 20:29:31",
-			"recovered": "51",
-			"state": "Chandigarh",
-			"statecode": "CH",
-			"statenotes": ""
-		},
-		{
 			"active": "107",
 			"confirmed": "223",
 			"deaths": "3",
@@ -1232,6 +1219,19 @@
 			"recovered": "113",
 			"state": "Jharkhand",
 			"statecode": "JH",
+			"statenotes": ""
+		},
+		{
+			"active": "137",
+			"confirmed": "191",
+			"deaths": "3",
+			"deltaconfirmed": "0",
+			"deltadeaths": "0",
+			"deltarecovered": "0",
+			"lastupdatedtime": "16/05/2020 20:29:31",
+			"recovered": "51",
+			"state": "Chandigarh",
+			"statecode": "CH",
 			"statenotes": ""
 		},
 		{
@@ -1326,29 +1326,16 @@
 			"statenotes": ""
 		},
 		{
-			"active": "13",
-			"confirmed": "20",
+			"active": "22",
+			"confirmed": "29",
 			"deaths": "0",
-			"deltaconfirmed": "0",
+			"deltaconfirmed": "9",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
-			"lastupdatedtime": "16/05/2020 23:14:30",
+			"lastupdatedtime": "17/05/2020 22:51:25",
 			"recovered": "7",
 			"state": "Goa",
 			"statecode": "GA",
-			"statenotes": ""
-		},
-		{
-			"active": "1",
-			"confirmed": "13",
-			"deaths": "1",
-			"deltaconfirmed": "0",
-			"deltadeaths": "0",
-			"deltarecovered": "0",
-			"lastupdatedtime": "13/05/2020 11:13:25",
-			"recovered": "11",
-			"state": "Meghalaya",
-			"statecode": "ML",
 			"statenotes": ""
 		},
 		{
@@ -1362,6 +1349,19 @@
 			"recovered": "9",
 			"state": "Puducherry",
 			"statecode": "PY",
+			"statenotes": ""
+		},
+		{
+			"active": "1",
+			"confirmed": "13",
+			"deaths": "1",
+			"deltaconfirmed": "0",
+			"deltadeaths": "0",
+			"deltarecovered": "0",
+			"lastupdatedtime": "13/05/2020 11:13:25",
+			"recovered": "11",
+			"state": "Meghalaya",
+			"statecode": "ML",
 			"statenotes": ""
 		},
 		{
