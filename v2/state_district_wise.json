@@ -1291,14 +1291,14 @@
       {
         "district": "Munger",
         "notes": "",
-        "active": 56,
+        "active": 34,
         "confirmed": 125,
         "deceased": 1,
-        "recovered": 68,
+        "recovered": 90,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 22
         }
       },
       {
@@ -1369,14 +1369,14 @@
       {
         "district": "Rohtas",
         "notes": "",
-        "active": 34,
+        "active": 31,
         "confirmed": 77,
         "deceased": 1,
-        "recovered": 42,
+        "recovered": 45,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 3
         }
       },
       {
@@ -1499,14 +1499,14 @@
       {
         "district": "West Champaran",
         "notes": "",
-        "active": 22,
+        "active": 14,
         "confirmed": 25,
         "deceased": 0,
-        "recovered": 3,
+        "recovered": 11,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 8
         }
       }
     ]
@@ -4065,6 +4065,19 @@
         "confirmed": 2,
         "deceased": 0,
         "recovered": 0,
+        "delta": {
+          "confirmed": 0,
+          "deceased": 0,
+          "recovered": 0
+        }
+      },
+      {
+        "district": "Unknown",
+        "notes": "",
+        "active": 50,
+        "confirmed": 54,
+        "deceased": 1,
+        "recovered": 3,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
