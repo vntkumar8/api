@@ -8825,12 +8825,12 @@
       },
       "Dehradun": {
         "notes": "",
-        "active": 15,
-        "confirmed": 44,
+        "active": 16,
+        "confirmed": 45,
         "deceased": 1,
         "recovered": 28,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
@@ -8925,6 +8925,18 @@
         "confirmed": 1,
         "deceased": 0,
         "recovered": 0,
+        "delta": {
+          "confirmed": 0,
+          "deceased": 0,
+          "recovered": 0
+        }
+      },
+      "Unknown": {
+        "notes": "",
+        "active": -1,
+        "confirmed": 0,
+        "deceased": 0,
+        "recovered": 1,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
