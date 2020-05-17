@@ -973,24 +973,24 @@
 			"totalrecovered": "34257"
 		},
 		{
-			"dailyconfirmed": "5051",
+			"dailyconfirmed": "5049",
 			"dailydeceased": "152",
 			"dailyrecovered": "2538",
 			"date": "17 May ",
-			"totalconfirmed": "95699",
+			"totalconfirmed": "95697",
 			"totaldeceased": "3024",
 			"totalrecovered": "36795"
 		}
 	],
 	"statewise": [
 		{
-			"active": "55874",
-			"confirmed": "95700",
+			"active": "55872",
+			"confirmed": "95698",
 			"deaths": "3025",
-			"deltaconfirmed": "5051",
+			"deltaconfirmed": "5049",
 			"deltadeaths": "152",
 			"deltarecovered": "2538",
-			"lastupdatedtime": "18/05/2020 01:21:23",
+			"lastupdatedtime": "18/05/2020 01:31:23",
 			"recovered": "36795",
 			"state": "Total",
 			"statecode": "TT",
@@ -1146,7 +1146,7 @@
 			"deltaconfirmed": "142",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
-			"lastupdatedtime": "18/05/2020 01:21:24",
+			"lastupdatedtime": "18/05/2020 01:23:24",
 			"recovered": "473",
 			"state": "Bihar",
 			"statecode": "BR",
@@ -1244,17 +1244,17 @@
 			"statenotes": ""
 		},
 		{
-			"active": "82",
-			"confirmed": "167",
+			"active": "80",
+			"confirmed": "165",
 			"deaths": "0",
-			"deltaconfirmed": "0",
+			"deltaconfirmed": "-2",
 			"deltadeaths": "0",
 			"deltarecovered": "21",
-			"lastupdatedtime": "17/05/2020 20:10:24",
+			"lastupdatedtime": "18/05/2020 01:31:25",
 			"recovered": "85",
 			"state": "Tripura",
 			"statecode": "TR",
-			"statenotes": ""
+			"statenotes": "Two cases are migrated out of Tripura."
 		},
 		{
 			"active": "55",
