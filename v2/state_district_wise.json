@@ -3697,14 +3697,14 @@
       {
         "district": "Bagalkote",
         "notes": "",
-        "active": 43,
+        "active": 31,
         "confirmed": 71,
         "deceased": 1,
-        "recovered": 27,
+        "recovered": 39,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 12
         }
       },
       {
@@ -3788,14 +3788,14 @@
       {
         "district": "Chikkaballapura",
         "notes": "",
-        "active": 5,
+        "active": 4,
         "confirmed": 24,
         "deceased": 2,
-        "recovered": 17,
+        "recovered": 18,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 1
         }
       },
       {
@@ -3827,14 +3827,14 @@
       {
         "district": "Dakshina Kannada",
         "notes": "",
-        "active": 33,
+        "active": 32,
         "confirmed": 48,
         "deceased": 5,
-        "recovered": 10,
+        "recovered": 11,
         "delta": {
           "confirmed": 2,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 1
         }
       },
       {
@@ -3905,14 +3905,14 @@
       {
         "district": "Kalaburagi",
         "notes": "",
-        "active": 57,
+        "active": 55,
         "confirmed": 115,
         "deceased": 7,
-        "recovered": 51,
+        "recovered": 53,
         "delta": {
           "confirmed": 11,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 2
         }
       },
       {
@@ -3957,14 +3957,14 @@
       {
         "district": "Mandya",
         "notes": "",
-        "active": 70,
+        "active": 68,
         "confirmed": 89,
         "deceased": 0,
-        "recovered": 19,
+        "recovered": 21,
         "delta": {
           "confirmed": 17,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 2
         }
       },
       {
@@ -3983,14 +3983,14 @@
       {
         "district": "Other State",
         "notes": "",
-        "active": 2,
+        "active": 1,
         "confirmed": 22,
         "deceased": 1,
-        "recovered": 19,
+        "recovered": 20,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 1
         }
       },
       {
@@ -4035,14 +4035,14 @@
       {
         "district": "Tumakuru",
         "notes": "",
-        "active": 6,
+        "active": 4,
         "confirmed": 11,
         "deceased": 2,
-        "recovered": 3,
+        "recovered": 5,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 2
         }
       },
       {
@@ -4093,19 +4093,6 @@
         "recovered": 0,
         "delta": {
           "confirmed": 5,
-          "deceased": 0,
-          "recovered": 0
-        }
-      },
-      {
-        "district": "Unknown",
-        "notes": "",
-        "active": -21,
-        "confirmed": 0,
-        "deceased": 0,
-        "recovered": 21,
-        "delta": {
-          "confirmed": 0,
           "deceased": 0,
           "recovered": 0
         }
