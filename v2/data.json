@@ -2940,14 +2940,14 @@
       },
       "Kamrup Metropolitan": {
         "delta": {
-          "confirmed": 0,
+          "confirmed": 7,
           "recovered": 0,
-          "deceased": 0
+          "deceased": 1
         },
         "total": {
-          "confirmed": 39,
+          "confirmed": 46,
           "recovered": 1,
-          "deceased": 1
+          "deceased": 2
         },
         "zone": {
           "status": "Orange",
@@ -3195,9 +3195,9 @@
       }
     },
     "total": {
-      "confirmed": 109,
+      "confirmed": 116,
       "recovered": 42,
-      "deceased": 3,
+      "deceased": 4,
       "tested": {
         "samples": 34376,
         "source": "https://twitter.com/nhm_assam/status/1262045284873338887?s=19",
@@ -3205,12 +3205,12 @@
       }
     },
     "delta": {
-      "confirmed": 8,
+      "confirmed": 15,
       "recovered": 0,
-      "deceased": 1
+      "deceased": 2
     },
     "notes": "Includes one case from Nagaland <br>\nTwo* patients who migrated to Bihar has been reduced from Active count",
-    "last_updated": "2020-05-18T22:50:27+05:30"
+    "last_updated": "2020-05-18T23:21:24+05:30"
   },
   "BR": {
     "timeseries": {
@@ -7652,7 +7652,7 @@
       }
     },
     "total": {
-      "confirmed": 31,
+      "confirmed": 38,
       "recovered": 7,
       "deceased": 0,
       "tested": {
@@ -7662,12 +7662,12 @@
       }
     },
     "delta": {
-      "confirmed": 2,
+      "confirmed": 9,
       "recovered": 0,
       "deceased": 0
     },
     "notes": "",
-    "last_updated": "2020-05-18T12:28:26+05:30"
+    "last_updated": "2020-05-18T23:21:26+05:30"
   },
   "GJ": {
     "timeseries": {
@@ -11317,9 +11317,9 @@
       "recovered": 127,
       "deceased": 3,
       "tested": {
-        "samples": 33220,
-        "source": "https://twitter.com/RanchiPIB/status/1262050657592381443",
-        "last_updated": "2020-05-17"
+        "samples": 0,
+        "source": "",
+        "last_updated": "2020-05-20"
       }
     },
     "delta": {
@@ -12221,9 +12221,9 @@
       "recovered": 609,
       "deceased": 15,
       "tested": {
-        "samples": 80934,
-        "source": "https://twitter.com/diprjk/status/1262030418041339905?s=19",
-        "last_updated": "2020-05-17"
+        "samples": 0,
+        "source": "",
+        "last_updated": "2020-05-19"
       }
     },
     "delta": {
@@ -13270,9 +13270,9 @@
       "recovered": 530,
       "deceased": 37,
       "tested": {
-        "samples": 145398,
-        "source": "https://covid19.karnataka.gov.in/storage/pdf-files/Media-Bulletin/17-05-2020%205-00%20English.pdf",
-        "last_updated": "2020-05-17"
+        "samples": 0,
+        "source": "",
+        "last_updated": "2020-05-20"
       }
     },
     "delta": {
@@ -14062,9 +14062,9 @@
       "recovered": 497,
       "deceased": 4,
       "tested": {
-        "samples": 45905,
-        "source": "https://m.facebook.com/story.php?story_fbid=3041723962586080&id=539381006153734",
-        "last_updated": "2020-05-18"
+        "samples": 0,
+        "source": "",
+        "last_updated": "2020-05-20"
       }
     },
     "delta": {
@@ -14537,12 +14537,12 @@
       "Leh": {
         "delta": {
           "confirmed": 0,
-          "recovered": 17,
+          "recovered": 19,
           "deceased": 0
         },
         "total": {
           "confirmed": 34,
-          "recovered": 32,
+          "recovered": 34,
           "deceased": 0
         },
         "zone": {
@@ -14554,21 +14554,21 @@
     },
     "total": {
       "confirmed": 43,
-      "recovered": 41,
+      "recovered": 43,
       "deceased": 0,
       "tested": {
         "samples": 0,
         "source": "",
-        "last_updated": "2020-05-18"
+        "last_updated": "2020-05-20"
       }
     },
     "delta": {
       "confirmed": 0,
-      "recovered": 17,
+      "recovered": 19,
       "deceased": 0
     },
     "notes": "",
-    "last_updated": "2020-05-18T20:33:48+05:30"
+    "last_updated": "2020-05-18T23:21:25+05:30"
   },
   "LD": {
     "timeseries": {
@@ -16145,7 +16145,7 @@
       "deceased": 51
     },
     "notes": "",
-    "last_updated": "2020-05-18T23:11:24+05:30"
+    "last_updated": "2020-05-18T23:19:26+05:30"
   },
   "ML": {
     "timeseries": {
@@ -31365,9 +31365,9 @@
     },
     "districts": null,
     "total": {
-      "confirmed": 100312,
-      "recovered": 39231,
-      "deceased": 3155,
+      "confirmed": 100326,
+      "recovered": 39233,
+      "deceased": 3156,
       "tested": {
         "samples": 2302792,
         "source": "https://www.icmr.gov.in/pdf/covid/update/ICMR_testing_update_18May2020_9AM_IST.pdf",
@@ -31375,11 +31375,11 @@
       }
     },
     "delta": {
-      "confirmed": 4613,
-      "recovered": 2436,
-      "deceased": 130
+      "confirmed": 4627,
+      "recovered": 2438,
+      "deceased": 131
     },
     "notes": "",
-    "last_updated": "2020-05-18T23:11:23+05:30"
+    "last_updated": "2020-05-18T23:21:23+05:30"
   }
 }
