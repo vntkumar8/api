@@ -5916,7 +5916,7 @@
       "deceased": 0
     },
     "notes": "",
-    "last_updated": "2020-05-18T20:27:30+05:30"
+    "last_updated": "2020-05-18T20:29:48+05:30"
   },
   "DL": {
     "timeseries": {
@@ -9489,7 +9489,7 @@
       "deceased": 0
     },
     "notes": "HP has 4 Migrated cases which are reduced from Active #. Also, death of Tibetan refugee is included in deceased numbers, but not in confirmed",
-    "last_updated": "2020-05-18T20:27:26+05:30"
+    "last_updated": "2020-05-18T20:29:47+05:30"
   },
   "HR": {
     "timeseries": {
@@ -11328,7 +11328,7 @@
       "deceased": 0
     },
     "notes": "",
-    "last_updated": "2020-05-18T20:27:24+05:30"
+    "last_updated": "2020-05-18T20:29:45+05:30"
   },
   "JK": {
     "timeseries": {
@@ -14537,12 +14537,12 @@
       "Leh": {
         "delta": {
           "confirmed": 0,
-          "recovered": 34,
+          "recovered": 17,
           "deceased": 0
         },
         "total": {
           "confirmed": 34,
-          "recovered": 49,
+          "recovered": 32,
           "deceased": 0
         },
         "zone": {
@@ -14554,7 +14554,7 @@
     },
     "total": {
       "confirmed": 43,
-      "recovered": 58,
+      "recovered": 41,
       "deceased": 0,
       "tested": {
         "samples": 4067,
@@ -14564,11 +14564,11 @@
     },
     "delta": {
       "confirmed": 0,
-      "recovered": 34,
+      "recovered": 17,
       "deceased": 0
     },
     "notes": "",
-    "last_updated": "2020-05-18T20:28:54+05:30"
+    "last_updated": "2020-05-18T20:31:38+05:30"
   },
   "LD": {
     "timeseries": {
@@ -31366,7 +31366,7 @@
     "districts": null,
     "total": {
       "confirmed": 97621,
-      "recovered": 37868,
+      "recovered": 37851,
       "deceased": 3058,
       "tested": {
         "samples": 2302792,
@@ -31376,10 +31376,10 @@
     },
     "delta": {
       "confirmed": 1922,
-      "recovered": 1073,
+      "recovered": 1056,
       "deceased": 33
     },
     "notes": "",
-    "last_updated": "2020-05-18T20:28:52+05:30"
+    "last_updated": "2020-05-18T20:31:36+05:30"
   }
 }
