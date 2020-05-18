@@ -5494,7 +5494,7 @@
           "samples": 36606,
           "source": "http://cghealth.nic.in/cghealth17/Information/content/CORONA/MediaBulletinHindi_18052020.pdf"
         },
-        "confirmed": 8,
+        "confirmed": 10,
         "recovered": 0,
         "deceased": 0
       }
@@ -5842,12 +5842,12 @@
       },
       "Raigarh": {
         "delta": {
-          "confirmed": 0,
+          "confirmed": 2,
           "recovered": 0,
           "deceased": 0
         },
         "total": {
-          "confirmed": 0,
+          "confirmed": 2,
           "recovered": 0,
           "deceased": 0
         },
@@ -5961,7 +5961,7 @@
       }
     },
     "total": {
-      "confirmed": 93,
+      "confirmed": 95,
       "recovered": 59,
       "deceased": 0,
       "tested": {
@@ -5971,12 +5971,12 @@
       }
     },
     "delta": {
-      "confirmed": 8,
+      "confirmed": 10,
       "recovered": 0,
       "deceased": 0
     },
     "notes": "",
-    "last_updated": "2020-05-18T20:29:48+05:30"
+    "last_updated": "2020-05-19T02:41:24+05:30"
   },
   "DL": {
     "timeseries": {
@@ -31670,14 +31670,14 @@
           "samples": 2302792,
           "source": "https://www.icmr.gov.in/pdf/covid/update/ICMR_testing_update_18May2020_9AM_IST.pdf"
         },
-        "confirmed": 4627,
+        "confirmed": 4629,
         "recovered": 2438,
         "deceased": 131
       }
     },
     "districts": null,
     "total": {
-      "confirmed": 100326,
+      "confirmed": 100328,
       "recovered": 39233,
       "deceased": 3156,
       "tested": {
@@ -31687,11 +31687,11 @@
       }
     },
     "delta": {
-      "confirmed": 4627,
+      "confirmed": 4629,
       "recovered": 2438,
       "deceased": 131
     },
     "notes": "",
-    "last_updated": "2020-05-18T23:23:23+05:30"
+    "last_updated": "2020-05-19T02:41:23+05:30"
   }
 }
