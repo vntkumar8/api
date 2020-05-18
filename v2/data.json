@@ -5629,12 +5629,12 @@
       },
       "Janjgir Champa": {
         "delta": {
-          "confirmed": 0,
+          "confirmed": 6,
           "recovered": 0,
           "deceased": 0
         },
         "total": {
-          "confirmed": 5,
+          "confirmed": 11,
           "recovered": 0,
           "deceased": 0
         },
@@ -5850,12 +5850,12 @@
       },
       "Surajpur": {
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "recovered": 0,
           "deceased": 0
         },
         "total": {
-          "confirmed": 6,
+          "confirmed": 7,
           "recovered": 6,
           "deceased": 0
         },
@@ -5867,12 +5867,12 @@
       },
       "Surguja": {
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "recovered": 0,
           "deceased": 0
         },
         "total": {
-          "confirmed": 0,
+          "confirmed": 1,
           "recovered": 0,
           "deceased": 0
         },
@@ -5901,7 +5901,7 @@
       }
     },
     "total": {
-      "confirmed": "85",
+      "confirmed": "93",
       "recovered": "59",
       "deceased": "0",
       "tested": {
@@ -5911,12 +5911,12 @@
       }
     },
     "delta": {
-      "confirmed": "0",
+      "confirmed": "8",
       "recovered": "0",
       "deceased": "0"
     },
     "notes": "",
-    "last_updated": "2020-05-17T23:23:25+05:30"
+    "last_updated": "2020-05-18T20:21:26+05:30"
   },
   "DL": {
     "timeseries": {
@@ -9321,12 +9321,12 @@
       },
       "Kangra": {
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "recovered": 0,
           "deceased": 0
         },
         "total": {
-          "confirmed": 20,
+          "confirmed": 21,
           "recovered": 5,
           "deceased": 1
         },
@@ -9474,7 +9474,7 @@
       }
     },
     "total": {
-      "confirmed": "85",
+      "confirmed": "86",
       "recovered": "41",
       "deceased": "3",
       "tested": {
@@ -9484,12 +9484,12 @@
       }
     },
     "delta": {
-      "confirmed": "5",
+      "confirmed": "6",
       "recovered": "1",
       "deceased": "0"
     },
     "notes": "HP has 4 Migrated cases which are reduced from Active #. Also, death of Tibetan refugee is included in deceased numbers, but not in confirmed",
-    "last_updated": "2020-05-18T18:05:26+05:30"
+    "last_updated": "2020-05-18T20:21:25+05:30"
   },
   "HR": {
     "timeseries": {
@@ -11313,7 +11313,7 @@
       }
     },
     "total": {
-      "confirmed": "225",
+      "confirmed": "228",
       "recovered": "113",
       "deceased": "3",
       "tested": {
@@ -11323,12 +11323,12 @@
       }
     },
     "delta": {
-      "confirmed": "2",
+      "confirmed": "5",
       "recovered": "0",
       "deceased": "0"
     },
     "notes": "",
-    "last_updated": "2020-05-18T17:45:24+05:30"
+    "last_updated": "2020-05-18T20:21:24+05:30"
   },
   "JK": {
     "timeseries": {
@@ -14537,12 +14537,12 @@
       "Leh": {
         "delta": {
           "confirmed": 0,
-          "recovered": 0,
+          "recovered": 17,
           "deceased": 0
         },
         "total": {
           "confirmed": 34,
-          "recovered": 15,
+          "recovered": 32,
           "deceased": 0
         },
         "zone": {
@@ -14554,7 +14554,7 @@
     },
     "total": {
       "confirmed": "43",
-      "recovered": "24",
+      "recovered": "41",
       "deceased": "0",
       "tested": {
         "samples": "4067",
@@ -14564,11 +14564,11 @@
     },
     "delta": {
       "confirmed": "0",
-      "recovered": "0",
+      "recovered": "17",
       "deceased": "0"
     },
     "notes": "",
-    "last_updated": "2020-05-15T19:33:36+05:30"
+    "last_updated": "2020-05-18T20:21:27+05:30"
   },
   "LD": {
     "timeseries": {
@@ -26070,12 +26070,12 @@
         "delta": {
           "confirmed": 364,
           "recovered": 124,
-          "deceased": 0
+          "deceased": 3
         },
         "total": {
           "confirmed": 7125,
           "recovered": 1600,
-          "deceased": 54
+          "deceased": 57
         },
         "zone": {
           "status": "Red",
@@ -31365,8 +31365,8 @@
     },
     "districts": null,
     "total": {
-      "confirmed": "97609",
-      "recovered": "37834",
+      "confirmed": "97621",
+      "recovered": "37851",
       "deceased": "3058",
       "tested": {
         "samples": "2302792",
@@ -31375,11 +31375,11 @@
       }
     },
     "delta": {
-      "confirmed": "1910",
-      "recovered": "1039",
+      "confirmed": "1922",
+      "recovered": "1056",
       "deceased": "33"
     },
     "notes": "",
-    "last_updated": "2020-05-18T20:01:23+05:30"
+    "last_updated": "2020-05-18T20:21:23+05:30"
   }
 }

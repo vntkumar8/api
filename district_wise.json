@@ -2143,11 +2143,11 @@
 			"statecode": "CT"
 		},
 		{
-			"active": "5",
-			"confirmed": "5",
+			"active": "11",
+			"confirmed": "11",
 			"deceased": "0",
-			"deltaactive": "0",
-			"deltaconfirmed": "0",
+			"deltaactive": "6",
+			"deltaconfirmed": "6",
 			"deltadeceased": "0",
 			"deltarecovered": "0",
 			"district": "Janjgir Champa",
@@ -2364,11 +2364,11 @@
 			"statecode": "CT"
 		},
 		{
-			"active": "0",
-			"confirmed": "6",
+			"active": "1",
+			"confirmed": "7",
 			"deceased": "0",
-			"deltaactive": "0",
-			"deltaconfirmed": "0",
+			"deltaactive": "1",
+			"deltaconfirmed": "1",
 			"deltadeceased": "0",
 			"deltarecovered": "0",
 			"district": "Surajpur",
@@ -2381,11 +2381,11 @@
 			"statecode": "CT"
 		},
 		{
-			"active": "0",
-			"confirmed": "0",
+			"active": "1",
+			"confirmed": "1",
 			"deceased": "0",
-			"deltaactive": "0",
-			"deltaconfirmed": "0",
+			"deltaactive": "1",
+			"deltaconfirmed": "1",
 			"deltadeceased": "0",
 			"deltarecovered": "0",
 			"district": "Surguja",
@@ -3316,11 +3316,11 @@
 			"statecode": "HP"
 		},
 		{
-			"active": "14",
-			"confirmed": "20",
+			"active": "15",
+			"confirmed": "21",
 			"deceased": "1",
-			"deltaactive": "0",
-			"deltaconfirmed": "0",
+			"deltaactive": "1",
+			"deltaconfirmed": "1",
 			"deltadeceased": "0",
 			"deltarecovered": "0",
 			"district": "Kangra",
@@ -5424,18 +5424,18 @@
 			"statecode": "LA"
 		},
 		{
-			"active": "19",
+			"active": "2",
 			"confirmed": "34",
 			"deceased": "0",
-			"deltaactive": "0",
+			"deltaactive": "-17",
 			"deltaconfirmed": "0",
 			"deltadeceased": "0",
-			"deltarecovered": "0",
+			"deltarecovered": "17",
 			"district": "Leh",
 			"districtkey": "LA_Leh",
 			"districtnotes": "",
 			"lastupdated": "",
-			"recovered": "15",
+			"recovered": "32",
 			"slno": "315",
 			"state": "Ladakh",
 			"statecode": "LA"
@@ -10116,12 +10116,12 @@
 			"statecode": "TN"
 		},
 		{
-			"active": "5471",
+			"active": "5468",
 			"confirmed": "7125",
-			"deceased": "54",
-			"deltaactive": "240",
+			"deceased": "57",
+			"deltaactive": "237",
 			"deltaconfirmed": "364",
-			"deltadeceased": "0",
+			"deltadeceased": "3",
 			"deltarecovered": "124",
 			"district": "Chennai",
 			"districtkey": "TN_Chennai",
@@ -12989,8 +12989,8 @@
 			"statecode": "JK"
 		},
 		{
-			"active": "2",
-			"confirmed": "2",
+			"active": "5",
+			"confirmed": "5",
 			"deceased": "0",
 			"deltaactive": "0",
 			"deltaconfirmed": "0",
@@ -13261,9 +13261,9 @@
 			"statecode": "SK"
 		},
 		{
-			"active": "-1",
+			"active": "2",
 			"confirmed": "2",
-			"deceased": "3",
+			"deceased": "0",
 			"deltaactive": "0",
 			"deltaconfirmed": "0",
 			"deltadeceased": "0",

@@ -1693,12 +1693,12 @@
       {
         "district": "Janjgir Champa",
         "notes": "",
-        "active": 5,
-        "confirmed": 5,
+        "active": 11,
+        "confirmed": 11,
         "deceased": 0,
         "recovered": 0,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 6,
           "deceased": 0,
           "recovered": 0
         }
@@ -1862,12 +1862,12 @@
       {
         "district": "Surajpur",
         "notes": "",
-        "active": 0,
-        "confirmed": 6,
+        "active": 1,
+        "confirmed": 7,
         "deceased": 0,
         "recovered": 6,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
@@ -1875,12 +1875,12 @@
       {
         "district": "Surguja",
         "notes": "",
-        "active": 0,
-        "confirmed": 0,
+        "active": 1,
+        "confirmed": 1,
         "deceased": 0,
         "recovered": 0,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
@@ -2646,12 +2646,12 @@
       {
         "district": "Kangra",
         "notes": "",
-        "active": 14,
-        "confirmed": 20,
+        "active": 15,
+        "confirmed": 21,
         "deceased": 1,
         "recovered": 5,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
@@ -3386,8 +3386,8 @@
       {
         "district": "Unknown",
         "notes": "",
-        "active": 2,
-        "confirmed": 2,
+        "active": 5,
+        "confirmed": 5,
         "deceased": 0,
         "recovered": 0,
         "delta": {
@@ -4307,14 +4307,14 @@
       {
         "district": "Leh",
         "notes": "",
-        "active": 19,
+        "active": 2,
         "confirmed": 34,
         "deceased": 0,
-        "recovered": 15,
+        "recovered": 32,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 17
         }
       }
     ]
@@ -7992,13 +7992,13 @@
       {
         "district": "Chennai",
         "notes": "",
-        "active": 5471,
+        "active": 5468,
         "confirmed": 7125,
-        "deceased": 54,
+        "deceased": 57,
         "recovered": 1600,
         "delta": {
           "confirmed": 364,
-          "deceased": 0,
+          "deceased": 3,
           "recovered": 124
         }
       },
@@ -8447,9 +8447,9 @@
       {
         "district": "Unknown",
         "notes": "",
-        "active": -1,
+        "active": 2,
         "confirmed": 2,
-        "deceased": 3,
+        "deceased": 0,
         "recovered": 0,
         "delta": {
           "confirmed": 0,
