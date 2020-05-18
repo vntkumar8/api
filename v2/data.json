@@ -4392,7 +4392,7 @@
       "deceased": "1"
     },
     "notes": "",
-    "last_updated": "2020-05-18T19:51:39+05:30"
+    "last_updated": "2020-05-18T20:01:26+05:30"
   },
   "CH": {
     "timeseries": {
@@ -10183,12 +10183,12 @@
       },
       "Karnal": {
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "recovered": 0,
           "deceased": 0
         },
         "total": {
-          "confirmed": 18,
+          "confirmed": 19,
           "recovered": 9,
           "deceased": 1
         },
@@ -10320,12 +10320,12 @@
       "Rohtak": {
         "delta": {
           "confirmed": 0,
-          "recovered": 1,
+          "recovered": 2,
           "deceased": 0
         },
         "total": {
           "confirmed": 12,
-          "recovered": 3,
+          "recovered": 4,
           "deceased": 1
         },
         "zone": {
@@ -10387,8 +10387,8 @@
       }
     },
     "total": {
-      "confirmed": "927",
-      "recovered": "597",
+      "confirmed": "928",
+      "recovered": "598",
       "deceased": "14",
       "tested": {
         "samples": "79335",
@@ -10397,12 +10397,12 @@
       }
     },
     "delta": {
-      "confirmed": "17",
-      "recovered": "35",
+      "confirmed": "18",
+      "recovered": "36",
       "deceased": "0"
     },
     "notes": "",
-    "last_updated": "2020-05-18T19:44:29+05:30"
+    "last_updated": "2020-05-18T19:56:25+05:30"
   },
   "JH": {
     "timeseries": {
@@ -18958,7 +18958,7 @@
       "deceased": "4"
     },
     "notes": "",
-    "last_updated": "2020-05-18T19:51:32+05:30"
+    "last_updated": "2020-05-18T20:01:25+05:30"
   },
   "MZ": {
     "timeseries": {
@@ -26027,7 +26027,7 @@
           "source": "https://stopcorona.tn.gov.in/wp-content/uploads/2020/03/Media-Bulletin-17.05.2020.pdf"
         },
         "confirmed": "639",
-        "recovered": "633",
+        "recovered": "634",
         "deceased": "4"
       }
     },
@@ -26545,7 +26545,7 @@
       "Tirunelveli": {
         "delta": {
           "confirmed": 12,
-          "recovered": 0,
+          "recovered": -1,
           "deceased": 0
         },
         "total": {
@@ -26674,7 +26674,7 @@
     },
     "delta": {
       "confirmed": "536",
-      "recovered": "235",
+      "recovered": "234",
       "deceased": "3"
     },
     "notes": "",
@@ -31359,14 +31359,14 @@
           "source": "https://www.icmr.gov.in/pdf/covid/update/ICMR_testing_update_17May2020_9AM_IST.pdf"
         },
         "confirmed": "5049",
-        "recovered": "2537",
+        "recovered": "2538",
         "deceased": "152"
       }
     },
     "districts": null,
     "total": {
-      "confirmed": "97608",
-      "recovered": "37833",
+      "confirmed": "97609",
+      "recovered": "37834",
       "deceased": "3058",
       "tested": {
         "samples": "2302792",
@@ -31375,11 +31375,11 @@
       }
     },
     "delta": {
-      "confirmed": "1909",
+      "confirmed": "1910",
       "recovered": "1039",
       "deceased": "33"
     },
     "notes": "",
-    "last_updated": "2020-05-18T19:51:30+05:30"
+    "last_updated": "2020-05-18T20:01:23+05:30"
   }
 }
