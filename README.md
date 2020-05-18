@@ -102,6 +102,9 @@ API for current cases, statewise, districtwise and historical data of India COVI
 - [Data Analysis : India - District & State](https://docs.google.com/spreadsheets/d/1yS8x7IrlWLdtgM6UUPm2YN8lLRmRYJKm-4Wax-8EBuI/edit?usp=sharing) (by [@Ankan_Plotter](https://t.me/Ankan_Plotter))
 - [Stats and viz in Google Data Studio](https://tinyurl.com/covid19indiadashboard) (by [@veeyeskay](https://t.me/veeyeskay))
 
+**Mobile App [Android]**
+- [Covid-19 Tracker For Android](http://covidapp.in) (by Prabhakar Thota [@myinnos](https://github.com/myinnos))
+
 **Other Trackers/Dashboards**
 
 - [Tracker](https://covidstat.info/) (by [@skavinvarnan ](https://github.com/skavinvarnan))
@@ -116,7 +119,16 @@ API for current cases, statewise, districtwise and historical data of India COVI
 - [Bihar COVID-19 Dashboard/Tracker](https://coronainbihar.github.io/) (by [@anandv01](https://github.com/anandv01))
 - [COVID19 Tracker/Predictor](https://track-covid-19ind.herokuapp.com/) (by [@manoj](https://github.com/ManojNallusamy))
 - [COVID-19 Tracker App](https://corona-india.live/) (by [@sandeshchoudhary](https://github.com/sandeshchoudhary))
+- [Corona Virus Tracker](https://virtuosars.github.io/CovidLive) (by [@VirtuosArs](https://github.com/VirtuosArs))
+- [COVID-19 Dashboard India|World](https://nkjcovid19.herokuapp.com/india) (by [@nithinkjoy-tech](https://github.com/nithinkjoy-tech))
+- [Covid19Bihar Tracker](https://covid19bihar.github.io/) (by [@arrbxr](https://github.com/arrbxr))
+- [COVID19-Tracker App, UP Highlight](https://www.covid19-tracker.in/) (by [@Deepak0404](https://github.com/Deepak0404))
+- [Covid-19 India Flutter App](https://github.com/curioustechizen/covid19india-flutter) (by [@curioustechizen](https://github.com/curioustechizen))
+- [COVID-19 INDIA LOCATION BASED TRACKER](https://covid2.in) (District Screen)
 
+**Reddit Bots**
+
+- [COVID-19 Reddit BOT](https://github.com/parshnt/covid-19-bot) (by [@parshnt](https://github.com/parshnt))
 
 **Telegram Bots**
 
@@ -130,5 +142,5 @@ API for current cases, statewise, districtwise and historical data of India COVI
 - [Covid-19 Tracker](https://coronatrends.live) (by [@akanshgulati ](https://github.com/akanshgulati))
 
 
-.................................
+..................................
 

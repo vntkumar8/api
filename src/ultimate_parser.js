@@ -1,4 +1,5 @@
 console.log("Ultimate parser start")
+
 const {STATE_CODES_ARRAY, STATE_CODES_REVERSE} = require('../lib/constants');
 
 const fs = require('fs');
