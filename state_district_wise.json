@@ -7308,6 +7308,18 @@
   },
   "Tamil Nadu": {
     "districtData": {
+      "Railway Quarantine": {
+        "notes": "",
+        "active": 2,
+        "confirmed": 2,
+        "deceased": 0,
+        "recovered": 0,
+        "delta": {
+          "confirmed": 0,
+          "deceased": 0,
+          "recovered": 0
+        }
+      },
       "Airport Quarantine": {
         "notes": "",
         "active": 18,
@@ -7774,18 +7786,6 @@
           "confirmed": 3,
           "deceased": 0,
           "recovered": 2
-        }
-      },
-      "Unknown": {
-        "notes": "",
-        "active": 2,
-        "confirmed": 2,
-        "deceased": 0,
-        "recovered": 0,
-        "delta": {
-          "confirmed": 0,
-          "deceased": 0,
-          "recovered": 0
         }
       }
     },

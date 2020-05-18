@@ -7938,6 +7938,19 @@
     "statecode": "TN",
     "districtData": [
       {
+        "district": "Railway Quarantine",
+        "notes": "",
+        "active": 2,
+        "confirmed": 2,
+        "deceased": 0,
+        "recovered": 0,
+        "delta": {
+          "confirmed": 0,
+          "deceased": 0,
+          "recovered": 0
+        }
+      },
+      {
         "district": "Airport Quarantine",
         "notes": "",
         "active": 18,
@@ -8442,19 +8455,6 @@
           "confirmed": 3,
           "deceased": 0,
           "recovered": 2
-        }
-      },
-      {
-        "district": "Unknown",
-        "notes": "",
-        "active": 2,
-        "confirmed": 2,
-        "deceased": 0,
-        "recovered": 0,
-        "delta": {
-          "confirmed": 0,
-          "deceased": 0,
-          "recovered": 0
         }
       }
     ]
