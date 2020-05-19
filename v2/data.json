@@ -3243,7 +3243,7 @@
       "deceased": 0
     },
     "notes": "Includes one case from Nagaland <br>\nTwo* patients who migrated to Bihar has been reduced from Active count",
-    "last_updated": "2020-05-19T13:31:25+05:30"
+    "last_updated": "2020-05-19T13:34:26+05:30"
   },
   "BR": {
     "timeseries": {
@@ -3766,7 +3766,7 @@
           "source": "https://twitter.com/SHSBihar/status/1262366043290439681"
         },
         "confirmed": 103,
-        "recovered": 0,
+        "recovered": 37,
         "deceased": 1
       }
     },
@@ -3830,7 +3830,7 @@
         },
         "total": {
           "confirmed": 40,
-          "recovered": 0,
+          "recovered": 1,
           "deceased": 0
         },
         "zone": {
@@ -3842,12 +3842,12 @@
       "Begusarai": {
         "delta": {
           "confirmed": 0,
-          "recovered": 0,
+          "recovered": 7,
           "deceased": 0
         },
         "total": {
           "confirmed": 70,
-          "recovered": 13,
+          "recovered": 20,
           "deceased": 0
         },
         "zone": {
@@ -3864,7 +3864,7 @@
         },
         "total": {
           "confirmed": 42,
-          "recovered": 8,
+          "recovered": 12,
           "deceased": 0
         },
         "zone": {
@@ -4034,7 +4034,7 @@
         },
         "total": {
           "confirmed": 21,
-          "recovered": 0,
+          "recovered": 8,
           "deceased": 0
         },
         "zone": {
@@ -4068,7 +4068,7 @@
         },
         "total": {
           "confirmed": 14,
-          "recovered": 0,
+          "recovered": 1,
           "deceased": 0
         },
         "zone": {
@@ -4119,7 +4119,7 @@
         },
         "total": {
           "confirmed": 73,
-          "recovered": 5,
+          "recovered": 13,
           "deceased": 0
         },
         "zone": {
@@ -4136,7 +4136,7 @@
         },
         "total": {
           "confirmed": 133,
-          "recovered": 90,
+          "recovered": 92,
           "deceased": 1
         },
         "zone": {
@@ -4153,7 +4153,7 @@
         },
         "total": {
           "confirmed": 30,
-          "recovered": 0,
+          "recovered": 3,
           "deceased": 0
         },
         "zone": {
@@ -4170,7 +4170,7 @@
         },
         "total": {
           "confirmed": 74,
-          "recovered": 37,
+          "recovered": 38,
           "deceased": 0
         },
         "zone": {
@@ -4221,7 +4221,7 @@
         },
         "total": {
           "confirmed": 31,
-          "recovered": 0,
+          "recovered": 2,
           "deceased": 0
         },
         "zone": {
@@ -4238,7 +4238,7 @@
         },
         "total": {
           "confirmed": 91,
-          "recovered": 45,
+          "recovered": 48,
           "deceased": 1
         },
         "zone": {
@@ -4272,7 +4272,7 @@
         },
         "total": {
           "confirmed": 16,
-          "recovered": 0,
+          "recovered": 1,
           "deceased": 0
         },
         "zone": {
@@ -4323,7 +4323,7 @@
         },
         "total": {
           "confirmed": 5,
-          "recovered": 0,
+          "recovered": 3,
           "deceased": 0
         },
         "zone": {
@@ -4420,7 +4420,7 @@
     },
     "total": {
       "confirmed": 1442,
-      "recovered": 473,
+      "recovered": 517,
       "deceased": 9,
       "tested": {
         "samples": 46996,
@@ -4430,11 +4430,11 @@
     },
     "delta": {
       "confirmed": 19,
-      "recovered": 0,
+      "recovered": 7,
       "deceased": 0
     },
     "notes": "",
-    "last_updated": "2020-05-19T10:24:24+05:30"
+    "last_updated": "2020-05-19T13:41:24+05:30"
   },
   "CH": {
     "timeseries": {
@@ -6705,7 +6705,7 @@
       "deceased": 6
     },
     "notes": "[10-May]<br>\n\nDelhi will be releasing bulletins in the morning, containing data of the previous day. We will add that data to the date on which the report is released, rather than the previous day.",
-    "last_updated": "2020-05-19T13:26:24+05:30"
+    "last_updated": "2020-05-19T13:33:24+05:30"
   },
   "DN": {
     "timeseries": {
@@ -16305,9 +16305,9 @@
       "recovered": 8437,
       "deceased": 1249,
       "tested": {
-        "samples": 0,
-        "source": "",
-        "last_updated": "2020-05-20"
+        "samples": 294272,
+        "source": "https://twitter.com/Maha_MEDD/status/1262627822834552833?s=19",
+        "last_updated": "2020-05-19"
       }
     },
     "delta": {
@@ -21645,7 +21645,7 @@
       "deceased": 1
     },
     "notes": "",
-    "last_updated": "2020-05-19T13:31:24+05:30"
+    "last_updated": "2020-05-19T13:34:24+05:30"
   },
   "PB": {
     "timeseries": {
@@ -31674,14 +31674,14 @@
           "source": "https://www.icmr.gov.in/pdf/covid/update/ICMR_testing_update_18May2020_9AM_IST.pdf"
         },
         "confirmed": 4629,
-        "recovered": 2438,
+        "recovered": 2475,
         "deceased": 131
       }
     },
     "districts": null,
     "total": {
       "confirmed": 102032,
-      "recovered": 39529,
+      "recovered": 39573,
       "deceased": 3167,
       "tested": {
         "samples": 2404267,
@@ -31691,10 +31691,10 @@
     },
     "delta": {
       "confirmed": 1704,
-      "recovered": 296,
+      "recovered": 303,
       "deceased": 11
     },
     "notes": "",
-    "last_updated": "2020-05-19T13:31:23+05:30"
+    "last_updated": "2020-05-19T13:41:22+05:30"
   }
 }
