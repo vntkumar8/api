@@ -1395,11 +1395,11 @@
 			"statecode": "BR"
 		},
 		{
-			"active": "32",
-			"confirmed": "44",
+			"active": "35",
+			"confirmed": "47",
 			"deceased": "0",
-			"deltaactive": "2",
-			"deltaconfirmed": "2",
+			"deltaactive": "5",
+			"deltaconfirmed": "5",
 			"deltadeceased": "0",
 			"deltarecovered": "0",
 			"district": "Bhagalpur",
@@ -1514,11 +1514,11 @@
 			"statecode": "BR"
 		},
 		{
-			"active": "14",
-			"confirmed": "14",
+			"active": "15",
+			"confirmed": "15",
 			"deceased": "0",
-			"deltaactive": "0",
-			"deltaconfirmed": "0",
+			"deltaactive": "1",
+			"deltaconfirmed": "1",
 			"deltadeceased": "0",
 			"deltarecovered": "0",
 			"district": "Jamui",
@@ -1548,11 +1548,11 @@
 			"statecode": "BR"
 		},
 		{
-			"active": "7",
-			"confirmed": "39",
+			"active": "12",
+			"confirmed": "44",
 			"deceased": "0",
-			"deltaactive": "2",
-			"deltaconfirmed": "2",
+			"deltaactive": "7",
+			"deltaconfirmed": "7",
 			"deltadeceased": "0",
 			"deltarecovered": "0",
 			"district": "Kaimur",
@@ -1565,11 +1565,11 @@
 			"statecode": "BR"
 		},
 		{
-			"active": "13",
-			"confirmed": "21",
+			"active": "26",
+			"confirmed": "34",
 			"deceased": "0",
-			"deltaactive": "0",
-			"deltaconfirmed": "0",
+			"deltaactive": "13",
+			"deltaconfirmed": "13",
 			"deltadeceased": "0",
 			"deltarecovered": "0",
 			"district": "Katihar",
@@ -1735,11 +1735,11 @@
 			"statecode": "BR"
 		},
 		{
-			"active": "122",
-			"confirmed": "166",
+			"active": "123",
+			"confirmed": "167",
 			"deceased": "2",
-			"deltaactive": "1",
-			"deltaconfirmed": "1",
+			"deltaactive": "2",
+			"deltaconfirmed": "2",
 			"deltadeceased": "0",
 			"deltarecovered": "0",
 			"district": "Patna",
@@ -1905,11 +1905,11 @@
 			"statecode": "BR"
 		},
 		{
-			"active": "24",
-			"confirmed": "24",
+			"active": "25",
+			"confirmed": "25",
 			"deceased": "0",
-			"deltaactive": "3",
-			"deltaconfirmed": "3",
+			"deltaactive": "4",
+			"deltaconfirmed": "4",
 			"deltadeceased": "0",
 			"deltarecovered": "0",
 			"district": "Supaul",
@@ -12853,8 +12853,8 @@
 			"statecode": "AS"
 		},
 		{
-			"active": "24",
-			"confirmed": "24",
+			"active": "0",
+			"confirmed": "0",
 			"deceased": "0",
 			"deltaactive": "0",
 			"deltaconfirmed": "0",
@@ -13125,9 +13125,9 @@
 			"statecode": "MP"
 		},
 		{
-			"active": "0",
-			"confirmed": "0",
-			"deceased": "0",
+			"active": "800",
+			"confirmed": "2078",
+			"deceased": "76",
 			"deltaactive": "0",
 			"deltaconfirmed": "0",
 			"deltadeceased": "0",
@@ -13136,7 +13136,7 @@
 			"districtkey": "MH_Unknown",
 			"districtnotes": "",
 			"lastupdated": "",
-			"recovered": "0",
+			"recovered": "1202",
 			"slno": "749",
 			"state": "Maharashtra",
 			"statecode": "MH"
@@ -13261,7 +13261,7 @@
 			"statecode": "PB"
 		},
 		{
-			"active": "0",
+			"active": "-105",
 			"confirmed": "0",
 			"deceased": "0",
 			"deltaactive": "0",
@@ -13272,7 +13272,7 @@
 			"districtkey": "RJ_Unknown",
 			"districtnotes": "",
 			"lastupdated": "",
-			"recovered": "0",
+			"recovered": "105",
 			"slno": "757",
 			"state": "Rajasthan",
 			"statecode": "RJ"
@@ -13346,9 +13346,9 @@
 			"statecode": "TR"
 		},
 		{
-			"active": "0",
-			"confirmed": "0",
-			"deceased": "0",
+			"active": "181",
+			"confirmed": "321",
+			"deceased": "5",
 			"deltaactive": "0",
 			"deltaconfirmed": "0",
 			"deltadeceased": "0",
@@ -13357,7 +13357,7 @@
 			"districtkey": "UP_Unknown",
 			"districtnotes": "",
 			"lastupdated": "",
-			"recovered": "0",
+			"recovered": "135",
 			"slno": "762",
 			"state": "Uttar Pradesh",
 			"statecode": "UP"
