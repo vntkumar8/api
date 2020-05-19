@@ -25226,12 +25226,12 @@
       },
       "Hyderabad": {
         "delta": {
-          "confirmed": 0,
+          "confirmed": 34,
           "recovered": 0,
           "deceased": 0
         },
         "total": {
-          "confirmed": 1007,
+          "confirmed": 1041,
           "recovered": 305,
           "deceased": 23
         },
@@ -25753,9 +25753,9 @@
       }
     },
     "total": {
-      "confirmed": 1592,
-      "recovered": 1002,
-      "deceased": 34,
+      "confirmed": 1634,
+      "recovered": 1011,
+      "deceased": 38,
       "tested": {
         "samples": 23388,
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/42",
@@ -25763,12 +25763,12 @@
       }
     },
     "delta": {
-      "confirmed": 0,
-      "recovered": 0,
-      "deceased": 0
+      "confirmed": 42,
+      "recovered": 9,
+      "deceased": 4
     },
     "notes": "",
-    "last_updated": "2020-05-18T22:50:24+05:30"
+    "last_updated": "2020-05-19T21:21:24+05:30"
   },
   "TN": {
     "timeseries": {
@@ -31674,9 +31674,9 @@
     },
     "districts": null,
     "total": {
-      "confirmed": 103886,
-      "recovered": 40856,
-      "deceased": 3212,
+      "confirmed": 103928,
+      "recovered": 40865,
+      "deceased": 3216,
       "tested": {
         "samples": 2404267,
         "source": "https://www.icmr.gov.in/pdf/covid/update/ICMR_testing_update_19May2020_9AM_IST.pdf",
@@ -31684,11 +31684,11 @@
       }
     },
     "delta": {
-      "confirmed": 3559,
-      "recovered": 1579,
-      "deceased": 56
+      "confirmed": 3601,
+      "recovered": 1588,
+      "deceased": 60
     },
     "notes": "",
-    "last_updated": "2020-05-19T20:43:23+05:30"
+    "last_updated": "2020-05-19T21:21:23+05:30"
   }
 }
