@@ -3790,12 +3790,12 @@
       },
       "Arwal": {
         "delta": {
-          "confirmed": 0,
+          "confirmed": 3,
           "recovered": 0,
           "deceased": 0
         },
         "total": {
-          "confirmed": 14,
+          "confirmed": 17,
           "recovered": 4,
           "deceased": 0
         },
@@ -3807,12 +3807,12 @@
       },
       "Aurangabad": {
         "delta": {
-          "confirmed": 0,
+          "confirmed": 4,
           "recovered": 0,
           "deceased": 0
         },
         "total": {
-          "confirmed": 22,
+          "confirmed": 26,
           "recovered": 12,
           "deceased": 0
         },
@@ -3841,12 +3841,12 @@
       },
       "Begusarai": {
         "delta": {
-          "confirmed": 0,
+          "confirmed": 12,
           "recovered": 0,
           "deceased": 0
         },
         "total": {
-          "confirmed": 70,
+          "confirmed": 82,
           "recovered": 20,
           "deceased": 0
         },
@@ -3858,12 +3858,12 @@
       },
       "Bhagalpur": {
         "delta": {
-          "confirmed": 0,
+          "confirmed": 2,
           "recovered": 0,
           "deceased": 0
         },
         "total": {
-          "confirmed": 42,
+          "confirmed": 44,
           "recovered": 12,
           "deceased": 0
         },
@@ -3892,12 +3892,12 @@
       },
       "Buxar": {
         "delta": {
-          "confirmed": 1,
+          "confirmed": 2,
           "recovered": 0,
           "deceased": 0
         },
         "total": {
-          "confirmed": 63,
+          "confirmed": 64,
           "recovered": 56,
           "deceased": 0
         },
@@ -3994,12 +3994,12 @@
       },
       "Jehanabad": {
         "delta": {
-          "confirmed": 1,
+          "confirmed": 31,
           "recovered": 0,
           "deceased": 0
         },
         "total": {
-          "confirmed": 28,
+          "confirmed": 58,
           "recovered": 5,
           "deceased": 0
         },
@@ -4181,12 +4181,12 @@
       },
       "Nawada": {
         "delta": {
-          "confirmed": 3,
+          "confirmed": 4,
           "recovered": 0,
           "deceased": 0
         },
         "total": {
-          "confirmed": 40,
+          "confirmed": 41,
           "recovered": 4,
           "deceased": 0
         },
@@ -4419,7 +4419,7 @@
       }
     },
     "total": {
-      "confirmed": 1444,
+      "confirmed": 1495,
       "recovered": 517,
       "deceased": 9,
       "tested": {
@@ -4429,12 +4429,12 @@
       }
     },
     "delta": {
-      "confirmed": 21,
+      "confirmed": 72,
       "recovered": 0,
       "deceased": 0
     },
     "notes": "",
-    "last_updated": "2020-05-19T13:45:24+05:30"
+    "last_updated": "2020-05-19T16:51:25+05:30"
   },
   "CH": {
     "timeseries": {
@@ -31680,7 +31680,7 @@
     },
     "districts": null,
     "total": {
-      "confirmed": 102233,
+      "confirmed": 102284,
       "recovered": 39658,
       "deceased": 3169,
       "tested": {
@@ -31690,11 +31690,11 @@
       }
     },
     "delta": {
-      "confirmed": 1905,
+      "confirmed": 1956,
       "recovered": 381,
       "deceased": 13
     },
     "notes": "",
-    "last_updated": "2020-05-19T16:03:22+05:30"
+    "last_updated": "2020-05-19T16:51:23+05:30"
   }
 }
