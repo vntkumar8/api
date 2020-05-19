@@ -1228,9 +1228,9 @@
       "recovered": 1552,
       "deceased": 50,
       "tested": {
-        "samples": 248771,
-        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/45",
-        "last_updated": "2020-05-18"
+        "samples": 258450,
+        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/56",
+        "last_updated": "2020-05-19"
       }
     },
     "delta": {
@@ -29907,7 +29907,10 @@
         "deceased": 0
       },
       "2020-05-18": {
-        "tested": null,
+        "tested": {
+          "samples": 13870,
+          "source": "https://t.me/Covid19india_Auxiliary_Test_Data/55"
+        },
         "confirmed": 4,
         "recovered": 0,
         "deceased": 0
@@ -30143,7 +30146,7 @@
       "tested": {
         "samples": 0,
         "source": "",
-        "last_updated": "2020-05-19"
+        "last_updated": "2020-05-20"
       }
     },
     "delta": {
