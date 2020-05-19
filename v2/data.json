@@ -7737,8 +7737,8 @@
       "recovered": 7,
       "deceased": 0,
       "tested": {
-        "samples": 9288,
-        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/60",
+        "samples": 9549,
+        "source": "https://t.me/indiacovid/5130",
         "last_updated": "2020-05-19"
       }
     },
@@ -7748,7 +7748,7 @@
       "deceased": 0
     },
     "notes": "",
-    "last_updated": "2020-05-18T23:23:27+05:30"
+    "last_updated": "2020-05-19T20:43:26+05:30"
   },
   "GJ": {
     "timeseries": {
@@ -11445,7 +11445,7 @@
       "deceased": 0
     },
     "notes": "",
-    "last_updated": "2020-05-19T20:41:25+05:30"
+    "last_updated": "2020-05-19T20:43:25+05:30"
   },
   "JK": {
     "timeseries": {
@@ -14636,10 +14636,7 @@
         "deceased": 0
       },
       "2020-05-15": {
-        "tested": {
-          "samples": 0,
-          "source": ""
-        },
+        "tested": null,
         "confirmed": 0,
         "recovered": 2,
         "deceased": 0
@@ -31692,6 +31689,6 @@
       "deceased": 56
     },
     "notes": "",
-    "last_updated": "2020-05-19T20:41:23+05:30"
+    "last_updated": "2020-05-19T20:43:23+05:30"
   }
 }
