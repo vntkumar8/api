@@ -993,29 +993,16 @@
 	],
 	"statewise": [
 		{
-			"active": "57933",
-			"confirmed": "100328",
+			"active": "58747",
+			"confirmed": "101142",
 			"deaths": "3156",
-			"deltaconfirmed": "0",
+			"deltaconfirmed": "814",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
-			"lastupdatedtime": "19/05/2020 02:43:23",
+			"lastupdatedtime": "19/05/2020 09:26:23",
 			"recovered": "39233",
 			"state": "Total",
 			"statecode": "TT",
-			"statenotes": ""
-		},
-		{
-			"active": "0",
-			"confirmed": "0",
-			"deaths": "0",
-			"deltaconfirmed": "0",
-			"deltadeaths": "0",
-			"deltarecovered": "0",
-			"lastupdatedtime": "19/05/2020 05:31:00",
-			"recovered": "0",
-			"state": "State Unassigned",
-			"statecode": "UN",
 			"statenotes": ""
 		},
 		{
@@ -1487,17 +1474,17 @@
 			"statenotes": ""
 		},
 		{
-			"active": "0",
-			"confirmed": "0",
+			"active": "814",
+			"confirmed": "814",
 			"deaths": "0",
-			"deltaconfirmed": "0",
+			"deltaconfirmed": "814",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
-			"lastupdatedtime": "26/03/2020 07:19:29",
+			"lastupdatedtime": "19/05/2020 09:26:26",
 			"recovered": "0",
 			"state": "State Unassigned",
-			"statecode": "#N/A",
-			"statenotes": ""
+			"statecode": "UN",
+			"statenotes": "MoHFW reports that these cases are being reassigned to states"
 		}
 	],
 	"tested": [
