@@ -1063,8 +1063,8 @@
       {
         "district": "Arwal",
         "notes": "",
-        "active": 13,
-        "confirmed": 17,
+        "active": 10,
+        "confirmed": 14,
         "deceased": 0,
         "recovered": 4,
         "delta": {
@@ -1109,7 +1109,7 @@
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 7
+          "recovered": 0
         }
       },
       {
@@ -1128,8 +1128,8 @@
       {
         "district": "Bhojpur",
         "notes": "",
-        "active": 21,
-        "confirmed": 39,
+        "active": 20,
+        "confirmed": 38,
         "deceased": 0,
         "recovered": 18,
         "delta": {
@@ -1232,8 +1232,8 @@
       {
         "district": "Kaimur",
         "notes": "",
-        "active": 6,
-        "confirmed": 38,
+        "active": 7,
+        "confirmed": 39,
         "deceased": 0,
         "recovered": 32,
         "delta": {
@@ -1349,8 +1349,8 @@
       {
         "district": "Nalanda",
         "notes": "",
-        "active": 36,
-        "confirmed": 74,
+        "active": 34,
+        "confirmed": 72,
         "deceased": 0,
         "recovered": 38,
         "delta": {
@@ -1362,8 +1362,8 @@
       {
         "district": "Nawada",
         "notes": "",
-        "active": 35,
-        "confirmed": 39,
+        "active": 36,
+        "confirmed": 40,
         "deceased": 0,
         "recovered": 4,
         "delta": {
@@ -1414,8 +1414,8 @@
       {
         "district": "Saharsa",
         "notes": "",
-        "active": 19,
-        "confirmed": 19,
+        "active": 22,
+        "confirmed": 22,
         "deceased": 0,
         "recovered": 0,
         "delta": {
@@ -1453,8 +1453,8 @@
       {
         "district": "Sheikhpura",
         "notes": "",
-        "active": 23,
-        "confirmed": 23,
+        "active": 24,
+        "confirmed": 24,
         "deceased": 0,
         "recovered": 0,
         "delta": {
@@ -3755,12 +3755,12 @@
       {
         "district": "Bengaluru Urban",
         "notes": "",
-        "active": 111,
-        "confirmed": 240,
+        "active": 117,
+        "confirmed": 246,
         "deceased": 7,
         "recovered": 122,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 6,
           "deceased": 0,
           "recovered": 0
         }
@@ -3807,12 +3807,12 @@
       {
         "district": "Chikkamagaluru",
         "notes": "",
-        "active": 0,
-        "confirmed": 0,
+        "active": 2,
+        "confirmed": 2,
         "deceased": 0,
         "recovered": 0,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 2,
           "deceased": 0,
           "recovered": 0
         }
@@ -3820,12 +3820,12 @@
       {
         "district": "Chitradurga",
         "notes": "",
-        "active": 8,
-        "confirmed": 9,
+        "active": 9,
+        "confirmed": 10,
         "deceased": 0,
         "recovered": 1,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
@@ -3846,13 +3846,13 @@
       {
         "district": "Davanagere",
         "notes": "",
-        "active": 84,
-        "confirmed": 90,
-        "deceased": 4,
+        "active": 97,
+        "confirmed": 106,
+        "deceased": 7,
         "recovered": 2,
         "delta": {
-          "confirmed": 0,
-          "deceased": 0,
+          "confirmed": 16,
+          "deceased": 3,
           "recovered": 0
         }
       },
@@ -3872,12 +3872,12 @@
       {
         "district": "Gadag",
         "notes": "",
-        "active": 12,
-        "confirmed": 17,
+        "active": 13,
+        "confirmed": 18,
         "deceased": 1,
         "recovered": 4,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
@@ -3885,12 +3885,12 @@
       {
         "district": "Hassan",
         "notes": "",
-        "active": 30,
-        "confirmed": 30,
+        "active": 33,
+        "confirmed": 33,
         "deceased": 0,
         "recovered": 0,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 3,
           "deceased": 0,
           "recovered": 0
         }
@@ -3911,12 +3911,12 @@
       {
         "district": "Kalaburagi",
         "notes": "",
-        "active": 55,
-        "confirmed": 115,
+        "active": 66,
+        "confirmed": 126,
         "deceased": 7,
         "recovered": 53,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 11,
           "deceased": 0,
           "recovered": 0
         }
@@ -3963,12 +3963,12 @@
       {
         "district": "Mandya",
         "notes": "",
-        "active": 68,
-        "confirmed": 89,
+        "active": 130,
+        "confirmed": 151,
         "deceased": 0,
         "recovered": 21,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 62,
           "deceased": 0,
           "recovered": 0
         }
@@ -4028,12 +4028,12 @@
       {
         "district": "Shivamogga",
         "notes": "",
-        "active": 14,
-        "confirmed": 14,
+        "active": 26,
+        "confirmed": 26,
         "deceased": 0,
         "recovered": 0,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 12,
           "deceased": 0,
           "recovered": 0
         }
@@ -4054,12 +4054,12 @@
       {
         "district": "Udupi",
         "notes": "",
-        "active": 7,
-        "confirmed": 11,
+        "active": 11,
+        "confirmed": 15,
         "deceased": 1,
         "recovered": 3,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 4,
           "deceased": 0,
           "recovered": 0
         }
@@ -4067,12 +4067,12 @@
       {
         "district": "Uttara Kannada",
         "notes": "",
-        "active": 40,
-        "confirmed": 51,
+        "active": 44,
+        "confirmed": 55,
         "deceased": 0,
         "recovered": 11,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 4,
           "deceased": 0,
           "recovered": 0
         }
@@ -4080,12 +4080,12 @@
       {
         "district": "Vijayapura",
         "notes": "",
-        "active": 19,
-        "confirmed": 59,
+        "active": 20,
+        "confirmed": 60,
         "deceased": 3,
         "recovered": 37,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
@@ -4093,12 +4093,12 @@
       {
         "district": "Yadgir",
         "notes": "",
-        "active": 10,
-        "confirmed": 10,
+        "active": 11,
+        "confirmed": 11,
         "deceased": 0,
         "recovered": 0,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
@@ -4106,9 +4106,9 @@
       {
         "district": "Unknown",
         "notes": "",
-        "active": 124,
-        "confirmed": 127,
-        "deceased": 3,
+        "active": 3,
+        "confirmed": 3,
+        "deceased": 0,
         "recovered": 0,
         "delta": {
           "confirmed": 0,
