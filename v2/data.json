@@ -4434,7 +4434,7 @@
       "deceased": 0
     },
     "notes": "",
-    "last_updated": "2020-05-19T13:41:24+05:30"
+    "last_updated": "2020-05-19T13:45:24+05:30"
   },
   "CH": {
     "timeseries": {
@@ -21634,9 +21634,9 @@
       "recovered": 307,
       "deceased": 5,
       "tested": {
-        "samples": 0,
-        "source": "",
-        "last_updated": "2020-05-20"
+        "samples": 100302,
+        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/57?single",
+        "last_updated": "2020-05-19"
       }
     },
     "delta": {
@@ -21645,7 +21645,7 @@
       "deceased": 1
     },
     "notes": "",
-    "last_updated": "2020-05-19T13:34:24+05:30"
+    "last_updated": "2020-05-19T13:49:24+05:30"
   },
   "PB": {
     "timeseries": {
@@ -31695,6 +31695,6 @@
       "deceased": 11
     },
     "notes": "",
-    "last_updated": "2020-05-19T13:41:22+05:30"
+    "last_updated": "2020-05-19T13:49:23+05:30"
   }
 }
