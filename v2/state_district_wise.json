@@ -83,13 +83,13 @@
       {
         "district": "Chittoor",
         "notes": "",
-        "active": 110,
+        "active": 109,
         "confirmed": 192,
-        "deceased": 0,
+        "deceased": 1,
         "recovered": 82,
         "delta": {
           "confirmed": 0,
-          "deceased": 0,
+          "deceased": 1,
           "recovered": 0
         }
       },
@@ -135,13 +135,13 @@
       {
         "district": "Kurnool",
         "notes": "",
-        "active": 163,
+        "active": 162,
         "confirmed": 615,
-        "deceased": 19,
+        "deceased": 20,
         "recovered": 433,
         "delta": {
           "confirmed": 0,
-          "deceased": 0,
+          "deceased": 1,
           "recovered": 0
         }
       },
@@ -241,6 +241,19 @@
         "notes": "",
         "active": 35,
         "confirmed": 104,
+        "deceased": 0,
+        "recovered": 69,
+        "delta": {
+          "confirmed": 0,
+          "deceased": 0,
+          "recovered": 0
+        }
+      },
+      {
+        "district": "Unknown",
+        "notes": "",
+        "active": -12,
+        "confirmed": 57,
         "deceased": 0,
         "recovered": 69,
         "delta": {
