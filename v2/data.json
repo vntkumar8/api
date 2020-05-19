@@ -12913,12 +12913,12 @@
         "delta": {
           "confirmed": 0,
           "recovered": 0,
-          "deceased": 0
+          "deceased": 1
         },
         "total": {
           "confirmed": 19,
           "recovered": 13,
-          "deceased": 0
+          "deceased": 1
         },
         "zone": {
           "status": "Orange",
@@ -12929,12 +12929,12 @@
       "Belagavi": {
         "delta": {
           "confirmed": 0,
-          "recovered": 0,
+          "recovered": 2,
           "deceased": 0
         },
         "total": {
           "confirmed": 116,
-          "recovered": 54,
+          "recovered": 56,
           "deceased": 1
         },
         "zone": {
@@ -12963,13 +12963,13 @@
       "Bengaluru Urban": {
         "delta": {
           "confirmed": 6,
-          "recovered": 0,
-          "deceased": 0
+          "recovered": 1,
+          "deceased": 1
         },
         "total": {
           "confirmed": 246,
-          "recovered": 122,
-          "deceased": 7
+          "recovered": 123,
+          "deceased": 8
         },
         "zone": {
           "status": "Red",
@@ -12980,12 +12980,12 @@
       "Bidar": {
         "delta": {
           "confirmed": 1,
-          "recovered": 0,
+          "recovered": 7,
           "deceased": 0
         },
         "total": {
           "confirmed": 57,
-          "recovered": 14,
+          "recovered": 21,
           "deceased": 2
         },
         "zone": {
@@ -13167,12 +13167,12 @@
       "Kalaburagi": {
         "delta": {
           "confirmed": 13,
-          "recovered": 0,
+          "recovered": 2,
           "deceased": 0
         },
         "total": {
           "confirmed": 128,
-          "recovered": 53,
+          "recovered": 55,
           "deceased": 7
         },
         "zone": {
@@ -13354,12 +13354,12 @@
       "Uttara Kannada": {
         "delta": {
           "confirmed": 4,
-          "recovered": 0,
+          "recovered": 1,
           "deceased": 0
         },
         "total": {
           "confirmed": 55,
-          "recovered": 11,
+          "recovered": 12,
           "deceased": 0
         },
         "zone": {
@@ -13372,12 +13372,12 @@
         "delta": {
           "confirmed": 1,
           "recovered": 0,
-          "deceased": 0
+          "deceased": 1
         },
         "total": {
           "confirmed": 60,
           "recovered": 37,
-          "deceased": 3
+          "deceased": 4
         },
         "zone": {
           "status": "Orange",
@@ -13405,7 +13405,7 @@
     },
     "total": {
       "confirmed": 1395,
-      "recovered": 530,
+      "recovered": 543,
       "deceased": 40,
       "tested": {
         "samples": 0,
@@ -13415,11 +13415,11 @@
     },
     "delta": {
       "confirmed": 149,
-      "recovered": 0,
+      "recovered": 13,
       "deceased": 3
     },
     "notes": "One active case in KA reduced as a confirmed patient died of non-CoViD19 related reasons",
-    "last_updated": "2020-05-19T18:01:24+05:30"
+    "last_updated": "2020-05-19T18:11:24+05:30"
   },
   "KL": {
     "timeseries": {
@@ -13967,12 +13967,12 @@
     "districts": {
       "Alappuzha": {
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "recovered": 0,
           "deceased": 0
         },
         "total": {
-          "confirmed": 9,
+          "confirmed": 10,
           "recovered": 5,
           "deceased": 0
         },
@@ -14018,12 +14018,12 @@
       },
       "Kannur": {
         "delta": {
-          "confirmed": 0,
+          "confirmed": 5,
           "recovered": 0,
           "deceased": 0
         },
         "total": {
-          "confirmed": 124,
+          "confirmed": 129,
           "recovered": 115,
           "deceased": 1
         },
@@ -14103,12 +14103,12 @@
       },
       "Malappuram": {
         "delta": {
-          "confirmed": 0,
+          "confirmed": 3,
           "recovered": 0,
           "deceased": 0
         },
         "total": {
-          "confirmed": 48,
+          "confirmed": 51,
           "recovered": 23,
           "deceased": 1
         },
@@ -14120,12 +14120,12 @@
       },
       "Palakkad": {
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "recovered": 0,
           "deceased": 0
         },
         "total": {
-          "confirmed": 25,
+          "confirmed": 26,
           "recovered": 13,
           "deceased": 0
         },
@@ -14137,12 +14137,12 @@
       },
       "Pathanamthitta": {
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "recovered": 0,
           "deceased": 0
         },
         "total": {
-          "confirmed": 21,
+          "confirmed": 22,
           "recovered": 17,
           "deceased": 0
         },
@@ -14171,12 +14171,12 @@
       },
       "Thrissur": {
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "recovered": 0,
           "deceased": 0
         },
         "total": {
-          "confirmed": 24,
+          "confirmed": 25,
           "recovered": 13,
           "deceased": 0
         },
@@ -14205,7 +14205,7 @@
       }
     },
     "total": {
-      "confirmed": 631,
+      "confirmed": 643,
       "recovered": 497,
       "deceased": 4,
       "tested": {
@@ -14215,12 +14215,12 @@
       }
     },
     "delta": {
-      "confirmed": 0,
+      "confirmed": 12,
       "recovered": 0,
       "deceased": 0
     },
     "notes": "Mahe native who expired in Kannur included in Kerala's tally",
-    "last_updated": "2020-05-18T17:42:25+05:30"
+    "last_updated": "2020-05-19T18:11:25+05:30"
   },
   "LA": {
     "timeseries": {
@@ -30155,7 +30155,7 @@
       "deceased": 0
     },
     "notes": "",
-    "last_updated": "2020-05-19T18:01:25+05:30"
+    "last_updated": "2020-05-19T18:08:27+05:30"
   },
   "WB": {
     "timeseries": {
@@ -31680,8 +31680,8 @@
     },
     "districts": null,
     "total": {
-      "confirmed": 102317,
-      "recovered": 39661,
+      "confirmed": 102329,
+      "recovered": 39674,
       "deceased": 3169,
       "tested": {
         "samples": 2404267,
@@ -31690,11 +31690,11 @@
       }
     },
     "delta": {
-      "confirmed": 1989,
-      "recovered": 384,
+      "confirmed": 2001,
+      "recovered": 397,
       "deceased": 13
     },
     "notes": "",
-    "last_updated": "2020-05-19T18:01:23+05:30"
+    "last_updated": "2020-05-19T18:11:23+05:30"
   }
 }
