@@ -4962,12 +4962,12 @@
       "Chandigarh": {
         "delta": {
           "confirmed": 3,
-          "recovered": 0,
+          "recovered": 3,
           "deceased": 0
         },
         "total": {
           "confirmed": 199,
-          "recovered": 54,
+          "recovered": 57,
           "deceased": 3
         },
         "zone": {
@@ -4979,7 +4979,7 @@
     },
     "total": {
       "confirmed": 199,
-      "recovered": 54,
+      "recovered": 57,
       "deceased": 3,
       "tested": {
         "samples": 2892,
@@ -4989,11 +4989,11 @@
     },
     "delta": {
       "confirmed": 3,
-      "recovered": 0,
+      "recovered": 3,
       "deceased": 0
     },
     "notes": "",
-    "last_updated": "2020-05-19T17:23:24+05:30"
+    "last_updated": "2020-05-19T17:41:25+05:30"
   },
   "CT": {
     "timeseries": {
@@ -31681,7 +31681,7 @@
     "districts": null,
     "total": {
       "confirmed": 102287,
-      "recovered": 39658,
+      "recovered": 39661,
       "deceased": 3169,
       "tested": {
         "samples": 2404267,
@@ -31691,10 +31691,10 @@
     },
     "delta": {
       "confirmed": 1959,
-      "recovered": 381,
+      "recovered": 384,
       "deceased": 13
     },
     "notes": "",
-    "last_updated": "2020-05-19T17:23:23+05:30"
+    "last_updated": "2020-05-19T17:41:23+05:30"
   }
 }
