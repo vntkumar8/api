@@ -9451,8 +9451,8 @@
           "samples": 19490,
           "source": "https://twitter.com/nhm_hp/status/1262716478320599040"
         },
-        "confirmed": 0,
-        "recovered": 3,
+        "confirmed": 2,
+        "recovered": 5,
         "deceased": 0
       }
     },
@@ -9460,12 +9460,12 @@
       "Bilaspur": {
         "delta": {
           "confirmed": 0,
-          "recovered": 0,
+          "recovered": 2,
           "deceased": 0
         },
         "total": {
           "confirmed": 7,
-          "recovered": 0,
+          "recovered": 2,
           "deceased": 0
         },
         "zone": {
@@ -9510,12 +9510,12 @@
       },
       "Kangra": {
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "recovered": 3,
           "deceased": 0
         },
         "total": {
-          "confirmed": 21,
+          "confirmed": 22,
           "recovered": 8,
           "deceased": 1
         },
@@ -9646,12 +9646,12 @@
       },
       "Una": {
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "recovered": 0,
           "deceased": 0
         },
         "total": {
-          "confirmed": 18,
+          "confirmed": 19,
           "recovered": 17,
           "deceased": 0
         },
@@ -9663,8 +9663,8 @@
       }
     },
     "total": {
-      "confirmed": 90,
-      "recovered": 45,
+      "confirmed": 92,
+      "recovered": 47,
       "deceased": 3,
       "tested": {
         "samples": 19490,
@@ -9673,12 +9673,12 @@
       }
     },
     "delta": {
-      "confirmed": 0,
-      "recovered": 3,
+      "confirmed": 2,
+      "recovered": 5,
       "deceased": 0
     },
     "notes": "HP has 4 Migrated cases which are reduced from Active #. Also, death of Tibetan refugee is included in deceased numbers, but not in confirmed",
-    "last_updated": "2020-05-19T19:59:27+05:30"
+    "last_updated": "2020-05-20T01:37:25+05:30"
   },
   "HR": {
     "timeseries": {
@@ -31940,15 +31940,15 @@
           "samples": 2404267,
           "source": "https://www.icmr.gov.in/pdf/covid/update/ICMR_testing_update_19May2020_9AM_IST.pdf"
         },
-        "confirmed": 5327,
-        "recovered": 3030,
+        "confirmed": 5329,
+        "recovered": 3032,
         "deceased": 145
       }
     },
     "districts": null,
     "total": {
-      "confirmed": 106468,
-      "recovered": 42307,
+      "confirmed": 106470,
+      "recovered": 42309,
       "deceased": 3301,
       "tested": {
         "samples": 2404267,
@@ -31957,11 +31957,11 @@
       }
     },
     "delta": {
-      "confirmed": 6141,
-      "recovered": 3030,
+      "confirmed": 6143,
+      "recovered": 3032,
       "deceased": 145
     },
     "notes": "",
-    "last_updated": "2020-05-19T23:53:23+05:30"
+    "last_updated": "2020-05-20T01:37:23+05:30"
   }
 }
