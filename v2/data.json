@@ -19848,7 +19848,10 @@
         "deceased": 0
       },
       "2020-05-18": {
-        "tested": null,
+        "tested": {
+          "samples": 301,
+          "source": "https://health.mizoram.gov.in/post/covid-19-bulletin-date-18052020"
+        },
         "confirmed": 0,
         "recovered": 0,
         "deceased": 0
