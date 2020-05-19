@@ -7733,7 +7733,7 @@
       }
     },
     "total": {
-      "confirmed": 38,
+      "confirmed": 46,
       "recovered": 7,
       "deceased": 0,
       "tested": {
@@ -7743,7 +7743,7 @@
       }
     },
     "delta": {
-      "confirmed": 0,
+      "confirmed": 8,
       "recovered": 0,
       "deceased": 0
     },
@@ -11107,12 +11107,12 @@
       },
       "East Singhbhum": {
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "recovered": 0,
           "deceased": 0
         },
         "total": {
-          "confirmed": 5,
+          "confirmed": 6,
           "recovered": 0,
           "deceased": 0
         },
@@ -11175,12 +11175,12 @@
       },
       "Gumla": {
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "recovered": 0,
           "deceased": 0
         },
         "total": {
-          "confirmed": 0,
+          "confirmed": 1,
           "recovered": 0,
           "deceased": 0
         },
@@ -11260,12 +11260,12 @@
       },
       "Latehar": {
         "delta": {
-          "confirmed": 0,
+          "confirmed": 3,
           "recovered": 0,
           "deceased": 0
         },
         "total": {
-          "confirmed": 1,
+          "confirmed": 4,
           "recovered": 0,
           "deceased": 0
         },
@@ -11430,7 +11430,7 @@
       }
     },
     "total": {
-      "confirmed": 228,
+      "confirmed": 233,
       "recovered": 127,
       "deceased": 3,
       "tested": {
@@ -11440,12 +11440,12 @@
       }
     },
     "delta": {
-      "confirmed": 0,
+      "confirmed": 5,
       "recovered": 0,
       "deceased": 0
     },
     "notes": "",
-    "last_updated": "2020-05-18T22:50:25+05:30"
+    "last_updated": "2020-05-19T20:41:25+05:30"
   },
   "JK": {
     "timeseries": {
@@ -27569,7 +27569,7 @@
       "deceased": 0
     },
     "notes": "Two cases are migrated out of Tripura.",
-    "last_updated": "2020-05-19T20:31:25+05:30"
+    "last_updated": "2020-05-19T20:41:28+05:30"
   },
   "UP": {
     "timeseries": {
@@ -31677,7 +31677,7 @@
     },
     "districts": null,
     "total": {
-      "confirmed": 103873,
+      "confirmed": 103886,
       "recovered": 40856,
       "deceased": 3212,
       "tested": {
@@ -31687,11 +31687,11 @@
       }
     },
     "delta": {
-      "confirmed": 3546,
+      "confirmed": 3559,
       "recovered": 1579,
       "deceased": 56
     },
     "notes": "",
-    "last_updated": "2020-05-19T20:31:23+05:30"
+    "last_updated": "2020-05-19T20:41:23+05:30"
   }
 }
