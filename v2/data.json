@@ -25768,7 +25768,7 @@
       "deceased": 4
     },
     "notes": "",
-    "last_updated": "2020-05-19T21:27:44+05:30"
+    "last_updated": "2020-05-19T21:33:26+05:30"
   },
   "TN": {
     "timeseries": {
@@ -30015,12 +30015,12 @@
       },
       "Nainital": {
         "delta": {
-          "confirmed": 2,
+          "confirmed": 7,
           "recovered": 0,
           "deceased": 0
         },
         "total": {
-          "confirmed": 18,
+          "confirmed": 23,
           "recovered": 10,
           "deceased": 0
         },
@@ -30032,12 +30032,12 @@
       },
       "Pauri Garhwal": {
         "delta": {
-          "confirmed": 1,
+          "confirmed": 2,
           "recovered": 0,
           "deceased": 0
         },
         "total": {
-          "confirmed": 3,
+          "confirmed": 4,
           "recovered": 1,
           "deceased": 0
         },
@@ -30100,12 +30100,12 @@
       },
       "Udham Singh Nagar": {
         "delta": {
-          "confirmed": 2,
+          "confirmed": 3,
           "recovered": 0,
           "deceased": 0
         },
         "total": {
-          "confirmed": 22,
+          "confirmed": 23,
           "recovered": 5,
           "deceased": 0
         },
@@ -30134,7 +30134,7 @@
       }
     },
     "total": {
-      "confirmed": 104,
+      "confirmed": 111,
       "recovered": 52,
       "deceased": 1,
       "tested": {
@@ -30144,12 +30144,12 @@
       }
     },
     "delta": {
-      "confirmed": 8,
+      "confirmed": 15,
       "recovered": 0,
       "deceased": 0
     },
     "notes": "",
-    "last_updated": "2020-05-19T18:12:26+05:30"
+    "last_updated": "2020-05-19T21:41:25+05:30"
   },
   "WB": {
     "timeseries": {
@@ -31674,7 +31674,7 @@
     },
     "districts": null,
     "total": {
-      "confirmed": 103928,
+      "confirmed": 103935,
       "recovered": 40865,
       "deceased": 3216,
       "tested": {
@@ -31684,11 +31684,11 @@
       }
     },
     "delta": {
-      "confirmed": 3601,
+      "confirmed": 3608,
       "recovered": 1588,
       "deceased": 60
     },
     "notes": "",
-    "last_updated": "2020-05-19T21:27:23+05:30"
+    "last_updated": "2020-05-19T21:41:23+05:30"
   }
 }
