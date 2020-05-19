@@ -22361,7 +22361,10 @@
         "deceased": 2
       },
       "2020-05-19": {
-        "tested": null,
+        "tested": {
+          "samples": 55634,
+          "source": "https://t.me/indiacovid/5111?single"
+        },
         "confirmed": 22,
         "recovered": 95,
         "deceased": 1
@@ -22748,9 +22751,9 @@
       "recovered": 1642,
       "deceased": 38,
       "tested": {
-        "samples": 0,
-        "source": "",
-        "last_updated": "2020-05-20"
+        "samples": 55634,
+        "source": "https://t.me/indiacovid/5111?single",
+        "last_updated": "2020-05-19"
       }
     },
     "delta": {
@@ -23875,7 +23878,10 @@
         "deceased": 7
       },
       "2020-05-19": {
-        "tested": null,
+        "tested": {
+          "samples": 254533,
+          "source": "https://t.me/indiacovid/5138"
+        },
         "confirmed": 338,
         "recovered": 119,
         "deceased": 5
@@ -24451,7 +24457,7 @@
       "tested": {
         "samples": 0,
         "source": "",
-        "last_updated": "2020-05-20"
+        "last_updated": "2020-05-21"
       }
     },
     "delta": {
@@ -24906,7 +24912,10 @@
         "deceased": 0
       },
       "2020-05-19": {
-        "tested": null,
+        "tested": {
+          "samples": 1204,
+          "source": ""
+        },
         "confirmed": 0,
         "recovered": 0,
         "deceased": 0
@@ -24989,7 +24998,7 @@
       "tested": {
         "samples": 0,
         "source": "",
-        "last_updated": "2020-05-20"
+        "last_updated": "2020-05-21"
       }
     },
     "delta": {
