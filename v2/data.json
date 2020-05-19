@@ -4993,7 +4993,7 @@
       "deceased": 0
     },
     "notes": "",
-    "last_updated": "2020-05-19T17:43:24+05:30"
+    "last_updated": "2020-05-19T17:53:24+05:30"
   },
   "CT": {
     "timeseries": {
@@ -12894,12 +12894,12 @@
     "districts": {
       "Bagalkote": {
         "delta": {
-          "confirmed": 0,
+          "confirmed": 5,
           "recovered": 0,
           "deceased": 0
         },
         "total": {
-          "confirmed": 71,
+          "confirmed": 76,
           "recovered": 39,
           "deceased": 1
         },
@@ -12979,12 +12979,12 @@
       },
       "Bidar": {
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "recovered": 0,
           "deceased": 0
         },
         "total": {
-          "confirmed": 56,
+          "confirmed": 57,
           "recovered": 14,
           "deceased": 2
         },
@@ -13030,12 +13030,12 @@
       },
       "Chikkamagaluru": {
         "delta": {
-          "confirmed": 2,
+          "confirmed": 5,
           "recovered": 0,
           "deceased": 0
         },
         "total": {
-          "confirmed": 2,
+          "confirmed": 5,
           "recovered": 0,
           "deceased": 0
         },
@@ -13081,12 +13081,12 @@
       },
       "Davanagere": {
         "delta": {
-          "confirmed": 19,
+          "confirmed": 20,
           "recovered": 0,
           "deceased": 0
         },
         "total": {
-          "confirmed": 109,
+          "confirmed": 110,
           "recovered": 2,
           "deceased": 4
         },
@@ -13166,12 +13166,12 @@
       },
       "Kalaburagi": {
         "delta": {
-          "confirmed": 11,
+          "confirmed": 13,
           "recovered": 0,
           "deceased": 0
         },
         "total": {
-          "confirmed": 126,
+          "confirmed": 128,
           "recovered": 53,
           "deceased": 7
         },
@@ -13234,12 +13234,12 @@
       },
       "Mandya": {
         "delta": {
-          "confirmed": 62,
+          "confirmed": 71,
           "recovered": 0,
           "deceased": 0
         },
         "total": {
-          "confirmed": 151,
+          "confirmed": 160,
           "recovered": 21,
           "deceased": 0
         },
@@ -13268,12 +13268,12 @@
       },
       "Raichur": {
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "recovered": 0,
           "deceased": 0
         },
         "total": {
-          "confirmed": 6,
+          "confirmed": 7,
           "recovered": 0,
           "deceased": 0
         },
@@ -13404,7 +13404,7 @@
       }
     },
     "total": {
-      "confirmed": 1373,
+      "confirmed": 1395,
       "recovered": 530,
       "deceased": 40,
       "tested": {
@@ -13414,12 +13414,12 @@
       }
     },
     "delta": {
-      "confirmed": 127,
+      "confirmed": 149,
       "recovered": 0,
       "deceased": 3
     },
     "notes": "One active case in KA reduced as a confirmed patient died of non-CoViD19 related reasons",
-    "last_updated": "2020-05-19T13:19:25+05:30"
+    "last_updated": "2020-05-19T18:01:24+05:30"
   },
   "KL": {
     "timeseries": {
@@ -29936,12 +29936,12 @@
       },
       "Bageshwar": {
         "delta": {
-          "confirmed": 0,
+          "confirmed": 2,
           "recovered": 0,
           "deceased": 0
         },
         "total": {
-          "confirmed": 0,
+          "confirmed": 2,
           "recovered": 0,
           "deceased": 0
         },
@@ -29953,12 +29953,12 @@
       },
       "Chamoli": {
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "recovered": 0,
           "deceased": 0
         },
         "total": {
-          "confirmed": 0,
+          "confirmed": 1,
           "recovered": 0,
           "deceased": 0
         },
@@ -30021,12 +30021,12 @@
       },
       "Nainital": {
         "delta": {
-          "confirmed": 0,
+          "confirmed": 2,
           "recovered": 0,
           "deceased": 0
         },
         "total": {
-          "confirmed": 16,
+          "confirmed": 18,
           "recovered": 10,
           "deceased": 0
         },
@@ -30038,12 +30038,12 @@
       },
       "Pauri Garhwal": {
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "recovered": 0,
           "deceased": 0
         },
         "total": {
-          "confirmed": 2,
+          "confirmed": 3,
           "recovered": 1,
           "deceased": 0
         },
@@ -30106,12 +30106,12 @@
       },
       "Udham Singh Nagar": {
         "delta": {
-          "confirmed": 0,
+          "confirmed": 2,
           "recovered": 0,
           "deceased": 0
         },
         "total": {
-          "confirmed": 20,
+          "confirmed": 22,
           "recovered": 5,
           "deceased": 0
         },
@@ -30140,7 +30140,7 @@
       }
     },
     "total": {
-      "confirmed": 96,
+      "confirmed": 104,
       "recovered": 52,
       "deceased": 1,
       "tested": {
@@ -30150,12 +30150,12 @@
       }
     },
     "delta": {
-      "confirmed": 0,
+      "confirmed": 8,
       "recovered": 0,
       "deceased": 0
     },
     "notes": "",
-    "last_updated": "2020-05-18T19:44:30+05:30"
+    "last_updated": "2020-05-19T18:01:25+05:30"
   },
   "WB": {
     "timeseries": {
@@ -31680,7 +31680,7 @@
     },
     "districts": null,
     "total": {
-      "confirmed": 102287,
+      "confirmed": 102317,
       "recovered": 39661,
       "deceased": 3169,
       "tested": {
@@ -31690,11 +31690,11 @@
       }
     },
     "delta": {
-      "confirmed": 1959,
+      "confirmed": 1989,
       "recovered": 384,
       "deceased": 13
     },
     "notes": "",
-    "last_updated": "2020-05-19T17:43:22+05:30"
+    "last_updated": "2020-05-19T18:01:23+05:30"
   }
 }
