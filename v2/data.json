@@ -13404,9 +13404,9 @@
       }
     },
     "total": {
-      "confirmed": 1246,
+      "confirmed": 1373,
       "recovered": 530,
-      "deceased": 37,
+      "deceased": 40,
       "tested": {
         "samples": 0,
         "source": "",
@@ -13414,12 +13414,12 @@
       }
     },
     "delta": {
-      "confirmed": 0,
+      "confirmed": 127,
       "recovered": 0,
-      "deceased": 0
+      "deceased": 3
     },
     "notes": "One active case in KA reduced as a confirmed patient died of non-CoViD19 related reasons",
-    "last_updated": "2020-05-18T18:05:24+05:30"
+    "last_updated": "2020-05-19T13:11:24+05:30"
   },
   "KL": {
     "timeseries": {
@@ -31680,9 +31680,9 @@
     },
     "districts": null,
     "total": {
-      "confirmed": 101385,
+      "confirmed": 101512,
       "recovered": 39234,
-      "deceased": 3158,
+      "deceased": 3161,
       "tested": {
         "samples": 2404267,
         "source": "https://www.icmr.gov.in/pdf/covid/update/ICMR_testing_update_19May2020_9AM_IST.pdf",
@@ -31690,11 +31690,11 @@
       }
     },
     "delta": {
-      "confirmed": 1057,
+      "confirmed": 1184,
       "recovered": 1,
-      "deceased": 2
+      "deceased": 5
     },
     "notes": "",
-    "last_updated": "2020-05-19T11:37:23+05:30"
+    "last_updated": "2020-05-19T13:11:23+05:30"
   }
 }

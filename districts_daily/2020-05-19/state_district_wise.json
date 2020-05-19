@@ -3776,6 +3776,18 @@
           "deceased": 0,
           "recovered": 0
         }
+      },
+      "Unknown": {
+        "notes": "",
+        "active": 124,
+        "confirmed": 127,
+        "deceased": 3,
+        "recovered": 0,
+        "delta": {
+          "confirmed": 0,
+          "deceased": 0,
+          "recovered": 0
+        }
       }
     },
     "statecode": "KA"
