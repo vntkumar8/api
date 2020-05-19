@@ -25177,7 +25177,10 @@
         "deceased": 0
       },
       "2020-05-17": {
-        "tested": null,
+        "tested": {
+          "samples": 23388,
+          "source": ""
+        },
         "confirmed": 42,
         "recovered": 21,
         "deceased": 0
@@ -25758,8 +25761,8 @@
       "deceased": 38,
       "tested": {
         "samples": 23388,
-        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/42",
-        "last_updated": "2020-05-16"
+        "source": "",
+        "last_updated": "2020-05-17"
       }
     },
     "delta": {
