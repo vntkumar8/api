@@ -3892,12 +3892,12 @@
       },
       "Buxar": {
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "recovered": 0,
           "deceased": 0
         },
         "total": {
-          "confirmed": 62,
+          "confirmed": 63,
           "recovered": 56,
           "deceased": 0
         },
@@ -3943,12 +3943,12 @@
       },
       "Gaya": {
         "delta": {
-          "confirmed": 0,
+          "confirmed": 3,
           "recovered": 0,
           "deceased": 0
         },
         "total": {
-          "confirmed": 8,
+          "confirmed": 11,
           "recovered": 6,
           "deceased": 0
         },
@@ -3994,12 +3994,12 @@
       },
       "Jehanabad": {
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "recovered": 0,
           "deceased": 0
         },
         "total": {
-          "confirmed": 27,
+          "confirmed": 28,
           "recovered": 5,
           "deceased": 0
         },
@@ -4011,12 +4011,12 @@
       },
       "Kaimur": {
         "delta": {
-          "confirmed": 0,
+          "confirmed": 2,
           "recovered": 0,
           "deceased": 0
         },
         "total": {
-          "confirmed": 36,
+          "confirmed": 38,
           "recovered": 32,
           "deceased": 0
         },
@@ -4096,12 +4096,12 @@
       },
       "Madhepura": {
         "delta": {
-          "confirmed": 0,
+          "confirmed": 2,
           "recovered": 0,
           "deceased": 0
         },
         "total": {
-          "confirmed": 18,
+          "confirmed": 20,
           "recovered": 2,
           "deceased": 0
         },
@@ -4181,12 +4181,12 @@
       },
       "Nawada": {
         "delta": {
-          "confirmed": 0,
+          "confirmed": 3,
           "recovered": 0,
           "deceased": 0
         },
         "total": {
-          "confirmed": 36,
+          "confirmed": 39,
           "recovered": 4,
           "deceased": 0
         },
@@ -4198,12 +4198,12 @@
       },
       "Patna": {
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "recovered": 0,
           "deceased": 0
         },
         "total": {
-          "confirmed": 165,
+          "confirmed": 166,
           "recovered": 42,
           "deceased": 2
         },
@@ -4266,12 +4266,12 @@
       },
       "Samastipur": {
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "recovered": 0,
           "deceased": 0
         },
         "total": {
-          "confirmed": 15,
+          "confirmed": 16,
           "recovered": 0,
           "deceased": 0
         },
@@ -4300,12 +4300,12 @@
       },
       "Sheikhpura": {
         "delta": {
-          "confirmed": 0,
+          "confirmed": 2,
           "recovered": 0,
           "deceased": 0
         },
         "total": {
-          "confirmed": 21,
+          "confirmed": 23,
           "recovered": 0,
           "deceased": 0
         },
@@ -4368,12 +4368,12 @@
       },
       "Supaul": {
         "delta": {
-          "confirmed": 0,
+          "confirmed": 3,
           "recovered": 0,
           "deceased": 0
         },
         "total": {
-          "confirmed": 21,
+          "confirmed": 24,
           "recovered": 0,
           "deceased": 0
         },
@@ -4419,7 +4419,7 @@
       }
     },
     "total": {
-      "confirmed": 1423,
+      "confirmed": 1442,
       "recovered": 473,
       "deceased": 9,
       "tested": {
@@ -4429,12 +4429,12 @@
       }
     },
     "delta": {
-      "confirmed": 0,
+      "confirmed": 19,
       "recovered": 0,
       "deceased": 0
     },
     "notes": "",
-    "last_updated": "2020-05-18T20:01:26+05:30"
+    "last_updated": "2020-05-19T10:21:24+05:30"
   },
   "CH": {
     "timeseries": {
@@ -31677,7 +31677,7 @@
     },
     "districts": null,
     "total": {
-      "confirmed": 101264,
+      "confirmed": 101283,
       "recovered": 39234,
       "deceased": 3157,
       "tested": {
@@ -31687,11 +31687,11 @@
       }
     },
     "delta": {
-      "confirmed": 936,
+      "confirmed": 955,
       "recovered": 1,
       "deceased": 1
     },
     "notes": "",
-    "last_updated": "2020-05-19T09:56:23+05:30"
+    "last_updated": "2020-05-19T10:21:22+05:30"
   }
 }
