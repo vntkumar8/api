@@ -9448,8 +9448,8 @@
       },
       "2020-05-19": {
         "tested": {
-          "samples": 19490,
-          "source": "https://twitter.com/nhm_hp/status/1262716478320599040"
+          "samples": 19645,
+          "source": "https://twitter.com/nhm_hp/status/1262785487250403328"
         },
         "confirmed": 2,
         "recovered": 5,
@@ -9667,8 +9667,8 @@
       "recovered": 47,
       "deceased": 4,
       "tested": {
-        "samples": 19490,
-        "source": "https://twitter.com/nhm_hp/status/1262716478320599040",
+        "samples": 19645,
+        "source": "https://twitter.com/nhm_hp/status/1262785487250403328",
         "last_updated": "2020-05-19"
       }
     },
@@ -11118,7 +11118,10 @@
         "deceased": 0
       },
       "2020-05-19": {
-        "tested": null,
+        "tested": {
+          "samples": 37589,
+          "source": "https://twitter.com/RobRanchi/status/1262797380878888960"
+        },
         "confirmed": 20,
         "recovered": 0,
         "deceased": 0
@@ -11539,9 +11542,9 @@
       "recovered": 127,
       "deceased": 3,
       "tested": {
-        "samples": 0,
-        "source": "",
-        "last_updated": "2020-05-20"
+        "samples": 37589,
+        "source": "https://twitter.com/RobRanchi/status/1262797380878888960",
+        "last_updated": "2020-05-19"
       }
     },
     "delta": {
@@ -14798,7 +14801,10 @@
         "deceased": 0
       },
       "2020-05-19": {
-        "tested": null,
+        "tested": {
+          "samples": 4730,
+          "source": "https://twitter.com/ladags/status/1262796538440540167"
+        },
         "confirmed": 0,
         "recovered": 0,
         "deceased": 0
@@ -14845,9 +14851,9 @@
       "recovered": 43,
       "deceased": 0,
       "tested": {
-        "samples": 0,
-        "source": "",
-        "last_updated": "2020-05-20"
+        "samples": 4730,
+        "source": "https://twitter.com/ladags/status/1262796538440540167",
+        "last_updated": "2020-05-19"
       }
     },
     "delta": {
@@ -16930,7 +16936,10 @@
         "deceased": 0
       },
       "2020-05-19": {
-        "tested": null,
+        "tested": {
+          "samples": 3104,
+          "source": "https://t.me/Covid19india_Auxiliary_Test_Data/65"
+        },
         "confirmed": 0,
         "recovered": 0,
         "deceased": 0
@@ -17130,9 +17139,9 @@
       "recovered": 12,
       "deceased": 1,
       "tested": {
-        "samples": 2896,
-        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/52",
-        "last_updated": "2020-05-18"
+        "samples": 3104,
+        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/65",
+        "last_updated": "2020-05-19"
       }
     },
     "delta": {
