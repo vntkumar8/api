@@ -1171,6 +1171,19 @@
 			"statenotes": ""
 		},
 		{
+			"active": "811",
+			"confirmed": "1395",
+			"deaths": "40",
+			"deltaconfirmed": "149",
+			"deltadeaths": "3",
+			"deltarecovered": "13",
+			"lastupdatedtime": "19/05/2020 18:18:24",
+			"recovered": "543",
+			"state": "Karnataka",
+			"statecode": "KA",
+			"statenotes": "One active case in KA reduced as a confirmed patient died of non-CoViD19 related reasons"
+		},
+		{
 			"active": "653",
 			"confirmed": "1317",
 			"deaths": "17",
@@ -1184,17 +1197,17 @@
 			"statenotes": ""
 		},
 		{
-			"active": "811",
-			"confirmed": "1395",
-			"deaths": "40",
-			"deltaconfirmed": "149",
-			"deltadeaths": "3",
-			"deltarecovered": "13",
-			"lastupdatedtime": "19/05/2020 18:18:24",
-			"recovered": "543",
-			"state": "Karnataka",
-			"statecode": "KA",
-			"statenotes": "One active case in KA reduced as a confirmed patient died of non-CoViD19 related reasons"
+			"active": "666",
+			"confirmed": "978",
+			"deaths": "5",
+			"deltaconfirmed": "102",
+			"deltadeaths": "1",
+			"deltarecovered": "30",
+			"lastupdatedtime": "19/05/2020 13:49:24",
+			"recovered": "307",
+			"state": "Odisha",
+			"statecode": "OR",
+			"statenotes": ""
 		},
 		{
 			"active": "323",
@@ -1210,17 +1223,17 @@
 			"statenotes": ""
 		},
 		{
-			"active": "666",
-			"confirmed": "978",
-			"deaths": "5",
-			"deltaconfirmed": "102",
-			"deltadeaths": "1",
-			"deltarecovered": "30",
-			"lastupdatedtime": "19/05/2020 13:49:24",
-			"recovered": "307",
-			"state": "Odisha",
-			"statecode": "OR",
-			"statenotes": ""
+			"active": "814",
+			"confirmed": "814",
+			"deaths": "0",
+			"deltaconfirmed": "814",
+			"deltadeaths": "0",
+			"deltarecovered": "0",
+			"lastupdatedtime": "19/05/2020 09:28:27",
+			"recovered": "0",
+			"state": "State Unassigned",
+			"statecode": "UN",
+			"statenotes": "MoHFW reports that these cases are being reassigned to states"
 		},
 		{
 			"active": "142",
@@ -1301,6 +1314,19 @@
 			"statenotes": ""
 		},
 		{
+			"active": "36",
+			"confirmed": "95",
+			"deaths": "0",
+			"deltaconfirmed": "0",
+			"deltadeaths": "0",
+			"deltarecovered": "0",
+			"lastupdatedtime": "19/05/2020 02:43:24",
+			"recovered": "59",
+			"state": "Chhattisgarh",
+			"statecode": "CT",
+			"statenotes": ""
+		},
+		{
 			"active": "39",
 			"confirmed": "90",
 			"deaths": "3",
@@ -1314,16 +1340,16 @@
 			"statenotes": "HP has 4 Migrated cases which are reduced from Active #. Also, death of Tibetan refugee is included in deceased numbers, but not in confirmed"
 		},
 		{
-			"active": "36",
-			"confirmed": "95",
+			"active": "39",
+			"confirmed": "46",
 			"deaths": "0",
-			"deltaconfirmed": "0",
+			"deltaconfirmed": "8",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
-			"lastupdatedtime": "19/05/2020 02:43:24",
-			"recovered": "59",
-			"state": "Chhattisgarh",
-			"statecode": "CT",
+			"lastupdatedtime": "19/05/2020 20:43:26",
+			"recovered": "7",
+			"state": "Goa",
+			"statecode": "GA",
 			"statenotes": ""
 		},
 		{
@@ -1350,19 +1376,6 @@
 			"recovered": "33",
 			"state": "Andaman and Nicobar Islands",
 			"statecode": "AN",
-			"statenotes": ""
-		},
-		{
-			"active": "39",
-			"confirmed": "46",
-			"deaths": "0",
-			"deltaconfirmed": "8",
-			"deltadeaths": "0",
-			"deltarecovered": "0",
-			"lastupdatedtime": "19/05/2020 20:43:26",
-			"recovered": "7",
-			"state": "Goa",
-			"statecode": "GA",
 			"statenotes": ""
 		},
 		{
@@ -1481,19 +1494,6 @@
 			"state": "Sikkim",
 			"statecode": "SK",
 			"statenotes": ""
-		},
-		{
-			"active": "814",
-			"confirmed": "814",
-			"deaths": "0",
-			"deltaconfirmed": "814",
-			"deltadeaths": "0",
-			"deltarecovered": "0",
-			"lastupdatedtime": "19/05/2020 09:28:27",
-			"recovered": "0",
-			"state": "State Unassigned",
-			"statecode": "UN",
-			"statenotes": "MoHFW reports that these cases are being reassigned to states"
 		}
 	],
 	"tested": [
