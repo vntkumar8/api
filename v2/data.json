@@ -5542,7 +5542,7 @@
       },
       "2020-05-19": {
         "tested": null,
-        "confirmed": 0,
+        "confirmed": 5,
         "recovered": 0,
         "deceased": 0
       }
@@ -5805,12 +5805,12 @@
       },
       "Korba": {
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "recovered": 0,
           "deceased": 0
         },
         "total": {
-          "confirmed": 28,
+          "confirmed": 29,
           "recovered": 28,
           "deceased": 0
         },
@@ -5924,12 +5924,12 @@
       },
       "Rajnandgaon": {
         "delta": {
-          "confirmed": 0,
+          "confirmed": 4,
           "recovered": 0,
           "deceased": 0
         },
         "total": {
-          "confirmed": 1,
+          "confirmed": 5,
           "recovered": 1,
           "deceased": 0
         },
@@ -6009,7 +6009,7 @@
       }
     },
     "total": {
-      "confirmed": 95,
+      "confirmed": 100,
       "recovered": 59,
       "deceased": 0,
       "tested": {
@@ -6019,12 +6019,12 @@
       }
     },
     "delta": {
-      "confirmed": 0,
+      "confirmed": 5,
       "recovered": 0,
       "deceased": 0
     },
     "notes": "",
-    "last_updated": "2020-05-19T02:43:24+05:30"
+    "last_updated": "2020-05-20T02:01:25+05:30"
   },
   "DL": {
     "timeseries": {
@@ -9678,7 +9678,7 @@
       "deceased": 1
     },
     "notes": "HP has 4 Migrated cases which are reduced from Active #. Also, death of Tibetan refugee is included in deceased numbers, but not in confirmed",
-    "last_updated": "2020-05-20T01:51:25+05:30"
+    "last_updated": "2020-05-20T02:01:26+05:30"
   },
   "HR": {
     "timeseries": {
@@ -31940,14 +31940,14 @@
           "samples": 2404267,
           "source": "https://www.icmr.gov.in/pdf/covid/update/ICMR_testing_update_19May2020_9AM_IST.pdf"
         },
-        "confirmed": 5329,
+        "confirmed": 5334,
         "recovered": 3032,
         "deceased": 146
       }
     },
     "districts": null,
     "total": {
-      "confirmed": 106470,
+      "confirmed": 106475,
       "recovered": 42309,
       "deceased": 3302,
       "tested": {
@@ -31957,11 +31957,11 @@
       }
     },
     "delta": {
-      "confirmed": 6143,
+      "confirmed": 6148,
       "recovered": 3032,
       "deceased": 146
     },
     "notes": "",
-    "last_updated": "2020-05-20T01:51:23+05:30"
+    "last_updated": "2020-05-20T02:01:23+05:30"
   }
 }
