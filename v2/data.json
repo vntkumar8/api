@@ -26526,7 +26526,10 @@
         "deceased": 3
       },
       "2020-05-19": {
-        "tested": null,
+        "tested": {
+          "samples": 348174,
+          "source": "https://stopcorona.tn.gov.in/wp-content/uploads/2020/03/Media-Bulletin-19-05-20-COVID-19-6-PM.pdf"
+        },
         "confirmed": 688,
         "recovered": 489,
         "deceased": 3
@@ -27168,9 +27171,9 @@
       "recovered": 4895,
       "deceased": 85,
       "tested": {
-        "samples": 0,
-        "source": "",
-        "last_updated": "2020-05-20"
+        "samples": 348174,
+        "source": "https://stopcorona.tn.gov.in/wp-content/uploads/2020/03/Media-Bulletin-19-05-20-COVID-19-6-PM.pdf",
+        "last_updated": "2020-05-19"
       }
     },
     "delta": {
@@ -27649,7 +27652,10 @@
         "deceased": 0
       },
       "2020-05-19": {
-        "tested": null,
+        "tested": {
+          "samples": 15083,
+          "source": ""
+        },
         "confirmed": 4,
         "recovered": 27,
         "deceased": 0
@@ -27798,9 +27804,9 @@
       "recovered": 116,
       "deceased": 0,
       "tested": {
-        "samples": 0,
+        "samples": 15083,
         "source": "",
-        "last_updated": "2020-05-20"
+        "last_updated": "2020-05-19"
       }
     },
     "delta": {
@@ -28333,7 +28339,10 @@
         "deceased": 6
       },
       "2020-05-19": {
-        "tested": null,
+        "tested": {
+          "samples": 182184,
+          "source": "https://t.me/indiacovid/5132?single"
+        },
         "confirmed": 321,
         "recovered": 135,
         "deceased": 5
@@ -29621,9 +29630,9 @@
       "recovered": 2918,
       "deceased": 123,
       "tested": {
-        "samples": 0,
-        "source": "",
-        "last_updated": "2020-05-20"
+        "samples": 182184,
+        "source": "https://t.me/indiacovid/5132?single",
+        "last_updated": "2020-05-19"
       }
     },
     "delta": {
@@ -30940,7 +30949,10 @@
         "deceased": 6
       },
       "2020-05-19": {
-        "tested": null,
+        "tested": {
+          "samples": 102282,
+          "source": "https://www.wbhealth.gov.in/uploaded_files/corona/WB_DHFW_Bulletin_19th_MAY_REPORT_FINAL.pdf"
+        },
         "confirmed": 137,
         "recovered": 68,
         "deceased": 6
@@ -31344,9 +31356,9 @@
       "recovered": 1074,
       "deceased": 250,
       "tested": {
-        "samples": 0,
-        "source": "",
-        "last_updated": "2020-05-20"
+        "samples": 102282,
+        "source": "https://www.wbhealth.gov.in/uploaded_files/corona/WB_DHFW_Bulletin_19th_MAY_REPORT_FINAL.pdf",
+        "last_updated": "2020-05-19"
       }
     },
     "delta": {
