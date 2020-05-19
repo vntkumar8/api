@@ -6424,14 +6424,14 @@
     "districtData": {
       "Ajmer": {
         "notes": "",
-        "active": 58,
+        "active": 53,
         "confirmed": 259,
         "deceased": 5,
-        "recovered": 196,
+        "recovered": 201,
         "delta": {
           "confirmed": 3,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 5
         }
       },
       "Alwar": {
@@ -6652,14 +6652,14 @@
       },
       "Jaipur": {
         "notes": "",
-        "active": 587,
+        "active": 540,
         "confirmed": 1640,
         "deceased": 70,
-        "recovered": 983,
+        "recovered": 1030,
         "delta": {
           "confirmed": 17,
           "deceased": 2,
-          "recovered": 0
+          "recovered": 47
         }
       },
       "Jaisalmer": {
@@ -6712,14 +6712,14 @@
       },
       "Jodhpur": {
         "notes": "",
-        "active": 302,
+        "active": 260,
         "confirmed": 1110,
         "deceased": 16,
-        "recovered": 792,
+        "recovered": 834,
         "delta": {
           "confirmed": 39,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 42
         }
       },
       "Karauli": {
@@ -6796,14 +6796,14 @@
       },
       "Rajsamand": {
         "notes": "",
-        "active": 45,
+        "active": 39,
         "confirmed": 53,
         "deceased": 0,
-        "recovered": 8,
+        "recovered": 14,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 6
         }
       },
       "Sawai Madhopur": {
@@ -6844,14 +6844,14 @@
       },
       "Tonk": {
         "notes": "",
-        "active": 16,
+        "active": 11,
         "confirmed": 154,
         "deceased": 1,
-        "recovered": 137,
+        "recovered": 142,
         "delta": {
           "confirmed": 5,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 5
         }
       },
       "Udaipur": {
@@ -6862,18 +6862,6 @@
         "recovered": 12,
         "delta": {
           "confirmed": 16,
-          "deceased": 0,
-          "recovered": 0
-        }
-      },
-      "Unknown": {
-        "notes": "",
-        "active": -105,
-        "confirmed": 0,
-        "deceased": 0,
-        "recovered": 105,
-        "delta": {
-          "confirmed": 0,
           "deceased": 0,
           "recovered": 0
         }
