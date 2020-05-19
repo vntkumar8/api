@@ -1,5 +1,24 @@
 [
   {
+    "state": "State Unassigned",
+    "statecode": "UN",
+    "districtData": [
+      {
+        "district": "Unassigned",
+        "notes": "",
+        "active": 814,
+        "confirmed": 814,
+        "deceased": 0,
+        "recovered": 0,
+        "delta": {
+          "confirmed": 814,
+          "deceased": 0,
+          "recovered": 0
+        }
+      }
+    ]
+  },
+  {
     "state": "Andaman and Nicobar Islands",
     "statecode": "AN",
     "districtData": [
