@@ -6347,14 +6347,14 @@
     "districtData": {
       "Karaikal": {
         "notes": "",
-        "active": 2,
+        "active": 1,
         "confirmed": 2,
         "deceased": 0,
-        "recovered": 0,
+        "recovered": 1,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 1
         }
       },
       "Mahe": {
@@ -6371,12 +6371,12 @@
       },
       "Puducherry": {
         "notes": "",
-        "active": 6,
-        "confirmed": 13,
+        "active": 11,
+        "confirmed": 18,
         "deceased": 0,
         "recovered": 7,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 5,
           "deceased": 0,
           "recovered": 0
         }

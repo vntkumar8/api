@@ -8722,18 +8722,18 @@
 			"statecode": "PB"
 		},
 		{
-			"active": "2",
+			"active": "1",
 			"confirmed": "2",
 			"deceased": "0",
-			"deltaactive": "0",
+			"deltaactive": "-1",
 			"deltaconfirmed": "0",
 			"deltadeceased": "0",
-			"deltarecovered": "0",
+			"deltarecovered": "1",
 			"district": "Karaikal",
 			"districtkey": "PY_Karaikal",
 			"districtnotes": "",
 			"lastupdated": "",
-			"recovered": "0",
+			"recovered": "1",
 			"slno": "481",
 			"state": "Puducherry",
 			"statecode": "PY"
@@ -8756,11 +8756,11 @@
 			"statecode": "PY"
 		},
 		{
-			"active": "6",
-			"confirmed": "13",
+			"active": "11",
+			"confirmed": "18",
 			"deceased": "0",
-			"deltaactive": "0",
-			"deltaconfirmed": "0",
+			"deltaactive": "5",
+			"deltaconfirmed": "5",
 			"deltadeceased": "0",
 			"deltarecovered": "0",
 			"district": "Puducherry",
