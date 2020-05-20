@@ -2719,7 +2719,7 @@
       },
       "2020-05-20": {
         "tested": null,
-        "confirmed": 28,
+        "confirmed": 31,
         "recovered": 7,
         "deceased": 0
       }
@@ -3288,7 +3288,7 @@
       }
     },
     "total": {
-      "confirmed": 186,
+      "confirmed": 189,
       "recovered": 49,
       "deceased": 4,
       "tested": {
@@ -3298,12 +3298,12 @@
       }
     },
     "delta": {
-      "confirmed": 28,
+      "confirmed": 31,
       "recovered": 7,
       "deceased": 0
     },
     "notes": "Includes one case from Nagaland <br>\nTotal of Three* patients who migrated to other states has been reduced from Active count",
-    "last_updated": "2020-05-20T22:48:26+05:30"
+    "last_updated": "2020-05-21T00:21:25+05:30"
   },
   "BR": {
     "timeseries": {
@@ -32279,14 +32279,14 @@
           "samples": 2512388,
           "source": "https://www.icmr.gov.in/pdf/covid/update/ICMR_testing_update_20May2020_9AM_IST.pdf"
         },
-        "confirmed": 5527,
+        "confirmed": 5530,
         "recovered": 3099,
         "deceased": 132
       }
     },
     "districts": null,
     "total": {
-      "confirmed": 112012,
+      "confirmed": 112015,
       "recovered": 45422,
       "deceased": 3434,
       "tested": {
@@ -32296,11 +32296,11 @@
       }
     },
     "delta": {
-      "confirmed": 5531,
+      "confirmed": 5534,
       "recovered": 3113,
       "deceased": 132
     },
     "notes": "",
-    "last_updated": "2020-05-20T23:43:23+05:30"
+    "last_updated": "2020-05-21T00:21:23+05:30"
   }
 }
