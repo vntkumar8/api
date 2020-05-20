@@ -14111,12 +14111,12 @@
     "districts": {
       "Alappuzha": {
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "recovered": 0,
           "deceased": 0
         },
         "total": {
-          "confirmed": 10,
+          "confirmed": 11,
           "recovered": 5,
           "deceased": 0
         },
@@ -14128,12 +14128,12 @@
       },
       "Ernakulam": {
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "recovered": 0,
           "deceased": 0
         },
         "total": {
-          "confirmed": 29,
+          "confirmed": 30,
           "recovered": 23,
           "deceased": 1
         },
@@ -14162,13 +14162,13 @@
       },
       "Kannur": {
         "delta": {
-          "confirmed": 0,
-          "recovered": 0,
+          "confirmed": 3,
+          "recovered": 1,
           "deceased": 0
         },
         "total": {
-          "confirmed": 129,
-          "recovered": 115,
+          "confirmed": 132,
+          "recovered": 116,
           "deceased": 1
         },
         "zone": {
@@ -14179,13 +14179,13 @@
       },
       "Kasaragod": {
         "delta": {
-          "confirmed": 0,
-          "recovered": 0,
+          "confirmed": 1,
+          "recovered": 1,
           "deceased": 0
         },
         "total": {
-          "confirmed": 197,
-          "recovered": 179,
+          "confirmed": 198,
+          "recovered": 180,
           "deceased": 0
         },
         "zone": {
@@ -14230,12 +14230,12 @@
       },
       "Kozhikode": {
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "recovered": 0,
           "deceased": 0
         },
         "total": {
-          "confirmed": 36,
+          "confirmed": 37,
           "recovered": 24,
           "deceased": 0
         },
@@ -14247,12 +14247,12 @@
       },
       "Malappuram": {
         "delta": {
-          "confirmed": 0,
+          "confirmed": 4,
           "recovered": 0,
           "deceased": 0
         },
         "total": {
-          "confirmed": 51,
+          "confirmed": 55,
           "recovered": 23,
           "deceased": 1
         },
@@ -14264,12 +14264,12 @@
       },
       "Palakkad": {
         "delta": {
-          "confirmed": 0,
+          "confirmed": 7,
           "recovered": 0,
           "deceased": 0
         },
         "total": {
-          "confirmed": 26,
+          "confirmed": 33,
           "recovered": 13,
           "deceased": 0
         },
@@ -14281,12 +14281,12 @@
       },
       "Pathanamthitta": {
         "delta": {
-          "confirmed": 0,
+          "confirmed": 2,
           "recovered": 0,
           "deceased": 0
         },
         "total": {
-          "confirmed": 22,
+          "confirmed": 24,
           "recovered": 17,
           "deceased": 0
         },
@@ -14298,12 +14298,12 @@
       },
       "Thiruvananthapuram": {
         "delta": {
-          "confirmed": 0,
+          "confirmed": 2,
           "recovered": 0,
           "deceased": 0
         },
         "total": {
-          "confirmed": 20,
+          "confirmed": 22,
           "recovered": 16,
           "deceased": 1
         },
@@ -14315,13 +14315,13 @@
       },
       "Thrissur": {
         "delta": {
-          "confirmed": 0,
-          "recovered": 0,
+          "confirmed": 2,
+          "recovered": 2,
           "deceased": 0
         },
         "total": {
-          "confirmed": 25,
-          "recovered": 13,
+          "confirmed": 27,
+          "recovered": 15,
           "deceased": 0
         },
         "zone": {
@@ -14333,12 +14333,12 @@
       "Wayanad": {
         "delta": {
           "confirmed": 0,
-          "recovered": 0,
+          "recovered": 1,
           "deceased": 0
         },
         "total": {
           "confirmed": 21,
-          "recovered": 5,
+          "recovered": 6,
           "deceased": 0
         },
         "zone": {
@@ -14349,8 +14349,8 @@
       }
     },
     "total": {
-      "confirmed": 643,
-      "recovered": 497,
+      "confirmed": 667,
+      "recovered": 502,
       "deceased": 4,
       "tested": {
         "samples": 46958,
@@ -14359,12 +14359,12 @@
       }
     },
     "delta": {
-      "confirmed": 0,
-      "recovered": 0,
+      "confirmed": 24,
+      "recovered": 5,
       "deceased": 0
     },
     "notes": "Mahe native who expired in Kannur included in Kerala's tally",
-    "last_updated": "2020-05-19T18:18:25+05:30"
+    "last_updated": "2020-05-20T17:11:26+05:30"
   },
   "LA": {
     "timeseries": {
@@ -31998,8 +31998,8 @@
     },
     "districts": null,
     "total": {
-      "confirmed": 107765,
-      "recovered": 42909,
+      "confirmed": 107789,
+      "recovered": 42914,
       "deceased": 3316,
       "tested": {
         "samples": 2512388,
@@ -32008,11 +32008,11 @@
       }
     },
     "delta": {
-      "confirmed": 1284,
-      "recovered": 600,
+      "confirmed": 1308,
+      "recovered": 605,
       "deceased": 14
     },
     "notes": "",
-    "last_updated": "2020-05-20T16:57:23+05:30"
+    "last_updated": "2020-05-20T17:11:23+05:30"
   }
 }
