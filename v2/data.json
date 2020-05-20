@@ -1239,7 +1239,7 @@
       }
     },
     "total": {
-      "confirmed": 2560,
+      "confirmed": 2557,
       "recovered": 1664,
       "deceased": 53,
       "tested": {
@@ -1249,12 +1249,12 @@
       }
     },
     "delta": {
-      "confirmed": 3,
+      "confirmed": 0,
       "recovered": 0,
       "deceased": 0
     },
     "notes": "Total includes patients from other states.",
-    "last_updated": "2020-05-20T15:41:25+05:30"
+    "last_updated": "2020-05-20T15:43:34+05:30"
   },
   "AR": {
     "timeseries": {
@@ -31998,7 +31998,7 @@
     },
     "districts": null,
     "total": {
-      "confirmed": 107756,
+      "confirmed": 107753,
       "recovered": 42908,
       "deceased": 3316,
       "tested": {
@@ -32008,11 +32008,11 @@
       }
     },
     "delta": {
-      "confirmed": 1207,
+      "confirmed": 1204,
       "recovered": 556,
       "deceased": 13
     },
     "notes": "",
-    "last_updated": "2020-05-20T15:41:23+05:30"
+    "last_updated": "2020-05-20T15:43:32+05:30"
   }
 }
