@@ -823,12 +823,12 @@
       {
         "district": "Kamrup Metropolitan",
         "notes": "",
-        "active": 62,
-        "confirmed": 67,
+        "active": 76,
+        "confirmed": 81,
         "deceased": 3,
         "recovered": 2,
         "delta": {
-          "confirmed": 1,
+          "confirmed": 15,
           "deceased": 0,
           "recovered": 1
         }
@@ -4981,12 +4981,12 @@
       {
         "district": "West Garo Hills",
         "notes": "",
-        "active": 0,
-        "confirmed": 0,
+        "active": 1,
+        "confirmed": 1,
         "deceased": 0,
         "recovered": 0,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
@@ -5052,12 +5052,12 @@
       {
         "district": "Churachandpur",
         "notes": "",
-        "active": 11,
-        "confirmed": 11,
+        "active": 16,
+        "confirmed": 16,
         "deceased": 0,
         "recovered": 0,
         "delta": {
-          "confirmed": 10,
+          "confirmed": 15,
           "deceased": 0,
           "recovered": 0
         }
@@ -9063,13 +9063,13 @@
       {
         "district": "Gorakhpur",
         "notes": "",
-        "active": 19,
+        "active": 18,
         "confirmed": 21,
-        "deceased": 0,
+        "deceased": 1,
         "recovered": 2,
         "delta": {
           "confirmed": 0,
-          "deceased": 0,
+          "deceased": 1,
           "recovered": 0
         }
       },
@@ -9349,13 +9349,13 @@
       {
         "district": "Meerut",
         "notes": "",
-        "active": 150,
+        "active": 149,
         "confirmed": 331,
-        "deceased": 20,
+        "deceased": 21,
         "recovered": 161,
         "delta": {
           "confirmed": 0,
-          "deceased": 0,
+          "deceased": 1,
           "recovered": 6
         }
       },
@@ -9427,13 +9427,13 @@
       {
         "district": "Prayagraj",
         "notes": "",
-        "active": 20,
+        "active": 18,
         "confirmed": 46,
-        "deceased": 1,
+        "deceased": 3,
         "recovered": 25,
         "delta": {
           "confirmed": 0,
-          "deceased": 0,
+          "deceased": 2,
           "recovered": 12
         }
       },
