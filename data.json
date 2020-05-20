@@ -991,25 +991,25 @@
 			"totalrecovered": "39277"
 		},
 		{
-			"dailyconfirmed": "6148",
+			"dailyconfirmed": "6150",
 			"dailydeceased": "146",
 			"dailyrecovered": "3032",
 			"date": "19 May ",
-			"totalconfirmed": "106474",
+			"totalconfirmed": "106476",
 			"totaldeceased": "3301",
 			"totalrecovered": "42309"
 		}
 	],
 	"statewise": [
 		{
-			"active": "61194",
-			"confirmed": "106811",
+			"active": "61240",
+			"confirmed": "106874",
 			"deaths": "3302",
-			"deltaconfirmed": "336",
+			"deltaconfirmed": "397",
 			"deltadeaths": "0",
-			"deltarecovered": "0",
-			"lastupdatedtime": "20/05/2020 09:20:23",
-			"recovered": "42309",
+			"deltarecovered": "17",
+			"lastupdatedtime": "20/05/2020 09:41:23",
+			"recovered": "42326",
 			"state": "Total",
 			"statecode": "TT",
 			"statenotes": ""
@@ -1067,14 +1067,14 @@
 			"statenotes": "[10-May]<br>\n\nDelhi will be releasing bulletins in the morning, containing data of the previous day. We will add that data to the date on which the report is released, rather than the previous day."
 		},
 		{
-			"active": "2365",
-			"confirmed": "5845",
+			"active": "2409",
+			"confirmed": "5906",
 			"deaths": "143",
-			"deltaconfirmed": "0",
+			"deltaconfirmed": "61",
 			"deltadeaths": "0",
-			"deltarecovered": "0",
-			"lastupdatedtime": "19/05/2020 23:12:25",
-			"recovered": "3337",
+			"deltarecovered": "17",
+			"lastupdatedtime": "20/05/2020 09:41:24",
+			"recovered": "3354",
 			"state": "Rajasthan",
 			"statecode": "RJ",
 			"statenotes": ""
@@ -1405,13 +1405,13 @@
 			"statenotes": ""
 		},
 		{
-			"active": "5",
-			"confirmed": "7",
+			"active": "7",
+			"confirmed": "9",
 			"deaths": "0",
 			"deltaconfirmed": "0",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
-			"lastupdatedtime": "16/05/2020 23:23:28",
+			"lastupdatedtime": "20/05/2020 09:41:26",
 			"recovered": "2",
 			"state": "Manipur",
 			"statecode": "MN",
