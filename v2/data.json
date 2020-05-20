@@ -1010,9 +1010,9 @@
           "samples": 258450,
           "source": "https://t.me/Covid19india_Auxiliary_Test_Data/56"
         },
-        "confirmed": 206,
-        "recovered": 159,
-        "deceased": 4
+        "confirmed": 125,
+        "recovered": 112,
+        "deceased": 3
       }
     },
     "districts": {
@@ -1176,9 +1176,9 @@
           "deceased": 0
         },
         "total": {
-          "confirmed": 162,
-          "recovered": 94,
-          "deceased": 2
+          "confirmed": 81,
+          "recovered": 47,
+          "deceased": 1
         },
         "zone": {
           "status": "Orange",
@@ -1239,9 +1239,9 @@
       }
     },
     "total": {
-      "confirmed": 2638,
-      "recovered": 1711,
-      "deceased": 54,
+      "confirmed": 2560,
+      "recovered": 1664,
+      "deceased": 53,
       "tested": {
         "samples": 258450,
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/56",
@@ -1249,12 +1249,12 @@
       }
     },
     "delta": {
-      "confirmed": 0,
+      "confirmed": 3,
       "recovered": 0,
       "deceased": 0
     },
     "notes": "Total includes patients from other states.",
-    "last_updated": "2020-05-20T15:31:25+05:30"
+    "last_updated": "2020-05-20T15:41:25+05:30"
   },
   "AR": {
     "timeseries": {
@@ -31991,16 +31991,16 @@
           "samples": 2404267,
           "source": "https://www.icmr.gov.in/pdf/covid/update/ICMR_testing_update_19May2020_9AM_IST.pdf"
         },
-        "confirmed": 5489,
-        "recovered": 3122,
-        "deceased": 148
+        "confirmed": 5408,
+        "recovered": 3075,
+        "deceased": 147
       }
     },
     "districts": null,
     "total": {
-      "confirmed": 107834,
-      "recovered": 42955,
-      "deceased": 3317,
+      "confirmed": 107756,
+      "recovered": 42908,
+      "deceased": 3316,
       "tested": {
         "samples": 2512388,
         "source": "https://www.icmr.gov.in/pdf/covid/update/ICMR_testing_update_20May2020_9AM_IST.pdf",
@@ -32008,11 +32008,11 @@
       }
     },
     "delta": {
-      "confirmed": 1204,
+      "confirmed": 1207,
       "recovered": 556,
       "deceased": 13
     },
     "notes": "",
-    "last_updated": "2020-05-20T15:31:23+05:30"
+    "last_updated": "2020-05-20T15:41:23+05:30"
   }
 }
