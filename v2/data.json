@@ -1010,16 +1010,16 @@
           "samples": 258450,
           "source": "https://t.me/Covid19india_Auxiliary_Test_Data/56"
         },
-        "confirmed": 125,
-        "recovered": 112,
-        "deceased": 3
+        "confirmed": 57,
+        "recovered": 69,
+        "deceased": 2
       }
     },
     "districts": {
       "Anantapur": {
         "delta": {
-          "confirmed": 0,
-          "recovered": 0,
+          "confirmed": 14,
+          "recovered": 19,
           "deceased": 0
         },
         "total": {
@@ -1035,8 +1035,8 @@
       },
       "Chittoor": {
         "delta": {
-          "confirmed": 0,
-          "recovered": 0,
+          "confirmed": 16,
+          "recovered": 15,
           "deceased": 0
         },
         "total": {
@@ -1052,7 +1052,7 @@
       },
       "East Godavari": {
         "delta": {
-          "confirmed": 0,
+          "confirmed": 2,
           "recovered": 0,
           "deceased": 0
         },
@@ -1069,8 +1069,8 @@
       },
       "Guntur": {
         "delta": {
-          "confirmed": 0,
-          "recovered": 0,
+          "confirmed": 9,
+          "recovered": 13,
           "deceased": 0
         },
         "total": {
@@ -1086,8 +1086,8 @@
       },
       "Krishna": {
         "delta": {
-          "confirmed": 0,
-          "recovered": 0,
+          "confirmed": 14,
+          "recovered": 17,
           "deceased": 0
         },
         "total": {
@@ -1103,9 +1103,9 @@
       },
       "Kurnool": {
         "delta": {
-          "confirmed": 0,
-          "recovered": 0,
-          "deceased": 0
+          "confirmed": 23,
+          "recovered": 14,
+          "deceased": 1
         },
         "total": {
           "confirmed": 638,
@@ -1120,7 +1120,7 @@
       },
       "Prakasam": {
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "recovered": 0,
           "deceased": 0
         },
@@ -1137,8 +1137,8 @@
       },
       "S.P.S. Nellore": {
         "delta": {
-          "confirmed": 0,
-          "recovered": 0,
+          "confirmed": 25,
+          "recovered": 9,
           "deceased": 0
         },
         "total": {
@@ -1154,8 +1154,8 @@
       },
       "Srikakulam": {
         "delta": {
-          "confirmed": 0,
-          "recovered": 0,
+          "confirmed": 2,
+          "recovered": 1,
           "deceased": 0
         },
         "total": {
@@ -1171,8 +1171,8 @@
       },
       "Visakhapatnam": {
         "delta": {
-          "confirmed": 0,
-          "recovered": 0,
+          "confirmed": 5,
+          "recovered": 10,
           "deceased": 0
         },
         "total": {
@@ -1188,8 +1188,8 @@
       },
       "Vizianagaram": {
         "delta": {
-          "confirmed": 0,
-          "recovered": 0,
+          "confirmed": 8,
+          "recovered": 4,
           "deceased": 0
         },
         "total": {
@@ -1205,8 +1205,8 @@
       },
       "West Godavari": {
         "delta": {
-          "confirmed": 0,
-          "recovered": 0,
+          "confirmed": 3,
+          "recovered": 3,
           "deceased": 0
         },
         "total": {
@@ -1222,8 +1222,8 @@
       },
       "Y.S.R. Kadapa": {
         "delta": {
-          "confirmed": 0,
-          "recovered": 0,
+          "confirmed": 3,
+          "recovered": 7,
           "deceased": 0
         },
         "total": {
@@ -1249,12 +1249,12 @@
       }
     },
     "delta": {
-      "confirmed": 3,
-      "recovered": 0,
-      "deceased": 0
+      "confirmed": 71,
+      "recovered": 43,
+      "deceased": 1
     },
     "notes": "Total includes patients from other states.",
-    "last_updated": "2020-05-20T16:03:24+05:30"
+    "last_updated": "2020-05-20T16:51:25+05:30"
   },
   "AR": {
     "timeseries": {
@@ -31991,9 +31991,9 @@
           "samples": 2404267,
           "source": "https://www.icmr.gov.in/pdf/covid/update/ICMR_testing_update_19May2020_9AM_IST.pdf"
         },
-        "confirmed": 5408,
-        "recovered": 3075,
-        "deceased": 147
+        "confirmed": 5340,
+        "recovered": 3032,
+        "deceased": 146
       }
     },
     "districts": null,
@@ -32008,11 +32008,11 @@
       }
     },
     "delta": {
-      "confirmed": 1216,
-      "recovered": 557,
-      "deceased": 13
+      "confirmed": 1284,
+      "recovered": 600,
+      "deceased": 14
     },
     "notes": "",
-    "last_updated": "2020-05-20T16:14:23+05:30"
+    "last_updated": "2020-05-20T16:51:23+05:30"
   }
 }
