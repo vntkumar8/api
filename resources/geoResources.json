@@ -1,6 +1,6 @@
 {
     "type": "FeatureCollection",
-    "lastupdated": "Wed May 20 11:02:08 2020",
+    "lastupdated": "Wed May 20 11:12:10 2020",
     "features": [
         {
             "type": "Feature",
@@ -105621,6 +105621,138 @@
                 "coordinates": [
                     88.33778,
                     22.54111
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "recordid": "4983",
+                "name": "Emergency Helpline",
+                "desc": "Toll free support",
+                "geoTag": "Kolkata",
+                "addr": "Kolkata, West Bengal, India",
+                "state": "West Bengal",
+                "phone": "999",
+                "contact": "",
+                "priority": 0,
+                "icon": "unknown"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.33778,
+                    22.54111
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "recordid": "4984",
+                "name": "Weather Hotline",
+                "desc": "Toll free support",
+                "geoTag": "Kolkata",
+                "addr": "Kolkata, West Bengal, India",
+                "state": "West Bengal",
+                "phone": "1090",
+                "contact": "",
+                "priority": 0,
+                "icon": "unknown"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.33778,
+                    22.54111
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "recordid": "4985",
+                "name": "24x7 Central Helpline Number",
+                "desc": "",
+                "geoTag": "Howrah",
+                "addr": "Howrah, West Bengal, India",
+                "state": "West Bengal",
+                "phone": "3326371735",
+                "contact": "",
+                "priority": 0,
+                "icon": "unknown"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.26639,
+                    22.58444
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "recordid": "4986",
+                "name": "District Emergency Operations Centres",
+                "desc": "",
+                "geoTag": "",
+                "addr": " Meghalaya",
+                "state": "Meghalaya",
+                "phone": "03642502094\n0364-2225289",
+                "contact": "",
+                "priority": 0,
+                "icon": "unknown"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    73.38811339736746,
+                    23.00637973134582
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "recordid": "4987",
+                "name": "Special Control Room",
+                "desc": "",
+                "geoTag": "Kolkata",
+                "addr": "Kolkata, West Bengal, India",
+                "state": "West Bengal",
+                "phone": "03322143024\n03322141310\n03322143230",
+                "contact": "",
+                "priority": 0,
+                "icon": "unknown"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.33778,
+                    22.54111
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "recordid": "4988",
+                "name": "WhatsApp",
+                "desc": "",
+                "geoTag": "",
+                "addr": "Kolkata West Bengal",
+                "state": "West Bengal",
+                "phone": "9432624365",
+                "contact": "",
+                "priority": 0,
+                "icon": "unknown"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.35480089506659,
+                    22.56045776036486
                 ]
             }
         }

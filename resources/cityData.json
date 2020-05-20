@@ -1342,7 +1342,9 @@
         "Rishikesh Uttarakhand",
         "Dehradun Uttarakhand",
         "Siliguri West Bengal",
-        "Midnapore West Bengal"
+        "Midnapore West Bengal",
+        "Howrah West Bengal",
+        " Meghalaya"
     ],
     "cityboundaries": {
         "Port Blair Andaman & Nicobar": {
@@ -15581,6 +15583,30 @@
             "center": [
                 77.56029,
                 12.97021
+            ]
+        },
+        "Howrah West Bengal": {
+            "bbox": [
+                87.844673,
+                22.216442,
+                88.364406,
+                22.77958
+            ],
+            "center": [
+                88.31,
+                22.59
+            ]
+        },
+        " Meghalaya": {
+            "bbox": [
+                73.3731374870126,
+                22.9971341658657,
+                73.4031458353392,
+                23.020638500959
+            ],
+            "center": [
+                73.385048,
+                23.008845
             ]
         }
     }
