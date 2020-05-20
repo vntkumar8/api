@@ -11227,12 +11227,12 @@
       },
       "East Singhbhum": {
         "delta": {
-          "confirmed": 0,
+          "confirmed": 5,
           "recovered": 0,
           "deceased": 0
         },
         "total": {
-          "confirmed": 6,
+          "confirmed": 11,
           "recovered": 0,
           "deceased": 0
         },
@@ -11244,12 +11244,12 @@
       },
       "Garhwa": {
         "delta": {
-          "confirmed": 0,
+          "confirmed": 18,
           "recovered": 0,
           "deceased": 0
         },
         "total": {
-          "confirmed": 29,
+          "confirmed": 47,
           "recovered": 3,
           "deceased": 0
         },
@@ -11261,12 +11261,12 @@
       },
       "Giridih": {
         "delta": {
-          "confirmed": 0,
+          "confirmed": 2,
           "recovered": 0,
           "deceased": 0
         },
         "total": {
-          "confirmed": 10,
+          "confirmed": 12,
           "recovered": 1,
           "deceased": 0
         },
@@ -11295,12 +11295,12 @@
       },
       "Gumla": {
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "recovered": 0,
           "deceased": 0
         },
         "total": {
-          "confirmed": 2,
+          "confirmed": 3,
           "recovered": 0,
           "deceased": 0
         },
@@ -11312,12 +11312,12 @@
       },
       "Hazaribagh": {
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "recovered": 0,
           "deceased": 0
         },
         "total": {
-          "confirmed": 32,
+          "confirmed": 33,
           "recovered": 3,
           "deceased": 0
         },
@@ -11363,12 +11363,12 @@
       },
       "Koderma": {
         "delta": {
-          "confirmed": 0,
+          "confirmed": 5,
           "recovered": 0,
           "deceased": 0
         },
         "total": {
-          "confirmed": 9,
+          "confirmed": 14,
           "recovered": 1,
           "deceased": 0
         },
@@ -11466,12 +11466,12 @@
       "Ranchi": {
         "delta": {
           "confirmed": 0,
-          "recovered": 0,
+          "recovered": 2,
           "deceased": 0
         },
         "total": {
           "confirmed": 105,
-          "recovered": 89,
+          "recovered": 91,
           "deceased": 2
         },
         "zone": {
@@ -11499,12 +11499,12 @@
       },
       "Saraikela-Kharsawan": {
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "recovered": 0,
           "deceased": 0
         },
         "total": {
-          "confirmed": 1,
+          "confirmed": 2,
           "recovered": 0,
           "deceased": 0
         },
@@ -11550,8 +11550,8 @@
       }
     },
     "total": {
-      "confirmed": 278,
-      "recovered": 127,
+      "confirmed": 281,
+      "recovered": 129,
       "deceased": 3,
       "tested": {
         "samples": 39402,
@@ -11560,12 +11560,12 @@
       }
     },
     "delta": {
-      "confirmed": 30,
-      "recovered": 0,
+      "confirmed": 33,
+      "recovered": 2,
       "deceased": 0
     },
     "notes": "",
-    "last_updated": "2020-05-20T22:43:30+05:30"
+    "last_updated": "2020-05-20T23:21:24+05:30"
   },
   "JK": {
     "timeseries": {
@@ -29680,7 +29680,7 @@
       "deceased": 4
     },
     "notes": "",
-    "last_updated": "2020-05-20T23:11:23+05:30"
+    "last_updated": "2020-05-20T23:19:24+05:30"
   },
   "UT": {
     "timeseries": {
@@ -31998,8 +31998,8 @@
     },
     "districts": null,
     "total": {
-      "confirmed": 111999,
-      "recovered": 45420,
+      "confirmed": 112002,
+      "recovered": 45422,
       "deceased": 3434,
       "tested": {
         "samples": 2512388,
@@ -32008,11 +32008,11 @@
       }
     },
     "delta": {
-      "confirmed": 5518,
-      "recovered": 3111,
+      "confirmed": 5521,
+      "recovered": 3113,
       "deceased": 132
     },
     "notes": "",
-    "last_updated": "2020-05-20T23:11:22+05:30"
+    "last_updated": "2020-05-20T23:21:23+05:30"
   }
 }
