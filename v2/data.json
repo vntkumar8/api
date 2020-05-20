@@ -3866,12 +3866,12 @@
       },
       "Banka": {
         "delta": {
-          "confirmed": 0,
+          "confirmed": 11,
           "recovered": 0,
           "deceased": 0
         },
         "total": {
-          "confirmed": 40,
+          "confirmed": 51,
           "recovered": 1,
           "deceased": 0
         },
@@ -3900,12 +3900,12 @@
       },
       "Bhagalpur": {
         "delta": {
-          "confirmed": 0,
+          "confirmed": 12,
           "recovered": 0,
           "deceased": 0
         },
         "total": {
-          "confirmed": 47,
+          "confirmed": 59,
           "recovered": 12,
           "deceased": 0
         },
@@ -4002,12 +4002,12 @@
       },
       "Gopalganj": {
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "recovered": 0,
           "deceased": 0
         },
         "total": {
-          "confirmed": 63,
+          "confirmed": 64,
           "recovered": 18,
           "deceased": 0
         },
@@ -4070,12 +4070,12 @@
       },
       "Katihar": {
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "recovered": 0,
           "deceased": 0
         },
         "total": {
-          "confirmed": 34,
+          "confirmed": 35,
           "recovered": 8,
           "deceased": 0
         },
@@ -4087,12 +4087,12 @@
       },
       "Khagaria": {
         "delta": {
-          "confirmed": 0,
+          "confirmed": 15,
           "recovered": 0,
           "deceased": 0
         },
         "total": {
-          "confirmed": 55,
+          "confirmed": 70,
           "recovered": 0,
           "deceased": 1
         },
@@ -4155,12 +4155,12 @@
       },
       "Madhubani": {
         "delta": {
-          "confirmed": 0,
+          "confirmed": 6,
           "recovered": 0,
           "deceased": 0
         },
         "total": {
-          "confirmed": 73,
+          "confirmed": 79,
           "recovered": 13,
           "deceased": 0
         },
@@ -4206,12 +4206,12 @@
       },
       "Nalanda": {
         "delta": {
-          "confirmed": 0,
+          "confirmed": 6,
           "recovered": 0,
           "deceased": 0
         },
         "total": {
-          "confirmed": 72,
+          "confirmed": 78,
           "recovered": 38,
           "deceased": 0
         },
@@ -4410,12 +4410,12 @@
       },
       "Supaul": {
         "delta": {
-          "confirmed": 0,
+          "confirmed": 2,
           "recovered": 0,
           "deceased": 0
         },
         "total": {
-          "confirmed": 25,
+          "confirmed": 27,
           "recovered": 0,
           "deceased": 0
         },
@@ -4461,7 +4461,7 @@
       }
     },
     "total": {
-      "confirmed": 1519,
+      "confirmed": 1573,
       "recovered": 517,
       "deceased": 9,
       "tested": {
@@ -4471,12 +4471,12 @@
       }
     },
     "delta": {
-      "confirmed": 0,
+      "confirmed": 54,
       "recovered": 0,
       "deceased": 0
     },
     "notes": "",
-    "last_updated": "2020-05-19T23:03:28+05:30"
+    "last_updated": "2020-05-20T08:41:24+05:30"
   },
   "CH": {
     "timeseries": {
@@ -31998,7 +31998,7 @@
     },
     "districts": null,
     "total": {
-      "confirmed": 106475,
+      "confirmed": 106529,
       "recovered": 42309,
       "deceased": 3302,
       "tested": {
@@ -32008,11 +32008,11 @@
       }
     },
     "delta": {
-      "confirmed": 0,
+      "confirmed": 54,
       "recovered": 0,
       "deceased": 0
     },
     "notes": "",
-    "last_updated": "2020-05-20T02:10:23+05:30"
+    "last_updated": "2020-05-20T08:41:23+05:30"
   }
 }
