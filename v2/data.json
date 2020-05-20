@@ -3276,7 +3276,7 @@
       "deceased": 0
     },
     "notes": "Includes one case from Nagaland <br>\nTotal of Three* patients who migrated to other states has been reduced from Active count",
-    "last_updated": "2020-05-20T19:57:28+05:30"
+    "last_updated": "2020-05-20T20:40:32+05:30"
   },
   "BR": {
     "timeseries": {
@@ -5044,7 +5044,7 @@
       "deceased": 0
     },
     "notes": "",
-    "last_updated": "2020-05-20T19:57:27+05:30"
+    "last_updated": "2020-05-20T20:40:31+05:30"
   },
   "CT": {
     "timeseries": {
@@ -7832,7 +7832,7 @@
       "deceased": 0
     },
     "notes": "",
-    "last_updated": "2020-05-20T19:57:29+05:30"
+    "last_updated": "2020-05-20T20:40:34+05:30"
   },
   "GJ": {
     "timeseries": {
@@ -8941,7 +8941,7 @@
       "deceased": 30
     },
     "notes": "",
-    "last_updated": "2020-05-20T20:26:23+05:30"
+    "last_updated": "2020-05-20T20:40:25+05:30"
   },
   "HP": {
     "timeseries": {
@@ -10621,7 +10621,7 @@
       "deceased": 0
     },
     "notes": "",
-    "last_updated": "2020-05-20T19:57:26+05:30"
+    "last_updated": "2020-05-20T20:40:30+05:30"
   },
   "JH": {
     "timeseries": {
@@ -12487,7 +12487,7 @@
       "deceased": 1
     },
     "notes": "",
-    "last_updated": "2020-05-19T20:30:27+05:30"
+    "last_updated": "2020-05-20T20:40:29+05:30"
   },
   "KA": {
     "timeseries": {
@@ -16466,9 +16466,9 @@
       }
     },
     "total": {
-      "confirmed": 37136,
-      "recovered": 9639,
-      "deceased": 1325,
+      "confirmed": 39297,
+      "recovered": 10318,
+      "deceased": 1390,
       "tested": {
         "samples": 307535,
         "source": "https://twitter.com/Maha_MEDD/status/1262980258887843840?s=19",
@@ -16476,12 +16476,12 @@
       }
     },
     "delta": {
-      "confirmed": 0,
-      "recovered": 0,
-      "deceased": 0
+      "confirmed": 2161,
+      "recovered": 679,
+      "deceased": 65
     },
     "notes": "",
-    "last_updated": "2020-05-19T23:12:24+05:30"
+    "last_updated": "2020-05-20T20:51:24+05:30"
   },
   "ML": {
     "timeseries": {
@@ -18494,12 +18494,12 @@
       },
       "Ashoknagar": {
         "delta": {
-          "confirmed": 0,
+          "confirmed": 2,
           "recovered": 0,
           "deceased": 0
         },
         "total": {
-          "confirmed": 3,
+          "confirmed": 5,
           "recovered": 0,
           "deceased": 1
         },
@@ -18528,12 +18528,12 @@
       },
       "Barwani": {
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "recovered": 0,
           "deceased": 0
         },
         "total": {
-          "confirmed": 33,
+          "confirmed": 34,
           "recovered": 26,
           "deceased": 0
         },
@@ -18562,12 +18562,12 @@
       },
       "Bhind": {
         "delta": {
-          "confirmed": 0,
+          "confirmed": 13,
           "recovered": 0,
           "deceased": 0
         },
         "total": {
-          "confirmed": 25,
+          "confirmed": 38,
           "recovered": 0,
           "deceased": 0
         },
@@ -18579,14 +18579,14 @@
       },
       "Bhopal": {
         "delta": {
-          "confirmed": 0,
-          "recovered": 0,
-          "deceased": 0
+          "confirmed": 42,
+          "recovered": 38,
+          "deceased": 1
         },
         "total": {
-          "confirmed": 1046,
-          "recovered": 632,
-          "deceased": 39
+          "confirmed": 1088,
+          "recovered": 670,
+          "deceased": 40
         },
         "zone": {
           "status": "Red",
@@ -18613,12 +18613,12 @@
       },
       "Chhatarpur": {
         "delta": {
-          "confirmed": 0,
+          "confirmed": 2,
           "recovered": 0,
           "deceased": 0
         },
         "total": {
-          "confirmed": 0,
+          "confirmed": 2,
           "recovered": 0,
           "deceased": 0
         },
@@ -18647,12 +18647,12 @@
       },
       "Damoh": {
         "delta": {
-          "confirmed": 0,
+          "confirmed": 4,
           "recovered": 0,
           "deceased": 0
         },
         "total": {
-          "confirmed": 1,
+          "confirmed": 5,
           "recovered": 0,
           "deceased": 0
         },
@@ -18681,12 +18681,12 @@
       },
       "Dewas": {
         "delta": {
-          "confirmed": 0,
+          "confirmed": 3,
           "recovered": 0,
           "deceased": 0
         },
         "total": {
-          "confirmed": 63,
+          "confirmed": 66,
           "recovered": 27,
           "deceased": 8
         },
@@ -18699,12 +18699,12 @@
       "Dhar": {
         "delta": {
           "confirmed": 0,
-          "recovered": 0,
+          "recovered": 1,
           "deceased": 0
         },
         "total": {
           "confirmed": 107,
-          "recovered": 79,
+          "recovered": 80,
           "deceased": 2
         },
         "zone": {
@@ -18749,13 +18749,13 @@
       },
       "Gwalior": {
         "delta": {
-          "confirmed": 0,
-          "recovered": 0,
+          "confirmed": 5,
+          "recovered": 3,
           "deceased": 0
         },
         "total": {
-          "confirmed": 72,
-          "recovered": 20,
+          "confirmed": 77,
+          "recovered": 23,
           "deceased": 1
         },
         "zone": {
@@ -18800,14 +18800,14 @@
       },
       "Indore": {
         "delta": {
-          "confirmed": 0,
+          "confirmed": 78,
           "recovered": 16,
-          "deceased": 0
+          "deceased": 2
         },
         "total": {
-          "confirmed": 2637,
+          "confirmed": 2715,
           "recovered": 1174,
-          "deceased": 103
+          "deceased": 105
         },
         "zone": {
           "status": "Red",
@@ -18817,13 +18817,13 @@
       },
       "Jabalpur": {
         "delta": {
-          "confirmed": 0,
-          "recovered": 0,
+          "confirmed": 2,
+          "recovered": 6,
           "deceased": 0
         },
         "total": {
-          "confirmed": 184,
-          "recovered": 101,
+          "confirmed": 186,
+          "recovered": 107,
           "deceased": 9
         },
         "zone": {
@@ -18869,13 +18869,13 @@
       "Khandwa": {
         "delta": {
           "confirmed": 0,
-          "recovered": 0,
-          "deceased": 0
+          "recovered": 24,
+          "deceased": 1
         },
         "total": {
           "confirmed": 186,
-          "recovered": 55,
-          "deceased": 9
+          "recovered": 79,
+          "deceased": 10
         },
         "zone": {
           "status": "Red",
@@ -18886,12 +18886,12 @@
       "Khargone": {
         "delta": {
           "confirmed": 0,
-          "recovered": 0,
+          "recovered": 5,
           "deceased": 0
         },
         "total": {
           "confirmed": 114,
-          "recovered": 82,
+          "recovered": 87,
           "deceased": 8
         },
         "zone": {
@@ -18919,14 +18919,14 @@
       },
       "Mandsaur": {
         "delta": {
-          "confirmed": 0,
+          "confirmed": 19,
           "recovered": 0,
-          "deceased": 0
+          "deceased": 1
         },
         "total": {
-          "confirmed": 60,
+          "confirmed": 79,
           "recovered": 30,
-          "deceased": 5
+          "deceased": 6
         },
         "zone": {
           "status": "Orange",
@@ -18936,13 +18936,13 @@
       },
       "Morena": {
         "delta": {
-          "confirmed": 0,
-          "recovered": 0,
+          "confirmed": 6,
+          "recovered": 2,
           "deceased": 0
         },
         "total": {
-          "confirmed": 38,
-          "recovered": 22,
+          "confirmed": 44,
+          "recovered": 24,
           "deceased": 0
         },
         "zone": {
@@ -19004,12 +19004,12 @@
       },
       "Panna": {
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "recovered": 0,
           "deceased": 0
         },
         "total": {
-          "confirmed": 2,
+          "confirmed": 3,
           "recovered": 1,
           "deceased": 0
         },
@@ -19022,12 +19022,12 @@
       "Raisen": {
         "delta": {
           "confirmed": 0,
-          "recovered": 0,
+          "recovered": 2,
           "deceased": 0
         },
         "total": {
           "confirmed": 67,
-          "recovered": 59,
+          "recovered": 61,
           "deceased": 3
         },
         "zone": {
@@ -19072,14 +19072,14 @@
       },
       "Rewa": {
         "delta": {
-          "confirmed": 0,
+          "confirmed": 11,
           "recovered": 0,
-          "deceased": 0
+          "deceased": 1
         },
         "total": {
-          "confirmed": 14,
+          "confirmed": 25,
           "recovered": 1,
-          "deceased": 0
+          "deceased": 1
         },
         "zone": {
           "status": "Green",
@@ -19089,14 +19089,14 @@
       },
       "Sagar": {
         "delta": {
-          "confirmed": 0,
+          "confirmed": 21,
           "recovered": 0,
-          "deceased": 0
+          "deceased": 1
         },
         "total": {
-          "confirmed": 23,
+          "confirmed": 44,
           "recovered": 5,
-          "deceased": 1
+          "deceased": 2
         },
         "zone": {
           "status": "Orange",
@@ -19106,13 +19106,13 @@
       },
       "Satna": {
         "delta": {
-          "confirmed": 0,
-          "recovered": 0,
+          "confirmed": 1,
+          "recovered": 2,
           "deceased": 0
         },
         "total": {
-          "confirmed": 9,
-          "recovered": 0,
+          "confirmed": 10,
+          "recovered": 2,
           "deceased": 1
         },
         "zone": {
@@ -19276,14 +19276,14 @@
       },
       "Ujjain": {
         "delta": {
-          "confirmed": 0,
-          "recovered": 0,
-          "deceased": 0
+          "confirmed": 58,
+          "recovered": 4,
+          "deceased": 2
         },
         "total": {
-          "confirmed": 362,
-          "recovered": 172,
-          "deceased": 48
+          "confirmed": 420,
+          "recovered": 176,
+          "deceased": 50
         },
         "zone": {
           "status": "Red",
@@ -19310,12 +19310,12 @@
       },
       "Vidisha": {
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "recovered": 0,
           "deceased": 0
         },
         "total": {
-          "confirmed": 15,
+          "confirmed": 16,
           "recovered": 13,
           "deceased": 0
         },
@@ -19327,9 +19327,9 @@
       }
     },
     "total": {
-      "confirmed": 5465,
-      "recovered": 2647,
-      "deceased": 258,
+      "confirmed": 5735,
+      "recovered": 2734,
+      "deceased": 267,
       "tested": {
         "samples": 0,
         "source": "",
@@ -19337,12 +19337,12 @@
       }
     },
     "delta": {
-      "confirmed": 0,
-      "recovered": 16,
-      "deceased": 0
+      "confirmed": 270,
+      "recovered": 103,
+      "deceased": 9
     },
     "notes": "",
-    "last_updated": "2020-05-20T20:26:24+05:30"
+    "last_updated": "2020-05-20T20:51:24+05:30"
   },
   "MZ": {
     "timeseries": {
@@ -23378,7 +23378,7 @@
       "deceased": 0
     },
     "notes": "",
-    "last_updated": "2020-05-20T20:26:28+05:30"
+    "last_updated": "2020-05-20T20:40:35+05:30"
   },
   "RJ": {
     "timeseries": {
@@ -26038,7 +26038,7 @@
       "deceased": 0
     },
     "notes": "",
-    "last_updated": "2020-05-20T20:26:25+05:30"
+    "last_updated": "2020-05-20T20:40:28+05:30"
   },
   "TN": {
     "timeseries": {
@@ -27221,7 +27221,7 @@
       "deceased": 3
     },
     "notes": "",
-    "last_updated": "2020-05-20T19:57:24+05:30"
+    "last_updated": "2020-05-20T20:40:24+05:30"
   },
   "TR": {
     "timeseries": {
@@ -30455,7 +30455,7 @@
       "deceased": 0
     },
     "notes": "",
-    "last_updated": "2020-05-20T20:26:26+05:30"
+    "last_updated": "2020-05-20T20:40:33+05:30"
   },
   "WB": {
     "timeseries": {
@@ -31406,7 +31406,7 @@
       "deceased": 3
     },
     "notes": "- Cases updated as per WB bulletin.<br>\n- Deaths due to comorbidities added to total deceased<br>\n- Zones updated as per WB bulletin<br>",
-    "last_updated": "2020-05-20T19:57:25+05:30"
+    "last_updated": "2020-05-20T20:40:27+05:30"
   },
   "TT": {
     "timeseries": {
@@ -31998,9 +31998,9 @@
     },
     "districts": null,
     "total": {
-      "confirmed": 109170,
-      "recovered": 44450,
-      "deceased": 3352,
+      "confirmed": 111601,
+      "recovered": 45216,
+      "deceased": 3426,
       "tested": {
         "samples": 2512388,
         "source": "https://www.icmr.gov.in/pdf/covid/update/ICMR_testing_update_20May2020_9AM_IST.pdf",
@@ -32008,11 +32008,11 @@
       }
     },
     "delta": {
-      "confirmed": 2689,
-      "recovered": 2141,
-      "deceased": 50
+      "confirmed": 5120,
+      "recovered": 2907,
+      "deceased": 124
     },
     "notes": "",
-    "last_updated": "2020-05-20T20:26:22+05:30"
+    "last_updated": "2020-05-20T20:51:23+05:30"
   }
 }
