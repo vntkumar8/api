@@ -5562,12 +5562,12 @@
     "districts": {
       "Balod": {
         "delta": {
-          "confirmed": 0,
+          "confirmed": 2,
           "recovered": 0,
           "deceased": 0
         },
         "total": {
-          "confirmed": 11,
+          "confirmed": 13,
           "recovered": 0,
           "deceased": 0
         },
@@ -5579,12 +5579,12 @@
       },
       "Baloda Bazar": {
         "delta": {
-          "confirmed": 0,
+          "confirmed": 2,
           "recovered": 0,
           "deceased": 0
         },
         "total": {
-          "confirmed": 6,
+          "confirmed": 8,
           "recovered": 0,
           "deceased": 0
         },
@@ -5868,12 +5868,12 @@
       },
       "Mungeli": {
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "recovered": 0,
           "deceased": 0
         },
         "total": {
-          "confirmed": 0,
+          "confirmed": 1,
           "recovered": 0,
           "deceased": 0
         },
@@ -5902,12 +5902,12 @@
       },
       "Raigarh": {
         "delta": {
-          "confirmed": 0,
+          "confirmed": 3,
           "recovered": 0,
           "deceased": 0
         },
         "total": {
-          "confirmed": 2,
+          "confirmed": 5,
           "recovered": 0,
           "deceased": 0
         },
@@ -5936,12 +5936,12 @@
       },
       "Rajnandgaon": {
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "recovered": 0,
           "deceased": 0
         },
         "total": {
-          "confirmed": 5,
+          "confirmed": 6,
           "recovered": 1,
           "deceased": 0
         },
@@ -5987,12 +5987,12 @@
       },
       "Surguja": {
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "recovered": 0,
           "deceased": 0
         },
         "total": {
-          "confirmed": 1,
+          "confirmed": 2,
           "recovered": 0,
           "deceased": 0
         },
@@ -6021,7 +6021,7 @@
       }
     },
     "total": {
-      "confirmed": 100,
+      "confirmed": 110,
       "recovered": 59,
       "deceased": 0,
       "tested": {
@@ -6031,12 +6031,12 @@
       }
     },
     "delta": {
-      "confirmed": 0,
+      "confirmed": 10,
       "recovered": 0,
       "deceased": 0
     },
     "notes": "",
-    "last_updated": "2020-05-20T02:10:25+05:30"
+    "last_updated": "2020-05-20T23:31:25+05:30"
   },
   "DL": {
     "timeseries": {
@@ -11565,7 +11565,7 @@
       "deceased": 0
     },
     "notes": "",
-    "last_updated": "2020-05-20T23:21:24+05:30"
+    "last_updated": "2020-05-20T23:27:25+05:30"
   },
   "JK": {
     "timeseries": {
@@ -29680,7 +29680,7 @@
       "deceased": 4
     },
     "notes": "",
-    "last_updated": "2020-05-20T23:19:24+05:30"
+    "last_updated": "2020-05-20T23:23:24+05:30"
   },
   "UT": {
     "timeseries": {
@@ -31998,7 +31998,7 @@
     },
     "districts": null,
     "total": {
-      "confirmed": 112002,
+      "confirmed": 112012,
       "recovered": 45422,
       "deceased": 3434,
       "tested": {
@@ -32008,11 +32008,11 @@
       }
     },
     "delta": {
-      "confirmed": 5521,
+      "confirmed": 5531,
       "recovered": 3113,
       "deceased": 132
     },
     "notes": "",
-    "last_updated": "2020-05-20T23:21:23+05:30"
+    "last_updated": "2020-05-20T23:31:23+05:30"
   }
 }
