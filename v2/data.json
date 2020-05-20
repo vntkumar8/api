@@ -7843,7 +7843,10 @@
         "deceased": 0
       },
       "2020-05-20": {
-        "tested": null,
+        "tested": {
+          "samples": 10136,
+          "source": "https://twitter.com/DHS_Goa/status/1263108360653516800"
+        },
         "confirmed": 4,
         "recovered": 0,
         "deceased": 0
@@ -7890,9 +7893,9 @@
       "recovered": 7,
       "deceased": 0,
       "tested": {
-        "samples": 9549,
-        "source": "https://t.me/indiacovid/5130",
-        "last_updated": "2020-05-19"
+        "samples": 10136,
+        "source": "https://twitter.com/DHS_Goa/status/1263108360653516800",
+        "last_updated": "2020-05-20"
       }
     },
     "delta": {
@@ -17110,7 +17113,10 @@
         "deceased": 0
       },
       "2020-05-20": {
-        "tested": null,
+        "tested": {
+          "samples": 3419,
+          "source": "https://t.me/Covid19india_Auxiliary_Test_Data/82"
+        },
         "confirmed": 1,
         "recovered": 0,
         "deceased": 0
@@ -17310,9 +17316,9 @@
       "recovered": 12,
       "deceased": 1,
       "tested": {
-        "samples": 3104,
-        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/65",
-        "last_updated": "2020-05-19"
+        "samples": 3419,
+        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/82",
+        "last_updated": "2020-05-20"
       }
     },
     "delta": {
@@ -20040,7 +20046,10 @@
         "deceased": 0
       },
       "2020-05-20": {
-        "tested": null,
+        "tested": {
+          "samples": 315,
+          "source": ""
+        },
         "confirmed": 0,
         "recovered": 0,
         "deceased": 0
@@ -20240,9 +20249,9 @@
       "recovered": 1,
       "deceased": 0,
       "tested": {
-        "samples": 313,
-        "source": "https://dipr.mizoram.gov.in/post/status-of-state-surveillance-of-covid-19-time-1852020-500pm-1952020-500-pm",
-        "last_updated": "2020-05-19"
+        "samples": 315,
+        "source": "",
+        "last_updated": "2020-05-20"
       }
     },
     "delta": {
@@ -27946,7 +27955,10 @@
         "deceased": 0
       },
       "2020-05-20": {
-        "tested": null,
+        "tested": {
+          "samples": 15822,
+          "source": "https://t.me/Covid19india_Auxiliary_Test_Data/79"
+        },
         "confirmed": 0,
         "recovered": 0,
         "deceased": 0
@@ -28095,9 +28107,9 @@
       "recovered": 116,
       "deceased": 0,
       "tested": {
-        "samples": 15083,
-        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/64",
-        "last_updated": "2020-05-19"
+        "samples": 15822,
+        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/79",
+        "last_updated": "2020-05-20"
       }
     },
     "delta": {
