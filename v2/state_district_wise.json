@@ -9576,12 +9576,12 @@
       {
         "district": "Almora",
         "notes": "",
-        "active": 1,
-        "confirmed": 2,
+        "active": 2,
+        "confirmed": 3,
         "deceased": 0,
         "recovered": 1,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
@@ -9641,12 +9641,12 @@
       {
         "district": "Haridwar",
         "notes": "",
-        "active": 1,
-        "confirmed": 7,
+        "active": 2,
+        "confirmed": 8,
         "deceased": 0,
         "recovered": 6,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
@@ -9654,12 +9654,12 @@
       {
         "district": "Nainital",
         "notes": "",
-        "active": 13,
-        "confirmed": 23,
+        "active": 15,
+        "confirmed": 25,
         "deceased": 0,
         "recovered": 10,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 2,
           "deceased": 0,
           "recovered": 0
         }
@@ -9719,12 +9719,12 @@
       {
         "district": "Udham Singh Nagar",
         "notes": "",
-        "active": 18,
-        "confirmed": 23,
+        "active": 22,
+        "confirmed": 27,
         "deceased": 0,
         "recovered": 5,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 4,
           "deceased": 0,
           "recovered": 0
         }
@@ -9732,12 +9732,12 @@
       {
         "district": "Uttarkashi",
         "notes": "",
-        "active": 2,
-        "confirmed": 2,
+        "active": 3,
+        "confirmed": 3,
         "deceased": 0,
         "recovered": 0,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
@@ -9745,10 +9745,10 @@
       {
         "district": "Unknown",
         "notes": "",
-        "active": -1,
+        "active": -2,
         "confirmed": 0,
         "deceased": 0,
-        "recovered": 1,
+        "recovered": 2,
         "delta": {
           "confirmed": 0,
           "deceased": 0,

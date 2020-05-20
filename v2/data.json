@@ -1254,7 +1254,7 @@
       "deceased": 0
     },
     "notes": "Total includes patients from other states.",
-    "last_updated": "2020-05-20T16:01:25+05:30"
+    "last_updated": "2020-05-20T16:03:24+05:30"
   },
   "AR": {
     "timeseries": {
@@ -30219,12 +30219,12 @@
     "districts": {
       "Almora": {
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "recovered": 0,
           "deceased": 0
         },
         "total": {
-          "confirmed": 2,
+          "confirmed": 3,
           "recovered": 1,
           "deceased": 0
         },
@@ -30304,12 +30304,12 @@
       },
       "Haridwar": {
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "recovered": 0,
           "deceased": 0
         },
         "total": {
-          "confirmed": 7,
+          "confirmed": 8,
           "recovered": 6,
           "deceased": 0
         },
@@ -30321,12 +30321,12 @@
       },
       "Nainital": {
         "delta": {
-          "confirmed": 0,
+          "confirmed": 2,
           "recovered": 0,
           "deceased": 0
         },
         "total": {
-          "confirmed": 23,
+          "confirmed": 25,
           "recovered": 10,
           "deceased": 0
         },
@@ -30406,12 +30406,12 @@
       },
       "Udham Singh Nagar": {
         "delta": {
-          "confirmed": 0,
+          "confirmed": 4,
           "recovered": 0,
           "deceased": 0
         },
         "total": {
-          "confirmed": 23,
+          "confirmed": 27,
           "recovered": 5,
           "deceased": 0
         },
@@ -30423,12 +30423,12 @@
       },
       "Uttarkashi": {
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "recovered": 0,
           "deceased": 0
         },
         "total": {
-          "confirmed": 2,
+          "confirmed": 3,
           "recovered": 0,
           "deceased": 0
         },
@@ -30440,8 +30440,8 @@
       }
     },
     "total": {
-      "confirmed": 111,
-      "recovered": 52,
+      "confirmed": 120,
+      "recovered": 53,
       "deceased": 1,
       "tested": {
         "samples": 14691,
@@ -30450,12 +30450,12 @@
       }
     },
     "delta": {
-      "confirmed": 0,
-      "recovered": 0,
+      "confirmed": 9,
+      "recovered": 1,
       "deceased": 0
     },
     "notes": "",
-    "last_updated": "2020-05-19T21:49:26+05:30"
+    "last_updated": "2020-05-20T16:11:25+05:30"
   },
   "WB": {
     "timeseries": {
@@ -31998,8 +31998,8 @@
     },
     "districts": null,
     "total": {
-      "confirmed": 107756,
-      "recovered": 42908,
+      "confirmed": 107765,
+      "recovered": 42909,
       "deceased": 3316,
       "tested": {
         "samples": 2512388,
@@ -32008,11 +32008,11 @@
       }
     },
     "delta": {
-      "confirmed": 1207,
-      "recovered": 556,
+      "confirmed": 1216,
+      "recovered": 557,
       "deceased": 13
     },
     "notes": "",
-    "last_updated": "2020-05-20T16:01:23+05:30"
+    "last_updated": "2020-05-20T16:11:23+05:30"
   }
 }
