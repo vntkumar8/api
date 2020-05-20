@@ -4105,12 +4105,12 @@
       "Kishanganj": {
         "delta": {
           "confirmed": 0,
-          "recovered": 0,
+          "recovered": 2,
           "deceased": 0
         },
         "total": {
           "confirmed": 14,
-          "recovered": 1,
+          "recovered": 3,
           "deceased": 0
         },
         "zone": {
@@ -4190,12 +4190,12 @@
       "Muzaffarpur": {
         "delta": {
           "confirmed": 0,
-          "recovered": 0,
+          "recovered": 3,
           "deceased": 0
         },
         "total": {
           "confirmed": 30,
-          "recovered": 3,
+          "recovered": 6,
           "deceased": 0
         },
         "zone": {
@@ -4207,12 +4207,12 @@
       "Nalanda": {
         "delta": {
           "confirmed": 6,
-          "recovered": 0,
+          "recovered": 10,
           "deceased": 0
         },
         "total": {
           "confirmed": 78,
-          "recovered": 38,
+          "recovered": 48,
           "deceased": 0
         },
         "zone": {
@@ -4241,12 +4241,12 @@
       "Patna": {
         "delta": {
           "confirmed": 0,
-          "recovered": 0,
+          "recovered": 4,
           "deceased": 0
         },
         "total": {
           "confirmed": 167,
-          "recovered": 42,
+          "recovered": 46,
           "deceased": 2
         },
         "zone": {
@@ -4275,12 +4275,12 @@
       "Rohtas": {
         "delta": {
           "confirmed": 0,
-          "recovered": 0,
+          "recovered": 11,
           "deceased": 0
         },
         "total": {
           "confirmed": 91,
-          "recovered": 48,
+          "recovered": 59,
           "deceased": 1
         },
         "zone": {
@@ -4377,12 +4377,12 @@
       "Sitamarhi": {
         "delta": {
           "confirmed": 0,
-          "recovered": 0,
+          "recovered": 1,
           "deceased": 0
         },
         "total": {
           "confirmed": 9,
-          "recovered": 3,
+          "recovered": 4,
           "deceased": 1
         },
         "zone": {
@@ -4462,7 +4462,7 @@
     },
     "total": {
       "confirmed": 1579,
-      "recovered": 517,
+      "recovered": 548,
       "deceased": 9,
       "tested": {
         "samples": 50563,
@@ -4472,11 +4472,11 @@
     },
     "delta": {
       "confirmed": 60,
-      "recovered": 0,
+      "recovered": 31,
       "deceased": 0
     },
     "notes": "",
-    "last_updated": "2020-05-20T10:23:53+05:30"
+    "last_updated": "2020-05-20T13:11:33+05:30"
   },
   "CH": {
     "timeseries": {
@@ -31999,7 +31999,7 @@
     "districts": null,
     "total": {
       "confirmed": 106958,
-      "recovered": 42356,
+      "recovered": 42387,
       "deceased": 3303,
       "tested": {
         "samples": 2404267,
@@ -32009,10 +32009,10 @@
     },
     "delta": {
       "confirmed": 477,
-      "recovered": 47,
+      "recovered": 78,
       "deceased": 1
     },
     "notes": "",
-    "last_updated": "2020-05-20T10:43:23+05:30"
+    "last_updated": "2020-05-20T13:11:31+05:30"
   }
 }
