@@ -6759,9 +6759,9 @@
       }
     },
     "total": {
-      "confirmed": 10554,
-      "recovered": 4750,
-      "deceased": 166,
+      "confirmed": 11088,
+      "recovered": 5192,
+      "deceased": 176,
       "tested": {
         "samples": 145854,
         "source": "https://delhifightscorona.in/wp-content/uploads/2020/05/05-19.pdf",
@@ -6769,12 +6769,12 @@
       }
     },
     "delta": {
-      "confirmed": 0,
-      "recovered": 0,
-      "deceased": 0
+      "confirmed": 534,
+      "recovered": 442,
+      "deceased": 10
     },
     "notes": "[10-May]<br>\n\nDelhi will be releasing bulletins in the morning, containing data of the previous day. We will add that data to the date on which the report is released, rather than the previous day.",
-    "last_updated": "2020-05-19T13:33:24+05:30"
+    "last_updated": "2020-05-20T14:32:26+05:30"
   },
   "DN": {
     "timeseries": {
@@ -10621,7 +10621,7 @@
       "deceased": 0
     },
     "notes": "",
-    "last_updated": "2020-05-20T14:21:25+05:30"
+    "last_updated": "2020-05-20T14:24:25+05:30"
   },
   "JH": {
     "timeseries": {
@@ -31998,9 +31998,9 @@
     },
     "districts": null,
     "total": {
-      "confirmed": 107027,
-      "recovered": 42398,
-      "deceased": 3303,
+      "confirmed": 107561,
+      "recovered": 42840,
+      "deceased": 3313,
       "tested": {
         "samples": 2512388,
         "source": "https://www.icmr.gov.in/pdf/covid/update/ICMR_testing_update_20May2020_9AM_IST.pdf",
@@ -32008,11 +32008,11 @@
       }
     },
     "delta": {
-      "confirmed": 546,
-      "recovered": 89,
-      "deceased": 1
+      "confirmed": 1080,
+      "recovered": 531,
+      "deceased": 11
     },
     "notes": "",
-    "last_updated": "2020-05-20T14:21:23+05:30"
+    "last_updated": "2020-05-20T14:32:24+05:30"
   }
 }
