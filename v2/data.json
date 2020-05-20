@@ -1010,9 +1010,9 @@
           "samples": 258450,
           "source": "https://t.me/Covid19india_Auxiliary_Test_Data/56"
         },
-        "confirmed": 57,
-        "recovered": 69,
-        "deceased": 2
+        "confirmed": 206,
+        "recovered": 159,
+        "deceased": 4
       }
     },
     "districts": {
@@ -1023,8 +1023,8 @@
           "deceased": 0
         },
         "total": {
-          "confirmed": 122,
-          "recovered": 73,
+          "confirmed": 136,
+          "recovered": 92,
           "deceased": 4
         },
         "zone": {
@@ -1040,8 +1040,8 @@
           "deceased": 0
         },
         "total": {
-          "confirmed": 192,
-          "recovered": 82,
+          "confirmed": 208,
+          "recovered": 97,
           "deceased": 1
         },
         "zone": {
@@ -1057,7 +1057,7 @@
           "deceased": 0
         },
         "total": {
-          "confirmed": 57,
+          "confirmed": 59,
           "recovered": 43,
           "deceased": 0
         },
@@ -1074,8 +1074,8 @@
           "deceased": 0
         },
         "total": {
-          "confirmed": 417,
-          "recovered": 315,
+          "confirmed": 426,
+          "recovered": 328,
           "deceased": 8
         },
         "zone": {
@@ -1091,8 +1091,8 @@
           "deceased": 0
         },
         "total": {
-          "confirmed": 382,
-          "recovered": 263,
+          "confirmed": 396,
+          "recovered": 280,
           "deceased": 15
         },
         "zone": {
@@ -1108,9 +1108,9 @@
           "deceased": 0
         },
         "total": {
-          "confirmed": 615,
-          "recovered": 433,
-          "deceased": 20
+          "confirmed": 638,
+          "recovered": 447,
+          "deceased": 21
         },
         "zone": {
           "status": "Red",
@@ -1125,7 +1125,7 @@
           "deceased": 0
         },
         "total": {
-          "confirmed": 66,
+          "confirmed": 67,
           "recovered": 63,
           "deceased": 0
         },
@@ -1142,8 +1142,8 @@
           "deceased": 0
         },
         "total": {
-          "confirmed": 157,
-          "recovered": 94,
+          "confirmed": 182,
+          "recovered": 103,
           "deceased": 3
         },
         "zone": {
@@ -1159,8 +1159,8 @@
           "deceased": 0
         },
         "total": {
-          "confirmed": 14,
-          "recovered": 4,
+          "confirmed": 16,
+          "recovered": 5,
           "deceased": 0
         },
         "zone": {
@@ -1176,9 +1176,9 @@
           "deceased": 0
         },
         "total": {
-          "confirmed": 76,
-          "recovered": 37,
-          "deceased": 1
+          "confirmed": 162,
+          "recovered": 94,
+          "deceased": 2
         },
         "zone": {
           "status": "Orange",
@@ -1193,8 +1193,8 @@
           "deceased": 0
         },
         "total": {
-          "confirmed": 8,
-          "recovered": 0,
+          "confirmed": 16,
+          "recovered": 4,
           "deceased": 0
         },
         "zone": {
@@ -1210,8 +1210,8 @@
           "deceased": 0
         },
         "total": {
-          "confirmed": 72,
-          "recovered": 51,
+          "confirmed": 75,
+          "recovered": 54,
           "deceased": 0
         },
         "zone": {
@@ -1227,8 +1227,8 @@
           "deceased": 0
         },
         "total": {
-          "confirmed": 104,
-          "recovered": 69,
+          "confirmed": 107,
+          "recovered": 76,
           "deceased": 0
         },
         "zone": {
@@ -1239,9 +1239,9 @@
       }
     },
     "total": {
-      "confirmed": 2489,
-      "recovered": 1621,
-      "deceased": 52,
+      "confirmed": 2638,
+      "recovered": 1711,
+      "deceased": 54,
       "tested": {
         "samples": 258450,
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/56",
@@ -1254,7 +1254,7 @@
       "deceased": 0
     },
     "notes": "Total includes patients from other states.",
-    "last_updated": "2020-05-19T16:03:24+05:30"
+    "last_updated": "2020-05-20T15:31:25+05:30"
   },
   "AR": {
     "timeseries": {
@@ -31991,16 +31991,16 @@
           "samples": 2404267,
           "source": "https://www.icmr.gov.in/pdf/covid/update/ICMR_testing_update_19May2020_9AM_IST.pdf"
         },
-        "confirmed": 5340,
-        "recovered": 3032,
-        "deceased": 146
+        "confirmed": 5489,
+        "recovered": 3122,
+        "deceased": 148
       }
     },
     "districts": null,
     "total": {
-      "confirmed": 107685,
-      "recovered": 42865,
-      "deceased": 3315,
+      "confirmed": 107834,
+      "recovered": 42955,
+      "deceased": 3317,
       "tested": {
         "samples": 2512388,
         "source": "https://www.icmr.gov.in/pdf/covid/update/ICMR_testing_update_20May2020_9AM_IST.pdf",
@@ -32013,6 +32013,6 @@
       "deceased": 13
     },
     "notes": "",
-    "last_updated": "2020-05-20T15:13:23+05:30"
+    "last_updated": "2020-05-20T15:31:23+05:30"
   }
 }
