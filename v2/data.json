@@ -4518,7 +4518,7 @@
       "deceased": 0
     },
     "notes": "",
-    "last_updated": "2020-05-21T22:17:54+05:30"
+    "last_updated": "2020-05-21T22:23:36+05:30"
   },
   "CH": {
     "timeseries": {
@@ -5616,12 +5616,12 @@
     "districts": {
       "Balod": {
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "recovered": 0,
           "deceased": 0
         },
         "total": {
-          "confirmed": 13,
+          "confirmed": 14,
           "recovered": 0,
           "deceased": 0
         },
@@ -5718,12 +5718,12 @@
       },
       "Bilaspur": {
         "delta": {
-          "confirmed": 0,
+          "confirmed": 7,
           "recovered": 0,
           "deceased": 0
         },
         "total": {
-          "confirmed": 1,
+          "confirmed": 8,
           "recovered": 1,
           "deceased": 0
         },
@@ -5803,12 +5803,12 @@
       },
       "Janjgir Champa": {
         "delta": {
-          "confirmed": 0,
+          "confirmed": 3,
           "recovered": 0,
           "deceased": 0
         },
         "total": {
-          "confirmed": 11,
+          "confirmed": 14,
           "recovered": 0,
           "deceased": 0
         },
@@ -5973,12 +5973,12 @@
       },
       "Raipur": {
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "recovered": 0,
           "deceased": 0
         },
         "total": {
-          "confirmed": 7,
+          "confirmed": 8,
           "recovered": 7,
           "deceased": 0
         },
@@ -5990,12 +5990,12 @@
       },
       "Rajnandgaon": {
         "delta": {
-          "confirmed": 0,
+          "confirmed": 4,
           "recovered": 0,
           "deceased": 0
         },
         "total": {
-          "confirmed": 6,
+          "confirmed": 10,
           "recovered": 1,
           "deceased": 0
         },
@@ -6058,12 +6058,12 @@
       },
       "Uttar Bastar Kanker": {
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "recovered": 0,
           "deceased": 0
         },
         "total": {
-          "confirmed": 0,
+          "confirmed": 1,
           "recovered": 0,
           "deceased": 0
         },
@@ -6075,7 +6075,7 @@
       }
     },
     "total": {
-      "confirmed": 114,
+      "confirmed": 131,
       "recovered": 59,
       "deceased": 0,
       "tested": {
@@ -6085,7 +6085,7 @@
       }
     },
     "delta": {
-      "confirmed": 0,
+      "confirmed": 17,
       "recovered": 0,
       "deceased": 0
     },
@@ -10726,7 +10726,7 @@
       "deceased": 0
     },
     "notes": "",
-    "last_updated": "2020-05-21T22:21:28+05:30"
+    "last_updated": "2020-05-21T22:30:26+05:30"
   },
   "JH": {
     "timeseries": {
@@ -31399,12 +31399,12 @@
       },
       "Hooghly": {
         "delta": {
-          "confirmed": 0,
+          "confirmed": 3,
           "recovered": 0,
           "deceased": 0
         },
         "total": {
-          "confirmed": 154,
+          "confirmed": 157,
           "recovered": 109,
           "deceased": 6
         },
@@ -31416,14 +31416,14 @@
       },
       "Howrah": {
         "delta": {
-          "confirmed": 0,
-          "recovered": 0,
-          "deceased": 0
+          "confirmed": 9,
+          "recovered": 10,
+          "deceased": 1
         },
         "total": {
-          "confirmed": 649,
-          "recovered": 190,
-          "deceased": 33
+          "confirmed": 658,
+          "recovered": 200,
+          "deceased": 34
         },
         "zone": {
           "status": "Red",
@@ -31484,14 +31484,14 @@
       },
       "Kolkata": {
         "delta": {
-          "confirmed": 0,
-          "recovered": 0,
-          "deceased": 0
+          "confirmed": 47,
+          "recovered": 30,
+          "deceased": 3
         },
         "total": {
-          "confirmed": 1502,
-          "recovered": 538,
-          "deceased": 169
+          "confirmed": 1549,
+          "recovered": 568,
+          "deceased": 172
         },
         "zone": {
           "status": "Red",
@@ -31518,12 +31518,12 @@
       },
       "Murshidabad": {
         "delta": {
-          "confirmed": 0,
+          "confirmed": 4,
           "recovered": 0,
           "deceased": 0
         },
         "total": {
-          "confirmed": 12,
+          "confirmed": 16,
           "recovered": 4,
           "deceased": 1
         },
@@ -31536,12 +31536,12 @@
       "Nadia": {
         "delta": {
           "confirmed": 0,
-          "recovered": 0,
+          "recovered": 1,
           "deceased": 0
         },
         "total": {
           "confirmed": 17,
-          "recovered": 8,
+          "recovered": 9,
           "deceased": 0
         },
         "zone": {
@@ -31552,14 +31552,14 @@
       },
       "North 24 Parganas": {
         "delta": {
-          "confirmed": 0,
-          "recovered": 0,
-          "deceased": 0
+          "confirmed": 10,
+          "recovered": 3,
+          "deceased": 2
         },
         "total": {
-          "confirmed": 420,
-          "recovered": 153,
-          "deceased": 33
+          "confirmed": 430,
+          "recovered": 156,
+          "deceased": 35
         },
         "zone": {
           "status": "Red",
@@ -31569,12 +31569,12 @@
       },
       "Paschim Bardhaman": {
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "recovered": 0,
           "deceased": 0
         },
         "total": {
-          "confirmed": 19,
+          "confirmed": 20,
           "recovered": 10,
           "deceased": 2
         },
@@ -31586,12 +31586,12 @@
       },
       "Paschim Medinipur": {
         "delta": {
-          "confirmed": 0,
+          "confirmed": 5,
           "recovered": 0,
           "deceased": 0
         },
         "total": {
-          "confirmed": 21,
+          "confirmed": 26,
           "recovered": 19,
           "deceased": 0
         },
@@ -31621,12 +31621,12 @@
       "Purba Medinipur": {
         "delta": {
           "confirmed": 0,
-          "recovered": 0,
+          "recovered": 2,
           "deceased": 0
         },
         "total": {
           "confirmed": 51,
-          "recovered": 29,
+          "recovered": 31,
           "deceased": 1
         },
         "zone": {
@@ -31654,13 +31654,13 @@
       },
       "South 24 Parganas": {
         "delta": {
-          "confirmed": 0,
-          "recovered": 0,
+          "confirmed": 4,
+          "recovered": 9,
           "deceased": 0
         },
         "total": {
-          "confirmed": 108,
-          "recovered": 37,
+          "confirmed": 112,
+          "recovered": 46,
           "deceased": 5
         },
         "zone": {
@@ -31688,9 +31688,9 @@
       }
     },
     "total": {
-      "confirmed": 3103,
-      "recovered": 1136,
-      "deceased": 253,
+      "confirmed": 3197,
+      "recovered": 1193,
+      "deceased": 259,
       "tested": {
         "samples": 111002,
         "source": "https://www.wbhealth.gov.in/uploaded_files/corona/WB_DHFW_Bulletin_20th_MAY_REPORT_FINAL.pdf",
@@ -31698,12 +31698,12 @@
       }
     },
     "delta": {
-      "confirmed": 0,
-      "recovered": 0,
-      "deceased": 0
+      "confirmed": 94,
+      "recovered": 57,
+      "deceased": 6
     },
     "notes": "- Cases updated as per WB bulletin.<br>\n- Deaths due to comorbidities added to total deceased<br>\n- Zones updated as per WB bulletin<br>",
-    "last_updated": "2020-05-20T20:40:27+05:30"
+    "last_updated": "2020-05-21T22:31:26+05:30"
   },
   "TT": {
     "timeseries": {
@@ -32304,9 +32304,9 @@
     },
     "districts": null,
     "total": {
-      "confirmed": 115689,
-      "recovered": 46996,
-      "deceased": 3513,
+      "confirmed": 115800,
+      "recovered": 47053,
+      "deceased": 3519,
       "tested": {
         "samples": 2615920,
         "source": "https://www.icmr.gov.in/pdf/covid/update/ICMR_testing_update_21May2020_9AM_IST.pdf",
@@ -32314,11 +32314,11 @@
       }
     },
     "delta": {
-      "confirmed": 3492,
-      "recovered": 1574,
-      "deceased": 77
+      "confirmed": 3603,
+      "recovered": 1631,
+      "deceased": 83
     },
     "notes": "",
-    "last_updated": "2020-05-21T22:21:23+05:30"
+    "last_updated": "2020-05-21T22:31:24+05:30"
   }
 }
