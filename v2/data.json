@@ -21552,12 +21552,12 @@
     "districts": {
       "Angul": {
         "delta": {
-          "confirmed": 0,
+          "confirmed": 2,
           "recovered": 0,
           "deceased": 0
         },
         "total": {
-          "confirmed": 17,
+          "confirmed": 19,
           "recovered": 0,
           "deceased": 0
         },
@@ -21621,12 +21621,12 @@
       "Bhadrak": {
         "delta": {
           "confirmed": 0,
-          "recovered": 0,
+          "recovered": 2,
           "deceased": 0
         },
         "total": {
           "confirmed": 95,
-          "recovered": 25,
+          "recovered": 27,
           "deceased": 0
         },
         "zone": {
@@ -21654,12 +21654,12 @@
       },
       "Cuttack": {
         "delta": {
-          "confirmed": 0,
+          "confirmed": 9,
           "recovered": 0,
           "deceased": 0
         },
         "total": {
-          "confirmed": 36,
+          "confirmed": 45,
           "recovered": 2,
           "deceased": 1
         },
@@ -21722,14 +21722,14 @@
       },
       "Ganjam": {
         "delta": {
-          "confirmed": 0,
-          "recovered": 0,
-          "deceased": 0
+          "confirmed": 4,
+          "recovered": 23,
+          "deceased": 1
         },
         "total": {
-          "confirmed": 313,
-          "recovered": 132,
-          "deceased": 2
+          "confirmed": 317,
+          "recovered": 155,
+          "deceased": 3
         },
         "zone": {
           "status": "Red",
@@ -21739,12 +21739,12 @@
       },
       "Jagatsinghpur": {
         "delta": {
-          "confirmed": 0,
+          "confirmed": 2,
           "recovered": 0,
           "deceased": 0
         },
         "total": {
-          "confirmed": 28,
+          "confirmed": 30,
           "recovered": 5,
           "deceased": 0
         },
@@ -21756,13 +21756,13 @@
       },
       "Jajpur": {
         "delta": {
-          "confirmed": 0,
-          "recovered": 0,
+          "confirmed": 5,
+          "recovered": 5,
           "deceased": 0
         },
         "total": {
-          "confirmed": 174,
-          "recovered": 60,
+          "confirmed": 179,
+          "recovered": 65,
           "deceased": 0
         },
         "zone": {
@@ -21790,12 +21790,12 @@
       },
       "Kalahandi": {
         "delta": {
-          "confirmed": 0,
+          "confirmed": 11,
           "recovered": 0,
           "deceased": 0
         },
         "total": {
-          "confirmed": 2,
+          "confirmed": 13,
           "recovered": 2,
           "deceased": 0
         },
@@ -21892,12 +21892,12 @@
       },
       "Malkangiri": {
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "recovered": 0,
           "deceased": 0
         },
         "total": {
-          "confirmed": 2,
+          "confirmed": 3,
           "recovered": 0,
           "deceased": 0
         },
@@ -21909,13 +21909,13 @@
       },
       "Mayurbhanj": {
         "delta": {
-          "confirmed": 0,
-          "recovered": 0,
+          "confirmed": 3,
+          "recovered": 3,
           "deceased": 0
         },
         "total": {
-          "confirmed": 11,
-          "recovered": 7,
+          "confirmed": 14,
+          "recovered": 10,
           "deceased": 0
         },
         "zone": {
@@ -21943,12 +21943,12 @@
       },
       "Nayagarh": {
         "delta": {
-          "confirmed": 0,
+          "confirmed": 11,
           "recovered": 0,
           "deceased": 0
         },
         "total": {
-          "confirmed": 10,
+          "confirmed": 21,
           "recovered": 1,
           "deceased": 0
         },
@@ -21977,13 +21977,13 @@
       },
       "Puri": {
         "delta": {
-          "confirmed": 0,
-          "recovered": 0,
+          "confirmed": 1,
+          "recovered": 2,
           "deceased": 0
         },
         "total": {
-          "confirmed": 44,
-          "recovered": 3,
+          "confirmed": 45,
+          "recovered": 5,
           "deceased": 0
         },
         "zone": {
@@ -22011,12 +22011,12 @@
       },
       "Sambalpur": {
         "delta": {
-          "confirmed": 0,
+          "confirmed": 2,
           "recovered": 0,
           "deceased": 0
         },
         "total": {
-          "confirmed": 3,
+          "confirmed": 5,
           "recovered": 0,
           "deceased": 0
         },
@@ -22046,12 +22046,12 @@
       "Sundargarh": {
         "delta": {
           "confirmed": 0,
-          "recovered": 0,
+          "recovered": 1,
           "deceased": 0
         },
         "total": {
           "confirmed": 27,
-          "recovered": 14,
+          "recovered": 15,
           "deceased": 0
         },
         "zone": {
@@ -22062,9 +22062,9 @@
       }
     },
     "total": {
-      "confirmed": 1052,
-      "recovered": 343,
-      "deceased": 6,
+      "confirmed": 1103,
+      "recovered": 379,
+      "deceased": 7,
       "tested": {
         "samples": 105914,
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/73",
@@ -22072,12 +22072,12 @@
       }
     },
     "delta": {
-      "confirmed": 0,
-      "recovered": 0,
-      "deceased": 0
+      "confirmed": 51,
+      "recovered": 36,
+      "deceased": 1
     },
     "notes": "",
-    "last_updated": "2020-05-20T15:13:29+05:30"
+    "last_updated": "2020-05-21T11:21:25+05:30"
   },
   "PB": {
     "timeseries": {
@@ -32304,9 +32304,9 @@
     },
     "districts": null,
     "total": {
-      "confirmed": 112335,
-      "recovered": 45422,
-      "deceased": 3434,
+      "confirmed": 112386,
+      "recovered": 45458,
+      "deceased": 3435,
       "tested": {
         "samples": 2615920,
         "source": "https://www.icmr.gov.in/pdf/covid/update/ICMR_testing_update_21May2020_9AM_IST.pdf",
@@ -32314,11 +32314,11 @@
       }
     },
     "delta": {
-      "confirmed": 307,
-      "recovered": 0,
-      "deceased": 0
+      "confirmed": 358,
+      "recovered": 36,
+      "deceased": 1
     },
     "notes": "",
-    "last_updated": "2020-05-21T09:30:23+05:30"
+    "last_updated": "2020-05-21T11:21:23+05:30"
   }
 }
