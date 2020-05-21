@@ -24157,12 +24157,12 @@
     "districts": {
       "Ajmer": {
         "delta": {
-          "confirmed": 0,
+          "confirmed": 2,
           "recovered": 0,
           "deceased": 0
         },
         "total": {
-          "confirmed": 266,
+          "confirmed": 268,
           "recovered": 215,
           "deceased": 5
         },
@@ -24174,13 +24174,13 @@
       },
       "Alwar": {
         "delta": {
-          "confirmed": 0,
-          "recovered": 0,
+          "confirmed": 4,
+          "recovered": 15,
           "deceased": 0
         },
         "total": {
-          "confirmed": 36,
-          "recovered": 13,
+          "confirmed": 40,
+          "recovered": 28,
           "deceased": 2
         },
         "zone": {
@@ -24225,12 +24225,12 @@
       },
       "Barmer": {
         "delta": {
-          "confirmed": 0,
+          "confirmed": 2,
           "recovered": 0,
           "deceased": 0
         },
         "total": {
-          "confirmed": 50,
+          "confirmed": 52,
           "recovered": 1,
           "deceased": 0
         },
@@ -24244,12 +24244,12 @@
         "delta": {
           "confirmed": 0,
           "recovered": 0,
-          "deceased": 0
+          "deceased": 1
         },
         "total": {
           "confirmed": 129,
           "recovered": 115,
-          "deceased": 3
+          "deceased": 4
         },
         "zone": {
           "status": "Red",
@@ -24259,12 +24259,12 @@
       },
       "Bhilwara": {
         "delta": {
-          "confirmed": 0,
+          "confirmed": 2,
           "recovered": 0,
           "deceased": 0
         },
         "total": {
-          "confirmed": 82,
+          "confirmed": 84,
           "recovered": 43,
           "deceased": 2
         },
@@ -24276,12 +24276,12 @@
       },
       "Bikaner": {
         "delta": {
-          "confirmed": 0,
+          "confirmed": 6,
           "recovered": 0,
           "deceased": 0
         },
         "total": {
-          "confirmed": 65,
+          "confirmed": 71,
           "recovered": 37,
           "deceased": 3
         },
@@ -24378,12 +24378,12 @@
       },
       "Dungarpur": {
         "delta": {
-          "confirmed": 0,
+          "confirmed": 28,
           "recovered": 0,
           "deceased": 0
         },
         "total": {
-          "confirmed": 233,
+          "confirmed": 261,
           "recovered": 8,
           "deceased": 0
         },
@@ -24429,14 +24429,14 @@
       },
       "Jaipur": {
         "delta": {
-          "confirmed": 0,
+          "confirmed": 8,
           "recovered": 0,
-          "deceased": 0
+          "deceased": 1
         },
         "total": {
-          "confirmed": 1665,
+          "confirmed": 1673,
           "recovered": 1034,
-          "deceased": 73
+          "deceased": 74
         },
         "zone": {
           "status": "Red",
@@ -24446,12 +24446,12 @@
       },
       "Jaisalmer": {
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "recovered": 0,
           "deceased": 0
         },
         "total": {
-          "confirmed": 59,
+          "confirmed": 60,
           "recovered": 35,
           "deceased": 0
         },
@@ -24480,12 +24480,12 @@
       },
       "Jhalawar": {
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "recovered": 0,
           "deceased": 0
         },
         "total": {
-          "confirmed": 51,
+          "confirmed": 52,
           "recovered": 47,
           "deceased": 0
         },
@@ -24497,13 +24497,13 @@
       },
       "Jhunjhunu": {
         "delta": {
-          "confirmed": 0,
-          "recovered": 0,
+          "confirmed": 2,
+          "recovered": 2,
           "deceased": 0
         },
         "total": {
-          "confirmed": 69,
-          "recovered": 47,
+          "confirmed": 71,
+          "recovered": 49,
           "deceased": 0
         },
         "zone": {
@@ -24548,12 +24548,12 @@
       },
       "Kota": {
         "delta": {
-          "confirmed": 0,
+          "confirmed": 2,
           "recovered": 0,
           "deceased": 0
         },
         "total": {
-          "confirmed": 337,
+          "confirmed": 339,
           "recovered": 248,
           "deceased": 14
         },
@@ -24616,12 +24616,12 @@
       },
       "Rajsamand": {
         "delta": {
-          "confirmed": 0,
+          "confirmed": 6,
           "recovered": 0,
           "deceased": 0
         },
         "total": {
-          "confirmed": 61,
+          "confirmed": 67,
           "recovered": 26,
           "deceased": 0
         },
@@ -24652,12 +24652,12 @@
         "delta": {
           "confirmed": 0,
           "recovered": 0,
-          "deceased": 0
+          "deceased": 1
         },
         "total": {
           "confirmed": 64,
           "recovered": 9,
-          "deceased": 3
+          "deceased": 4
         },
         "zone": {
           "status": "Orange",
@@ -24701,12 +24701,12 @@
       },
       "Udaipur": {
         "delta": {
-          "confirmed": 0,
+          "confirmed": 10,
           "recovered": 0,
           "deceased": 0
         },
         "total": {
-          "confirmed": 420,
+          "confirmed": 430,
           "recovered": 12,
           "deceased": 1
         },
@@ -24718,9 +24718,9 @@
       }
     },
     "total": {
-      "confirmed": 6015,
-      "recovered": 3404,
-      "deceased": 147,
+      "confirmed": 6098,
+      "recovered": 3421,
+      "deceased": 150,
       "tested": {
         "samples": 265555,
         "source": "https://t.me/indiacovid/5226",
@@ -24728,12 +24728,12 @@
       }
     },
     "delta": {
-      "confirmed": 0,
-      "recovered": 0,
-      "deceased": 0
+      "confirmed": 83,
+      "recovered": 17,
+      "deceased": 3
     },
     "notes": "",
-    "last_updated": "2020-05-20T22:21:24+05:30"
+    "last_updated": "2020-05-21T11:51:24+05:30"
   },
   "SK": {
     "timeseries": {
@@ -32304,9 +32304,9 @@
     },
     "districts": null,
     "total": {
-      "confirmed": 112386,
-      "recovered": 45458,
-      "deceased": 3435,
+      "confirmed": 112469,
+      "recovered": 45475,
+      "deceased": 3438,
       "tested": {
         "samples": 2615920,
         "source": "https://www.icmr.gov.in/pdf/covid/update/ICMR_testing_update_21May2020_9AM_IST.pdf",
@@ -32314,11 +32314,11 @@
       }
     },
     "delta": {
-      "confirmed": 358,
-      "recovered": 36,
-      "deceased": 1
+      "confirmed": 441,
+      "recovered": 53,
+      "deceased": 4
     },
     "notes": "",
-    "last_updated": "2020-05-21T11:33:23+05:30"
+    "last_updated": "2020-05-21T11:51:22+05:30"
   }
 }
