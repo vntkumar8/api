@@ -8731,10 +8731,10 @@
         },
         {
           "notes": "",
-          "active": 3,
-          "confirmed": 3,
+          "active": -1,
+          "confirmed": 5,
           "deceased": 0,
-          "recovered": 0,
+          "recovered": 6,
           "date": "2020-05-21"
         }
       ],
@@ -19023,10 +19023,10 @@
         },
         {
           "notes": "",
-          "active": 63,
-          "confirmed": 202,
+          "active": 48,
+          "confirmed": 216,
           "deceased": 3,
-          "recovered": 136,
+          "recovered": 165,
           "date": "2020-05-21"
         }
       ],
@@ -19038,14 +19038,6 @@
           "deceased": 0,
           "recovered": 0,
           "date": "2020-05-07"
-        },
-        {
-          "notes": "",
-          "active": -15,
-          "confirmed": 14,
-          "deceased": 0,
-          "recovered": 29,
-          "date": "2020-05-21"
         }
       ]
     },
