@@ -2678,25 +2678,25 @@
       {
         "district": "Chamba",
         "notes": "",
-        "active": 3,
+        "active": 2,
         "confirmed": 13,
         "deceased": 0,
-        "recovered": 10,
+        "recovered": 11,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 1
         }
       },
       {
         "district": "Hamirpur",
         "notes": "",
-        "active": 10,
-        "confirmed": 15,
+        "active": 26,
+        "confirmed": 31,
         "deceased": 1,
         "recovered": 4,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 16,
           "deceased": 0,
           "recovered": 0
         }
@@ -2704,12 +2704,12 @@
       {
         "district": "Kangra",
         "notes": "",
-        "active": 26,
-        "confirmed": 35,
+        "active": 32,
+        "confirmed": 41,
         "deceased": 1,
         "recovered": 8,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 6,
           "deceased": 0,
           "recovered": 0
         }
@@ -2795,12 +2795,12 @@
       {
         "district": "Solan",
         "notes": "",
-        "active": 3,
-        "confirmed": 9,
+        "active": 8,
+        "confirmed": 14,
         "deceased": 1,
         "recovered": 5,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 5,
           "deceased": 0,
           "recovered": 0
         }

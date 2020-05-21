@@ -3309,7 +3309,7 @@
       "deceased": 0
     },
     "notes": "Includes one case from Nagaland <br>\nTotal of Three* patients who migrated to other states has been reduced from Active count",
-    "last_updated": "2020-05-21T18:51:34+05:30"
+    "last_updated": "2020-05-21T18:57:26+05:30"
   },
   "BR": {
     "timeseries": {
@@ -9585,12 +9585,12 @@
       "Chamba": {
         "delta": {
           "confirmed": 0,
-          "recovered": 0,
+          "recovered": 1,
           "deceased": 0
         },
         "total": {
           "confirmed": 13,
-          "recovered": 10,
+          "recovered": 11,
           "deceased": 0
         },
         "zone": {
@@ -9601,12 +9601,12 @@
       },
       "Hamirpur": {
         "delta": {
-          "confirmed": 0,
+          "confirmed": 16,
           "recovered": 0,
           "deceased": 0
         },
         "total": {
-          "confirmed": 15,
+          "confirmed": 31,
           "recovered": 4,
           "deceased": 1
         },
@@ -9618,12 +9618,12 @@
       },
       "Kangra": {
         "delta": {
-          "confirmed": 0,
+          "confirmed": 6,
           "recovered": 0,
           "deceased": 0
         },
         "total": {
-          "confirmed": 35,
+          "confirmed": 41,
           "recovered": 8,
           "deceased": 1
         },
@@ -9737,12 +9737,12 @@
       },
       "Solan": {
         "delta": {
-          "confirmed": 0,
+          "confirmed": 5,
           "recovered": 0,
           "deceased": 0
         },
         "total": {
-          "confirmed": 9,
+          "confirmed": 14,
           "recovered": 5,
           "deceased": 1
         },
@@ -9771,8 +9771,8 @@
       }
     },
     "total": {
-      "confirmed": 110,
-      "recovered": 50,
+      "confirmed": 137,
+      "recovered": 51,
       "deceased": 4,
       "tested": {
         "samples": 21147,
@@ -9781,12 +9781,12 @@
       }
     },
     "delta": {
-      "confirmed": 0,
-      "recovered": 0,
+      "confirmed": 27,
+      "recovered": 1,
       "deceased": 0
     },
     "notes": "HP has 4 Migrated cases which are reduced from Active #. Also, death of Tibetan refugee is included in deceased numbers, but not in confirmed",
-    "last_updated": "2020-05-20T22:21:25+05:30"
+    "last_updated": "2020-05-21T19:01:26+05:30"
   },
   "HR": {
     "timeseries": {
@@ -27482,7 +27482,7 @@
       "deceased": 7
     },
     "notes": "",
-    "last_updated": "2020-05-21T18:51:30+05:30"
+    "last_updated": "2020-05-21T18:57:24+05:30"
   },
   "TR": {
     "timeseries": {
@@ -32304,8 +32304,8 @@
     },
     "districts": null,
     "total": {
-      "confirmed": 114245,
-      "recovered": 46402,
+      "confirmed": 114272,
+      "recovered": 46403,
       "deceased": 3464,
       "tested": {
         "samples": 2615920,
@@ -32314,11 +32314,11 @@
       }
     },
     "delta": {
-      "confirmed": 2217,
-      "recovered": 980,
+      "confirmed": 2244,
+      "recovered": 981,
       "deceased": 30
     },
     "notes": "",
-    "last_updated": "2020-05-21T18:51:24+05:30"
+    "last_updated": "2020-05-21T19:01:23+05:30"
   }
 }
