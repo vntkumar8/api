@@ -3090,12 +3090,12 @@
       },
       "Kokrajhar": {
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "recovered": 0,
           "deceased": 0
         },
         "total": {
-          "confirmed": 2,
+          "confirmed": 3,
           "recovered": 0,
           "deceased": 0
         },
@@ -3294,7 +3294,7 @@
       }
     },
     "total": {
-      "confirmed": 189,
+      "confirmed": 190,
       "recovered": 49,
       "deceased": 4,
       "tested": {
@@ -3304,12 +3304,12 @@
       }
     },
     "delta": {
-      "confirmed": 0,
+      "confirmed": 1,
       "recovered": 0,
       "deceased": 0
     },
     "notes": "Includes one case from Nagaland <br>\nTotal of Three* patients who migrated to other states has been reduced from Active count",
-    "last_updated": "2020-05-21T00:26:25+05:30"
+    "last_updated": "2020-05-21T12:01:29+05:30"
   },
   "BR": {
     "timeseries": {
@@ -24733,7 +24733,7 @@
       "deceased": 3
     },
     "notes": "",
-    "last_updated": "2020-05-21T11:51:24+05:30"
+    "last_updated": "2020-05-21T11:53:24+05:30"
   },
   "SK": {
     "timeseries": {
@@ -32304,7 +32304,7 @@
     },
     "districts": null,
     "total": {
-      "confirmed": 112469,
+      "confirmed": 112470,
       "recovered": 45475,
       "deceased": 3438,
       "tested": {
@@ -32314,11 +32314,11 @@
       }
     },
     "delta": {
-      "confirmed": 441,
+      "confirmed": 442,
       "recovered": 53,
       "deceased": 4
     },
     "notes": "",
-    "last_updated": "2020-05-21T11:51:22+05:30"
+    "last_updated": "2020-05-21T12:01:23+05:30"
   }
 }
