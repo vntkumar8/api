@@ -3158,8 +3158,8 @@
       {
         "district": "Chatra",
         "notes": "",
-        "active": 0,
-        "confirmed": 0,
+        "active": 1,
+        "confirmed": 1,
         "deceased": 0,
         "recovered": 0,
         "delta": {
@@ -3184,8 +3184,8 @@
       {
         "district": "Dhanbad",
         "notes": "",
-        "active": 4,
-        "confirmed": 6,
+        "active": 5,
+        "confirmed": 7,
         "deceased": 0,
         "recovered": 2,
         "delta": {
@@ -3210,8 +3210,8 @@
       {
         "district": "East Singhbhum",
         "notes": "",
-        "active": 11,
-        "confirmed": 11,
+        "active": 15,
+        "confirmed": 15,
         "deceased": 0,
         "recovered": 0,
         "delta": {
@@ -3236,8 +3236,8 @@
       {
         "district": "Giridih",
         "notes": "",
-        "active": 11,
-        "confirmed": 12,
+        "active": 14,
+        "confirmed": 15,
         "deceased": 0,
         "recovered": 1,
         "delta": {
@@ -3446,19 +3446,6 @@
         "notes": "",
         "active": 1,
         "confirmed": 1,
-        "deceased": 0,
-        "recovered": 0,
-        "delta": {
-          "confirmed": 0,
-          "deceased": 0,
-          "recovered": 0
-        }
-      },
-      {
-        "district": "Unknown",
-        "notes": "",
-        "active": 9,
-        "confirmed": 9,
         "deceased": 0,
         "recovered": 0,
         "delta": {
@@ -7563,12 +7550,12 @@
       {
         "district": "Other State",
         "notes": "",
-        "active": 87,
-        "confirmed": 87,
+        "active": 97,
+        "confirmed": 97,
         "deceased": 0,
         "recovered": 0,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 10,
           "deceased": 0,
           "recovered": 0
         }
@@ -7602,12 +7589,12 @@
       {
         "district": "Hyderabad",
         "notes": "",
-        "active": 728,
-        "confirmed": 1056,
+        "active": 754,
+        "confirmed": 1082,
         "deceased": 23,
         "recovered": 305,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 26,
           "deceased": 0,
           "recovered": 0
         }
@@ -7888,12 +7875,12 @@
       {
         "district": "Ranga Reddy",
         "notes": "",
-        "active": 25,
-        "confirmed": 44,
+        "active": 27,
+        "confirmed": 46,
         "deceased": 2,
         "recovered": 17,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 2,
           "deceased": 0,
           "recovered": 0
         }
@@ -8005,10 +7992,10 @@
       {
         "district": "Unknown",
         "notes": "",
-        "active": -430,
+        "active": -460,
         "confirmed": 40,
-        "deceased": 8,
-        "recovered": 462,
+        "deceased": 15,
+        "recovered": 485,
         "delta": {
           "confirmed": 0,
           "deceased": 0,

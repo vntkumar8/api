@@ -3309,7 +3309,7 @@
       "deceased": 0
     },
     "notes": "Includes one case from Nagaland <br>\nTotal of Three* patients who migrated to other states has been reduced from Active count",
-    "last_updated": "2020-05-21T20:51:28+05:30"
+    "last_updated": "2020-05-21T20:52:28+05:30"
   },
   "BR": {
     "timeseries": {
@@ -9018,7 +9018,7 @@
       "deceased": 773,
       "tested": {
         "samples": 166152,
-        "source": "",
+        "source": "https://twitter.com/PIBAhmedabad/status/1263476088816177152?s=20",
         "last_updated": "2020-05-21"
       }
     },
@@ -11278,7 +11278,7 @@
           "deceased": 0
         },
         "total": {
-          "confirmed": 0,
+          "confirmed": 1,
           "recovered": 0,
           "deceased": 0
         },
@@ -11312,7 +11312,7 @@
           "deceased": 0
         },
         "total": {
-          "confirmed": 6,
+          "confirmed": 7,
           "recovered": 2,
           "deceased": 0
         },
@@ -11346,7 +11346,7 @@
           "deceased": 0
         },
         "total": {
-          "confirmed": 11,
+          "confirmed": 15,
           "recovered": 0,
           "deceased": 0
         },
@@ -11380,7 +11380,7 @@
           "deceased": 0
         },
         "total": {
-          "confirmed": 12,
+          "confirmed": 15,
           "recovered": 1,
           "deceased": 0
         },
@@ -12610,7 +12610,7 @@
       "deceased": 2
     },
     "notes": "",
-    "last_updated": "2020-05-21T20:51:26+05:30"
+    "last_updated": "2020-05-21T21:01:29+05:30"
   },
   "KA": {
     "timeseries": {
@@ -19528,7 +19528,7 @@
       "deceased": 4
     },
     "notes": "",
-    "last_updated": "2020-05-21T20:51:24+05:30"
+    "last_updated": "2020-05-21T20:52:24+05:30"
   },
   "MZ": {
     "timeseries": {
@@ -25748,12 +25748,12 @@
       },
       "Hyderabad": {
         "delta": {
-          "confirmed": 0,
+          "confirmed": 26,
           "recovered": 0,
           "deceased": 0
         },
         "total": {
-          "confirmed": 1056,
+          "confirmed": 1082,
           "recovered": 305,
           "deceased": 23
         },
@@ -26122,12 +26122,12 @@
       },
       "Ranga Reddy": {
         "delta": {
-          "confirmed": 0,
+          "confirmed": 2,
           "recovered": 0,
           "deceased": 0
         },
         "total": {
-          "confirmed": 44,
+          "confirmed": 46,
           "recovered": 17,
           "deceased": 2
         },
@@ -26275,9 +26275,9 @@
       }
     },
     "total": {
-      "confirmed": 1661,
-      "recovered": 1013,
-      "deceased": 38,
+      "confirmed": 1699,
+      "recovered": 1036,
+      "deceased": 45,
       "tested": {
         "samples": 23388,
         "source": "",
@@ -26285,12 +26285,12 @@
       }
     },
     "delta": {
-      "confirmed": 0,
-      "recovered": 0,
-      "deceased": 0
+      "confirmed": 38,
+      "recovered": 23,
+      "deceased": 7
     },
     "notes": "",
-    "last_updated": "2020-05-20T20:40:28+05:30"
+    "last_updated": "2020-05-21T21:01:26+05:30"
   },
   "TN": {
     "timeseries": {
@@ -32304,9 +32304,9 @@
     },
     "districts": null,
     "total": {
-      "confirmed": 115336,
-      "recovered": 46846,
-      "deceased": 3495,
+      "confirmed": 115374,
+      "recovered": 46869,
+      "deceased": 3502,
       "tested": {
         "samples": 2615920,
         "source": "https://www.icmr.gov.in/pdf/covid/update/ICMR_testing_update_21May2020_9AM_IST.pdf",
@@ -32314,11 +32314,11 @@
       }
     },
     "delta": {
-      "confirmed": 3139,
-      "recovered": 1424,
-      "deceased": 61
+      "confirmed": 3177,
+      "recovered": 1447,
+      "deceased": 68
     },
     "notes": "",
-    "last_updated": "2020-05-21T20:51:23+05:30"
+    "last_updated": "2020-05-21T21:01:23+05:30"
   }
 }

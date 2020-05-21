@@ -3894,8 +3894,8 @@
 			"statecode": "JH"
 		},
 		{
-			"active": "0",
-			"confirmed": "0",
+			"active": "1",
+			"confirmed": "1",
 			"deceased": "0",
 			"deltaactive": "0",
 			"deltaconfirmed": "0",
@@ -3928,8 +3928,8 @@
 			"statecode": "JH"
 		},
 		{
-			"active": "4",
-			"confirmed": "6",
+			"active": "5",
+			"confirmed": "7",
 			"deceased": "0",
 			"deltaactive": "0",
 			"deltaconfirmed": "0",
@@ -3962,8 +3962,8 @@
 			"statecode": "JH"
 		},
 		{
-			"active": "11",
-			"confirmed": "11",
+			"active": "15",
+			"confirmed": "15",
 			"deceased": "0",
 			"deltaactive": "0",
 			"deltaconfirmed": "0",
@@ -3996,8 +3996,8 @@
 			"statecode": "JH"
 		},
 		{
-			"active": "11",
-			"confirmed": "12",
+			"active": "14",
+			"confirmed": "15",
 			"deceased": "0",
 			"deltaactive": "0",
 			"deltaconfirmed": "0",
@@ -9487,11 +9487,11 @@
 			"statecode": "SK"
 		},
 		{
-			"active": "87",
-			"confirmed": "87",
+			"active": "97",
+			"confirmed": "97",
 			"deceased": "0",
-			"deltaactive": "0",
-			"deltaconfirmed": "0",
+			"deltaactive": "10",
+			"deltaconfirmed": "10",
 			"deltadeceased": "0",
 			"deltarecovered": "0",
 			"district": "Other State",
@@ -9538,11 +9538,11 @@
 			"statecode": "TG"
 		},
 		{
-			"active": "728",
-			"confirmed": "1056",
+			"active": "754",
+			"confirmed": "1082",
 			"deceased": "23",
-			"deltaactive": "0",
-			"deltaconfirmed": "0",
+			"deltaactive": "26",
+			"deltaconfirmed": "26",
 			"deltadeceased": "0",
 			"deltarecovered": "0",
 			"district": "Hyderabad",
@@ -9912,11 +9912,11 @@
 			"statecode": "TG"
 		},
 		{
-			"active": "25",
-			"confirmed": "44",
+			"active": "27",
+			"confirmed": "46",
 			"deceased": "2",
-			"deltaactive": "0",
-			"deltaconfirmed": "0",
+			"deltaactive": "2",
+			"deltaconfirmed": "2",
 			"deltadeceased": "0",
 			"deltarecovered": "0",
 			"district": "Ranga Reddy",
@@ -13023,8 +13023,8 @@
 			"statecode": "JK"
 		},
 		{
-			"active": "9",
-			"confirmed": "9",
+			"active": "0",
+			"confirmed": "0",
 			"deceased": "0",
 			"deltaactive": "0",
 			"deltaconfirmed": "0",
@@ -13312,9 +13312,9 @@
 			"statecode": "TN"
 		},
 		{
-			"active": "-430",
+			"active": "-460",
 			"confirmed": "40",
-			"deceased": "8",
+			"deceased": "15",
 			"deltaactive": "0",
 			"deltaconfirmed": "0",
 			"deltadeceased": "0",
@@ -13323,7 +13323,7 @@
 			"districtkey": "TG_Unknown",
 			"districtnotes": "",
 			"lastupdated": "",
-			"recovered": "462",
+			"recovered": "485",
 			"slno": "760",
 			"state": "Telangana",
 			"statecode": "TG"
