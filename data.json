@@ -1011,14 +1011,14 @@
 	],
 	"statewise": [
 		{
-			"active": "63550",
-			"confirmed": "112470",
+			"active": "63652",
+			"confirmed": "112586",
 			"deaths": "3438",
-			"deltaconfirmed": "442",
+			"deltaconfirmed": "558",
 			"deltadeaths": "4",
-			"deltarecovered": "53",
-			"lastupdatedtime": "21/05/2020 12:10:23",
-			"recovered": "45475",
+			"deltarecovered": "67",
+			"lastupdatedtime": "21/05/2020 14:41:23",
+			"recovered": "45489",
 			"state": "Total",
 			"statecode": "TT",
 			"statenotes": ""
@@ -1180,17 +1180,30 @@
 			"statenotes": ""
 		},
 		{
-			"active": "864",
-			"confirmed": "1462",
+			"active": "966",
+			"confirmed": "1578",
 			"deaths": "41",
-			"deltaconfirmed": "0",
+			"deltaconfirmed": "116",
 			"deltadeaths": "0",
-			"deltarecovered": "0",
-			"lastupdatedtime": "20/05/2020 13:31:27",
-			"recovered": "556",
+			"deltarecovered": "14",
+			"lastupdatedtime": "21/05/2020 14:41:25",
+			"recovered": "570",
 			"state": "Karnataka",
 			"statecode": "KA",
 			"statenotes": "One active case in KA reduced as a confirmed patient died of non-CoViD19 related reasons"
+		},
+		{
+			"active": "1403",
+			"confirmed": "1403",
+			"deaths": "0",
+			"deltaconfirmed": "307",
+			"deltadeaths": "0",
+			"deltarecovered": "0",
+			"lastupdatedtime": "21/05/2020 09:30:24",
+			"recovered": "0",
+			"state": "State Unassigned",
+			"statecode": "UN",
+			"statenotes": "MoHFW reports that these cases are being reassigned to states"
 		},
 		{
 			"active": "694",
@@ -1232,19 +1245,6 @@
 			"statenotes": ""
 		},
 		{
-			"active": "1403",
-			"confirmed": "1403",
-			"deaths": "0",
-			"deltaconfirmed": "307",
-			"deltadeaths": "0",
-			"deltarecovered": "0",
-			"lastupdatedtime": "21/05/2020 09:30:24",
-			"recovered": "0",
-			"state": "State Unassigned",
-			"statecode": "UN",
-			"statenotes": "MoHFW reports that these cases are being reassigned to states"
-		},
-		{
 			"active": "161",
 			"confirmed": "667",
 			"deaths": "4",
@@ -1284,19 +1284,6 @@
 			"statenotes": ""
 		},
 		{
-			"active": "57",
-			"confirmed": "173",
-			"deaths": "0",
-			"deltaconfirmed": "0",
-			"deltadeaths": "0",
-			"deltarecovered": "0",
-			"lastupdatedtime": "20/05/2020 10:02:25",
-			"recovered": "116",
-			"state": "Tripura",
-			"statecode": "TR",
-			"statenotes": "Two cases are migrated out of Tripura."
-		},
-		{
 			"active": "134",
 			"confirmed": "190",
 			"deaths": "4",
@@ -1308,6 +1295,19 @@
 			"state": "Assam",
 			"statecode": "AS",
 			"statenotes": "Includes one case from Nagaland <br>\nTotal of Three* patients who migrated to other states has been reduced from Active count"
+		},
+		{
+			"active": "57",
+			"confirmed": "173",
+			"deaths": "0",
+			"deltaconfirmed": "0",
+			"deltadeaths": "0",
+			"deltarecovered": "0",
+			"lastupdatedtime": "20/05/2020 10:02:25",
+			"recovered": "116",
+			"state": "Tripura",
+			"statecode": "TR",
+			"statenotes": "Two cases are migrated out of Tripura."
 		},
 		{
 			"active": "68",
@@ -1388,6 +1388,19 @@
 			"statenotes": ""
 		},
 		{
+			"active": "23",
+			"confirmed": "25",
+			"deaths": "0",
+			"deltaconfirmed": "0",
+			"deltadeaths": "0",
+			"deltarecovered": "0",
+			"lastupdatedtime": "20/05/2020 22:48:28",
+			"recovered": "2",
+			"state": "Manipur",
+			"statecode": "MN",
+			"statenotes": ""
+		},
+		{
 			"active": "13",
 			"confirmed": "23",
 			"deaths": "0",
@@ -1411,19 +1424,6 @@
 			"recovered": "12",
 			"state": "Meghalaya",
 			"statecode": "ML",
-			"statenotes": ""
-		},
-		{
-			"active": "23",
-			"confirmed": "25",
-			"deaths": "0",
-			"deltaconfirmed": "0",
-			"deltadeaths": "0",
-			"deltarecovered": "0",
-			"lastupdatedtime": "20/05/2020 22:48:28",
-			"recovered": "2",
-			"state": "Manipur",
-			"statecode": "MN",
 			"statenotes": ""
 		},
 		{

@@ -13671,8 +13671,8 @@
       }
     },
     "total": {
-      "confirmed": 1462,
-      "recovered": 556,
+      "confirmed": 1578,
+      "recovered": 570,
       "deceased": 41,
       "tested": {
         "samples": 166781,
@@ -13681,12 +13681,12 @@
       }
     },
     "delta": {
-      "confirmed": 0,
-      "recovered": 0,
+      "confirmed": 116,
+      "recovered": 14,
       "deceased": 0
     },
     "notes": "One active case in KA reduced as a confirmed patient died of non-CoViD19 related reasons",
-    "last_updated": "2020-05-20T13:31:27+05:30"
+    "last_updated": "2020-05-21T14:41:25+05:30"
   },
   "KL": {
     "timeseries": {
@@ -32304,8 +32304,8 @@
     },
     "districts": null,
     "total": {
-      "confirmed": 112470,
-      "recovered": 45475,
+      "confirmed": 112586,
+      "recovered": 45489,
       "deceased": 3438,
       "tested": {
         "samples": 2615920,
@@ -32314,11 +32314,11 @@
       }
     },
     "delta": {
-      "confirmed": 442,
-      "recovered": 53,
+      "confirmed": 558,
+      "recovered": 67,
       "deceased": 4
     },
     "notes": "",
-    "last_updated": "2020-05-21T12:10:23+05:30"
+    "last_updated": "2020-05-21T14:41:23+05:30"
   }
 }
