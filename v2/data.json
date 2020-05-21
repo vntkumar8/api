@@ -1154,12 +1154,12 @@
         "delta": {
           "confirmed": 0,
           "recovered": 0,
-          "deceased": 0
+          "deceased": 1
         },
         "total": {
           "confirmed": 182,
           "recovered": 103,
-          "deceased": 3
+          "deceased": 4
         },
         "zone": {
           "status": "Red",
@@ -1254,9 +1254,9 @@
       }
     },
     "total": {
-      "confirmed": 2560,
-      "recovered": 1664,
-      "deceased": 53,
+      "confirmed": 2605,
+      "recovered": 1705,
+      "deceased": 54,
       "tested": {
         "samples": 275704,
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/83?single",
@@ -1264,12 +1264,12 @@
       }
     },
     "delta": {
-      "confirmed": 0,
-      "recovered": 0,
-      "deceased": 0
+      "confirmed": 45,
+      "recovered": 41,
+      "deceased": 1
     },
     "notes": "Total includes patients from other states.",
-    "last_updated": "2020-05-20T16:57:25+05:30"
+    "last_updated": "2020-05-21T18:11:24+05:30"
   },
   "AR": {
     "timeseries": {
@@ -4518,7 +4518,7 @@
       "deceased": 0
     },
     "notes": "",
-    "last_updated": "2020-05-21T18:01:28+05:30"
+    "last_updated": "2020-05-21T18:02:26+05:30"
   },
   "CH": {
     "timeseries": {
@@ -5092,7 +5092,7 @@
       "deceased": 0
     },
     "notes": "",
-    "last_updated": "2020-05-21T18:01:30+05:30"
+    "last_updated": "2020-05-21T18:03:30+05:30"
   },
   "CT": {
     "timeseries": {
@@ -13229,12 +13229,12 @@
       },
       "Bengaluru Urban": {
         "delta": {
-          "confirmed": 7,
+          "confirmed": 8,
           "recovered": 0,
           "deceased": 0
         },
         "total": {
-          "confirmed": 257,
+          "confirmed": 258,
           "recovered": 124,
           "deceased": 9
         },
@@ -13467,12 +13467,12 @@
       },
       "Kolar": {
         "delta": {
-          "confirmed": 0,
+          "confirmed": 2,
           "recovered": 0,
           "deceased": 0
         },
         "total": {
-          "confirmed": 9,
+          "confirmed": 11,
           "recovered": 0,
           "deceased": 0
         },
@@ -13501,13 +13501,13 @@
       },
       "Mandya": {
         "delta": {
-          "confirmed": 15,
-          "recovered": 0,
+          "confirmed": 33,
+          "recovered": 1,
           "deceased": 0
         },
         "total": {
-          "confirmed": 183,
-          "recovered": 24,
+          "confirmed": 201,
+          "recovered": 25,
           "deceased": 0
         },
         "zone": {
@@ -13535,12 +13535,12 @@
       },
       "Raichur": {
         "delta": {
-          "confirmed": 0,
+          "confirmed": 5,
           "recovered": 0,
           "deceased": 0
         },
         "total": {
-          "confirmed": 11,
+          "confirmed": 16,
           "recovered": 0,
           "deceased": 0
         },
@@ -13603,12 +13603,12 @@
       },
       "Udupi": {
         "delta": {
-          "confirmed": 25,
+          "confirmed": 26,
           "recovered": 0,
           "deceased": 0
         },
         "total": {
-          "confirmed": 46,
+          "confirmed": 47,
           "recovered": 3,
           "deceased": 1
         },
@@ -13671,8 +13671,8 @@
       }
     },
     "total": {
-      "confirmed": 1578,
-      "recovered": 570,
+      "confirmed": 1605,
+      "recovered": 571,
       "deceased": 41,
       "tested": {
         "samples": 166781,
@@ -13681,12 +13681,12 @@
       }
     },
     "delta": {
-      "confirmed": 116,
-      "recovered": 14,
+      "confirmed": 143,
+      "recovered": 15,
       "deceased": 0
     },
     "notes": "One active case in KA reduced as a confirmed patient died of non-CoViD19 related reasons",
-    "last_updated": "2020-05-21T14:44:24+05:30"
+    "last_updated": "2020-05-21T18:11:26+05:30"
   },
   "KL": {
     "timeseries": {
@@ -32304,9 +32304,9 @@
     },
     "districts": null,
     "total": {
-      "confirmed": 113387,
-      "recovered": 45937,
-      "deceased": 3456,
+      "confirmed": 113459,
+      "recovered": 45979,
+      "deceased": 3457,
       "tested": {
         "samples": 2615920,
         "source": "https://www.icmr.gov.in/pdf/covid/update/ICMR_testing_update_21May2020_9AM_IST.pdf",
@@ -32314,11 +32314,11 @@
       }
     },
     "delta": {
-      "confirmed": 1359,
-      "recovered": 515,
-      "deceased": 22
+      "confirmed": 1431,
+      "recovered": 557,
+      "deceased": 23
     },
     "notes": "",
-    "last_updated": "2020-05-21T18:01:23+05:30"
+    "last_updated": "2020-05-21T18:11:23+05:30"
   }
 }
