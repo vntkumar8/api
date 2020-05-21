@@ -1269,7 +1269,7 @@
       "deceased": 1
     },
     "notes": "Total includes patients from other states.",
-    "last_updated": "2020-05-21T18:20:29+05:30"
+    "last_updated": "2020-05-21T18:21:24+05:30"
   },
   "AR": {
     "timeseries": {
@@ -3309,7 +3309,7 @@
       "deceased": 0
     },
     "notes": "Includes one case from Nagaland <br>\nTotal of Three* patients who migrated to other states has been reduced from Active count",
-    "last_updated": "2020-05-21T18:20:31+05:30"
+    "last_updated": "2020-05-21T18:29:25+05:30"
   },
   "BR": {
     "timeseries": {
@@ -13686,7 +13686,7 @@
       "deceased": 0
     },
     "notes": "One active case in KA reduced as a confirmed patient died of non-CoViD19 related reasons",
-    "last_updated": "2020-05-21T18:20:30+05:30"
+    "last_updated": "2020-05-21T18:21:26+05:30"
   },
   "KL": {
     "timeseries": {
@@ -27974,12 +27974,12 @@
       "Dhalai": {
         "delta": {
           "confirmed": 0,
-          "recovered": 0,
+          "recovered": 17,
           "deceased": 0
         },
         "total": {
           "confirmed": 162,
-          "recovered": 114,
+          "recovered": 131,
           "deceased": 0
         },
         "zone": {
@@ -28110,7 +28110,7 @@
     },
     "total": {
       "confirmed": 173,
-      "recovered": 116,
+      "recovered": 133,
       "deceased": 0,
       "tested": {
         "samples": 15822,
@@ -28120,11 +28120,11 @@
     },
     "delta": {
       "confirmed": 0,
-      "recovered": 0,
+      "recovered": 17,
       "deceased": 0
     },
     "notes": "Two cases are migrated out of Tripura.",
-    "last_updated": "2020-05-20T10:02:25+05:30"
+    "last_updated": "2020-05-21T18:31:25+05:30"
   },
   "UP": {
     "timeseries": {
@@ -32305,7 +32305,7 @@
     "districts": null,
     "total": {
       "confirmed": 113461,
-      "recovered": 45985,
+      "recovered": 46002,
       "deceased": 3457,
       "tested": {
         "samples": 2615920,
@@ -32315,10 +32315,10 @@
     },
     "delta": {
       "confirmed": 1433,
-      "recovered": 563,
+      "recovered": 580,
       "deceased": 23
     },
     "notes": "",
-    "last_updated": "2020-05-21T18:20:23+05:30"
+    "last_updated": "2020-05-21T18:31:23+05:30"
   }
 }
