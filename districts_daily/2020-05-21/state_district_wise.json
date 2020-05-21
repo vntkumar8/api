@@ -3844,14 +3844,14 @@
       },
       "Ernakulam": {
         "notes": "",
-        "active": 5,
+        "active": 6,
         "confirmed": 30,
         "deceased": 1,
-        "recovered": 24,
+        "recovered": 23,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 1
+          "recovered": 0
         }
       },
       "Idukki": {
@@ -3928,14 +3928,14 @@
       },
       "Malappuram": {
         "notes": "",
-        "active": 36,
+        "active": 34,
         "confirmed": 60,
         "deceased": 1,
-        "recovered": 23,
+        "recovered": 25,
         "delta": {
           "confirmed": 5,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 2
         }
       },
       "Palakkad": {
@@ -3988,14 +3988,14 @@
       },
       "Wayanad": {
         "notes": "",
-        "active": 10,
+        "active": 11,
         "confirmed": 21,
         "deceased": 0,
-        "recovered": 11,
+        "recovered": 10,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 5
+          "recovered": 4
         }
       }
     },
@@ -8890,24 +8890,24 @@
     "districtData": {
       "Almora": {
         "notes": "",
-        "active": 2,
-        "confirmed": 3,
+        "active": 3,
+        "confirmed": 4,
         "deceased": 0,
         "recovered": 1,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
       },
       "Bageshwar": {
         "notes": "",
-        "active": 2,
-        "confirmed": 2,
+        "active": 16,
+        "confirmed": 16,
         "deceased": 0,
         "recovered": 0,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 14,
           "deceased": 0,
           "recovered": 0
         }
@@ -8950,24 +8950,24 @@
       },
       "Haridwar": {
         "notes": "",
-        "active": 2,
-        "confirmed": 8,
+        "active": 4,
+        "confirmed": 10,
         "deceased": 0,
         "recovered": 6,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 2,
           "deceased": 0,
           "recovered": 0
         }
       },
       "Nainital": {
         "notes": "",
-        "active": 15,
-        "confirmed": 25,
+        "active": 17,
+        "confirmed": 27,
         "deceased": 0,
         "recovered": 10,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 2,
           "deceased": 0,
           "recovered": 0
         }
@@ -9022,32 +9022,32 @@
       },
       "Udham Singh Nagar": {
         "notes": "",
-        "active": 22,
-        "confirmed": 27,
+        "active": 24,
+        "confirmed": 29,
         "deceased": 0,
         "recovered": 5,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 2,
           "deceased": 0,
           "recovered": 0
         }
       },
       "Uttarkashi": {
         "notes": "",
-        "active": 3,
-        "confirmed": 3,
+        "active": 6,
+        "confirmed": 6,
         "deceased": 0,
         "recovered": 0,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 3,
           "deceased": 0,
           "recovered": 0
         }
       },
       "Unknown": {
         "notes": "",
-        "active": 24,
-        "confirmed": 26,
+        "active": 0,
+        "confirmed": 2,
         "deceased": 0,
         "recovered": 2,
         "delta": {
