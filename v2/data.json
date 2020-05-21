@@ -3908,12 +3908,12 @@
       },
       "Banka": {
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "recovered": 0,
           "deceased": 0
         },
         "total": {
-          "confirmed": 51,
+          "confirmed": 52,
           "recovered": 1,
           "deceased": 0
         },
@@ -3925,12 +3925,12 @@
       },
       "Begusarai": {
         "delta": {
-          "confirmed": 0,
+          "confirmed": 8,
           "recovered": 0,
           "deceased": 0
         },
         "total": {
-          "confirmed": 82,
+          "confirmed": 90,
           "recovered": 20,
           "deceased": 0
         },
@@ -4010,12 +4010,12 @@
       },
       "East Champaran": {
         "delta": {
-          "confirmed": 0,
+          "confirmed": 11,
           "recovered": 0,
           "deceased": 0
         },
         "total": {
-          "confirmed": 19,
+          "confirmed": 30,
           "recovered": 9,
           "deceased": 1
         },
@@ -4197,12 +4197,12 @@
       },
       "Madhubani": {
         "delta": {
-          "confirmed": 0,
+          "confirmed": 2,
           "recovered": 0,
           "deceased": 0
         },
         "total": {
-          "confirmed": 79,
+          "confirmed": 81,
           "recovered": 13,
           "deceased": 0
         },
@@ -4282,12 +4282,12 @@
       },
       "Patna": {
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "recovered": 0,
           "deceased": 0
         },
         "total": {
-          "confirmed": 167,
+          "confirmed": 168,
           "recovered": 46,
           "deceased": 2
         },
@@ -4299,12 +4299,12 @@
       },
       "Purnia": {
         "delta": {
-          "confirmed": 5,
+          "confirmed": 6,
           "recovered": 0,
           "deceased": 0
         },
         "total": {
-          "confirmed": 36,
+          "confirmed": 37,
           "recovered": 2,
           "deceased": 0
         },
@@ -4452,12 +4452,12 @@
       },
       "Supaul": {
         "delta": {
-          "confirmed": 0,
+          "confirmed": 2,
           "recovered": 0,
           "deceased": 0
         },
         "total": {
-          "confirmed": 27,
+          "confirmed": 29,
           "recovered": 0,
           "deceased": 0
         },
@@ -4486,12 +4486,12 @@
       },
       "West Champaran": {
         "delta": {
-          "confirmed": 0,
+          "confirmed": 2,
           "recovered": 0,
           "deceased": 0
         },
         "total": {
-          "confirmed": 25,
+          "confirmed": 27,
           "recovered": 11,
           "deceased": 0
         },
@@ -4503,7 +4503,7 @@
       }
     },
     "total": {
-      "confirmed": 1703,
+      "confirmed": 1731,
       "recovered": 571,
       "deceased": 9,
       "tested": {
@@ -4513,12 +4513,12 @@
       }
     },
     "delta": {
-      "confirmed": 96,
+      "confirmed": 124,
       "recovered": 0,
       "deceased": 0
     },
     "notes": "",
-    "last_updated": "2020-05-21T15:13:24+05:30"
+    "last_updated": "2020-05-21T17:51:24+05:30"
   },
   "CH": {
     "timeseries": {
@@ -5035,7 +5035,7 @@
       "2020-05-18": {
         "tested": {
           "samples": 2892,
-          "source": "https://t.me/Covid19india_Auxiliary_Test_Data"
+          "source": "https://t.me/Covid19india_Auxiliary_Test_Data/47"
         },
         "confirmed": 5,
         "recovered": 3,
@@ -5077,22 +5077,22 @@
       }
     },
     "total": {
-      "confirmed": 202,
+      "confirmed": 216,
       "recovered": 136,
       "deceased": 3,
       "tested": {
-        "samples": 3031,
-        "source": "https://t.me/indiacovid/5098",
-        "last_updated": "2020-05-19"
+        "samples": 3369,
+        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/89",
+        "last_updated": "2020-05-21"
       }
     },
     "delta": {
-      "confirmed": 0,
+      "confirmed": 14,
       "recovered": 0,
       "deceased": 0
     },
     "notes": "",
-    "last_updated": "2020-05-20T20:40:31+05:30"
+    "last_updated": "2020-05-21T17:51:25+05:30"
   },
   "CT": {
     "timeseries": {
@@ -32304,7 +32304,7 @@
     },
     "districts": null,
     "total": {
-      "confirmed": 113345,
+      "confirmed": 113387,
       "recovered": 45908,
       "deceased": 3456,
       "tested": {
@@ -32314,11 +32314,11 @@
       }
     },
     "delta": {
-      "confirmed": 1317,
+      "confirmed": 1359,
       "recovered": 486,
       "deceased": 22
     },
     "notes": "",
-    "last_updated": "2020-05-21T17:38:23+05:30"
+    "last_updated": "2020-05-21T17:51:23+05:30"
   }
 }
