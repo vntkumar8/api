@@ -13162,12 +13162,12 @@
       "Bagalkote": {
         "delta": {
           "confirmed": 0,
-          "recovered": 0,
+          "recovered": 6,
           "deceased": 0
         },
         "total": {
           "confirmed": 76,
-          "recovered": 39,
+          "recovered": 45,
           "deceased": 1
         },
         "zone": {
@@ -13332,12 +13332,12 @@
       "Dakshina Kannada": {
         "delta": {
           "confirmed": 0,
-          "recovered": 0,
+          "recovered": 3,
           "deceased": 0
         },
         "total": {
           "confirmed": 49,
-          "recovered": 11,
+          "recovered": 14,
           "deceased": 5
         },
         "zone": {
@@ -13349,12 +13349,12 @@
       "Davanagere": {
         "delta": {
           "confirmed": 0,
-          "recovered": 0,
+          "recovered": 5,
           "deceased": 0
         },
         "total": {
           "confirmed": 110,
-          "recovered": 9,
+          "recovered": 14,
           "deceased": 4
         },
         "zone": {
@@ -13686,7 +13686,7 @@
       "deceased": 0
     },
     "notes": "One active case in KA reduced as a confirmed patient died of non-CoViD19 related reasons",
-    "last_updated": "2020-05-21T14:41:25+05:30"
+    "last_updated": "2020-05-21T14:44:24+05:30"
   },
   "KL": {
     "timeseries": {
@@ -16632,9 +16632,9 @@
       "recovered": 10318,
       "deceased": 1390,
       "tested": {
-        "samples": 307535,
-        "source": "https://twitter.com/Maha_MEDD/status/1262980258887843840?s=19",
-        "last_updated": "2020-05-20"
+        "samples": 319921,
+        "source": "https://twitter.com/Maha_MEDD/status/1263345679897776130?s=19",
+        "last_updated": "2020-05-21"
       }
     },
     "delta": {
@@ -32319,6 +32319,6 @@
       "deceased": 4
     },
     "notes": "",
-    "last_updated": "2020-05-21T14:41:23+05:30"
+    "last_updated": "2020-05-21T14:44:23+05:30"
   }
 }
