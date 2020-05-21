@@ -71,14 +71,14 @@
 			"statecode": "CT"
 		},
 		{
-			"region": "Dadra and Nagar Haveli",
+			"region": "Dadra and Nagar Haveli and Daman and Diu",
 			"source1": "https://twitter.com/CollectorDnh/",
 			"source2": "",
 			"source3": "",
 			"source4": "",
 			"source5": "",
 			"source6": "",
-			"statecode": "#N/A"
+			"statecode": "DN"
 		},
 		{
 			"region": "Delhi",
@@ -349,6 +349,16 @@
 			"source5": "",
 			"source6": "",
 			"statecode": "WB"
+		},
+		{
+			"region": "State Unassigned",
+			"source1": "mohfw.gov.in",
+			"source2": "",
+			"source3": "",
+			"source4": "",
+			"source5": "",
+			"source6": "",
+			"statecode": "UN"
 		}
 	]
 }
