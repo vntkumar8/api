@@ -1771,7 +1771,7 @@
       "2020-05-20": {
         "tested": {
           "samples": 4157,
-          "source": "http://covid19.itanagarsmartcity.in/callstatus.php"
+          "source": "http://covid19.itanagarsmartcity.in/covidstatus.php"
         },
         "confirmed": 0,
         "recovered": 0,
@@ -2211,7 +2211,7 @@
       "deceased": 0,
       "tested": {
         "samples": 4157,
-        "source": "http://covid19.itanagarsmartcity.in/callstatus.php",
+        "source": "http://covid19.itanagarsmartcity.in/covidstatus.php",
         "last_updated": "2020-05-20"
       }
     },
