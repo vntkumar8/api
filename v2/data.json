@@ -3309,7 +3309,7 @@
       "deceased": 0
     },
     "notes": "Includes one case from Nagaland <br>\nTotal of Three* patients who migrated to other states has been reduced from Active count",
-    "last_updated": "2020-05-21T20:40:26+05:30"
+    "last_updated": "2020-05-21T20:51:28+05:30"
   },
   "BR": {
     "timeseries": {
@@ -12221,12 +12221,12 @@
     "districts": {
       "Anantnag": {
         "delta": {
-          "confirmed": 0,
+          "confirmed": 12,
           "recovered": 0,
           "deceased": 0
         },
         "total": {
-          "confirmed": 252,
+          "confirmed": 264,
           "recovered": 89,
           "deceased": 4
         },
@@ -12272,14 +12272,14 @@
       },
       "Budgam": {
         "delta": {
-          "confirmed": 0,
+          "confirmed": 4,
           "recovered": 0,
-          "deceased": 0
+          "deceased": 1
         },
         "total": {
-          "confirmed": 59,
+          "confirmed": 63,
           "recovered": 30,
-          "deceased": 1
+          "deceased": 2
         },
         "zone": {
           "status": "Red",
@@ -12306,12 +12306,12 @@
       },
       "Ganderbal": {
         "delta": {
-          "confirmed": 0,
+          "confirmed": 2,
           "recovered": 0,
           "deceased": 0
         },
         "total": {
-          "confirmed": 25,
+          "confirmed": 27,
           "recovered": 15,
           "deceased": 0
         },
@@ -12323,12 +12323,12 @@
       },
       "Jammu": {
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "recovered": 0,
           "deceased": 0
         },
         "total": {
-          "confirmed": 67,
+          "confirmed": 68,
           "recovered": 31,
           "deceased": 1
         },
@@ -12340,13 +12340,13 @@
       },
       "Kathua": {
         "delta": {
-          "confirmed": 0,
-          "recovered": 0,
+          "confirmed": 3,
+          "recovered": 3,
           "deceased": 0
         },
         "total": {
-          "confirmed": 37,
-          "recovered": 1,
+          "confirmed": 40,
+          "recovered": 4,
           "deceased": 0
         },
         "zone": {
@@ -12357,12 +12357,12 @@
       },
       "Kishtwar": {
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "recovered": 0,
           "deceased": 0
         },
         "total": {
-          "confirmed": 5,
+          "confirmed": 6,
           "recovered": 1,
           "deceased": 0
         },
@@ -12374,12 +12374,12 @@
       },
       "Kulgam": {
         "delta": {
-          "confirmed": 0,
+          "confirmed": 21,
           "recovered": 0,
           "deceased": 0
         },
         "total": {
-          "confirmed": 171,
+          "confirmed": 192,
           "recovered": 10,
           "deceased": 1
         },
@@ -12391,12 +12391,12 @@
       },
       "Kupwara": {
         "delta": {
-          "confirmed": 0,
+          "confirmed": 7,
           "recovered": 0,
           "deceased": 0
         },
         "total": {
-          "confirmed": 118,
+          "confirmed": 125,
           "recovered": 48,
           "deceased": 0
         },
@@ -12443,12 +12443,12 @@
       "Pulwama": {
         "delta": {
           "confirmed": 0,
-          "recovered": 0,
+          "recovered": 3,
           "deceased": 0
         },
         "total": {
           "confirmed": 19,
-          "recovered": 6,
+          "recovered": 9,
           "deceased": 0
         },
         "zone": {
@@ -12493,12 +12493,12 @@
       },
       "Ramban": {
         "delta": {
-          "confirmed": 0,
+          "confirmed": 3,
           "recovered": 0,
           "deceased": 0
         },
         "total": {
-          "confirmed": 27,
+          "confirmed": 30,
           "recovered": 1,
           "deceased": 0
         },
@@ -12561,14 +12561,14 @@
       },
       "Srinagar": {
         "delta": {
-          "confirmed": 0,
+          "confirmed": 5,
           "recovered": 0,
-          "deceased": 0
+          "deceased": 1
         },
         "total": {
-          "confirmed": 168,
+          "confirmed": 173,
           "recovered": 97,
-          "deceased": 5
+          "deceased": 6
         },
         "zone": {
           "status": "Red",
@@ -12595,9 +12595,9 @@
       }
     },
     "total": {
-      "confirmed": 1390,
-      "recovered": 678,
-      "deceased": 18,
+      "confirmed": 1449,
+      "recovered": 684,
+      "deceased": 20,
       "tested": {
         "samples": 101950,
         "source": "https://twitter.com/diprjk/status/1263120357734649862?s=19",
@@ -12605,12 +12605,12 @@
       }
     },
     "delta": {
-      "confirmed": 0,
-      "recovered": 0,
-      "deceased": 0
+      "confirmed": 59,
+      "recovered": 6,
+      "deceased": 2
     },
     "notes": "",
-    "last_updated": "2020-05-20T20:40:29+05:30"
+    "last_updated": "2020-05-21T20:51:26+05:30"
   },
   "KA": {
     "timeseries": {
@@ -19528,7 +19528,7 @@
       "deceased": 4
     },
     "notes": "",
-    "last_updated": "2020-05-21T20:40:25+05:30"
+    "last_updated": "2020-05-21T20:51:24+05:30"
   },
   "MZ": {
     "timeseries": {
@@ -32304,9 +32304,9 @@
     },
     "districts": null,
     "total": {
-      "confirmed": 115277,
-      "recovered": 46840,
-      "deceased": 3493,
+      "confirmed": 115336,
+      "recovered": 46846,
+      "deceased": 3495,
       "tested": {
         "samples": 2615920,
         "source": "https://www.icmr.gov.in/pdf/covid/update/ICMR_testing_update_21May2020_9AM_IST.pdf",
@@ -32314,11 +32314,11 @@
       }
     },
     "delta": {
-      "confirmed": 3080,
-      "recovered": 1418,
-      "deceased": 59
+      "confirmed": 3139,
+      "recovered": 1424,
+      "deceased": 61
     },
     "notes": "",
-    "last_updated": "2020-05-21T20:40:23+05:30"
+    "last_updated": "2020-05-21T20:51:23+05:30"
   }
 }
