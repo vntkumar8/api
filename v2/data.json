@@ -4596,7 +4596,7 @@
       "deceased": 2
     },
     "notes": "",
-    "last_updated": "2020-05-23T00:11:27+05:30"
+    "last_updated": "2020-05-23T00:23:27+05:30"
   },
   "CH": {
     "timeseries": {
@@ -5719,20 +5719,20 @@
       },
       "2020-05-22": {
         "tested": null,
-        "confirmed": 4,
-        "recovered": 0,
+        "confirmed": 44,
+        "recovered": 3,
         "deceased": 0
       }
     },
     "districts": {
       "Balod": {
         "delta": {
-          "confirmed": 0,
+          "confirmed": 4,
           "recovered": 0,
           "deceased": 0
         },
         "total": {
-          "confirmed": 14,
+          "confirmed": 18,
           "recovered": 0,
           "deceased": 0
         },
@@ -5744,12 +5744,12 @@
       },
       "Baloda Bazar": {
         "delta": {
-          "confirmed": 0,
+          "confirmed": 4,
           "recovered": 0,
           "deceased": 0
         },
         "total": {
-          "confirmed": 8,
+          "confirmed": 12,
           "recovered": 0,
           "deceased": 0
         },
@@ -5761,12 +5761,12 @@
       },
       "Balrampur": {
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "recovered": 0,
           "deceased": 0
         },
         "total": {
-          "confirmed": 0,
+          "confirmed": 1,
           "recovered": 0,
           "deceased": 0
         },
@@ -5778,12 +5778,12 @@
       },
       "Bametara": {
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "recovered": 0,
           "deceased": 0
         },
         "total": {
-          "confirmed": 0,
+          "confirmed": 1,
           "recovered": 0,
           "deceased": 0
         },
@@ -5829,12 +5829,12 @@
       },
       "Bilaspur": {
         "delta": {
-          "confirmed": 2,
+          "confirmed": 3,
           "recovered": 0,
           "deceased": 0
         },
         "total": {
-          "confirmed": 10,
+          "confirmed": 11,
           "recovered": 1,
           "deceased": 0
         },
@@ -5880,12 +5880,12 @@
       },
       "Durg": {
         "delta": {
-          "confirmed": 0,
+          "confirmed": 2,
           "recovered": 0,
           "deceased": 0
         },
         "total": {
-          "confirmed": 10,
+          "confirmed": 12,
           "recovered": 10,
           "deceased": 0
         },
@@ -5897,12 +5897,12 @@
       },
       "Gariaband": {
         "delta": {
-          "confirmed": 0,
+          "confirmed": 3,
           "recovered": 0,
           "deceased": 0
         },
         "total": {
-          "confirmed": 1,
+          "confirmed": 4,
           "recovered": 0,
           "deceased": 0
         },
@@ -5914,13 +5914,13 @@
       },
       "Janjgir Champa": {
         "delta": {
-          "confirmed": 0,
-          "recovered": 0,
+          "confirmed": 1,
+          "recovered": 3,
           "deceased": 0
         },
         "total": {
-          "confirmed": 14,
-          "recovered": 0,
+          "confirmed": 15,
+          "recovered": 3,
           "deceased": 0
         },
         "zone": {
@@ -5948,12 +5948,12 @@
       },
       "Kabeerdham": {
         "delta": {
-          "confirmed": 0,
+          "confirmed": 5,
           "recovered": 0,
           "deceased": 0
         },
         "total": {
-          "confirmed": 8,
+          "confirmed": 13,
           "recovered": 6,
           "deceased": 0
         },
@@ -5982,12 +5982,12 @@
       },
       "Korba": {
         "delta": {
-          "confirmed": 0,
+          "confirmed": 12,
           "recovered": 0,
           "deceased": 0
         },
         "total": {
-          "confirmed": 29,
+          "confirmed": 41,
           "recovered": 28,
           "deceased": 0
         },
@@ -6101,12 +6101,12 @@
       },
       "Rajnandgaon": {
         "delta": {
-          "confirmed": 0,
+          "confirmed": 2,
           "recovered": 0,
           "deceased": 0
         },
         "total": {
-          "confirmed": 10,
+          "confirmed": 12,
           "recovered": 1,
           "deceased": 0
         },
@@ -6169,12 +6169,12 @@
       },
       "Uttar Bastar Kanker": {
         "delta": {
-          "confirmed": 0,
+          "confirmed": 4,
           "recovered": 0,
           "deceased": 0
         },
         "total": {
-          "confirmed": 1,
+          "confirmed": 5,
           "recovered": 0,
           "deceased": 0
         },
@@ -6186,8 +6186,8 @@
       }
     },
     "total": {
-      "confirmed": 132,
-      "recovered": 59,
+      "confirmed": 172,
+      "recovered": 62,
       "deceased": 0,
       "tested": {
         "samples": 45522,
@@ -6196,12 +6196,12 @@
       }
     },
     "delta": {
-      "confirmed": 4,
-      "recovered": 0,
+      "confirmed": 44,
+      "recovered": 3,
       "deceased": 0
     },
     "notes": "",
-    "last_updated": "2020-05-22T08:19:29+05:30"
+    "last_updated": "2020-05-23T00:35:26+05:30"
   },
   "DL": {
     "timeseries": {
@@ -10939,7 +10939,7 @@
       "deceased": 2
     },
     "notes": "",
-    "last_updated": "2020-05-23T00:11:28+05:30"
+    "last_updated": "2020-05-23T00:23:28+05:30"
   },
   "JH": {
     "timeseries": {
@@ -15321,7 +15321,7 @@
       "deceased": 0
     },
     "notes": "",
-    "last_updated": "2020-05-23T00:11:30+05:30"
+    "last_updated": "2020-05-23T00:23:32+05:30"
   },
   "LD": {
     "timeseries": {
@@ -24065,7 +24065,7 @@
       "deceased": 0
     },
     "notes": "",
-    "last_updated": "2020-05-23T00:11:32+05:30"
+    "last_updated": "2020-05-23T00:23:33+05:30"
   },
   "RJ": {
     "timeseries": {
@@ -24626,8 +24626,8 @@
           "samples": 287164,
           "source": "https://t.me/indiacovid/5349"
         },
-        "confirmed": 262,
-        "recovered": 185,
+        "confirmed": 267,
+        "recovered": 195,
         "deceased": 2
       }
     },
@@ -24635,12 +24635,12 @@
       "Ajmer": {
         "delta": {
           "confirmed": 6,
-          "recovered": 0,
+          "recovered": 3,
           "deceased": 0
         },
         "total": {
           "confirmed": 279,
-          "recovered": 228,
+          "recovered": 231,
           "deceased": 5
         },
         "zone": {
@@ -24737,12 +24737,12 @@
       "Bhilwara": {
         "delta": {
           "confirmed": 7,
-          "recovered": 0,
+          "recovered": 7,
           "deceased": 0
         },
         "total": {
           "confirmed": 99,
-          "recovered": 43,
+          "recovered": 50,
           "deceased": 2
         },
         "zone": {
@@ -24804,12 +24804,12 @@
       },
       "Churu": {
         "delta": {
-          "confirmed": 0,
+          "confirmed": 4,
           "recovered": 12,
           "deceased": 0
         },
         "total": {
-          "confirmed": 60,
+          "confirmed": 64,
           "recovered": 26,
           "deceased": 1
         },
@@ -25195,8 +25195,8 @@
       }
     },
     "total": {
-      "confirmed": 6489,
-      "recovered": 3670,
+      "confirmed": 6494,
+      "recovered": 3680,
       "deceased": 153,
       "tested": {
         "samples": 287164,
@@ -25205,12 +25205,12 @@
       }
     },
     "delta": {
-      "confirmed": 262,
-      "recovered": 185,
+      "confirmed": 267,
+      "recovered": 195,
       "deceased": 2
     },
     "notes": "",
-    "last_updated": "2020-05-22T23:08:24+05:30"
+    "last_updated": "2020-05-23T00:35:24+05:30"
   },
   "SK": {
     "timeseries": {
@@ -30511,7 +30511,7 @@
       "deceased": 14
     },
     "notes": "",
-    "last_updated": "2020-05-23T00:11:25+05:30"
+    "last_updated": "2020-05-23T00:23:25+05:30"
   },
   "UT": {
     "timeseries": {
@@ -32903,15 +32903,15 @@
           "samples": 2719434,
           "source": "https://t.me/Covid19india_Auxiliary_Test_Data/99"
         },
-        "confirmed": 6523,
-        "recovered": 3254,
+        "confirmed": 6568,
+        "recovered": 3267,
         "deceased": 142
       }
     },
     "districts": null,
     "total": {
-      "confirmed": 124747,
-      "recovered": 51807,
+      "confirmed": 124792,
+      "recovered": 51820,
       "deceased": 3726,
       "tested": {
         "samples": 2719434,
@@ -32920,11 +32920,11 @@
       }
     },
     "delta": {
-      "confirmed": 6523,
-      "recovered": 3254,
+      "confirmed": 6568,
+      "recovered": 3267,
       "deceased": 142
     },
     "notes": "",
-    "last_updated": "2020-05-23T00:11:24+05:30"
+    "last_updated": "2020-05-23T00:35:23+05:30"
   }
 }

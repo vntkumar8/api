@@ -1018,25 +1018,25 @@
 			"totalrecovered": "48553"
 		},
 		{
-			"dailyconfirmed": "6523",
+			"dailyconfirmed": "6568",
 			"dailydeceased": "142",
-			"dailyrecovered": "3254",
+			"dailyrecovered": "3267",
 			"date": "22 May ",
-			"totalconfirmed": "124746",
+			"totalconfirmed": "124791",
 			"totaldeceased": "3725",
-			"totalrecovered": "51807"
+			"totalrecovered": "51820"
 		}
 	],
 	"statewise": [
 		{
-			"active": "69207",
-			"confirmed": "124747",
+			"active": "69239",
+			"confirmed": "124792",
 			"deaths": "3726",
-			"deltaconfirmed": "6523",
+			"deltaconfirmed": "6568",
 			"deltadeaths": "142",
-			"deltarecovered": "3254",
-			"lastupdatedtime": "23/05/2020 00:11:24",
-			"recovered": "51807",
+			"deltarecovered": "3267",
+			"lastupdatedtime": "23/05/2020 00:35:23",
+			"recovered": "51820",
 			"state": "Total",
 			"statecode": "TT",
 			"statenotes": ""
@@ -1094,14 +1094,14 @@
 			"statenotes": "[10-May]<br>\n\nDelhi will be releasing bulletins in the morning, containing data of the previous day. We will add that data to the date on which the report is released, rather than the previous day."
 		},
 		{
-			"active": "2666",
-			"confirmed": "6489",
+			"active": "2661",
+			"confirmed": "6494",
 			"deaths": "153",
-			"deltaconfirmed": "262",
+			"deltaconfirmed": "267",
 			"deltadeaths": "2",
-			"deltarecovered": "185",
-			"lastupdatedtime": "22/05/2020 23:08:24",
-			"recovered": "3670",
+			"deltarecovered": "195",
+			"lastupdatedtime": "23/05/2020 00:35:24",
+			"recovered": "3680",
 			"state": "Rajasthan",
 			"statecode": "RJ",
 			"statenotes": ""
@@ -1126,7 +1126,7 @@
 			"deltaconfirmed": "220",
 			"deltadeaths": "14",
 			"deltarecovered": "120",
-			"lastupdatedtime": "23/05/2020 00:11:25",
+			"lastupdatedtime": "23/05/2020 00:23:25",
 			"recovered": "3324",
 			"state": "Uttar Pradesh",
 			"statecode": "UP",
@@ -1159,6 +1159,19 @@
 			"statenotes": "Total includes patients from other states."
 		},
 		{
+			"active": "1526",
+			"confirmed": "2166",
+			"deaths": "11",
+			"deltaconfirmed": "179",
+			"deltadeaths": "2",
+			"deltarecovered": "58",
+			"lastupdatedtime": "23/05/2020 00:23:27",
+			"recovered": "629",
+			"state": "Bihar",
+			"statecode": "BR",
+			"statenotes": ""
+		},
+		{
 			"active": "143",
 			"confirmed": "2029",
 			"deaths": "39",
@@ -1170,19 +1183,6 @@
 			"state": "Punjab",
 			"statecode": "PB",
 			"statenotes": "Cases in Punjab were effectively reduced as some cases were added to 'central pool' as per the bulletin"
-		},
-		{
-			"active": "1526",
-			"confirmed": "2166",
-			"deaths": "11",
-			"deltaconfirmed": "179",
-			"deltadeaths": "2",
-			"deltarecovered": "58",
-			"lastupdatedtime": "23/05/2020 00:11:27",
-			"recovered": "629",
-			"state": "Bihar",
-			"statecode": "BR",
-			"statenotes": ""
 		},
 		{
 			"active": "670",
@@ -1211,19 +1211,6 @@
 			"statenotes": "One active case in KA reduced as a confirmed patient died of non-CoViD19 related reasons"
 		},
 		{
-			"active": "749",
-			"confirmed": "1489",
-			"deaths": "20",
-			"deltaconfirmed": "40",
-			"deltadeaths": "0",
-			"deltarecovered": "36",
-			"lastupdatedtime": "22/05/2020 20:32:27",
-			"recovered": "720",
-			"state": "Jammu and Kashmir",
-			"statecode": "JK",
-			"statenotes": ""
-		},
-		{
 			"active": "1620",
 			"confirmed": "1620",
 			"deaths": "0",
@@ -1235,6 +1222,19 @@
 			"state": "State Unassigned",
 			"statecode": "UN",
 			"statenotes": "MoHFW reports that these cases are being reassigned to states"
+		},
+		{
+			"active": "749",
+			"confirmed": "1489",
+			"deaths": "20",
+			"deltaconfirmed": "40",
+			"deltadeaths": "0",
+			"deltarecovered": "36",
+			"lastupdatedtime": "22/05/2020 20:32:27",
+			"recovered": "720",
+			"state": "Jammu and Kashmir",
+			"statecode": "JK",
+			"statenotes": ""
 		},
 		{
 			"active": "746",
@@ -1256,7 +1256,7 @@
 			"deltaconfirmed": "37",
 			"deltadeaths": "2",
 			"deltarecovered": "25",
-			"lastupdatedtime": "23/05/2020 00:11:28",
+			"lastupdatedtime": "23/05/2020 00:23:28",
 			"recovered": "706",
 			"state": "Haryana",
 			"statecode": "HR",
@@ -1289,19 +1289,6 @@
 			"statenotes": ""
 		},
 		{
-			"active": "38",
-			"confirmed": "219",
-			"deaths": "3",
-			"deltaconfirmed": "1",
-			"deltadeaths": "0",
-			"deltarecovered": "0",
-			"lastupdatedtime": "22/05/2020 20:12:32",
-			"recovered": "178",
-			"state": "Chandigarh",
-			"statecode": "CH",
-			"statenotes": ""
-		},
-		{
 			"active": "196",
 			"confirmed": "258",
 			"deaths": "4",
@@ -1313,6 +1300,19 @@
 			"state": "Assam",
 			"statecode": "AS",
 			"statenotes": "Includes one case from Nagaland <br>\nTotal of Three* patients who migrated to other states has been reduced from Active count"
+		},
+		{
+			"active": "38",
+			"confirmed": "219",
+			"deaths": "3",
+			"deltaconfirmed": "1",
+			"deltadeaths": "0",
+			"deltarecovered": "0",
+			"lastupdatedtime": "22/05/2020 20:12:32",
+			"recovered": "178",
+			"state": "Chandigarh",
+			"statecode": "CH",
+			"statenotes": ""
 		},
 		{
 			"active": "27",
@@ -1328,16 +1328,16 @@
 			"statenotes": "Two cases are migrated out of Tripura."
 		},
 		{
-			"active": "99",
-			"confirmed": "153",
-			"deaths": "1",
-			"deltaconfirmed": "8",
+			"active": "110",
+			"confirmed": "172",
+			"deaths": "0",
+			"deltaconfirmed": "44",
 			"deltadeaths": "0",
-			"deltarecovered": "0",
-			"lastupdatedtime": "22/05/2020 23:08:31",
-			"recovered": "53",
-			"state": "Uttarakhand",
-			"statecode": "UT",
+			"deltarecovered": "3",
+			"lastupdatedtime": "23/05/2020 00:35:26",
+			"recovered": "62",
+			"state": "Chhattisgarh",
+			"statecode": "CT",
 			"statenotes": ""
 		},
 		{
@@ -1354,16 +1354,16 @@
 			"statenotes": "HP has 4 Migrated cases which are reduced from Active #. Also, death of Tibetan refugee is included in deceased numbers, but not in confirmed"
 		},
 		{
-			"active": "73",
-			"confirmed": "132",
-			"deaths": "0",
-			"deltaconfirmed": "4",
+			"active": "99",
+			"confirmed": "153",
+			"deaths": "1",
+			"deltaconfirmed": "8",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
-			"lastupdatedtime": "22/05/2020 08:19:29",
-			"recovered": "59",
-			"state": "Chhattisgarh",
-			"statecode": "CT",
+			"lastupdatedtime": "22/05/2020 23:08:31",
+			"recovered": "53",
+			"state": "Uttarakhand",
+			"statecode": "UT",
 			"statenotes": ""
 		},
 		{
@@ -1386,7 +1386,7 @@
 			"deltaconfirmed": "2",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
-			"lastupdatedtime": "23/05/2020 00:11:30",
+			"lastupdatedtime": "23/05/2020 00:23:32",
 			"recovered": "43",
 			"state": "Ladakh",
 			"statecode": "LA",
@@ -1425,7 +1425,7 @@
 			"deltaconfirmed": "3",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
-			"lastupdatedtime": "23/05/2020 00:11:32",
+			"lastupdatedtime": "23/05/2020 00:23:33",
 			"recovered": "10",
 			"state": "Puducherry",
 			"statecode": "PY",
