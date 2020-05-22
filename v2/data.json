@@ -13299,12 +13299,12 @@
     "districts": {
       "Bagalkote": {
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "recovered": 2,
           "deceased": 0
         },
         "total": {
-          "confirmed": 76,
+          "confirmed": 77,
           "recovered": 47,
           "deceased": 1
         },
@@ -13503,12 +13503,12 @@
       },
       "Dharwad": {
         "delta": {
-          "confirmed": 0,
+          "confirmed": 2,
           "recovered": 0,
           "deceased": 0
         },
         "total": {
-          "confirmed": 31,
+          "confirmed": 33,
           "recovered": 9,
           "deceased": 0
         },
@@ -13824,7 +13824,7 @@
       "deceased": 0
     },
     "notes": "One active case in KA reduced as a confirmed patient died of non-CoViD19 related reasons",
-    "last_updated": "2020-05-22T18:41:26+05:30"
+    "last_updated": "2020-05-22T18:47:26+05:30"
   },
   "KL": {
     "timeseries": {
@@ -14652,7 +14652,7 @@
       "deceased": 1
     },
     "notes": "Mahe native who expired in Kannur included in Kerala's tally",
-    "last_updated": "2020-05-22T18:41:28+05:30"
+    "last_updated": "2020-05-22T18:47:30+05:30"
   },
   "LA": {
     "timeseries": {
@@ -32634,6 +32634,6 @@
       "deceased": 21
     },
     "notes": "",
-    "last_updated": "2020-05-22T18:41:23+05:30"
+    "last_updated": "2020-05-22T18:47:23+05:30"
   }
 }
