@@ -31591,7 +31591,10 @@
         "deceased": 3
       },
       "2020-05-21": {
-        "tested": null,
+        "tested": {
+          "samples": 115244,
+          "source": "https://twitter.com/wbdhfw/status/1263497291618570246?s=09"
+        },
         "confirmed": 94,
         "recovered": 57,
         "deceased": 6
@@ -31995,9 +31998,9 @@
       "recovered": 1193,
       "deceased": 259,
       "tested": {
-        "samples": 111002,
-        "source": "https://www.wbhealth.gov.in/uploaded_files/corona/WB_DHFW_Bulletin_20th_MAY_REPORT_FINAL.pdf",
-        "last_updated": "2020-05-20"
+        "samples": 115244,
+        "source": "https://twitter.com/wbdhfw/status/1263497291618570246?s=09",
+        "last_updated": "2020-05-21"
       }
     },
     "delta": {
