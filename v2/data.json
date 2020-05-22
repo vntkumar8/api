@@ -2785,7 +2785,7 @@
       },
       "2020-05-22": {
         "tested": null,
-        "confirmed": 47,
+        "confirmed": 49,
         "recovered": 0,
         "deceased": 0
       }
@@ -3354,7 +3354,7 @@
       }
     },
     "total": {
-      "confirmed": 258,
+      "confirmed": 260,
       "recovered": 55,
       "deceased": 4,
       "tested": {
@@ -3364,12 +3364,12 @@
       }
     },
     "delta": {
-      "confirmed": 47,
+      "confirmed": 49,
       "recovered": 0,
       "deceased": 0
     },
     "notes": "Includes one case from Nagaland <br>\nTotal of Three* patients who migrated to other states has been reduced from Active count",
-    "last_updated": "2020-05-22T23:08:30+05:30"
+    "last_updated": "2020-05-23T00:49:25+05:30"
   },
   "BR": {
     "timeseries": {
@@ -6201,7 +6201,7 @@
       "deceased": 0
     },
     "notes": "",
-    "last_updated": "2020-05-23T00:35:26+05:30"
+    "last_updated": "2020-05-23T00:48:28+05:30"
   },
   "DL": {
     "timeseries": {
@@ -14523,7 +14523,7 @@
       },
       "2020-05-22": {
         "tested": {
-          "samples": 51310,
+          "samples": 58382,
           "source": "https://dashboard.kerala.gov.in/quarantined-datewise.php"
         },
         "confirmed": 42,
@@ -14776,7 +14776,7 @@
       "recovered": 512,
       "deceased": 5,
       "tested": {
-        "samples": 51310,
+        "samples": 58382,
         "source": "https://dashboard.kerala.gov.in/quarantined-datewise.php",
         "last_updated": "2020-05-22"
       }
@@ -25210,7 +25210,7 @@
       "deceased": 2
     },
     "notes": "",
-    "last_updated": "2020-05-23T00:35:24+05:30"
+    "last_updated": "2020-05-23T00:48:24+05:30"
   },
   "SK": {
     "timeseries": {
@@ -28500,7 +28500,7 @@
           "source": "https://t.me/Covid19india_Auxiliary_Test_Data/106"
         },
         "confirmed": 0,
-        "recovered": 0,
+        "recovered": 4,
         "deceased": 0
       }
     },
@@ -28508,12 +28508,12 @@
       "Dhalai": {
         "delta": {
           "confirmed": 0,
-          "recovered": 0,
+          "recovered": 4,
           "deceased": 0
         },
         "total": {
           "confirmed": 162,
-          "recovered": 146,
+          "recovered": 150,
           "deceased": 0
         },
         "zone": {
@@ -28644,7 +28644,7 @@
     },
     "total": {
       "confirmed": 175,
-      "recovered": 148,
+      "recovered": 152,
       "deceased": 0,
       "tested": {
         "samples": 17721,
@@ -28654,11 +28654,11 @@
     },
     "delta": {
       "confirmed": 0,
-      "recovered": 0,
+      "recovered": 4,
       "deceased": 0
     },
     "notes": "Two cases are migrated out of Tripura.",
-    "last_updated": "2020-05-22T00:13:27+05:30"
+    "last_updated": "2020-05-23T00:49:26+05:30"
   },
   "UP": {
     "timeseries": {
@@ -32903,15 +32903,15 @@
           "samples": 2719434,
           "source": "https://t.me/Covid19india_Auxiliary_Test_Data/99"
         },
-        "confirmed": 6568,
-        "recovered": 3267,
+        "confirmed": 6570,
+        "recovered": 3271,
         "deceased": 142
       }
     },
     "districts": null,
     "total": {
-      "confirmed": 124792,
-      "recovered": 51820,
+      "confirmed": 124794,
+      "recovered": 51824,
       "deceased": 3726,
       "tested": {
         "samples": 2719434,
@@ -32920,11 +32920,11 @@
       }
     },
     "delta": {
-      "confirmed": 6568,
-      "recovered": 3267,
+      "confirmed": 6570,
+      "recovered": 3271,
       "deceased": 142
     },
     "notes": "",
-    "last_updated": "2020-05-23T00:35:23+05:30"
+    "last_updated": "2020-05-23T00:49:23+05:30"
   }
 }

@@ -1018,25 +1018,25 @@
 			"totalrecovered": "48553"
 		},
 		{
-			"dailyconfirmed": "6568",
+			"dailyconfirmed": "6570",
 			"dailydeceased": "142",
-			"dailyrecovered": "3267",
+			"dailyrecovered": "3271",
 			"date": "22 May ",
-			"totalconfirmed": "124791",
+			"totalconfirmed": "124793",
 			"totaldeceased": "3725",
-			"totalrecovered": "51820"
+			"totalrecovered": "51824"
 		}
 	],
 	"statewise": [
 		{
-			"active": "69239",
-			"confirmed": "124792",
+			"active": "69237",
+			"confirmed": "124794",
 			"deaths": "3726",
-			"deltaconfirmed": "6568",
+			"deltaconfirmed": "6570",
 			"deltadeaths": "142",
-			"deltarecovered": "3267",
-			"lastupdatedtime": "23/05/2020 00:35:23",
-			"recovered": "51820",
+			"deltarecovered": "3271",
+			"lastupdatedtime": "23/05/2020 00:49:23",
+			"recovered": "51824",
 			"state": "Total",
 			"statecode": "TT",
 			"statenotes": ""
@@ -1100,7 +1100,7 @@
 			"deltaconfirmed": "267",
 			"deltadeaths": "2",
 			"deltarecovered": "195",
-			"lastupdatedtime": "23/05/2020 00:35:24",
+			"lastupdatedtime": "23/05/2020 00:48:24",
 			"recovered": "3680",
 			"state": "Rajasthan",
 			"statecode": "RJ",
@@ -1289,13 +1289,13 @@
 			"statenotes": ""
 		},
 		{
-			"active": "196",
-			"confirmed": "258",
+			"active": "198",
+			"confirmed": "260",
 			"deaths": "4",
-			"deltaconfirmed": "47",
+			"deltaconfirmed": "49",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
-			"lastupdatedtime": "22/05/2020 23:08:30",
+			"lastupdatedtime": "23/05/2020 00:49:25",
 			"recovered": "55",
 			"state": "Assam",
 			"statecode": "AS",
@@ -1315,14 +1315,14 @@
 			"statenotes": ""
 		},
 		{
-			"active": "27",
+			"active": "23",
 			"confirmed": "175",
 			"deaths": "0",
 			"deltaconfirmed": "0",
 			"deltadeaths": "0",
-			"deltarecovered": "0",
-			"lastupdatedtime": "22/05/2020 00:13:27",
-			"recovered": "148",
+			"deltarecovered": "4",
+			"lastupdatedtime": "23/05/2020 00:49:26",
+			"recovered": "152",
 			"state": "Tripura",
 			"statecode": "TR",
 			"statenotes": "Two cases are migrated out of Tripura."
@@ -1334,7 +1334,7 @@
 			"deltaconfirmed": "44",
 			"deltadeaths": "0",
 			"deltarecovered": "3",
-			"lastupdatedtime": "23/05/2020 00:35:26",
+			"lastupdatedtime": "23/05/2020 00:48:28",
 			"recovered": "62",
 			"state": "Chhattisgarh",
 			"statecode": "CT",
