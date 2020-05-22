@@ -1270,21 +1270,21 @@
     },
     "total": {
       "confirmed": 2667,
-      "recovered": 1705,
-      "deceased": 54,
+      "recovered": 1731,
+      "deceased": 55,
       "tested": {
-        "samples": 275704,
-        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/83?single",
-        "last_updated": "2020-05-21"
+        "samples": 284119,
+        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/103",
+        "last_updated": "2020-05-22"
       }
     },
     "delta": {
       "confirmed": 62,
-      "recovered": 0,
-      "deceased": 0
+      "recovered": 26,
+      "deceased": 1
     },
     "notes": "Total includes patients from other states.",
-    "last_updated": "2020-05-22T12:11:26+05:30"
+    "last_updated": "2020-05-22T13:51:26+05:30"
   },
   "AR": {
     "timeseries": {
@@ -32620,8 +32620,8 @@
     "districts": null,
     "total": {
       "confirmed": 119419,
-      "recovered": 48957,
-      "deceased": 3599,
+      "recovered": 48983,
+      "deceased": 3600,
       "tested": {
         "samples": 2719434,
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/99",
@@ -32630,10 +32630,10 @@
     },
     "delta": {
       "confirmed": 1193,
-      "recovered": 404,
-      "deceased": 15
+      "recovered": 430,
+      "deceased": 16
     },
     "notes": "",
-    "last_updated": "2020-05-22T13:33:23+05:30"
+    "last_updated": "2020-05-22T13:51:24+05:30"
   }
 }
