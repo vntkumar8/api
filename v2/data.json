@@ -3342,7 +3342,7 @@
       "deceased": 0
     },
     "notes": "Includes one case from Nagaland <br>\nTotal of Three* patients who migrated to other states has been reduced from Active count",
-    "last_updated": "2020-05-22T18:31:31+05:30"
+    "last_updated": "2020-05-22T18:41:29+05:30"
   },
   "BR": {
     "timeseries": {
@@ -13487,12 +13487,12 @@
       "Davanagere": {
         "delta": {
           "confirmed": 3,
-          "recovered": 0,
+          "recovered": 7,
           "deceased": 0
         },
         "total": {
           "confirmed": 116,
-          "recovered": 14,
+          "recovered": 21,
           "deceased": 4
         },
         "zone": {
@@ -13572,12 +13572,12 @@
       "Kalaburagi": {
         "delta": {
           "confirmed": 0,
-          "recovered": 3,
+          "recovered": 5,
           "deceased": 0
         },
         "total": {
           "confirmed": 135,
-          "recovered": 58,
+          "recovered": 60,
           "deceased": 7
         },
         "zone": {
@@ -13810,7 +13810,7 @@
     },
     "total": {
       "confirmed": 1743,
-      "recovered": 588,
+      "recovered": 597,
       "deceased": 41,
       "tested": {
         "samples": 186526,
@@ -13820,11 +13820,11 @@
     },
     "delta": {
       "confirmed": 138,
-      "recovered": 17,
+      "recovered": 26,
       "deceased": 0
     },
     "notes": "One active case in KA reduced as a confirmed patient died of non-CoViD19 related reasons",
-    "last_updated": "2020-05-22T18:31:30+05:30"
+    "last_updated": "2020-05-22T18:41:26+05:30"
   },
   "KL": {
     "timeseries": {
@@ -14536,12 +14536,12 @@
       "Malappuram": {
         "delta": {
           "confirmed": 4,
-          "recovered": 0,
+          "recovered": 2,
           "deceased": 0
         },
         "total": {
           "confirmed": 64,
-          "recovered": 25,
+          "recovered": 27,
           "deceased": 1
         },
         "zone": {
@@ -14638,7 +14638,7 @@
     },
     "total": {
       "confirmed": 734,
-      "recovered": 510,
+      "recovered": 512,
       "deceased": 5,
       "tested": {
         "samples": 51310,
@@ -14648,11 +14648,11 @@
     },
     "delta": {
       "confirmed": 43,
-      "recovered": 0,
+      "recovered": 2,
       "deceased": 1
     },
     "notes": "Mahe native who expired in Kannur included in Kerala's tally",
-    "last_updated": "2020-05-22T17:39:25+05:30"
+    "last_updated": "2020-05-22T18:41:28+05:30"
   },
   "LA": {
     "timeseries": {
@@ -27752,7 +27752,7 @@
       "deceased": 4
     },
     "notes": "",
-    "last_updated": "2020-05-22T18:31:24+05:30"
+    "last_updated": "2020-05-22T18:41:24+05:30"
   },
   "TR": {
     "timeseries": {
@@ -32620,7 +32620,7 @@
     "districts": null,
     "total": {
       "confirmed": 120532,
-      "recovered": 49872,
+      "recovered": 49883,
       "deceased": 3605,
       "tested": {
         "samples": 2719434,
@@ -32630,10 +32630,10 @@
     },
     "delta": {
       "confirmed": 2306,
-      "recovered": 1319,
+      "recovered": 1330,
       "deceased": 21
     },
     "notes": "",
-    "last_updated": "2020-05-22T18:31:23+05:30"
+    "last_updated": "2020-05-22T18:41:23+05:30"
   }
 }
