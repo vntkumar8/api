@@ -6891,9 +6891,9 @@
       }
     },
     "total": {
-      "confirmed": 11659,
-      "recovered": 5567,
-      "deceased": 194,
+      "confirmed": 12319,
+      "recovered": 5897,
+      "deceased": 208,
       "tested": {
         "samples": 154385,
         "source": "https://delhifightscorona.in/wp-content/uploads/2020/05/05-21.pdf",
@@ -6901,12 +6901,12 @@
       }
     },
     "delta": {
-      "confirmed": 0,
-      "recovered": 0,
-      "deceased": 0
+      "confirmed": 660,
+      "recovered": 330,
+      "deceased": 14
     },
     "notes": "[10-May]<br>\n\nDelhi will be releasing bulletins in the morning, containing data of the previous day. We will add that data to the date on which the report is released, rather than the previous day.",
-    "last_updated": "2020-05-21T15:37:24+05:30"
+    "last_updated": "2020-05-22T13:11:24+05:30"
   },
   "DN": {
     "timeseries": {
@@ -32619,9 +32619,9 @@
     },
     "districts": null,
     "total": {
-      "confirmed": 118654,
-      "recovered": 48610,
-      "deceased": 3585,
+      "confirmed": 119314,
+      "recovered": 48940,
+      "deceased": 3599,
       "tested": {
         "samples": 2719434,
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/99",
@@ -32629,11 +32629,11 @@
       }
     },
     "delta": {
-      "confirmed": 428,
-      "recovered": 57,
-      "deceased": 1
+      "confirmed": 1088,
+      "recovered": 387,
+      "deceased": 15
     },
     "notes": "",
-    "last_updated": "2020-05-22T12:24:22+05:30"
+    "last_updated": "2020-05-22T13:11:23+05:30"
   }
 }
