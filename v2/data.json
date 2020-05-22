@@ -14652,7 +14652,7 @@
       "deceased": 0
     },
     "notes": "Mahe native who expired in Kannur included in Kerala's tally",
-    "last_updated": "2020-05-22T08:20:25+05:30"
+    "last_updated": "2020-05-22T08:28:25+05:30"
   },
   "LA": {
     "timeseries": {
@@ -27077,7 +27077,7 @@
       "2020-05-20": {
         "tested": {
           "samples": 372532,
-          "source": ""
+          "source": "https://t.me/indiacovid/5256"
         },
         "confirmed": 743,
         "recovered": 987,
@@ -27727,7 +27727,7 @@
       "deceased": 95,
       "tested": {
         "samples": 372532,
-        "source": "",
+        "source": "https://t.me/indiacovid/5256",
         "last_updated": "2020-05-20"
       }
     },
@@ -28927,7 +28927,10 @@
         "deceased": 4
       },
       "2020-05-21": {
-        "tested": null,
+        "tested": {
+          "samples": 206811,
+          "source": "https://t.me/indiacovid/5279?single"
+        },
         "confirmed": 340,
         "recovered": 138,
         "deceased": 11
@@ -30215,9 +30218,9 @@
       "recovered": 3204,
       "deceased": 138,
       "tested": {
-        "samples": 191164,
-        "source": "https://t.me/indiacovid/5225?single",
-        "last_updated": "2020-05-20"
+        "samples": 206811,
+        "source": "https://t.me/indiacovid/5279?single",
+        "last_updated": "2020-05-21"
       }
     },
     "delta": {
@@ -30771,7 +30774,10 @@
         "deceased": 0
       },
       "2020-05-21": {
-        "tested": null,
+        "tested": {
+          "samples": 16528,
+          "source": "http://health.uk.gov.in/files/2020.05.21_Health_Bulletin.pdf"
+        },
         "confirmed": 24,
         "recovered": 0,
         "deceased": 0
@@ -31005,9 +31011,9 @@
       "recovered": 53,
       "deceased": 1,
       "tested": {
-        "samples": 15503,
-        "source": "http://health.uk.gov.in/files/2020.05.20_Health_Bulletin.pdf",
-        "last_updated": "2020-05-20"
+        "samples": 16528,
+        "source": "http://health.uk.gov.in/files/2020.05.21_Health_Bulletin.pdf",
+        "last_updated": "2020-05-21"
       }
     },
     "delta": {
@@ -32607,6 +32613,6 @@
       "deceased": 0
     },
     "notes": "",
-    "last_updated": "2020-05-22T08:20:23+05:30"
+    "last_updated": "2020-05-22T08:28:23+05:30"
   }
 }
