@@ -4560,7 +4560,7 @@
       "deceased": 2
     },
     "notes": "",
-    "last_updated": "2020-05-22T20:41:22+05:30"
+    "last_updated": "2020-05-22T20:51:26+05:30"
   },
   "CH": {
     "timeseries": {
@@ -9121,7 +9121,7 @@
       "deceased": 29
     },
     "notes": "",
-    "last_updated": "2020-05-22T20:41:46+05:30"
+    "last_updated": "2020-05-22T20:51:24+05:30"
   },
   "HP": {
     "timeseries": {
@@ -15166,9 +15166,9 @@
       "recovered": 43,
       "deceased": 0,
       "tested": {
-        "samples": 5291,
-        "source": "https://twitter.com/ladags/status/1263406197928980480",
-        "last_updated": "2020-05-21"
+        "samples": 5505,
+        "source": "https://twitter.com/ladags/status/1263763741599952896",
+        "last_updated": "2020-05-22"
       }
     },
     "delta": {
@@ -18246,7 +18246,7 @@
       }
     },
     "total": {
-      "confirmed": 25,
+      "confirmed": 26,
       "recovered": 2,
       "deceased": 0,
       "tested": {
@@ -18256,12 +18256,12 @@
       }
     },
     "delta": {
-      "confirmed": 0,
+      "confirmed": 1,
       "recovered": 0,
       "deceased": 0
     },
     "notes": "",
-    "last_updated": "2020-05-20T22:48:28+05:30"
+    "last_updated": "2020-05-22T20:51:29+05:30"
   },
   "MP": {
     "timeseries": {
@@ -30895,7 +30895,7 @@
         },
         "total": {
           "confirmed": 10,
-          "recovered": 6,
+          "recovered": 7,
           "deceased": 0
         },
         "zone": {
@@ -31029,9 +31029,9 @@
       "recovered": 53,
       "deceased": 1,
       "tested": {
-        "samples": 16528,
-        "source": "http://health.uk.gov.in/files/2020.05.21_Health_Bulletin.pdf",
-        "last_updated": "2020-05-21"
+        "samples": 18008,
+        "source": "http://health.uk.gov.in/files/2020.05.22_Health_Bulletin.pdf",
+        "last_updated": "2020-05-22"
       }
     },
     "delta": {
@@ -32619,7 +32619,7 @@
     },
     "districts": null,
     "total": {
-      "confirmed": 124074,
+      "confirmed": 124075,
       "recovered": 51307,
       "deceased": 3707,
       "tested": {
@@ -32629,11 +32629,11 @@
       }
     },
     "delta": {
-      "confirmed": 5849,
+      "confirmed": 5850,
       "recovered": 2754,
       "deceased": 123
     },
     "notes": "",
-    "last_updated": "2020-05-22T20:41:45+05:30"
+    "last_updated": "2020-05-22T20:51:23+05:30"
   }
 }
