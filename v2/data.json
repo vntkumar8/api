@@ -2840,7 +2840,7 @@
         },
         "total": {
           "confirmed": 15,
-          "recovered": 6,
+          "recovered": 10,
           "deceased": 0
         },
         "zone": {
@@ -3078,7 +3078,7 @@
         },
         "total": {
           "confirmed": 81,
-          "recovered": 2,
+          "recovered": 4,
           "deceased": 3
         },
         "zone": {
@@ -3140,12 +3140,12 @@
       },
       "Lakhimpur": {
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "recovered": 0,
           "deceased": 0
         },
         "total": {
-          "confirmed": 3,
+          "confirmed": 4,
           "recovered": 1,
           "deceased": 0
         },
@@ -3242,12 +3242,12 @@
       },
       "Sonitpur": {
         "delta": {
-          "confirmed": 0,
+          "confirmed": 6,
           "recovered": 0,
           "deceased": 0
         },
         "total": {
-          "confirmed": 8,
+          "confirmed": 14,
           "recovered": 0,
           "deceased": 0
         },
@@ -3293,12 +3293,12 @@
       },
       "Udalguri": {
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "recovered": 0,
           "deceased": 0
         },
         "total": {
-          "confirmed": 1,
+          "confirmed": 2,
           "recovered": 0,
           "deceased": 0
         },
@@ -3327,7 +3327,7 @@
       }
     },
     "total": {
-      "confirmed": 215,
+      "confirmed": 223,
       "recovered": 55,
       "deceased": 4,
       "tested": {
@@ -3337,12 +3337,12 @@
       }
     },
     "delta": {
-      "confirmed": 4,
+      "confirmed": 12,
       "recovered": 0,
       "deceased": 0
     },
     "notes": "Includes one case from Nagaland <br>\nTotal of Three* patients who migrated to other states has been reduced from Active count",
-    "last_updated": "2020-05-22T16:42:26+05:30"
+    "last_updated": "2020-05-22T17:21:25+05:30"
   },
   "BR": {
     "timeseries": {
@@ -14837,37 +14837,25 @@
         "deceased": 0
       },
       "2020-04-13": {
-        "tested": {
-          "samples": 618,
-          "source": "http://newsonair.com/News?title=Ladakh-well-ahead-of-all-states-and-UTs-in-testing-suspects-for-COVID-19&id=385511"
-        },
+        "tested": null,
         "confirmed": 2,
         "recovered": 1,
         "deceased": 0
       },
       "2020-04-14": {
-        "tested": {
-          "samples": 760,
-          "source": "https://twitter.com/DIPR_Leh/status/1250016972072292353?s=09"
-        },
+        "tested": null,
         "confirmed": 0,
         "recovered": 0,
         "deceased": 0
       },
       "2020-04-15": {
-        "tested": {
-          "samples": 820,
-          "source": "https://twitter.com/ladags/status/1250457259299110914?s=19"
-        },
+        "tested": null,
         "confirmed": 1,
         "recovered": 0,
         "deceased": 0
       },
       "2020-04-16": {
-        "tested": {
-          "samples": 917,
-          "source": "https://twitter.com/ladags/status/1250757796007567360?s=19"
-        },
+        "tested": null,
         "confirmed": 0,
         "recovered": 2,
         "deceased": 0
@@ -14885,10 +14873,7 @@
         "deceased": 0
       },
       "2020-04-19": {
-        "tested": {
-          "samples": 991,
-          "source": "https://twitter.com/ladags/status/1251890558810812422?s=19"
-        },
+        "tested": null,
         "confirmed": 0,
         "recovered": 0,
         "deceased": 0
@@ -14900,10 +14885,7 @@
         "deceased": 0
       },
       "2020-04-21": {
-        "tested": {
-          "samples": 1137,
-          "source": "https://twitter.com/ladags/status/1252646578688389121?s=09"
-        },
+        "tested": null,
         "confirmed": 0,
         "recovered": 0,
         "deceased": 0
@@ -14951,55 +14933,37 @@
         "deceased": 0
       },
       "2020-04-29": {
-        "tested": {
-          "samples": 1949,
-          "source": "https://mobile.twitter.com/ladags/status/1255549292908998656?s=19"
-        },
+        "tested": null,
         "confirmed": 0,
         "recovered": 1,
         "deceased": 0
       },
       "2020-04-30": {
-        "tested": {
-          "samples": 2245,
-          "source": "https://twitter.com/ladags/status/1255848872120684544?s=09"
-        },
+        "tested": null,
         "confirmed": 0,
         "recovered": 0,
         "deceased": 0
       },
       "2020-05-01": {
-        "tested": {
-          "samples": 2430,
-          "source": "https://twitter.com/ladags/status/1256179569242980354?s=19"
-        },
+        "tested": null,
         "confirmed": 0,
         "recovered": 0,
         "deceased": 0
       },
       "2020-05-02": {
-        "tested": {
-          "samples": 2434,
-          "source": "https://twitter.com/ladags/status/1256557472254267393"
-        },
+        "tested": null,
         "confirmed": 1,
         "recovered": 0,
         "deceased": 0
       },
       "2020-05-03": {
-        "tested": {
-          "samples": 2434,
-          "source": "https://mobile.twitter.com/ladags/status/1256820308763238401"
-        },
+        "tested": null,
         "confirmed": 19,
         "recovered": 0,
         "deceased": 0
       },
       "2020-05-04": {
-        "tested": {
-          "samples": 2639,
-          "source": "https://twitter.com/ladags/status/1257326758518349825?s=19"
-        },
+        "tested": null,
         "confirmed": 0,
         "recovered": 0,
         "deceased": 0
@@ -15029,10 +14993,7 @@
         "deceased": 0
       },
       "2020-05-09": {
-        "tested": {
-          "samples": 3503,
-          "source": "https://twitter.com/ladags/status/1259176362931367943?s=19"
-        },
+        "tested": null,
         "confirmed": 0,
         "recovered": 0,
         "deceased": 0
@@ -15056,10 +15017,7 @@
         "deceased": 0
       },
       "2020-05-13": {
-        "tested": {
-          "samples": 3683,
-          "source": "https://mobile.twitter.com/ladags/status/1260600445707288582?s=19"
-        },
+        "tested": null,
         "confirmed": 1,
         "recovered": 0,
         "deceased": 0
@@ -15077,10 +15035,7 @@
         "deceased": 0
       },
       "2020-05-16": {
-        "tested": {
-          "samples": 4067,
-          "source": "https://twitter.com/ladags/status/1261672874210766850?s=19"
-        },
+        "tested": null,
         "confirmed": 0,
         "recovered": 0,
         "deceased": 0
@@ -15092,19 +15047,13 @@
         "deceased": 0
       },
       "2020-05-18": {
-        "tested": {
-          "samples": 4219,
-          "source": "https://twitter.com/ladags/status/1262392950702702595"
-        },
+        "tested": null,
         "confirmed": 0,
         "recovered": 19,
         "deceased": 0
       },
       "2020-05-19": {
-        "tested": {
-          "samples": 4730,
-          "source": "https://twitter.com/ladags/status/1262796538440540167"
-        },
+        "tested": null,
         "confirmed": 0,
         "recovered": 0,
         "deceased": 0
@@ -15116,10 +15065,7 @@
         "deceased": 0
       },
       "2020-05-21": {
-        "tested": {
-          "samples": 5291,
-          "source": "https://twitter.com/ladags/status/1263406197928980480"
-        },
+        "tested": null,
         "confirmed": 0,
         "recovered": 0,
         "deceased": 0
@@ -15165,11 +15111,7 @@
       "confirmed": 44,
       "recovered": 43,
       "deceased": 0,
-      "tested": {
-        "samples": 5291,
-        "source": "https://twitter.com/ladags/status/1263406197928980480",
-        "last_updated": "2020-05-21"
-      }
+      "tested": null
     },
     "delta": {
       "confirmed": 0,
@@ -15764,28 +15706,19 @@
         "deceased": 6
       },
       "2020-04-05": {
-        "tested": {
-          "samples": 16008,
-          "source": ""
-        },
+        "tested": null,
         "confirmed": 112,
         "recovered": 4,
         "deceased": 13
       },
       "2020-04-06": {
-        "tested": {
-          "samples": 17563,
-          "source": "https://www.cnbctv18.com/healthcare/maharashtra-covid-19-tally-mounts-to-868-with-7-fresh-deaths-5634351.htm"
-        },
+        "tested": null,
         "confirmed": 121,
         "recovered": 14,
         "deceased": 7
       },
       "2020-04-07": {
-        "tested": {
-          "samples": 20877,
-          "source": "https://arogya.maharashtra.gov.in/pdf/covidepressnote07.pdf"
-        },
+        "tested": null,
         "confirmed": 150,
         "recovered": 9,
         "deceased": 12
@@ -15797,388 +15730,259 @@
         "deceased": 8
       },
       "2020-04-09": {
-        "tested": {
-          "samples": 20877,
-          "source": "https://twitter.com/Maha_MEDD/status/1248156898894811136"
-        },
+        "tested": null,
         "confirmed": 229,
         "recovered": 8,
         "deceased": 25
       },
       "2020-04-10": {
-        "tested": {
-          "samples": 30000,
-          "source": "https://twitter.com/Maha_MEDD/status/1248484537216065536"
-        },
+        "tested": null,
         "confirmed": 210,
         "recovered": 63,
         "deceased": 12
       },
       "2020-04-11": {
-        "tested": {
-          "samples": 31841,
-          "source": "https://twitter.com/Maha_MEDD/status/1248859409419132929?s=19"
-        },
+        "tested": null,
         "confirmed": 187,
         "recovered": 20,
         "deceased": 17
       },
       "2020-04-12": {
-        "tested": {
-          "samples": 35668,
-          "source": "https://twitter.com/Maha_MEDD/status/1249210483812548608?s=19"
-        },
+        "tested": null,
         "confirmed": 221,
         "recovered": 9,
         "deceased": 22
       },
       "2020-04-13": {
-        "tested": {
-          "samples": 39725,
-          "source": "https://twitter.com/Maha_MEDD/status/1249593448820125697"
-        },
+        "tested": null,
         "confirmed": 352,
         "recovered": 12,
         "deceased": 11
       },
       "2020-04-14": {
-        "tested": {
-          "samples": 41071,
-          "source": "https://twitter.com/Maha_MEDD/status/1249943643357511680?s=19"
-        },
+        "tested": null,
         "confirmed": 346,
         "recovered": 30,
         "deceased": 18
       },
       "2020-04-15": {
-        "tested": {
-          "samples": 45142,
-          "source": "https://twitter.com/Maha_MEDD/status/1250306461097320448"
-        },
+        "tested": null,
         "confirmed": 236,
         "recovered": 36,
         "deceased": 9
       },
       "2020-04-16": {
-        "tested": {
-          "samples": 50882,
-          "source": "https://twitter.com/Maha_MEDD/status/1250659519840968704"
-        },
+        "tested": null,
         "confirmed": 285,
         "recovered": 5,
         "deceased": 7
       },
       "2020-04-17": {
-        "tested": {
-          "samples": 55678,
-          "source": "https://twitter.com/Maha_MEDD/status/1251045031869214720"
-        },
+        "tested": null,
         "confirmed": 120,
         "recovered": 31,
         "deceased": 7
       },
       "2020-04-18": {
-        "tested": {
-          "samples": 60166,
-          "source": "https://twitter.com/Maha_MEDD/status/1251399078555947008"
-        },
+        "tested": null,
         "confirmed": 327,
         "recovered": 34,
         "deceased": 10
       },
       "2020-04-19": {
-        "tested": {
-          "samples": 66796,
-          "source": "https://twitter.com/Maha_MEDD/status/1251760884512243714"
-        },
+        "tested": null,
         "confirmed": 552,
         "recovered": 142,
         "deceased": 12
       },
       "2020-04-20": {
-        "tested": {
-          "samples": 71321,
-          "source": "https://twitter.com/Maha_MEDD/status/1252114391090130947"
-        },
+        "tested": null,
         "confirmed": 466,
         "recovered": 65,
         "deceased": 9
       },
       "2020-04-21": {
-        "tested": {
-          "samples": 75838,
-          "source": "https://twitter.com/Maha_MEDD/status/1252467996393537536"
-        },
+        "tested": null,
         "confirmed": 552,
         "recovered": 150,
         "deceased": 19
       },
       "2020-04-22": {
-        "tested": {
-          "samples": 82304,
-          "source": "https://twitter.com/Maha_MEDD/status/1252842842268950530"
-        },
+        "tested": null,
         "confirmed": 431,
         "recovered": 67,
         "deceased": 18
       },
       "2020-04-23": {
-        "tested": {
-          "samples": 89197,
-          "source": "https://twitter.com/Maha_MEDD/status/1253199854890713089"
-        },
+        "tested": null,
         "confirmed": 778,
         "recovered": 51,
         "deceased": 14
       },
       "2020-04-24": {
-        "tested": {
-          "samples": 95210,
-          "source": "https://twitter.com/Maha_MEDD/status/1253554384606298114?s=19"
-        },
+        "tested": null,
         "confirmed": 390,
         "recovered": 117,
         "deceased": 18
       },
       "2020-04-25": {
-        "tested": {
-          "samples": 100912,
-          "source": "https://twitter.com/Maha_MEDD/status/1253930643949367296"
-        },
+        "tested": null,
         "confirmed": 811,
         "recovered": 119,
         "deceased": 22
       },
       "2020-04-26": {
-        "tested": {
-          "samples": 107979,
-          "source": "https://twitter.com/Maha_MEDD/status/1254288768577818625"
-        },
+        "tested": null,
         "confirmed": 440,
         "recovered": 112,
         "deceased": 19
       },
       "2020-04-27": {
-        "tested": {
-          "samples": 115147,
-          "source": "https://twitter.com/Maha_MEDD/status/1254647537991991297"
-        },
+        "tested": null,
         "confirmed": 522,
         "recovered": 94,
         "deceased": 27
       },
       "2020-04-28": {
-        "tested": {
-          "samples": 120620,
-          "source": "https://twitter.com/Maha_MEDD/status/1255016183411077121"
-        },
+        "tested": null,
         "confirmed": 728,
         "recovered": 106,
         "deceased": 31
       },
       "2020-04-29": {
-        "tested": {
-          "samples": 128726,
-          "source": "https://twitter.com/Maha_MEDD/status/1255371358323773445?s=19"
-        },
+        "tested": null,
         "confirmed": 597,
         "recovered": 205,
         "deceased": 32
       },
       "2020-04-30": {
-        "tested": {
-          "samples": 135694,
-          "source": "https://twitter.com/Maha_MEDD/status/1255747873758535681?s=19"
-        },
+        "tested": null,
         "confirmed": 583,
         "recovered": 180,
         "deceased": 27
       },
       "2020-05-01": {
-        "tested": {
-          "samples": 144159,
-          "source": "https://twitter.com/Maha_MEDD/status/1256099194437132288?s=19"
-        },
+        "tested": null,
         "confirmed": 1008,
         "recovered": 106,
         "deceased": 26
       },
       "2020-05-02": {
-        "tested": {
-          "samples": 151085,
-          "source": "https://twitter.com/Maha_MEDD/status/1256463584004943872"
-        },
+        "tested": null,
         "confirmed": 790,
         "recovered": 121,
         "deceased": 36
       },
       "2020-05-03": {
-        "tested": {
-          "samples": 159754,
-          "source": "https://twitter.com/Maha_MEDD/status/1256823671122915328?s=19"
-        },
+        "tested": null,
         "confirmed": 678,
         "recovered": 115,
         "deceased": 27
       },
       "2020-05-04": {
-        "tested": {
-          "samples": 168374,
-          "source": "https://twitter.com/Maha_MEDD/status/1257190659062026242?s=19"
-        },
+        "tested": null,
         "confirmed": 1567,
         "recovered": 350,
         "deceased": 35
       },
       "2020-05-05": {
-        "tested": {
-          "samples": 175323,
-          "source": "https://twitter.com/Maha_MEDD/status/1257621289625194496?s=19"
-        },
+        "tested": null,
         "confirmed": 984,
         "recovered": 354,
         "deceased": 34
       },
       "2020-05-06": {
-        "tested": {
-          "samples": 181746,
-          "source": "https://twitter.com/Maha_MEDD/status/1257913159588777985?s=19"
-        },
+        "tested": null,
         "confirmed": 1233,
         "recovered": 275,
         "deceased": 34
       },
       "2020-05-07": {
-        "tested": {
-          "samples": 189220,
-          "source": "https://twitter.com/Maha_MEDD/status/1258283089316339712?s=19"
-        },
+        "tested": null,
         "confirmed": 1216,
         "recovered": 207,
         "deceased": 43
       },
       "2020-05-08": {
-        "tested": {
-          "samples": 200477,
-          "source": "https://twitter.com/Maha_MEDD/status/1258632735834300416?s=19"
-        },
+        "tested": null,
         "confirmed": 1089,
         "recovered": 169,
         "deceased": 37
       },
       "2020-05-09": {
-        "tested": {
-          "samples": 210174,
-          "source": "https://twitter.com/Maha_MEDD/status/1259002292256116736?s=19"
-        },
+        "tested": null,
         "confirmed": 1165,
         "recovered": 330,
         "deceased": 48
       },
       "2020-05-10": {
-        "tested": {
-          "samples": 225524,
-          "source": "https://twitter.com/Maha_MEDD/status/1259365348148572161?s=19"
-        },
+        "tested": null,
         "confirmed": 1943,
         "recovered": 399,
         "deceased": 53
       },
       "2020-05-11": {
-        "tested": {
-          "samples": 218914,
-          "source": "https://arogya.maharashtra.gov.in/pdf/ncovidepressnotemay11.pdf"
-        },
+        "tested": null,
         "confirmed": 1230,
         "recovered": 587,
         "deceased": 36
       },
       "2020-05-12": {
-        "tested": {
-          "samples": 222284,
-          "source": "https://twitter.com/Maha_MEDD/status/1260090967601770498?s=19"
-        },
+        "tested": null,
         "confirmed": 1026,
         "recovered": 339,
         "deceased": 53
       },
       "2020-05-13": {
-        "tested": {
-          "samples": 231061,
-          "source": "https://twitter.com/Maha_MEDD/status/1260445266064420864"
-        },
+        "tested": null,
         "confirmed": 1495,
         "recovered": 422,
         "deceased": 54
       },
       "2020-05-14": {
-        "tested": {
-          "samples": 240482,
-          "source": "https://twitter.com/Maha_MEDD/status/1260804289620049925?s=19"
-        },
+        "tested": null,
         "confirmed": 1602,
         "recovered": 542,
         "deceased": 44
       },
       "2020-05-15": {
-        "tested": {
-          "samples": 250898,
-          "source": "https://twitter.com/Maha_MEDD/status/1261173248508588032?s=19"
-        },
+        "tested": null,
         "confirmed": 1576,
         "recovered": 475,
         "deceased": 49
       },
       "2020-05-16": {
-        "tested": {
-          "samples": 261815,
-          "source": "https://twitter.com/Maha_MEDD/status/1261532759995998208?s=19"
-        },
+        "tested": null,
         "confirmed": 1606,
         "recovered": 524,
         "deceased": 67
       },
       "2020-05-17": {
-        "tested": {
-          "samples": 274040,
-          "source": "https://twitter.com/Maha_MEDD/status/1261891603557265414?s=19"
-        },
+        "tested": null,
         "confirmed": 2347,
         "recovered": 600,
         "deceased": 63
       },
       "2020-05-18": {
-        "tested": {
-          "samples": 282437,
-          "source": "https://twitter.com/Maha_MEDD/status/1262257004657008640?s=19"
-        },
+        "tested": null,
         "confirmed": 2005,
         "recovered": 749,
         "deceased": 51
       },
       "2020-05-19": {
-        "tested": {
-          "samples": 294272,
-          "source": "https://twitter.com/Maha_MEDD/status/1262627822834552833?s=19"
-        },
+        "tested": null,
         "confirmed": 2078,
         "recovered": 1202,
         "deceased": 76
       },
       "2020-05-20": {
-        "tested": {
-          "samples": 307535,
-          "source": "https://twitter.com/Maha_MEDD/status/1262980258887843840?s=19"
-        },
+        "tested": null,
         "confirmed": 2161,
         "recovered": 679,
         "deceased": 65
       },
       "2020-05-21": {
-        "tested": {
-          "samples": 319921,
-          "source": "https://twitter.com/Maha_MEDD/status/1263345679897776130?s=19"
-        },
+        "tested": null,
         "confirmed": 2345,
         "recovered": 1408,
         "deceased": 64
@@ -16802,11 +16606,7 @@
       "confirmed": 41642,
       "recovered": 11726,
       "deceased": 1454,
-      "tested": {
-        "samples": 333087,
-        "source": "https://twitter.com/Maha_MEDD/status/1263704677679390721?s=19",
-        "last_updated": "2020-05-22"
-      }
+      "tested": null
     },
     "delta": {
       "confirmed": 0,
@@ -17023,82 +16823,55 @@
         "deceased": 0
       },
       "2020-04-17": {
-        "tested": {
-          "samples": 617,
-          "source": "http://meghalaya.gov.in/megcms/sites/default/files/press_release/CM%20Media%20Brief_0.pdf"
-        },
+        "tested": null,
         "confirmed": 0,
         "recovered": 0,
         "deceased": 0
       },
       "2020-04-18": {
-        "tested": {
-          "samples": 738,
-          "source": "http://meghalayaonline.gov.in/covid/login.htm#"
-        },
+        "tested": null,
         "confirmed": 2,
         "recovered": 0,
         "deceased": 0
       },
       "2020-04-19": {
-        "tested": {
-          "samples": 766,
-          "source": "http://meghalayaonline.gov.in/covid/login.htm#"
-        },
+        "tested": null,
         "confirmed": 0,
         "recovered": 0,
         "deceased": 0
       },
       "2020-04-20": {
-        "tested": {
-          "samples": 838,
-          "source": "http://meghalayaonline.gov.in/covid/login.htm#"
-        },
+        "tested": null,
         "confirmed": 0,
         "recovered": 0,
         "deceased": 0
       },
       "2020-04-21": {
-        "tested": {
-          "samples": 933,
-          "source": "http://meghalayaonline.gov.in/covid/login.htm#"
-        },
+        "tested": null,
         "confirmed": 1,
         "recovered": 0,
         "deceased": 0
       },
       "2020-04-22": {
-        "tested": {
-          "samples": 1046,
-          "source": "http://meghalayaonline.gov.in/covid/login.htm#"
-        },
+        "tested": null,
         "confirmed": 0,
         "recovered": 0,
         "deceased": 0
       },
       "2020-04-23": {
-        "tested": {
-          "samples": 1109,
-          "source": "http://meghalayaonline.gov.in/covid/login.htm#"
-        },
+        "tested": null,
         "confirmed": 0,
         "recovered": 0,
         "deceased": 0
       },
       "2020-04-24": {
-        "tested": {
-          "samples": 1130,
-          "source": "http://meghalayaonline.gov.in/covid/login.htm#"
-        },
+        "tested": null,
         "confirmed": 0,
         "recovered": 0,
         "deceased": 0
       },
       "2020-04-25": {
-        "tested": {
-          "samples": 1169,
-          "source": "http://meghalayaonline.gov.in/covid/login.htm#"
-        },
+        "tested": null,
         "confirmed": 0,
         "recovered": 0,
         "deceased": 0
@@ -17110,37 +16883,25 @@
         "deceased": 0
       },
       "2020-04-27": {
-        "tested": {
-          "samples": 1254,
-          "source": "http://meghalayaonline.gov.in/covid/login.htm#"
-        },
+        "tested": null,
         "confirmed": 0,
         "recovered": 0,
         "deceased": 0
       },
       "2020-04-28": {
-        "tested": {
-          "samples": 1382,
-          "source": "https://twitter.com/ANI/status/1255184343103766532?s=19"
-        },
+        "tested": null,
         "confirmed": 0,
         "recovered": 0,
         "deceased": 0
       },
       "2020-04-29": {
-        "tested": {
-          "samples": 1397,
-          "source": "http://meghalayaonline.gov.in/covid/login.htm#"
-        },
+        "tested": null,
         "confirmed": 0,
         "recovered": 0,
         "deceased": 0
       },
       "2020-04-30": {
-        "tested": {
-          "samples": 1595,
-          "source": "http://meghalayaonline.gov.in/covid/login.htm#"
-        },
+        "tested": null,
         "confirmed": 0,
         "recovered": 0,
         "deceased": 0
@@ -17152,10 +16913,7 @@
         "deceased": 0
       },
       "2020-05-02": {
-        "tested": {
-          "samples": 1707,
-          "source": "http://meghalayaonline.gov.in/covid/login.htm#"
-        },
+        "tested": null,
         "confirmed": 0,
         "recovered": 0,
         "deceased": 0
@@ -17167,19 +16925,13 @@
         "deceased": 0
       },
       "2020-05-04": {
-        "tested": {
-          "samples": 1884,
-          "source": "http://meghalayaonline.gov.in/covid/login.htm#"
-        },
+        "tested": null,
         "confirmed": 0,
         "recovered": 0,
         "deceased": 0
       },
       "2020-05-05": {
-        "tested": {
-          "samples": 1944,
-          "source": "http://meghalayaonline.gov.in/covid/login.htm"
-        },
+        "tested": null,
         "confirmed": 0,
         "recovered": 0,
         "deceased": 0
@@ -17191,10 +16943,7 @@
         "deceased": 0
       },
       "2020-05-07": {
-        "tested": {
-          "samples": 2054,
-          "source": "http://meghalayaonline.gov.in/covid/login.htm"
-        },
+        "tested": null,
         "confirmed": 0,
         "recovered": 0,
         "deceased": 0
@@ -17206,28 +16955,19 @@
         "deceased": 0
       },
       "2020-05-09": {
-        "tested": {
-          "samples": 2287,
-          "source": "http://meghalayaonline.gov.in/covid/login.htm"
-        },
+        "tested": null,
         "confirmed": 1,
         "recovered": 0,
         "deceased": 0
       },
       "2020-05-10": {
-        "tested": {
-          "samples": 2287,
-          "source": "http://meghalayaonline.gov.in/covid/login.htm"
-        },
+        "tested": null,
         "confirmed": 0,
         "recovered": 0,
         "deceased": 0
       },
       "2020-05-11": {
-        "tested": {
-          "samples": 2480,
-          "source": "http://meghalayaonline.gov.in/covid/login.htm"
-        },
+        "tested": null,
         "confirmed": 0,
         "recovered": 0,
         "deceased": 0
@@ -17251,10 +16991,7 @@
         "deceased": 0
       },
       "2020-05-15": {
-        "tested": {
-          "samples": 2712,
-          "source": "https://t.me/Covid19india_Auxiliary_Test_Data/21"
-        },
+        "tested": null,
         "confirmed": 0,
         "recovered": 0,
         "deceased": 0
@@ -17272,28 +17009,19 @@
         "deceased": 0
       },
       "2020-05-18": {
-        "tested": {
-          "samples": 2896,
-          "source": "https://t.me/Covid19india_Auxiliary_Test_Data/52"
-        },
+        "tested": null,
         "confirmed": 0,
         "recovered": 1,
         "deceased": 0
       },
       "2020-05-19": {
-        "tested": {
-          "samples": 3104,
-          "source": "https://t.me/Covid19india_Auxiliary_Test_Data/65"
-        },
+        "tested": null,
         "confirmed": 0,
         "recovered": 0,
         "deceased": 0
       },
       "2020-05-20": {
-        "tested": {
-          "samples": 3419,
-          "source": "https://t.me/Covid19india_Auxiliary_Test_Data/82"
-        },
+        "tested": null,
         "confirmed": 1,
         "recovered": 0,
         "deceased": 0
@@ -17498,11 +17226,7 @@
       "confirmed": 14,
       "recovered": 12,
       "deceased": 1,
-      "tested": {
-        "samples": 3419,
-        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/82",
-        "last_updated": "2020-05-20"
-      }
+      "tested": null
     },
     "delta": {
       "confirmed": 0,
@@ -17701,10 +17425,7 @@
         "deceased": 0
       },
       "2020-04-14": {
-        "tested": {
-          "samples": 276,
-          "source": "http://nrhmmanipur.org/wp-content/uploads/2020/03/PHOTO-2020-04-14-21-19-48.jpg"
-        },
+        "tested": null,
         "confirmed": 0,
         "recovered": 0,
         "deceased": 0
@@ -17722,10 +17443,7 @@
         "deceased": 0
       },
       "2020-04-17": {
-        "tested": {
-          "samples": 311,
-          "source": "http://nrhmmanipur.org/wp-content/uploads/2020/03/170420_status.jpg"
-        },
+        "tested": null,
         "confirmed": 0,
         "recovered": 0,
         "deceased": 0
@@ -17767,19 +17485,13 @@
         "deceased": 0
       },
       "2020-04-24": {
-        "tested": {
-          "samples": 402,
-          "source": "http://nrhmmanipur.org/wp-content/uploads/2020/05/status_240420.jpg"
-        },
+        "tested": null,
         "confirmed": 0,
         "recovered": 0,
         "deceased": 0
       },
       "2020-04-25": {
-        "tested": {
-          "samples": 416,
-          "source": "http://nrhmmanipur.org/wp-content/uploads/2020/05/status_250420.jpg"
-        },
+        "tested": null,
         "confirmed": 0,
         "recovered": 0,
         "deceased": 0
@@ -17809,28 +17521,19 @@
         "deceased": 0
       },
       "2020-04-30": {
-        "tested": {
-          "samples": 459,
-          "source": "http://nrhmmanipur.org/wp-content/uploads/2020/05/staus_300420.jpg"
-        },
+        "tested": null,
         "confirmed": 0,
         "recovered": 0,
         "deceased": 0
       },
       "2020-05-01": {
-        "tested": {
-          "samples": 461,
-          "source": "http://nrhmmanipur.org/wp-content/uploads/2020/05/status_010520.jpg"
-        },
+        "tested": null,
         "confirmed": 0,
         "recovered": 0,
         "deceased": 0
       },
       "2020-05-02": {
-        "tested": {
-          "samples": 468,
-          "source": "http://nrhmmanipur.org/wp-content/uploads/2020/05/status_020520.jpg"
-        },
+        "tested": null,
         "confirmed": 0,
         "recovered": 0,
         "deceased": 0
@@ -17842,10 +17545,7 @@
         "deceased": 0
       },
       "2020-05-04": {
-        "tested": {
-          "samples": 571,
-          "source": "http://nrhmmanipur.org/wp-content/uploads/2020/05/status_040520.jpg"
-        },
+        "tested": null,
         "confirmed": 0,
         "recovered": 0,
         "deceased": 0
@@ -17863,46 +17563,31 @@
         "deceased": 0
       },
       "2020-05-07": {
-        "tested": {
-          "samples": 684,
-          "source": "http://nrhmmanipur.org/wp-content/uploads/2020/05/status_070520.jpg"
-        },
+        "tested": null,
         "confirmed": 0,
         "recovered": 0,
         "deceased": 0
       },
       "2020-05-08": {
-        "tested": {
-          "samples": 756,
-          "source": "http://nrhmmanipur.org/wp-content/uploads/2020/05/status_080520.jpg"
-        },
+        "tested": null,
         "confirmed": 0,
         "recovered": 0,
         "deceased": 0
       },
       "2020-05-09": {
-        "tested": {
-          "samples": 865,
-          "source": "http://nrhmmanipur.org/wp-content/uploads/2020/05/status_090520.jpg"
-        },
+        "tested": null,
         "confirmed": 0,
         "recovered": 0,
         "deceased": 0
       },
       "2020-05-10": {
-        "tested": {
-          "samples": 1096,
-          "source": "http://nrhmmanipur.org/wp-content/uploads/2020/03/status_10.jpg"
-        },
+        "tested": null,
         "confirmed": 0,
         "recovered": 0,
         "deceased": 0
       },
       "2020-05-11": {
-        "tested": {
-          "samples": 1337,
-          "source": "http://nrhmmanipur.org/wp-content/uploads/2020/05/status_110520.jpg"
-        },
+        "tested": null,
         "confirmed": 0,
         "recovered": 0,
         "deceased": 0
@@ -17914,10 +17599,7 @@
         "deceased": 0
       },
       "2020-05-13": {
-        "tested": {
-          "samples": 1706,
-          "source": "http://nrhmmanipur.org/wp-content/uploads/2020/05/status_130520.jpg"
-        },
+        "tested": null,
         "confirmed": 0,
         "recovered": 0,
         "deceased": 0
@@ -18249,11 +17931,7 @@
       "confirmed": 25,
       "recovered": 2,
       "deceased": 0,
-      "tested": {
-        "samples": 1706,
-        "source": "http://nrhmmanipur.org/wp-content/uploads/2020/05/status_130520.jpg",
-        "last_updated": "2020-05-13"
-      }
+      "tested": null
     },
     "delta": {
       "confirmed": 0,
@@ -18398,10 +18076,7 @@
         "deceased": 3
       },
       "2020-04-05": {
-        "tested": {
-          "samples": 2812,
-          "source": "https://twitter.com/JansamparkMP/status/1246841187073273857"
-        },
+        "tested": null,
         "confirmed": 14,
         "recovered": 3,
         "deceased": 2
@@ -18413,406 +18088,271 @@
         "deceased": 2
       },
       "2020-04-07": {
-        "tested": {
-          "samples": 3770,
-          "source": "https://twitter.com/JansamparkMP/status/1247554866043473920"
-        },
+        "tested": null,
         "confirmed": 34,
         "recovered": 10,
         "deceased": 6
       },
       "2020-04-08": {
-        "tested": {
-          "samples": 4056,
-          "source": "https://twitter.com/JansamparkMP/status/1247907281703862272/photo/2"
-        },
+        "tested": null,
         "confirmed": 51,
         "recovered": 4,
         "deceased": 3
       },
       "2020-04-09": {
-        "tested": {
-          "samples": 5135,
-          "source": "https://twitter.com/JansamparkMP/status/1248269831876382720?s=20"
-        },
+        "tested": null,
         "confirmed": 70,
         "recovered": 0,
         "deceased": 9
       },
       "2020-04-10": {
-        "tested": {
-          "samples": 7049,
-          "source": "https://twitter.com/JansamparkMP/status/1248611777526394885?s=19"
-        },
+        "tested": null,
         "confirmed": 40,
         "recovered": 12,
         "deceased": 4
       },
       "2020-04-11": {
-        "tested": {
-          "samples": 8516,
-          "source": "https://twitter.com/JansamparkMP/status/1249002767026274304?s=19"
-        },
+        "tested": null,
         "confirmed": 78,
         "recovered": 1,
         "deceased": 4
       },
       "2020-04-12": {
-        "tested": {
-          "samples": 10481,
-          "source": "https://twitter.com/JansamparkMP/status/1249287199687716864?s=19"
-        },
+        "tested": null,
         "confirmed": 33,
         "recovered": 3,
         "deceased": 3
       },
       "2020-04-13": {
-        "tested": {
-          "samples": 10481,
-          "source": "https://www.google.com/url?q=https://twitter.com/JansamparkMP/status/1249707440288878592?s%3D19&sa=D&ust=1586894104440000&usg=AFQjCNESb6V_VO9Qoh8zQT0BFeSThzRGJg"
-        },
+        "tested": null,
         "confirmed": 52,
         "recovered": 10,
         "deceased": 7
       },
       "2020-04-14": {
-        "tested": {
-          "samples": 8105,
-          "source": "https://twitter.com/JansamparkMP/status/1250071572779601920?s=09"
-        },
+        "tested": null,
         "confirmed": 127,
         "recovered": 13,
         "deceased": 3
       },
       "2020-04-15": {
-        "tested": {
-          "samples": 9596,
-          "source": "https://twitter.com/JansamparkMP/status/1250441930896334852?s=09"
-        },
+        "tested": null,
         "confirmed": 197,
         "recovered": 0,
         "deceased": 0
       },
       "2020-04-16": {
-        "tested": {
-          "samples": 13492,
-          "source": "https://twitter.com/JansamparkMP/status/1250813847650177024"
-        },
+        "tested": null,
         "confirmed": 226,
         "recovered": 6,
         "deceased": 2
       },
       "2020-04-17": {
-        "tested": {
-          "samples": 15302,
-          "source": "https://twitter.com/JansamparkMP/status/1251155692213334018"
-        },
+        "tested": null,
         "confirmed": 146,
         "recovered": 0,
         "deceased": 14
       },
       "2020-04-18": {
-        "tested": {
-          "samples": 14978,
-          "source": "https://twitter.com/JansamparkMP/status/1251528687935057920/photo/1"
-        },
+        "tested": null,
         "confirmed": 92,
         "recovered": 57,
         "deceased": 0
       },
       "2020-04-19": {
-        "tested": {
-          "samples": 17835,
-          "source": "https://twitter.com/JansamparkMP/status/1251866633360093184/photo/2"
-        },
+        "tested": null,
         "confirmed": 5,
         "recovered": 4,
         "deceased": 3
       },
       "2020-04-20": {
-        "tested": {
-          "samples": 19142,
-          "source": "https://twitter.com/JansamparkMP/status/1252220621112647683/photo/2"
-        },
+        "tested": null,
         "confirmed": 78,
         "recovered": 7,
         "deceased": 4
       },
       "2020-04-21": {
-        "tested": {
-          "samples": 20905,
-          "source": "https://twitter.com/JansamparkMP/status/1252572205768114178/photo/1"
-        },
+        "tested": null,
         "confirmed": 67,
         "recovered": 10,
         "deceased": 4
       },
       "2020-04-22": {
-        "tested": {
-          "samples": 22664,
-          "source": "https://twitter.com/JansamparkMP/status/1252908046629691392/photo/1"
-        },
+        "tested": null,
         "confirmed": 35,
         "recovered": 4,
         "deceased": 0
       },
       "2020-04-23": {
-        "tested": {
-          "samples": 24548,
-          "source": "https://twitter.com/JansamparkMP/status/1253294536438284288?s=09"
-        },
+        "tested": null,
         "confirmed": 100,
         "recovered": 51,
         "deceased": 3
       },
       "2020-04-24": {
-        "tested": {
-          "samples": 26233,
-          "source": "https://twitter.com/JansamparkMP/status/1253649153525153792?s=19"
-        },
+        "tested": null,
         "confirmed": 159,
         "recovered": 7,
         "deceased": 9
       },
       "2020-04-25": {
-        "tested": {
-          "samples": 27866,
-          "source": "https://twitter.com/JansamparkMP/status/1254034656330240001"
-        },
+        "tested": null,
         "confirmed": 99,
         "recovered": 71,
         "deceased": 7
       },
       "2020-04-26": {
-        "tested": {
-          "samples": 25232,
-          "source": "https://www.mpinfo.org/MPinfoStatic/other_updates/Health-Bulletin-26April2020.pdf"
-        },
+        "tested": null,
         "confirmed": 145,
         "recovered": 21,
         "deceased": 4
       },
       "2020-04-27": {
-        "tested": {
-          "samples": 27009,
-          "source": "https://www.mpinfo.org/MPinfoStatic/other_updates/Health-Bulletin-27April2020.pdf"
-        },
+        "tested": null,
         "confirmed": 75,
         "recovered": 55,
         "deceased": 7
       },
       "2020-04-28": {
-        "tested": {
-          "samples": 31060,
-          "source": "https://www.mpinfo.org/MPinfoStatic/other_updates/Health-Bulletin-28April2020.pdf"
-        },
+        "tested": null,
         "confirmed": 222,
         "recovered": 16,
         "deceased": 10
       },
       "2020-04-29": {
-        "tested": {
-          "samples": 33837,
-          "source": "https://twitter.com/JansamparkMP/status/1255502748377899009?s=09"
-        },
+        "tested": null,
         "confirmed": 173,
         "recovered": 88,
         "deceased": 10
       },
       "2020-04-30": {
-        "tested": {
-          "samples": 41712,
-          "source": "https://twitter.com/JansamparkMP/status/1255859565607952386/photo/1"
-        },
+        "tested": null,
         "confirmed": 65,
         "recovered": 21,
         "deceased": 7
       },
       "2020-05-01": {
-        "tested": {
-          "samples": 44116,
-          "source": "https://twitter.com/JansamparkMP/status/1256249293863882752/photo/1"
-        },
+        "tested": null,
         "confirmed": 90,
         "recovered": 42,
         "deceased": 8
       },
       "2020-05-02": {
-        "tested": {
-          "samples": 46578,
-          "source": "https://twitter.com/JansamparkMP/status/1256593893711372288?s=19"
-        },
+        "tested": null,
         "confirmed": 73,
         "recovered": 100,
         "deceased": 6
       },
       "2020-05-03": {
-        "tested": {
-          "samples": 49186,
-          "source": "https://mobile.twitter.com/JansamparkMP/status/1256969557522120705"
-        },
+        "tested": null,
         "confirmed": 49,
         "recovered": 174,
         "deceased": 5
       },
       "2020-05-04": {
-        "tested": {
-          "samples": 52095,
-          "source": "https://twitter.com/JansamparkMP/status/1257349630339289089?s=19"
-        },
+        "tested": null,
         "confirmed": 105,
         "recovered": 58,
         "deceased": 9
       },
       "2020-05-05": {
-        "tested": {
-          "samples": 54595,
-          "source": "https://twitter.com/JansamparkMP/status/1257679603717603329/photo/1"
-        },
+        "tested": null,
         "confirmed": 107,
         "recovered": 144,
         "deceased": 11
       },
       "2020-05-06": {
-        "tested": {
-          "samples": 54595,
-          "source": "https://twitter.com/JansamparkMP/status/1258045895779725312"
-        },
+        "tested": null,
         "confirmed": 89,
         "recovered": 99,
         "deceased": 9
       },
       "2020-05-07": {
-        "tested": {
-          "samples": 61020,
-          "source": "https://twitter.com/JansamparkMP/status/1258404394644766723?s=19"
-        },
+        "tested": null,
         "confirmed": 114,
         "recovered": 132,
         "deceased": 8
       },
       "2020-05-08": {
-        "tested": {
-          "samples": 63705,
-          "source": "https://twitter.com/JansamparkMP/status/1258773188110098432?s=19"
-        },
+        "tested": null,
         "confirmed": 89,
         "recovered": 118,
         "deceased": 7
       },
       "2020-05-09": {
-        "tested": {
-          "samples": 68010,
-          "source": "https://twitter.com/healthminmp/status/1259128463933538305?s=19"
-        },
+        "tested": null,
         "confirmed": 116,
         "recovered": 131,
         "deceased": 11
       },
       "2020-05-10": {
-        "tested": {
-          "samples": 72069,
-          "source": "https://twitter.com/healthminmp/status/1259492747590934529?s=19"
-        },
+        "tested": null,
         "confirmed": 157,
         "recovered": 196,
         "deceased": 4
       },
       "2020-05-11": {
-        "tested": {
-          "samples": 76039,
-          "source": "https://twitter.com/healthminmp/status/1259847116282892289/photo/2"
-        },
+        "tested": null,
         "confirmed": 171,
         "recovered": 71,
         "deceased": 6
       },
       "2020-05-12": {
-        "tested": {
-          "samples": 80885,
-          "source": "https://twitter.com/healthminmp/status/1260204355032096770"
-        },
+        "tested": null,
         "confirmed": 201,
         "recovered": 113,
         "deceased": 4
       },
       "2020-05-13": {
-        "tested": {
-          "samples": 85903,
-          "source": "https://twitter.com/healthminmp/status/1260561896341745664"
-        },
+        "tested": null,
         "confirmed": 187,
         "recovered": 144,
         "deceased": 7
       },
       "2020-05-14": {
-        "tested": {
-          "samples": 89760,
-          "source": "https://twitter.com/healthminmp/status/1260944708928442369?s=19"
-        },
+        "tested": null,
         "confirmed": 253,
         "recovered": 167,
         "deceased": 5
       },
       "2020-05-15": {
-        "tested": {
-          "samples": 93849,
-          "source": "https://twitter.com/healthminmp/status/1261288369738469376?s=09"
-        },
+        "tested": null,
         "confirmed": 169,
         "recovered": 112,
         "deceased": 2
       },
       "2020-05-16": {
-        "tested": {
-          "samples": 99677,
-          "source": "https://twitter.com/healthminmp/status/1261670035577323520?s=19"
-        },
+        "tested": null,
         "confirmed": 195,
         "recovered": 32,
         "deceased": 4
       },
       "2020-05-17": {
-        "tested": {
-          "samples": 103898,
-          "source": "https://twitter.com/healthminmp/status/1262035609348120577"
-        },
+        "tested": null,
         "confirmed": 187,
         "recovered": 88,
         "deceased": 5
       },
       "2020-05-18": {
-        "tested": {
-          "samples": 112168,
-          "source": "https://twitter.com/healthminmp/status/1262379250788765696"
-        },
+        "tested": null,
         "confirmed": 259,
         "recovered": 32,
         "deceased": 4
       },
       "2020-05-19": {
-        "tested": {
-          "samples": 116473,
-          "source": "https://twitter.com/healthminmp/status/1262740820844621824"
-        },
+        "tested": null,
         "confirmed": 229,
         "recovered": 196,
         "deceased": 6
       },
       "2020-05-20": {
-        "tested": {
-          "samples": 120737,
-          "source": "https://twitter.com/healthminmp/status/1263119544861765632?s=19"
-        },
+        "tested": null,
         "confirmed": 270,
         "recovered": 103,
         "deceased": 9
       },
       "2020-05-21": {
-        "tested": {
-          "samples": 125608,
-          "source": "https://twitter.com/JansamparkMP/status/1263482833420668928"
-        },
+        "tested": null,
         "confirmed": 246,
         "recovered": 110,
         "deceased": 4
@@ -19708,11 +19248,7 @@
       "confirmed": 5981,
       "recovered": 2844,
       "deceased": 271,
-      "tested": {
-        "samples": 125608,
-        "source": "https://twitter.com/JansamparkMP/status/1263482833420668928",
-        "last_updated": "2020-05-21"
-      }
+      "tested": null
     },
     "delta": {
       "confirmed": 0,
@@ -19863,37 +19399,25 @@
         "deceased": 0
       },
       "2020-04-06": {
-        "tested": {
-          "samples": 58,
-          "source": "https://health.mizoram.gov.in/post/covid-19-bulletin-date-642020"
-        },
+        "tested": null,
         "confirmed": 0,
         "recovered": 0,
         "deceased": 0
       },
       "2020-04-07": {
-        "tested": {
-          "samples": 58,
-          "source": "https://health.mizoram.gov.in/post/covid-19-bulletin-date-742020"
-        },
+        "tested": null,
         "confirmed": 0,
         "recovered": 0,
         "deceased": 0
       },
       "2020-04-08": {
-        "tested": {
-          "samples": 74,
-          "source": "https://health.mizoram.gov.in/post/covid-19-bulletin-date-842020"
-        },
+        "tested": null,
         "confirmed": 0,
         "recovered": 0,
         "deceased": 0
       },
       "2020-04-09": {
-        "tested": {
-          "samples": 84,
-          "source": "https://health.mizoram.gov.in/post/covid-19-bulletin-date-942020"
-        },
+        "tested": null,
         "confirmed": 0,
         "recovered": 0,
         "deceased": 0
@@ -19911,46 +19435,31 @@
         "deceased": 0
       },
       "2020-04-12": {
-        "tested": {
-          "samples": 87,
-          "source": "https://health.mizoram.gov.in/post/status-of-state-surveillance-of-covid-19-date-1142020"
-        },
+        "tested": null,
         "confirmed": 0,
         "recovered": 0,
         "deceased": 0
       },
       "2020-04-13": {
-        "tested": {
-          "samples": 89,
-          "source": "https://t.me/indiacovid/2218"
-        },
+        "tested": null,
         "confirmed": 0,
         "recovered": 0,
         "deceased": 0
       },
       "2020-04-14": {
-        "tested": {
-          "samples": 91,
-          "source": "https://health.mizoram.gov.in/post/covid-19-bulletin-date-1442020"
-        },
+        "tested": null,
         "confirmed": 0,
         "recovered": 0,
         "deceased": 0
       },
       "2020-04-15": {
-        "tested": {
-          "samples": 94,
-          "source": "https://health.mizoram.gov.in/post/covid-19-bulletin-date-1542020"
-        },
+        "tested": null,
         "confirmed": 0,
         "recovered": 0,
         "deceased": 0
       },
       "2020-04-16": {
-        "tested": {
-          "samples": 94,
-          "source": "https://health.mizoram.gov.in/post/covid-19-bulletin-date-1642020"
-        },
+        "tested": null,
         "confirmed": 0,
         "recovered": 0,
         "deceased": 0
@@ -19962,55 +19471,37 @@
         "deceased": 0
       },
       "2020-04-18": {
-        "tested": {
-          "samples": 102,
-          "source": "https://health.mizoram.gov.in/post/covid-19-bulletin-date-1842020"
-        },
+        "tested": null,
         "confirmed": 0,
         "recovered": 0,
         "deceased": 0
       },
       "2020-04-19": {
-        "tested": {
-          "samples": 116,
-          "source": "https://health.mizoram.gov.in/post/covid-19-bulletin-date-1942020"
-        },
+        "tested": null,
         "confirmed": 0,
         "recovered": 0,
         "deceased": 0
       },
       "2020-04-20": {
-        "tested": {
-          "samples": 132,
-          "source": "https://health.mizoram.gov.in/post/covid-19-bulletin-date-2042020"
-        },
+        "tested": null,
         "confirmed": 0,
         "recovered": 0,
         "deceased": 0
       },
       "2020-04-21": {
-        "tested": {
-          "samples": 135,
-          "source": "https://t.me/indiacovid/2898?single"
-        },
+        "tested": null,
         "confirmed": 0,
         "recovered": 0,
         "deceased": 0
       },
       "2020-04-22": {
-        "tested": {
-          "samples": 135,
-          "source": "https://health.mizoram.gov.in/post/covid-19-bulletin-date-2242020"
-        },
+        "tested": null,
         "confirmed": 0,
         "recovered": 0,
         "deceased": 0
       },
       "2020-04-23": {
-        "tested": {
-          "samples": 137,
-          "source": "https://health.mizoram.gov.in/post/covid-19-bulletin-date-2342020"
-        },
+        "tested": null,
         "confirmed": 0,
         "recovered": 0,
         "deceased": 0
@@ -20028,235 +19519,157 @@
         "deceased": 0
       },
       "2020-04-26": {
-        "tested": {
-          "samples": 146,
-          "source": "https://health.mizoram.gov.in/post/covid-19-bulletin-date-2642020"
-        },
+        "tested": null,
         "confirmed": 0,
         "recovered": 0,
         "deceased": 0
       },
       "2020-04-27": {
-        "tested": {
-          "samples": 146,
-          "source": "https://health.mizoram.gov.in/post/covid-19-bulletin-date-2742020"
-        },
+        "tested": null,
         "confirmed": 0,
         "recovered": 0,
         "deceased": 0
       },
       "2020-04-28": {
-        "tested": {
-          "samples": 158,
-          "source": "https://health.mizoram.gov.in/post/covid-19-bulletin-date-2842020"
-        },
+        "tested": null,
         "confirmed": 0,
         "recovered": 0,
         "deceased": 0
       },
       "2020-04-29": {
-        "tested": {
-          "samples": 179,
-          "source": "https://health.mizoram.gov.in/post/covid-19-bulletin-date-2942020"
-        },
+        "tested": null,
         "confirmed": 0,
         "recovered": 0,
         "deceased": 0
       },
       "2020-04-30": {
-        "tested": {
-          "samples": 180,
-          "source": "https://health.mizoram.gov.in/post/covid-19-bulletin-date-3042020"
-        },
+        "tested": null,
         "confirmed": 0,
         "recovered": 0,
         "deceased": 0
       },
       "2020-05-01": {
-        "tested": {
-          "samples": 180,
-          "source": "http://dipr.mizoram.gov.in/post/status-of-state-surveillance-of-covid-19-time-3042020-500pm-152020-500-pm"
-        },
+        "tested": null,
         "confirmed": 0,
         "recovered": 0,
         "deceased": 0
       },
       "2020-05-02": {
-        "tested": {
-          "samples": 183,
-          "source": "http://dipr.mizoram.gov.in/post/status-of-state-surveillance-of-covid-19-time-152020-500pm-252020-500-pm"
-        },
+        "tested": null,
         "confirmed": 0,
         "recovered": 0,
         "deceased": 0
       },
       "2020-05-03": {
-        "tested": {
-          "samples": 183,
-          "source": "http://dipr.mizoram.gov.in/post/status-of-state-surveillance-of-covid-19-time-252020-500pm-352020-500-pm"
-        },
+        "tested": null,
         "confirmed": 0,
         "recovered": 0,
         "deceased": 0
       },
       "2020-05-04": {
-        "tested": {
-          "samples": 183,
-          "source": "http://dipr.mizoram.gov.in/post/status-of-state-surveillance-of-covid-19-time-352020-500pm-452020-500-pm"
-        },
+        "tested": null,
         "confirmed": 0,
         "recovered": 0,
         "deceased": 0
       },
       "2020-05-05": {
-        "tested": {
-          "samples": 188,
-          "source": "http://dipr.mizoram.gov.in/post/status-of-state-surveillance-of-covid-19-time-452020-500pm-552020-500-pm"
-        },
+        "tested": null,
         "confirmed": 0,
         "recovered": 1,
         "deceased": 0
       },
       "2020-05-06": {
-        "tested": {
-          "samples": 195,
-          "source": "http://dipr.mizoram.gov.in/post/status-of-state-surveillance-of-covid-19-time-552020-500pm-652020-500-pm"
-        },
+        "tested": null,
         "confirmed": 0,
         "recovered": 0,
         "deceased": 0
       },
       "2020-05-07": {
-        "tested": {
-          "samples": 197,
-          "source": "http://dipr.mizoram.gov.in/post/status-of-state-surveillance-of-covid-19-time-652020-500pm-752020-500-pm"
-        },
+        "tested": null,
         "confirmed": 0,
         "recovered": 0,
         "deceased": 0
       },
       "2020-05-08": {
-        "tested": {
-          "samples": 199,
-          "source": "http://dipr.mizoram.gov.in/post/status-of-state-surveillance-of-covid-19-time-752020-500pm-852020-500-pm"
-        },
+        "tested": null,
         "confirmed": 0,
         "recovered": 0,
         "deceased": 0
       },
       "2020-05-09": {
-        "tested": {
-          "samples": 201,
-          "source": "http://dipr.mizoram.gov.in/post/status-of-state-surveillance-of-covid-19-time-852020-500pm-952020-500-pm"
-        },
+        "tested": null,
         "confirmed": 0,
         "recovered": 0,
         "deceased": 0
       },
       "2020-05-10": {
-        "tested": {
-          "samples": 201,
-          "source": "http://dipr.mizoram.gov.in/post/status-of-state-surveillance-of-covid-19-time-952020-500pm-1052020-500-pm"
-        },
+        "tested": null,
         "confirmed": 0,
         "recovered": 0,
         "deceased": 0
       },
       "2020-05-11": {
-        "tested": {
-          "samples": 206,
-          "source": "https://dipr.mizoram.gov.in/post/status-of-state-surveillance-of-covid-19-time-1052020-500pm-1152020-500-pm"
-        },
+        "tested": null,
         "confirmed": 0,
         "recovered": 0,
         "deceased": 0
       },
       "2020-05-12": {
-        "tested": {
-          "samples": 224,
-          "source": "https://dipr.mizoram.gov.in/post/status-of-state-surveillance-of-covid-19-time-1152020-500pm-1252020-500-pm"
-        },
+        "tested": null,
         "confirmed": 0,
         "recovered": 0,
         "deceased": 0
       },
       "2020-05-13": {
-        "tested": {
-          "samples": 224,
-          "source": "https://dipr.mizoram.gov.in/post/status-of-state-surveillance-of-covid-19-time-1252020-500pm-1352020-500-pm"
-        },
+        "tested": null,
         "confirmed": 0,
         "recovered": 0,
         "deceased": 0
       },
       "2020-05-14": {
-        "tested": {
-          "samples": 273,
-          "source": "https://dipr.mizoram.gov.in/post/status-of-state-surveillance-of-covid-19-time-1352020-500pm-1452020-500-pm"
-        },
+        "tested": null,
         "confirmed": 0,
         "recovered": 0,
         "deceased": 0
       },
       "2020-05-15": {
-        "tested": {
-          "samples": 273,
-          "source": "https://dipr.mizoram.gov.in/post/status-of-state-surveillance-of-covid-19-time-1452020-500pm-1552020-500-pm"
-        },
+        "tested": null,
         "confirmed": 0,
         "recovered": 0,
         "deceased": 0
       },
       "2020-05-16": {
-        "tested": {
-          "samples": 282,
-          "source": "https://dipr.mizoram.gov.in/post/status-of-state-surveillance-of-covid-19-time-1552020-500pm-1652020-500-pm"
-        },
+        "tested": null,
         "confirmed": 0,
         "recovered": 0,
         "deceased": 0
       },
       "2020-05-17": {
-        "tested": {
-          "samples": 282,
-          "source": "https://dipr.mizoram.gov.in/post/status-of-state-surveillance-of-covid-19-time-1652020-500pm-1752020-500-pm"
-        },
+        "tested": null,
         "confirmed": 0,
         "recovered": 0,
         "deceased": 0
       },
       "2020-05-18": {
-        "tested": {
-          "samples": 301,
-          "source": "https://health.mizoram.gov.in/post/covid-19-bulletin-date-18052020"
-        },
+        "tested": null,
         "confirmed": 0,
         "recovered": 0,
         "deceased": 0
       },
       "2020-05-19": {
-        "tested": {
-          "samples": 313,
-          "source": "https://dipr.mizoram.gov.in/post/status-of-state-surveillance-of-covid-19-time-1852020-500pm-1952020-500-pm"
-        },
+        "tested": null,
         "confirmed": 0,
         "recovered": 0,
         "deceased": 0
       },
       "2020-05-20": {
-        "tested": {
-          "samples": 315,
-          "source": "https://dipr.mizoram.gov.in/post/status-of-state-surveillance-of-covid-19-time-1952020-500pm-2052020-500-pm"
-        },
+        "tested": null,
         "confirmed": 0,
         "recovered": 0,
         "deceased": 0
       },
       "2020-05-21": {
-        "tested": {
-          "samples": 320,
-          "source": "https://dipr.mizoram.gov.in/post/status-of-state-surveillance-of-covid-19-time-2052020-500pm-2152020-500-pm"
-        },
+        "tested": null,
         "confirmed": 0,
         "recovered": 0,
         "deceased": 0
@@ -20455,11 +19868,7 @@
       "confirmed": 1,
       "recovered": 1,
       "deceased": 0,
-      "tested": {
-        "samples": 320,
-        "source": "https://dipr.mizoram.gov.in/post/status-of-state-surveillance-of-covid-19-time-2052020-500pm-2152020-500-pm",
-        "last_updated": "2020-05-21"
-      }
+      "tested": null
     },
     "delta": {
       "confirmed": 0,
@@ -20610,10 +20019,7 @@
         "deceased": 0
       },
       "2020-04-06": {
-        "tested": {
-          "samples": 60,
-          "source": "http://morungexpress.com/nagaland-covid-19-update-2"
-        },
+        "tested": null,
         "confirmed": 0,
         "recovered": 0,
         "deceased": 0
@@ -20637,28 +20043,19 @@
         "deceased": 0
       },
       "2020-04-10": {
-        "tested": {
-          "samples": 70,
-          "source": "http://morungexpress.com/nagaland-covid-19-update-4"
-        },
+        "tested": null,
         "confirmed": 0,
         "recovered": 0,
         "deceased": 0
       },
       "2020-04-11": {
-        "tested": {
-          "samples": 70,
-          "source": "http://morungexpress.com/nagaland-covid-19-update-5"
-        },
+        "tested": null,
         "confirmed": 0,
         "recovered": 0,
         "deceased": 0
       },
       "2020-04-12": {
-        "tested": {
-          "samples": 74,
-          "source": "http://morungexpress.com/nagaland-covid-19-update-6"
-        },
+        "tested": null,
         "confirmed": 0,
         "recovered": 0,
         "deceased": 0
@@ -20670,19 +20067,13 @@
         "deceased": 0
       },
       "2020-04-14": {
-        "tested": {
-          "samples": 174,
-          "source": "https://nagahealth.nagaland.gov.in/"
-        },
+        "tested": null,
         "confirmed": 0,
         "recovered": 0,
         "deceased": 0
       },
       "2020-04-15": {
-        "tested": {
-          "samples": 184,
-          "source": "https://nagahealth.nagaland.gov.in/"
-        },
+        "tested": null,
         "confirmed": 0,
         "recovered": 0,
         "deceased": 0
@@ -20694,64 +20085,43 @@
         "deceased": 0
       },
       "2020-04-17": {
-        "tested": {
-          "samples": 274,
-          "source": "https://nagahealth.nagaland.gov.in/"
-        },
+        "tested": null,
         "confirmed": 0,
         "recovered": 0,
         "deceased": 0
       },
       "2020-04-18": {
-        "tested": {
-          "samples": 392,
-          "source": "https://nagahealth.nagaland.gov.in/"
-        },
+        "tested": null,
         "confirmed": 0,
         "recovered": 0,
         "deceased": 0
       },
       "2020-04-19": {
-        "tested": {
-          "samples": 404,
-          "source": "https://nagahealth.nagaland.gov.in/"
-        },
+        "tested": null,
         "confirmed": 0,
         "recovered": 0,
         "deceased": 0
       },
       "2020-04-20": {
-        "tested": {
-          "samples": 434,
-          "source": "https://nagahealth.nagaland.gov.in/"
-        },
+        "tested": null,
         "confirmed": 0,
         "recovered": 0,
         "deceased": 0
       },
       "2020-04-21": {
-        "tested": {
-          "samples": 537,
-          "source": "https://nagahealth.nagaland.gov.in/"
-        },
+        "tested": null,
         "confirmed": 0,
         "recovered": 0,
         "deceased": 0
       },
       "2020-04-22": {
-        "tested": {
-          "samples": 543,
-          "source": "https://nagahealth.nagaland.gov.in/"
-        },
+        "tested": null,
         "confirmed": 0,
         "recovered": 0,
         "deceased": 0
       },
       "2020-04-23": {
-        "tested": {
-          "samples": 607,
-          "source": "https://nagahealth.nagaland.gov.in/"
-        },
+        "tested": null,
         "confirmed": 0,
         "recovered": 0,
         "deceased": 0
@@ -20763,244 +20133,163 @@
         "deceased": 0
       },
       "2020-04-25": {
-        "tested": {
-          "samples": 613,
-          "source": "https://nagahealth.nagaland.gov.in/"
-        },
+        "tested": null,
         "confirmed": 0,
         "recovered": 0,
         "deceased": 0
       },
       "2020-04-26": {
-        "tested": {
-          "samples": 613,
-          "source": "https://nagahealth.nagaland.gov.in/"
-        },
+        "tested": null,
         "confirmed": 0,
         "recovered": 0,
         "deceased": 0
       },
       "2020-04-27": {
-        "tested": {
-          "samples": 629,
-          "source": "https://nagahealth.nagaland.gov.in/"
-        },
+        "tested": null,
         "confirmed": 0,
         "recovered": 0,
         "deceased": 0
       },
       "2020-04-28": {
-        "tested": {
-          "samples": 639,
-          "source": "https://nagahealth.nagaland.gov.in/"
-        },
+        "tested": null,
         "confirmed": 0,
         "recovered": 0,
         "deceased": 0
       },
       "2020-04-29": {
-        "tested": {
-          "samples": 644,
-          "source": "https://covid19.nagaland.gov.in/"
-        },
+        "tested": null,
         "confirmed": 0,
         "recovered": 0,
         "deceased": 0
       },
       "2020-04-30": {
-        "tested": {
-          "samples": 653,
-          "source": "https://covid19.nagaland.gov.in/"
-        },
+        "tested": null,
         "confirmed": 0,
         "recovered": 0,
         "deceased": 0
       },
       "2020-05-01": {
-        "tested": {
-          "samples": 664,
-          "source": "https://covid19.nagaland.gov.in/"
-        },
+        "tested": null,
         "confirmed": 0,
         "recovered": 0,
         "deceased": 0
       },
       "2020-05-02": {
-        "tested": {
-          "samples": 674,
-          "source": "https://covid19.nagaland.gov.in/"
-        },
+        "tested": null,
         "confirmed": 0,
         "recovered": 0,
         "deceased": 0
       },
       "2020-05-03": {
-        "tested": {
-          "samples": 684,
-          "source": "https://covid19.nagaland.gov.in/"
-        },
+        "tested": null,
         "confirmed": 0,
         "recovered": 0,
         "deceased": 0
       },
       "2020-05-04": {
-        "tested": {
-          "samples": 708,
-          "source": "https://covid19.nagaland.gov.in/"
-        },
+        "tested": null,
         "confirmed": 0,
         "recovered": 0,
         "deceased": 0
       },
       "2020-05-05": {
-        "tested": {
-          "samples": 724,
-          "source": "https://covid19.nagaland.gov.in/"
-        },
+        "tested": null,
         "confirmed": 0,
         "recovered": 0,
         "deceased": 0
       },
       "2020-05-06": {
-        "tested": {
-          "samples": 763,
-          "source": "https://twitter.com/HealthNagaland/status/1258019443202052158"
-        },
+        "tested": null,
         "confirmed": 0,
         "recovered": 0,
         "deceased": 0
       },
       "2020-05-07": {
-        "tested": {
-          "samples": 786,
-          "source": "https://covid19.nagaland.gov.in/"
-        },
+        "tested": null,
         "confirmed": 0,
         "recovered": 0,
         "deceased": 0
       },
       "2020-05-08": {
-        "tested": {
-          "samples": 805,
-          "source": "https://t.me/indiacovid/4317"
-        },
+        "tested": null,
         "confirmed": 0,
         "recovered": 0,
         "deceased": 0
       },
       "2020-05-09": {
-        "tested": {
-          "samples": 848,
-          "source": "https://covid19.nagaland.gov.in/"
-        },
+        "tested": null,
         "confirmed": 0,
         "recovered": 0,
         "deceased": 0
       },
       "2020-05-10": {
-        "tested": {
-          "samples": 862,
-          "source": "https://covid19.nagaland.gov.in/"
-        },
+        "tested": null,
         "confirmed": 0,
         "recovered": 0,
         "deceased": 0
       },
       "2020-05-11": {
-        "tested": {
-          "samples": 875,
-          "source": "https://covid19.nagaland.gov.in/"
-        },
+        "tested": null,
         "confirmed": 0,
         "recovered": 0,
         "deceased": 0
       },
       "2020-05-12": {
-        "tested": {
-          "samples": 882,
-          "source": "https://covid19.nagaland.gov.in/"
-        },
+        "tested": null,
         "confirmed": 0,
         "recovered": 0,
         "deceased": 0
       },
       "2020-05-13": {
-        "tested": {
-          "samples": 889,
-          "source": "https://covid19.nagaland.gov.in/"
-        },
+        "tested": null,
         "confirmed": 0,
         "recovered": 0,
         "deceased": 0
       },
       "2020-05-14": {
-        "tested": {
-          "samples": 891,
-          "source": "https://t.me/Covid19india_Auxiliary_Test_Data/3"
-        },
+        "tested": null,
         "confirmed": 0,
         "recovered": 0,
         "deceased": 0
       },
       "2020-05-15": {
-        "tested": {
-          "samples": 910,
-          "source": "https://t.me/Covid19india_Auxiliary_Test_Data/23?single"
-        },
+        "tested": null,
         "confirmed": 0,
         "recovered": 0,
         "deceased": 0
       },
       "2020-05-16": {
-        "tested": {
-          "samples": 917,
-          "source": "https://t.me/Covid19india_Auxiliary_Test_Data/28?single"
-        },
+        "tested": null,
         "confirmed": 0,
         "recovered": 0,
         "deceased": 0
       },
       "2020-05-17": {
-        "tested": {
-          "samples": 952,
-          "source": "https://t.me/Covid19india_Auxiliary_Test_Data/37"
-        },
+        "tested": null,
         "confirmed": 0,
         "recovered": 0,
         "deceased": 0
       },
       "2020-05-18": {
-        "tested": {
-          "samples": 961,
-          "source": "https://t.me/Covid19india_Auxiliary_Test_Data/50?single"
-        },
+        "tested": null,
         "confirmed": 0,
         "recovered": 0,
         "deceased": 0
       },
       "2020-05-19": {
-        "tested": {
-          "samples": 978,
-          "source": "https://t.me/Covid19india_Auxiliary_Test_Data/61"
-        },
+        "tested": null,
         "confirmed": 0,
         "recovered": 0,
         "deceased": 0
       },
       "2020-05-20": {
-        "tested": {
-          "samples": 985,
-          "source": "https://t.me/Covid19india_Auxiliary_Test_Data/68"
-        },
+        "tested": null,
         "confirmed": 0,
         "recovered": 0,
         "deceased": 0
       },
       "2020-05-21": {
-        "tested": {
-          "samples": 1001,
-          "source": "https://t.me/Covid19india_Auxiliary_Test_Data/95?single"
-        },
+        "tested": null,
         "confirmed": 0,
         "recovered": 0,
         "deceased": 0
@@ -21199,11 +20488,7 @@
       "confirmed": 0,
       "recovered": 0,
       "deceased": 0,
-      "tested": {
-        "samples": 1001,
-        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/95?single",
-        "last_updated": "2020-05-21"
-      }
+      "tested": null
     },
     "delta": {
       "confirmed": 0,
@@ -21336,10 +20621,7 @@
         "deceased": 0
       },
       "2020-04-03": {
-        "tested": {
-          "samples": 1395,
-          "source": "https://twitter.com/HFWOdisha/status/1246135145230303232"
-        },
+        "tested": null,
         "confirmed": 15,
         "recovered": 1,
         "deceased": 0
@@ -21363,406 +20645,271 @@
         "deceased": 0
       },
       "2020-04-07": {
-        "tested": {
-          "samples": 2441,
-          "source": "https://twitter.com/HFWOdisha/status/1247579939206909953"
-        },
+        "tested": null,
         "confirmed": 2,
         "recovered": 0,
         "deceased": 1
       },
       "2020-04-08": {
-        "tested": {
-          "samples": 2441,
-          "source": "https://health.odisha.gov.in/"
-        },
+        "tested": null,
         "confirmed": 0,
         "recovered": 0,
         "deceased": 0
       },
       "2020-04-09": {
-        "tested": {
-          "samples": 3249,
-          "source": "https://health.odisha.gov.in/"
-        },
+        "tested": null,
         "confirmed": 6,
         "recovered": 0,
         "deceased": 0
       },
       "2020-04-10": {
-        "tested": {
-          "samples": 3547,
-          "source": "https://health.odisha.gov.in/"
-        },
+        "tested": null,
         "confirmed": 2,
         "recovered": 10,
         "deceased": 0
       },
       "2020-04-11": {
-        "tested": {
-          "samples": 3551,
-          "source": "https://health.odisha.gov.in/"
-        },
+        "tested": null,
         "confirmed": 4,
         "recovered": 0,
         "deceased": 0
       },
       "2020-04-12": {
-        "tested": {
-          "samples": 3862,
-          "source": "https://health.odisha.gov.in/"
-        },
+        "tested": null,
         "confirmed": 0,
         "recovered": 0,
         "deceased": 0
       },
       "2020-04-13": {
-        "tested": {
-          "samples": 4170,
-          "source": "https://health.odisha.gov.in/"
-        },
+        "tested": null,
         "confirmed": 1,
         "recovered": 6,
         "deceased": 0
       },
       "2020-04-14": {
-        "tested": {
-          "samples": 4734,
-          "source": "https://health.odisha.gov.in/"
-        },
+        "tested": null,
         "confirmed": 5,
         "recovered": 0,
         "deceased": 0
       },
       "2020-04-15": {
-        "tested": {
-          "samples": 5537,
-          "source": "https://health.odisha.gov.in/"
-        },
+        "tested": null,
         "confirmed": 0,
         "recovered": 1,
         "deceased": 0
       },
       "2020-04-16": {
-        "tested": {
-          "samples": 6734,
-          "source": "https://health.odisha.gov.in/pdf/covid-19-Analysis-Report-16042020.pdf"
-        },
+        "tested": null,
         "confirmed": 0,
         "recovered": 0,
         "deceased": 0
       },
       "2020-04-17": {
-        "tested": {
-          "samples": 7577,
-          "source": "https://health.odisha.gov.in/pdf/covid-19-Analysis-Report-17042020.pdf"
-        },
+        "tested": null,
         "confirmed": 0,
         "recovered": 2,
         "deceased": 0
       },
       "2020-04-18": {
-        "tested": {
-          "samples": 8619,
-          "source": "https://health.odisha.gov.in/pdf/covid-19-Analysis-Report-17042020.pdf"
-        },
+        "tested": null,
         "confirmed": 1,
         "recovered": 3,
         "deceased": 0
       },
       "2020-04-19": {
-        "tested": {
-          "samples": 9690,
-          "source": "https://health.odisha.gov.in/pdf/covid-19-Analysis-Report-19042020.pdf"
-        },
+        "tested": null,
         "confirmed": 0,
         "recovered": 0,
         "deceased": 0
       },
       "2020-04-20": {
-        "tested": {
-          "samples": 10641,
-          "source": "https://health.odisha.gov.in/"
-        },
+        "tested": null,
         "confirmed": 13,
         "recovered": 0,
         "deceased": 0
       },
       "2020-04-21": {
-        "tested": {
-          "samples": 11748,
-          "source": "https://health.odisha.gov.in/pdf/news-covid-19-press-meet-21042020Eng.pdf"
-        },
+        "tested": null,
         "confirmed": 5,
         "recovered": 6,
         "deceased": 0
       },
       "2020-04-22": {
-        "tested": {
-          "samples": 13775,
-          "source": "https://health.odisha.gov.in/"
-        },
+        "tested": null,
         "confirmed": 4,
         "recovered": 2,
         "deceased": 0
       },
       "2020-04-23": {
-        "tested": {
-          "samples": 15984,
-          "source": "https://health.odisha.gov.in/pdf/news-covid-19-press-meet-23042020Eng.pdf"
-        },
+        "tested": null,
         "confirmed": 6,
         "recovered": 1,
         "deceased": 0
       },
       "2020-04-24": {
-        "tested": {
-          "samples": 18458,
-          "source": "https://health.odisha.gov.in/pdf/news-covid-19-press%20meet-24042020Eng.pdf"
-        },
+        "tested": null,
         "confirmed": 5,
         "recovered": 0,
         "deceased": 0
       },
       "2020-04-25": {
-        "tested": {
-          "samples": 20599,
-          "source": "https://health.odisha.gov.in/pdf/news-covid-19-press%20meet-25042020Eng.pdf"
-        },
+        "tested": null,
         "confirmed": 6,
         "recovered": 1,
         "deceased": 0
       },
       "2020-04-26": {
-        "tested": {
-          "samples": 22816,
-          "source": "https://health.odisha.gov.in/pdf/news-covid-19-press%20meet-26042020Eng.pdf"
-        },
+        "tested": null,
         "confirmed": 3,
         "recovered": 1,
         "deceased": 0
       },
       "2020-04-27": {
-        "tested": {
-          "samples": 25103,
-          "source": "https://health.odisha.gov.in/pdf/news-covid-19-press-meet-27042020Eng.pdf"
-        },
+        "tested": null,
         "confirmed": 15,
         "recovered": 2,
         "deceased": 0
       },
       "2020-04-28": {
-        "tested": {
-          "samples": 26687,
-          "source": "https://health.odisha.gov.in/pdf/news-covid-19-press-meet-28042020Eng.pdf"
-        },
+        "tested": null,
         "confirmed": 0,
         "recovered": 1,
         "deceased": 0
       },
       "2020-04-29": {
-        "tested": {
-          "samples": 29108,
-          "source": "https://health.odisha.gov.in/pdf/news-covid-19-press-meet-29042020Eng.pdf"
-        },
+        "tested": null,
         "confirmed": 7,
         "recovered": 1,
         "deceased": 0
       },
       "2020-04-30": {
-        "tested": {
-          "samples": 31696,
-          "source": "https://health.odisha.gov.in/covid19-dashboard.html"
-        },
+        "tested": null,
         "confirmed": 18,
         "recovered": 2,
         "deceased": 0
       },
       "2020-05-01": {
-        "tested": {
-          "samples": 34133,
-          "source": "https://health.odisha.gov.in/covid19-dashboard.html"
-        },
+        "tested": null,
         "confirmed": 11,
         "recovered": 14,
         "deceased": 0
       },
       "2020-05-02": {
-        "tested": {
-          "samples": 36593,
-          "source": "https://health.odisha.gov.in/pdf/news-covid-19-press-meet-02052020Eng.pdf"
-        },
+        "tested": null,
         "confirmed": 6,
         "recovered": 1,
         "deceased": 0
       },
       "2020-05-03": {
-        "tested": {
-          "samples": 38658,
-          "source": "https://health.odisha.gov.in/pdf/news-covid-19-press-meet-03052020Eng.pdf"
-        },
+        "tested": null,
         "confirmed": 2,
         "recovered": 4,
         "deceased": 0
       },
       "2020-05-04": {
-        "tested": {
-          "samples": 41128,
-          "source": "https://health.odisha.gov.in/pdf/news-covid-19-press-meet-04052020Eng.pdf"
-        },
+        "tested": null,
         "confirmed": 7,
         "recovered": 0,
         "deceased": 0
       },
       "2020-05-05": {
-        "tested": {
-          "samples": 44663,
-          "source": "https://health.odisha.gov.in/covid19-dashboard.html"
-        },
+        "tested": null,
         "confirmed": 8,
         "recovered": 0,
         "deceased": 1
       },
       "2020-05-06": {
-        "tested": {
-          "samples": 47454,
-          "source": "https://health.odisha.gov.in/pdf/news-covid-19-press-meet-06052020Eng.pdf"
-        },
+        "tested": null,
         "confirmed": 28,
         "recovered": 1,
         "deceased": 0
       },
       "2020-05-07": {
-        "tested": {
-          "samples": 50514,
-          "source": "https://health.odisha.gov.in/pdf/news-covid-19-press-meet-07052020Eng.pdf"
-        },
+        "tested": null,
         "confirmed": 14,
         "recovered": 1,
         "deceased": 0
       },
       "2020-05-08": {
-        "tested": {
-          "samples": 52974,
-          "source": "https://health.odisha.gov.in/pdf/news-covid-19-press-meet-08052020Eng.pdf"
-        },
+        "tested": null,
         "confirmed": 51,
         "recovered": 1,
         "deceased": 0
       },
       "2020-05-09": {
-        "tested": {
-          "samples": 56322,
-          "source": "https://health.odisha.gov.in/pdf/news-covid-19-press-meet-09052020Eng.pdf"
-        },
+        "tested": null,
         "confirmed": 82,
         "recovered": 5,
         "deceased": 1
       },
       "2020-05-10": {
-        "tested": {
-          "samples": 59780,
-          "source": "https://health.odisha.gov.in/"
-        },
+        "tested": null,
         "confirmed": 25,
         "recovered": 0,
         "deceased": 0
       },
       "2020-05-11": {
-        "tested": {
-          "samples": 63478,
-          "source": "https://health.odisha.gov.in/covid19-dashboard.html"
-        },
+        "tested": null,
         "confirmed": 38,
         "recovered": 17,
         "deceased": 0
       },
       "2020-05-12": {
-        "tested": {
-          "samples": 68057,
-          "source": "https://statedashboard.odisha.gov.in/"
-        },
+        "tested": null,
         "confirmed": 22,
         "recovered": 31,
         "deceased": 0
       },
       "2020-05-13": {
-        "tested": {
-          "samples": 72756,
-          "source": "https://statedashboard.odisha.gov.in/"
-        },
+        "tested": null,
         "confirmed": 101,
         "recovered": 27,
         "deceased": 0
       },
       "2020-05-14": {
-        "tested": {
-          "samples": 77150,
-          "source": "https://statedashboard.odisha.gov.in/"
-        },
+        "tested": null,
         "confirmed": 134,
         "recovered": 15,
         "deceased": 0
       },
       "2020-05-15": {
-        "tested": {
-          "samples": 81919,
-          "source": "https://statedashboard.odisha.gov.in/"
-        },
+        "tested": null,
         "confirmed": 65,
         "recovered": 8,
         "deceased": 0
       },
       "2020-05-16": {
-        "tested": {
-          "samples": 86140,
-          "source": "https://t.me/Covid19india_Auxiliary_Test_Data/26?single"
-        },
+        "tested": null,
         "confirmed": 0,
         "recovered": 30,
         "deceased": 0
       },
       "2020-05-17": {
-        "tested": {
-          "samples": 91223,
-          "source": "https://t.me/Covid19india_Auxiliary_Test_Data/34?single"
-        },
+        "tested": null,
         "confirmed": 91,
         "recovered": 24,
         "deceased": 1
       },
       "2020-05-18": {
-        "tested": {
-          "samples": 95766,
-          "source": "https://t.me/Covid19india_Auxiliary_Test_Data/44?single"
-        },
+        "tested": null,
         "confirmed": 48,
         "recovered": 57,
         "deceased": 0
       },
       "2020-05-19": {
-        "tested": {
-          "samples": 100302,
-          "source": "https://t.me/Covid19india_Auxiliary_Test_Data/57?single"
-        },
+        "tested": null,
         "confirmed": 102,
         "recovered": 30,
         "deceased": 1
       },
       "2020-05-20": {
-        "tested": {
-          "samples": 105914,
-          "source": "https://t.me/Covid19india_Auxiliary_Test_Data/73"
-        },
+        "tested": null,
         "confirmed": 74,
         "recovered": 36,
         "deceased": 1
       },
       "2020-05-21": {
-        "tested": {
-          "samples": 108432,
-          "source": "https://t.me/Covid19india_Auxiliary_Test_Data/86?single"
-        },
+        "tested": null,
         "confirmed": 51,
         "recovered": 50,
         "deceased": 1
@@ -22284,11 +21431,7 @@
       "confirmed": 1189,
       "recovered": 436,
       "deceased": 7,
-      "tested": {
-        "samples": 113437,
-        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/100?single",
-        "last_updated": "2020-05-22"
-      }
+      "tested": null
     },
     "delta": {
       "confirmed": 86,
@@ -22415,10 +21558,7 @@
         "deceased": 0
       },
       "2020-04-02": {
-        "tested": {
-          "samples": 1434,
-          "source": "https://twitter.com/kbssidhu1961/status/1245680244658339841/photo/1"
-        },
+        "tested": null,
         "confirmed": 1,
         "recovered": 0,
         "deceased": 1
@@ -22454,397 +21594,265 @@
         "deceased": 1
       },
       "2020-04-08": {
-        "tested": {
-          "samples": 2937,
-          "source": "https://twitter.com/kbssidhu1961/status/1247878360966901763/photo/1"
-        },
+        "tested": null,
         "confirmed": 7,
         "recovered": 0,
         "deceased": 1
       },
       "2020-04-09": {
-        "tested": {
-          "samples": 3192,
-          "source": "http://pbhealth.gov.in/Media%20bulletin%20-%2009-04-2020.pdf"
-        },
+        "tested": null,
         "confirmed": 24,
         "recovered": 4,
         "deceased": 1
       },
       "2020-04-10": {
-        "tested": {
-          "samples": 3461,
-          "source": "http://pbhealth.gov.in/Media%20bulletin%20-%2010-04-2020.pdf"
-        },
+        "tested": null,
         "confirmed": 21,
         "recovered": 2,
         "deceased": 1
       },
       "2020-04-11": {
-        "tested": {
-          "samples": 3909,
-          "source": "http://pbhealth.gov.in/Media%20bulletin%20-%2011-04-2020.pdf"
-        },
+        "tested": null,
         "confirmed": 7,
         "recovered": 0,
         "deceased": 1
       },
       "2020-04-12": {
-        "tested": {
-          "samples": 4281,
-          "source": "http://pbhealth.gov.in/Media%20bulletin%20-%2012-04-2020.pdf"
-        },
+        "tested": null,
         "confirmed": 12,
         "recovered": 3,
         "deceased": 0
       },
       "2020-04-13": {
-        "tested": {
-          "samples": 4480,
-          "source": "http://pbhealth.gov.in/Media%20bulletin%20-%2013-04-2020.pdf"
-        },
+        "tested": null,
         "confirmed": 6,
         "recovered": 2,
         "deceased": 0
       },
       "2020-04-14": {
-        "tested": {
-          "samples": 4844,
-          "source": "http://pbhealth.gov.in/Media%20Bulletin-%2014.4.2020.pdf"
-        },
+        "tested": null,
         "confirmed": 8,
         "recovered": 2,
         "deceased": 1
       },
       "2020-04-15": {
-        "tested": {
-          "samples": 5193,
-          "source": "http://pbhealth.gov.in/Media%20Bulletin%2015.4.2020.pdf"
-        },
+        "tested": null,
         "confirmed": 2,
         "recovered": 0,
         "deceased": 0
       },
       "2020-04-16": {
-        "tested": {
-          "samples": 5524,
-          "source": "http://pbhealth.gov.in/Media%20Bulletin%20COVID-19%2016-04-2020.pdf"
-        },
+        "tested": null,
         "confirmed": 11,
         "recovered": 2,
         "deceased": 1
       },
       "2020-04-17": {
-        "tested": {
-          "samples": 5988,
-          "source": "https://t.me/indiacovid/2492?single"
-        },
+        "tested": null,
         "confirmed": 14,
         "recovered": 1,
         "deceased": 0
       },
       "2020-04-18": {
-        "tested": {
-          "samples": 6167,
-          "source": "https://twitter.com/kbssidhu1961/status/1251530620154585088"
-        },
+        "tested": null,
         "confirmed": 23,
         "recovered": 1,
         "deceased": 2
       },
       "2020-04-19": {
-        "tested": {
-          "samples": 6607,
-          "source": "https://twitter.com/kbssidhu1961/status/1251883032836927488?s=19"
-        },
+        "tested": null,
         "confirmed": 10,
         "recovered": 6,
         "deceased": 0
       },
       "2020-04-20": {
-        "tested": {
-          "samples": 6797,
-          "source": "http://pbhealth.gov.in/Media%20Bulletin%20COVID-Dated%2020-04-2020.pdf"
-        },
+        "tested": null,
         "confirmed": 1,
         "recovered": 1,
         "deceased": 0
       },
       "2020-04-21": {
-        "tested": {
-          "samples": 7355,
-          "source": "http://pbhealth.gov.in/Media%20Bulletin%20COVID-19%20Dated%2021-04-2020.pdf"
-        },
+        "tested": null,
         "confirmed": 6,
         "recovered": 11,
         "deceased": 0
       },
       "2020-04-22": {
-        "tested": {
-          "samples": 7887,
-          "source": "http://pbhealth.gov.in/Media%20Bulletin%20COVID-19%2022-04-2020.pdf"
-        },
+        "tested": null,
         "confirmed": 27,
         "recovered": 4,
         "deceased": 0
       },
       "2020-04-23": {
-        "tested": {
-          "samples": 8757,
-          "source": "https://twitter.com/kbssidhu1961/status/1253299062620581893?s=19"
-        },
+        "tested": null,
         "confirmed": 5,
         "recovered": 13,
         "deceased": 1
       },
       "2020-04-24": {
-        "tested": {
-          "samples": 10611,
-          "source": "https://twitter.com/kbssidhu1961/status/1253658553895784448?s=19"
-        },
+        "tested": null,
         "confirmed": 15,
         "recovered": 4,
         "deceased": 0
       },
       "2020-04-25": {
-        "tested": {
-          "samples": 13270,
-          "source": "https://t.me/indiacovid/3185"
-        },
+        "tested": null,
         "confirmed": 10,
         "recovered": 2,
         "deceased": 0
       },
       "2020-04-26": {
-        "tested": {
-          "samples": 14317,
-          "source": "https://twitter.com/kbssidhu1961/status/1254446294518513666?s=19"
-        },
+        "tested": null,
         "confirmed": 14,
         "recovered": 12,
         "deceased": 1
       },
       "2020-04-27": {
-        "tested": {
-          "samples": 15516,
-          "source": "https://twitter.com/kbssidhu1961/status/1254807639122276353/photo/1"
-        },
+        "tested": null,
         "confirmed": 8,
         "recovered": 14,
         "deceased": 1
       },
       "2020-04-28": {
-        "tested": {
-          "samples": 17021,
-          "source": "https://twitter.com/kbssidhu1961/status/1255161106386968576/photo/1"
-        },
+        "tested": null,
         "confirmed": 12,
         "recovered": 3,
         "deceased": 0
       },
       "2020-04-29": {
-        "tested": {
-          "samples": 18670,
-          "source": "http://pbhealth.gov.in/Media%20Bulletin%20COVID-19%2029-04-2020.pdf"
-        },
+        "tested": null,
         "confirmed": 33,
         "recovered": 0,
         "deceased": 0
       },
       "2020-04-30": {
-        "tested": {
-          "samples": 21205,
-          "source": "http://pbhealth.gov.in/Media%20Bulletin%20COVID-19%2030-04-2020.pdf"
-        },
+        "tested": null,
         "confirmed": 105,
         "recovered": 3,
         "deceased": 1
       },
       "2020-05-01": {
-        "tested": {
-          "samples": 23176,
-          "source": "http://pbhealth.gov.in/Media%20Bulletin%20COVID-19%2001-05-2020.pdf"
-        },
+        "tested": null,
         "confirmed": 105,
         "recovered": 4,
         "deceased": 0
       },
       "2020-05-02": {
-        "tested": {
-          "samples": 24868,
-          "source": "http://pbhealth.gov.in/Media%20Bulletin%20COVID-19%2002-05-2020.pdf"
-        },
+        "tested": null,
         "confirmed": 187,
         "recovered": 4,
         "deceased": 0
       },
       "2020-05-03": {
-        "tested": {
-          "samples": 26439,
-          "source": "http://pbhealth.gov.in/Media%20Bulletin%20COVID-19%2003-05-2020.pdf"
-        },
+        "tested": null,
         "confirmed": 330,
         "recovered": 5,
         "deceased": 1
       },
       "2020-05-04": {
-        "tested": {
-          "samples": 28545,
-          "source": "https://twitter.com/kbssidhu1961/status/1257290375858802688/photo/1"
-        },
+        "tested": null,
         "confirmed": 130,
         "recovered": 11,
         "deceased": 2
       },
       "2020-05-05": {
-        "tested": {
-          "samples": 30199,
-          "source": "http://pbhealth.gov.in/Media%20Bulletin%20COVID-19%2005-05-2020.pdf"
-        },
+        "tested": null,
         "confirmed": 219,
         "recovered": 5,
         "deceased": 2
       },
       "2020-05-06": {
-        "tested": {
-          "samples": 32060,
-          "source": "https://twitter.com/kbssidhu1961/status/1258026904482770946"
-        },
+        "tested": null,
         "confirmed": 75,
         "recovered": 2,
         "deceased": 2
       },
       "2020-05-07": {
-        "tested": {
-          "samples": 34701,
-          "source": "https://twitter.com/ANI/status/1258382341002588161"
-        },
+        "tested": null,
         "confirmed": 118,
         "recovered": 14,
         "deceased": 1
       },
       "2020-05-08": {
-        "tested": {
-          "samples": 37950,
-          "source": "https://twitter.com/kbssidhu1961/status/1258736487618580481?s=19"
-        },
+        "tested": null,
         "confirmed": 87,
         "recovered": 3,
         "deceased": 1
       },
       "2020-05-09": {
-        "tested": {
-          "samples": 39462,
-          "source": "https://twitter.com/kbssidhu1961/status/1259101618705858560"
-        },
+        "tested": null,
         "confirmed": 31,
         "recovered": 5,
         "deceased": 2
       },
       "2020-05-10": {
-        "tested": {
-          "samples": 40962,
-          "source": "https://twitter.com/kbssidhu1961/status/1259471256258179072"
-        },
+        "tested": null,
         "confirmed": 61,
         "recovered": 9,
         "deceased": 0
       },
       "2020-05-11": {
-        "tested": {
-          "samples": 42306,
-          "source": "https://twitter.com/kbssidhu1961/status/1259903458783584256/photo/1"
-        },
+        "tested": null,
         "confirmed": 54,
         "recovered": 2,
         "deceased": 0
       },
       "2020-05-12": {
-        "tested": {
-          "samples": 43999,
-          "source": "http://pbhealth.gov.in/Media%20Bulletin%20COVID-19%2012-05-2020.pdf"
-        },
+        "tested": null,
         "confirmed": 37,
         "recovered": 3,
         "deceased": 1
       },
       "2020-05-13": {
-        "tested": {
-          "samples": 46026,
-          "source": "http://pbhealth.gov.in/Media%20Bulletin%20COVID-19%2013-05-2020.pdf"
-        },
+        "tested": null,
         "confirmed": 10,
         "recovered": 29,
         "deceased": 0
       },
       "2020-05-14": {
-        "tested": {
-          "samples": 47408,
-          "source": "http://pbhealth.gov.in/Media%20Bulletin%20COVID-19%2014-05-2020.pdf"
-        },
+        "tested": null,
         "confirmed": 11,
         "recovered": 23,
         "deceased": 0
       },
       "2020-05-15": {
-        "tested": {
-          "samples": 49301,
-          "source": "https://t.me/indiacovid/4809?single"
-        },
+        "tested": null,
         "confirmed": -3,
         "recovered": 82,
         "deceased": 0
       },
       "2020-05-16": {
-        "tested": {
-          "samples": 50613,
-          "source": "http://pbhealth.gov.in/Media%20Bulletin%20COVID-19%2016-05-2020.pdf"
-        },
+        "tested": null,
         "confirmed": 14,
         "recovered": 952,
         "deceased": 0
       },
       "2020-05-17": {
-        "tested": {
-          "samples": 51812,
-          "source": "http://pbhealth.gov.in/Media%20Bulletin%20COVID-19%2017-05-2020.pdf"
-        },
+        "tested": null,
         "confirmed": 18,
         "recovered": 109,
         "deceased": 3
       },
       "2020-05-18": {
-        "tested": {
-          "samples": 52955,
-          "source": "http://pbhealth.gov.in/Media%20Bulletin%20COVID-19%2018-05-2020.pdf"
-        },
+        "tested": null,
         "confirmed": 16,
         "recovered": 181,
         "deceased": 2
       },
       "2020-05-19": {
-        "tested": {
-          "samples": 55634,
-          "source": "http://pbhealth.gov.in/Media%20Bulletin%20COVID-19%2019-05-2020.pdf"
-        },
+        "tested": null,
         "confirmed": 22,
         "recovered": 95,
         "deceased": 1
       },
       "2020-05-20": {
-        "tested": {
-          "samples": 57737,
-          "source": "http://pbhealth.gov.in/Media%20Bulletin%20COVID-19%2020-05-2020.pdf"
-        },
+        "tested": null,
         "confirmed": 3,
         "recovered": 152,
         "deceased": 0
       },
       "2020-05-21": {
-        "tested": {
-          "samples": 59618,
-          "source": "http://pbhealth.gov.in/Media%20Bulletin%20COVID-19%2021-05-2020.pdf"
-        },
+        "tested": null,
         "confirmed": 23,
         "recovered": 25,
         "deceased": 1
@@ -23230,11 +22238,7 @@
       "confirmed": 2028,
       "recovered": 1819,
       "deceased": 39,
-      "tested": {
-        "samples": 59618,
-        "source": "http://pbhealth.gov.in/Media%20Bulletin%20COVID-19%2021-05-2020.pdf",
-        "last_updated": "2020-05-21"
-      }
+      "tested": null
     },
     "delta": {
       "confirmed": 0,
@@ -23457,217 +22461,145 @@
         "deceased": 0
       },
       "2020-04-18": {
-        "tested": {
-          "samples": 1207,
-          "source": "https://covid19dashboard.py.gov.in/"
-        },
+        "tested": null,
         "confirmed": 0,
         "recovered": 3,
         "deceased": 0
       },
       "2020-04-19": {
-        "tested": {
-          "samples": 1245,
-          "source": "https://covid19dashboard.py.gov.in/"
-        },
+        "tested": null,
         "confirmed": 0,
         "recovered": 0,
         "deceased": 0
       },
       "2020-04-20": {
-        "tested": {
-          "samples": 1272,
-          "source": "https://covid19dashboard.py.gov.in/"
-        },
+        "tested": null,
         "confirmed": 0,
         "recovered": 0,
         "deceased": 0
       },
       "2020-04-21": {
-        "tested": {
-          "samples": 1319,
-          "source": "https://covid19dashboard.py.gov.in/Home/TestResultsReport"
-        },
+        "tested": null,
         "confirmed": 0,
         "recovered": 0,
         "deceased": 0
       },
       "2020-04-22": {
-        "tested": {
-          "samples": 1473,
-          "source": "https://covid19dashboard.py.gov.in/Home/TestResultsReport"
-        },
+        "tested": null,
         "confirmed": 0,
         "recovered": 0,
         "deceased": 0
       },
       "2020-04-23": {
-        "tested": {
-          "samples": 1548,
-          "source": "https://covid19dashboard.py.gov.in/Home/TestResultsReport"
-        },
+        "tested": null,
         "confirmed": 0,
         "recovered": 0,
         "deceased": 0
       },
       "2020-04-24": {
-        "tested": {
-          "samples": 1704,
-          "source": "https://covid19dashboard.py.gov.in/Home/TestResultsReport"
-        },
+        "tested": null,
         "confirmed": 0,
         "recovered": 0,
         "deceased": 0
       },
       "2020-04-25": {
-        "tested": {
-          "samples": 1864,
-          "source": "https://covid19dashboard.py.gov.in/Home/TestResultsReport"
-        },
+        "tested": null,
         "confirmed": 1,
         "recovered": 0,
         "deceased": 0
       },
       "2020-04-26": {
-        "tested": {
-          "samples": 1977,
-          "source": "https://covid19dashboard.py.gov.in/Home/TestResultsReport"
-        },
+        "tested": null,
         "confirmed": 0,
         "recovered": 0,
         "deceased": 0
       },
       "2020-04-27": {
-        "tested": {
-          "samples": 2014,
-          "source": "https://covid19dashboard.py.gov.in/"
-        },
+        "tested": null,
         "confirmed": 0,
         "recovered": 1,
         "deceased": 0
       },
       "2020-04-28": {
-        "tested": {
-          "samples": 2156,
-          "source": "https://covid19dashboard.py.gov.in/"
-        },
+        "tested": null,
         "confirmed": 0,
         "recovered": 0,
         "deceased": 0
       },
       "2020-04-29": {
-        "tested": {
-          "samples": 2228,
-          "source": "https://covid19dashboard.py.gov.in/"
-        },
+        "tested": null,
         "confirmed": 0,
         "recovered": 0,
         "deceased": 0
       },
       "2020-04-30": {
-        "tested": {
-          "samples": 2353,
-          "source": "https://covid19dashboard.py.gov.in/"
-        },
+        "tested": null,
         "confirmed": 0,
         "recovered": 0,
         "deceased": 0
       },
       "2020-05-01": {
-        "tested": {
-          "samples": 2698,
-          "source": "https://covid19dashboard.py.gov.in/"
-        },
+        "tested": null,
         "confirmed": 0,
         "recovered": 0,
         "deceased": 0
       },
       "2020-05-02": {
-        "tested": {
-          "samples": 2990,
-          "source": "https://covid19dashboard.py.gov.in/"
-        },
+        "tested": null,
         "confirmed": 1,
         "recovered": 0,
         "deceased": 0
       },
       "2020-05-03": {
-        "tested": {
-          "samples": 3155,
-          "source": "https://covid19dashboard.py.gov.in/"
-        },
+        "tested": null,
         "confirmed": 0,
         "recovered": 1,
         "deceased": 0
       },
       "2020-05-04": {
-        "tested": {
-          "samples": 3281,
-          "source": "https://covid19dashboard.py.gov.in/"
-        },
+        "tested": null,
         "confirmed": 0,
         "recovered": 0,
         "deceased": 0
       },
       "2020-05-05": {
-        "tested": {
-          "samples": 3560,
-          "source": "https://covid19dashboard.py.gov.in/"
-        },
+        "tested": null,
         "confirmed": 0,
         "recovered": 0,
         "deceased": 0
       },
       "2020-05-06": {
-        "tested": {
-          "samples": 3641,
-          "source": "https://covid19dashboard.py.gov.in/"
-        },
+        "tested": null,
         "confirmed": 0,
         "recovered": 0,
         "deceased": 0
       },
       "2020-05-07": {
-        "tested": {
-          "samples": 3866,
-          "source": "https://t.me/indiacovid/4190"
-        },
+        "tested": null,
         "confirmed": 0,
         "recovered": 0,
         "deceased": 0
       },
       "2020-05-08": {
-        "tested": {
-          "samples": 4111,
-          "source": "https://t.me/indiacovid/4255"
-        },
+        "tested": null,
         "confirmed": 1,
         "recovered": 2,
         "deceased": 0
       },
       "2020-05-09": {
-        "tested": {
-          "samples": 4266,
-          "source": "https://t.me/indiacovid/4361"
-        },
+        "tested": null,
         "confirmed": 0,
         "recovered": 0,
         "deceased": 0
       },
       "2020-05-10": {
-        "tested": {
-          "samples": 4364,
-          "source": "https://covid19dashboard.py.gov.in/"
-        },
+        "tested": null,
         "confirmed": 2,
         "recovered": 1,
         "deceased": 0
       },
       "2020-05-11": {
-        "tested": {
-          "samples": 4486,
-          "source": "https://t.me/indiacovid/4514"
-        },
+        "tested": null,
         "confirmed": 0,
         "recovered": 0,
         "deceased": 0
@@ -23679,82 +22611,55 @@
         "deceased": 0
       },
       "2020-05-13": {
-        "tested": {
-          "samples": 4919,
-          "source": "https://t.me/indiacovid/4659?single"
-        },
+        "tested": null,
         "confirmed": 1,
         "recovered": 0,
         "deceased": 0
       },
       "2020-05-14": {
-        "tested": {
-          "samples": 5112,
-          "source": "https://t.me/indiacovid/4740?single"
-        },
+        "tested": null,
         "confirmed": 3,
         "recovered": 0,
         "deceased": 0
       },
       "2020-05-15": {
-        "tested": {
-          "samples": 5312,
-          "source": "https://t.me/indiacovid/4795?single"
-        },
+        "tested": null,
         "confirmed": 0,
         "recovered": 0,
         "deceased": 0
       },
       "2020-05-16": {
-        "tested": {
-          "samples": 5484,
-          "source": "https://covid19dashboard.py.gov.in/LabTestReport"
-        },
+        "tested": null,
         "confirmed": 1,
         "recovered": 0,
         "deceased": 0
       },
       "2020-05-17": {
-        "tested": {
-          "samples": 5619,
-          "source": "https://covid19dashboard.py.gov.in/LabTestReport"
-        },
+        "tested": null,
         "confirmed": 0,
         "recovered": 0,
         "deceased": 0
       },
       "2020-05-18": {
-        "tested": {
-          "samples": 5754,
-          "source": "https://t.me/indiacovid/5029?single"
-        },
+        "tested": null,
         "confirmed": 0,
         "recovered": 0,
         "deceased": 0
       },
       "2020-05-19": {
-        "tested": {
-          "samples": 5829,
-          "source": "https://t.me/indiacovid/5106"
-        },
+        "tested": null,
         "confirmed": 5,
         "recovered": 1,
         "deceased": 0
       },
       "2020-05-20": {
-        "tested": {
-          "samples": 5960,
-          "source": "https://covid19dashboard.py.gov.in/LabTestReport"
-        },
+        "tested": null,
         "confirmed": 1,
         "recovered": 0,
         "deceased": 0
       },
       "2020-05-21": {
-        "tested": {
-          "samples": 6106,
-          "source": "https://covid19dashboard.py.gov.in/LabTestReport"
-        },
+        "tested": null,
         "confirmed": 0,
         "recovered": 0,
         "deceased": 0
@@ -23834,11 +22739,7 @@
       "confirmed": 23,
       "recovered": 10,
       "deceased": 0,
-      "tested": {
-        "samples": 6106,
-        "source": "https://covid19dashboard.py.gov.in/LabTestReport",
-        "last_updated": "2020-05-21"
-      }
+      "tested": null
     },
     "delta": {
       "confirmed": 0,
@@ -23983,10 +22884,7 @@
         "deceased": 1
       },
       "2020-04-05": {
-        "tested": {
-          "samples": 12279,
-          "source": "http://www.rajswasthya.nic.in/"
-        },
+        "tested": null,
         "confirmed": 60,
         "recovered": 0,
         "deceased": 0
@@ -23998,406 +22896,271 @@
         "deceased": 1
       },
       "2020-04-07": {
-        "tested": {
-          "samples": 17638,
-          "source": ""
-        },
+        "tested": null,
         "confirmed": 42,
         "recovered": 0,
         "deceased": 0
       },
       "2020-04-08": {
-        "tested": {
-          "samples": 17638,
-          "source": "http://www.rajswasthya.nic.in/"
-        },
+        "tested": null,
         "confirmed": 40,
         "recovered": 20,
         "deceased": 1
       },
       "2020-04-09": {
-        "tested": {
-          "samples": 19107,
-          "source": "http://www.rajswasthya.nic.in/"
-        },
+        "tested": null,
         "confirmed": 80,
         "recovered": 15,
         "deceased": 0
       },
       "2020-04-10": {
-        "tested": {
-          "samples": 22349,
-          "source": "https://t.me/c/1428198946/1843"
-        },
+        "tested": null,
         "confirmed": 98,
         "recovered": 0,
         "deceased": 0
       },
       "2020-04-11": {
-        "tested": {
-          "samples": 24857,
-          "source": "http://www.rajswasthya.nic.in/"
-        },
+        "tested": null,
         "confirmed": 139,
         "recovered": 56,
         "deceased": 6
       },
       "2020-04-12": {
-        "tested": {
-          "samples": 28505,
-          "source": "https://t.me/indiacovid/2093"
-        },
+        "tested": null,
         "confirmed": 104,
         "recovered": 5,
         "deceased": 2
       },
       "2020-04-13": {
-        "tested": {
-          "samples": 31804,
-          "source": "https://t.me/indiacovid/2160"
-        },
+        "tested": null,
         "confirmed": 93,
         "recovered": 0,
         "deceased": 0
       },
       "2020-04-14": {
-        "tested": {
-          "samples": 34928,
-          "source": "https://t.me/indiacovid/2309"
-        },
+        "tested": null,
         "confirmed": 108,
         "recovered": 26,
         "deceased": 0
       },
       "2020-04-15": {
-        "tested": {
-          "samples": 37860,
-          "source": "https://t.me/indiacovid/2376"
-        },
+        "tested": null,
         "confirmed": 71,
         "recovered": 0,
         "deceased": 0
       },
       "2020-04-16": {
-        "tested": {
-          "samples": 40778,
-          "source": "https://t.me/indiacovid/2402"
-        },
+        "tested": null,
         "confirmed": 55,
         "recovered": 17,
         "deceased": 0
       },
       "2020-04-17": {
-        "tested": {
-          "samples": 42847,
-          "source": "https://t.me/indiacovid/2516"
-        },
+        "tested": null,
         "confirmed": 98,
         "recovered": 19,
         "deceased": 6
       },
       "2020-04-18": {
-        "tested": {
-          "samples": 47197,
-          "source": "https://t.me/indiacovid/2547"
-        },
+        "tested": null,
         "confirmed": 122,
         "recovered": 17,
         "deceased": 4
       },
       "2020-04-19": {
-        "tested": {
-          "samples": 51614,
-          "source": "https://t.me/indiacovid/2691"
-        },
+        "tested": null,
         "confirmed": 127,
         "recovered": 5,
         "deceased": 2
       },
       "2020-04-20": {
-        "tested": {
-          "samples": 57290,
-          "source": "https://t.me/indiacovid/2801"
-        },
+        "tested": null,
         "confirmed": 98,
         "recovered": 0,
         "deceased": 2
       },
       "2020-04-21": {
-        "tested": {
-          "samples": 61492,
-          "source": "https://t.me/indiacovid/2888"
-        },
+        "tested": null,
         "confirmed": 159,
         "recovered": 69,
         "deceased": 1
       },
       "2020-04-22": {
-        "tested": {
-          "samples": 66257,
-          "source": "https://t.me/indiacovid/2974"
-        },
+        "tested": null,
         "confirmed": 153,
         "recovered": 70,
         "deceased": 1
       },
       "2020-04-23": {
-        "tested": {
-          "samples": 69764,
-          "source": "https://t.me/indiacovid/3041"
-        },
+        "tested": null,
         "confirmed": 76,
         "recovered": 107,
         "deceased": 1
       },
       "2020-04-24": {
-        "tested": {
-          "samples": 74484,
-          "source": "https://t.me/indiacovid/3122"
-        },
+        "tested": null,
         "confirmed": 70,
         "recovered": 42,
         "deceased": 4
       },
       "2020-04-25": {
-        "tested": {
-          "samples": 78993,
-          "source": "https://t.me/indiacovid/3210"
-        },
+        "tested": null,
         "confirmed": 49,
         "recovered": 20,
         "deceased": 2
       },
       "2020-04-26": {
-        "tested": {
-          "samples": 82942,
-          "source": "https://t.me/indiacovid/3292"
-        },
+        "tested": null,
         "confirmed": 102,
         "recovered": 116,
         "deceased": 7
       },
       "2020-04-27": {
-        "tested": {
-          "samples": 87777,
-          "source": "https://t.me/indiacovid/3388"
-        },
+        "tested": null,
         "confirmed": 77,
         "recovered": 115,
         "deceased": 9
       },
       "2020-04-28": {
-        "tested": {
-          "samples": 92506,
-          "source": "https://t.me/indiacovid/3478"
-        },
+        "tested": null,
         "confirmed": 102,
         "recovered": 26,
         "deceased": 2
       },
       "2020-04-29": {
-        "tested": {
-          "samples": 97790,
-          "source": "https://t.me/indiacovid/3560"
-        },
+        "tested": null,
         "confirmed": 76,
         "recovered": 44,
         "deceased": 3
       },
       "2020-04-30": {
-        "tested": {
-          "samples": 103704,
-          "source": "https://twitter.com/ANI/status/1255888838251163649?s=09"
-        },
+        "tested": null,
         "confirmed": 144,
         "recovered": 79,
         "deceased": 3
       },
       "2020-05-01": {
-        "tested": {
-          "samples": 108543,
-          "source": "https://t.me/indiacovid/3768"
-        },
+        "tested": null,
         "confirmed": 82,
         "recovered": 223,
         "deceased": 4
       },
       "2020-05-02": {
-        "tested": {
-          "samples": 113934,
-          "source": "https://t.me/indiacovid/3799"
-        },
+        "tested": null,
         "confirmed": 106,
         "recovered": 126,
         "deceased": 6
       },
       "2020-05-03": {
-        "tested": {
-          "samples": 120240,
-          "source": "https://twitter.com/ANI/status/1256977323942744065?s=19"
-        },
+        "tested": null,
         "confirmed": 114,
         "recovered": 114,
         "deceased": 3
       },
       "2020-05-04": {
-        "tested": {
-          "samples": 129258,
-          "source": "https://t.me/indiacovid/4023"
-        },
+        "tested": null,
         "confirmed": 175,
         "recovered": 82,
         "deceased": 6
       },
       "2020-05-05": {
-        "tested": {
-          "samples": 134987,
-          "source": "https://t.me/indiacovid/4088"
-        },
+        "tested": null,
         "confirmed": 97,
         "recovered": 87,
         "deceased": 12
       },
       "2020-05-06": {
-        "tested": {
-          "samples": 139580,
-          "source": "https://t.me/indiacovid/4164"
-        },
+        "tested": null,
         "confirmed": 159,
         "recovered": 214,
         "deceased": 4
       },
       "2020-05-07": {
-        "tested": {
-          "samples": 145510,
-          "source": "https://twitter.com/ANI/status/1258423972963782656?s=19"
-        },
+        "tested": null,
         "confirmed": 110,
         "recovered": 150,
         "deceased": 6
       },
       "2020-05-08": {
-        "tested": {
-          "samples": 152245,
-          "source": "https://t.me/indiacovid/4305"
-        },
+        "tested": null,
         "confirmed": 152,
         "recovered": 122,
         "deceased": 4
       },
       "2020-05-09": {
-        "tested": {
-          "samples": 159157,
-          "source": "https://t.me/indiacovid/4404"
-        },
+        "tested": null,
         "confirmed": 129,
         "recovered": 151,
         "deceased": 3
       },
       "2020-05-10": {
-        "tested": {
-          "samples": 166424,
-          "source": "https://t.me/indiacovid/4481"
-        },
+        "tested": null,
         "confirmed": 106,
         "recovered": 79,
         "deceased": 2
       },
       "2020-05-11": {
-        "tested": {
-          "samples": 176130,
-          "source": "https://t.me/indiacovid/4565"
-        },
+        "tested": null,
         "confirmed": 174,
         "recovered": 83,
         "deceased": 5
       },
       "2020-05-12": {
-        "tested": {
-          "samples": 185610,
-          "source": "https://t.me/indiacovid/4631"
-        },
+        "tested": null,
         "confirmed": 138,
         "recovered": 130,
         "deceased": 4
       },
       "2020-05-13": {
-        "tested": {
-          "samples": 194683,
-          "source": "https://t.me/indiacovid/4702"
-        },
+        "tested": null,
         "confirmed": 202,
         "recovered": 119,
         "deceased": 4
       },
       "2020-05-14": {
-        "tested": {
-          "samples": 204243,
-          "source": "https://t.me/indiacovid/4771"
-        },
+        "tested": null,
         "confirmed": 206,
         "recovered": 65,
         "deceased": 4
       },
       "2020-05-15": {
-        "tested": {
-          "samples": 212317,
-          "source": "https://t.me/indiacovid/4827"
-        },
+        "tested": null,
         "confirmed": 213,
         "recovered": 91,
         "deceased": 0
       },
       "2020-05-16": {
-        "tested": {
-          "samples": 221439,
-          "source": "https://t.me/indiacovid/4897"
-        },
+        "tested": null,
         "confirmed": 213,
         "recovered": 215,
         "deceased": 1
       },
       "2020-05-17": {
-        "tested": {
-          "samples": 231946,
-          "source": "https://t.me/indiacovid/4990"
-        },
+        "tested": null,
         "confirmed": 242,
         "recovered": 111,
         "deceased": 5
       },
       "2020-05-18": {
-        "tested": {
-          "samples": 243476,
-          "source": "https://t.me/indiacovid/5019"
-        },
+        "tested": null,
         "confirmed": 305,
         "recovered": 163,
         "deceased": 7
       },
       "2020-05-19": {
-        "tested": {
-          "samples": 254533,
-          "source": "https://t.me/indiacovid/5138"
-        },
+        "tested": null,
         "confirmed": 338,
         "recovered": 119,
         "deceased": 5
       },
       "2020-05-20": {
-        "tested": {
-          "samples": 265555,
-          "source": "https://t.me/indiacovid/5226"
-        },
+        "tested": null,
         "confirmed": 166,
         "recovered": 53,
         "deceased": 4
       },
       "2020-05-21": {
-        "tested": {
-          "samples": 275974,
-          "source": "https://t.me/indiacovid/5286"
-        },
+        "tested": null,
         "confirmed": 212,
         "recovered": 81,
         "deceased": 4
@@ -24970,11 +23733,7 @@
       "confirmed": 6377,
       "recovered": 3542,
       "deceased": 152,
-      "tested": {
-        "samples": 275974,
-        "source": "https://t.me/indiacovid/5286",
-        "last_updated": "2020-05-21"
-      }
+      "tested": null
     },
     "delta": {
       "confirmed": 150,
@@ -25293,154 +24052,103 @@
         "deceased": 0
       },
       "2020-05-04": {
-        "tested": {
-          "samples": 170,
-          "source": "https://covid19sikkim.org/"
-        },
+        "tested": null,
         "confirmed": 0,
         "recovered": 0,
         "deceased": 0
       },
       "2020-05-05": {
-        "tested": {
-          "samples": 181,
-          "source": "https://covid19sikkim.org/"
-        },
+        "tested": null,
         "confirmed": 0,
         "recovered": 0,
         "deceased": 0
       },
       "2020-05-06": {
-        "tested": {
-          "samples": 189,
-          "source": "https://covid19sikkim.org/"
-        },
+        "tested": null,
         "confirmed": 0,
         "recovered": 0,
         "deceased": 0
       },
       "2020-05-07": {
-        "tested": {
-          "samples": 216,
-          "source": "https://covid19sikkim.org/"
-        },
+        "tested": null,
         "confirmed": 0,
         "recovered": 0,
         "deceased": 0
       },
       "2020-05-08": {
-        "tested": {
-          "samples": 216,
-          "source": "https://covid19sikkim.org/"
-        },
+        "tested": null,
         "confirmed": 0,
         "recovered": 0,
         "deceased": 0
       },
       "2020-05-09": {
-        "tested": {
-          "samples": 219,
-          "source": "https://covid19sikkim.org/"
-        },
+        "tested": null,
         "confirmed": 0,
         "recovered": 0,
         "deceased": 0
       },
       "2020-05-10": {
-        "tested": {
-          "samples": 219,
-          "source": "https://covid19sikkim.org/"
-        },
+        "tested": null,
         "confirmed": 0,
         "recovered": 0,
         "deceased": 0
       },
       "2020-05-11": {
-        "tested": {
-          "samples": 219,
-          "source": "https://covid19sikkim.org/"
-        },
+        "tested": null,
         "confirmed": 0,
         "recovered": 0,
         "deceased": 0
       },
       "2020-05-12": {
-        "tested": {
-          "samples": 348,
-          "source": "https://covid19sikkim.org/"
-        },
+        "tested": null,
         "confirmed": 0,
         "recovered": 0,
         "deceased": 0
       },
       "2020-05-13": {
-        "tested": {
-          "samples": 439,
-          "source": "https://covid19sikkim.org/"
-        },
+        "tested": null,
         "confirmed": 0,
         "recovered": 0,
         "deceased": 0
       },
       "2020-05-14": {
-        "tested": {
-          "samples": 579,
-          "source": "https://covid19sikkim.org/"
-        },
+        "tested": null,
         "confirmed": 0,
         "recovered": 0,
         "deceased": 0
       },
       "2020-05-15": {
-        "tested": {
-          "samples": 348,
-          "source": "https://t.me/Covid19india_Auxiliary_Test_Data/20"
-        },
+        "tested": null,
         "confirmed": 0,
         "recovered": 0,
         "deceased": 0
       },
       "2020-05-16": {
-        "tested": {
-          "samples": 840,
-          "source": "https://t.me/Covid19india_Auxiliary_Test_Data/31"
-        },
+        "tested": null,
         "confirmed": 0,
         "recovered": 0,
         "deceased": 0
       },
       "2020-05-17": {
-        "tested": {
-          "samples": 947,
-          "source": "https://t.me/Covid19india_Auxiliary_Test_Data/39"
-        },
+        "tested": null,
         "confirmed": 0,
         "recovered": 0,
         "deceased": 0
       },
       "2020-05-18": {
-        "tested": {
-          "samples": 1087,
-          "source": "https://t.me/Covid19india_Auxiliary_Test_Data/46"
-        },
+        "tested": null,
         "confirmed": 0,
         "recovered": 0,
         "deceased": 0
       },
       "2020-05-19": {
-        "tested": {
-          "samples": 1204,
-          "source": "https://t.me/Covid19india_Auxiliary_Test_Data/63"
-        },
+        "tested": null,
         "confirmed": 0,
         "recovered": 0,
         "deceased": 0
       },
       "2020-05-20": {
-        "tested": {
-          "samples": 1342,
-          "source": "https://t.me/Covid19india_Auxiliary_Test_Data/76"
-        },
+        "tested": null,
         "confirmed": 0,
         "recovered": 0,
         "deceased": 0
@@ -25526,11 +24234,7 @@
       "confirmed": 0,
       "recovered": 0,
       "deceased": 0,
-      "tested": {
-        "samples": 1342,
-        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/76",
-        "last_updated": "2020-05-20"
-      }
+      "tested": null
     },
     "delta": {
       "confirmed": 0,
@@ -25759,10 +24463,7 @@
         "deceased": 0
       },
       "2020-04-19": {
-        "tested": {
-          "samples": 14962,
-          "source": "https://t.me/indiacovid/2688?single"
-        },
+        "tested": null,
         "confirmed": 49,
         "recovered": 0,
         "deceased": 3
@@ -25816,19 +24517,13 @@
         "deceased": 0
       },
       "2020-04-28": {
-        "tested": {
-          "samples": 19063,
-          "source": "https://www.thehindu.com/news/national/telangana/accuracy-of-tests-more-in-telangana-eatala/article31456895.ece"
-        },
+        "tested": null,
         "confirmed": 6,
         "recovered": 42,
         "deceased": 0
       },
       "2020-04-29": {
-        "tested": {
-          "samples": 19278,
-          "source": "http://124.124.103.93/COVID/home.htm"
-        },
+        "tested": null,
         "confirmed": 7,
         "recovered": 35,
         "deceased": 0
@@ -25930,19 +24625,13 @@
         "deceased": 0
       },
       "2020-05-16": {
-        "tested": {
-          "samples": 23388,
-          "source": "https://t.me/Covid19india_Auxiliary_Test_Data/42"
-        },
+        "tested": null,
         "confirmed": 55,
         "recovered": 12,
         "deceased": 0
       },
       "2020-05-17": {
-        "tested": {
-          "samples": 23388,
-          "source": ""
-        },
+        "tested": null,
         "confirmed": 42,
         "recovered": 21,
         "deceased": 0
@@ -26539,11 +25228,7 @@
       "confirmed": 1699,
       "recovered": 1036,
       "deceased": 45,
-      "tested": {
-        "samples": 23388,
-        "source": "",
-        "last_updated": "2020-05-17"
-      }
+      "tested": null
     },
     "delta": {
       "confirmed": 0,
@@ -26676,10 +25361,7 @@
         "deceased": 0
       },
       "2020-04-03": {
-        "tested": {
-          "samples": 3684,
-          "source": "https://stopcorona.tn.gov.in/wp-content/uploads/2020/03/Media-Bulletin-03-04-20-COVID-19-6-PM.pdf"
-        },
+        "tested": null,
         "confirmed": 102,
         "recovered": 0,
         "deceased": 0
@@ -26709,397 +25391,265 @@
         "deceased": 1
       },
       "2020-04-08": {
-        "tested": {
-          "samples": 5305,
-          "source": "https://stopcorona.tn.gov.in/"
-        },
+        "tested": null,
         "confirmed": 48,
         "recovered": 2,
         "deceased": 1
       },
       "2020-04-09": {
-        "tested": {
-          "samples": 7267,
-          "source": "https://stopcorona.tn.gov.in/wp-content/uploads/2020/03/Media-Bulletin09.04.20-5-Pages-English-173-KB.pdf"
-        },
+        "tested": null,
         "confirmed": 96,
         "recovered": 6,
         "deceased": 0
       },
       "2020-04-10": {
-        "tested": {
-          "samples": 8410,
-          "source": "https://stopcorona.tn.gov.in/wp-content/uploads/2020/03/Media-Bulletin-10-04-20-COVID-19-6-PM.pdf"
-        },
+        "tested": null,
         "confirmed": 77,
         "recovered": 17,
         "deceased": 1
       },
       "2020-04-11": {
-        "tested": {
-          "samples": 9842,
-          "source": "https://stopcorona.tn.gov.in/wp-content/uploads/2020/03/Media-Bulletin-11.04.2020.pdf"
-        },
+        "tested": null,
         "confirmed": 58,
         "recovered": 0,
         "deceased": 1
       },
       "2020-04-12": {
-        "tested": {
-          "samples": 10655,
-          "source": "https://stopcorona.tn.gov.in/wp-content/uploads/2020/03/Media-Bulletin-12.04.2020-5-pages-English-178-KB.pdf"
-        },
+        "tested": null,
         "confirmed": 106,
         "recovered": 6,
         "deceased": 1
       },
       "2020-04-13": {
-        "tested": {
-          "samples": 12746,
-          "source": "https://stopcorona.tn.gov.in/wp-content/uploads/2020/03/Media-Bulletin-13.04.2020-5pages-English-181-KB.pdf"
-        },
+        "tested": null,
         "confirmed": 98,
         "recovered": 8,
         "deceased": 0
       },
       "2020-04-14": {
-        "tested": {
-          "samples": 19255,
-          "source": "https://stopcorona.tn.gov.in/wp-content/uploads/2020/03/Media-Bulletin-14.04.2020-4-Pages-English-175-KB.pdf"
-        },
+        "tested": null,
         "confirmed": 31,
         "recovered": 23,
         "deceased": 1
       },
       "2020-04-15": {
-        "tested": {
-          "samples": 21994,
-          "source": "https://stopcorona.tn.gov.in/wp-content/uploads/2020/03/Media-Bulletin-15.04.2020.pdf"
-        },
+        "tested": null,
         "confirmed": 38,
         "recovered": 37,
         "deceased": 2
       },
       "2020-04-16": {
-        "tested": {
-          "samples": 26005,
-          "source": "https://stopcorona.tn.gov.in/wp-content/uploads/2020/03/Media-Bulletin16.04.2020-4-Pages-English-174-KB.pdf"
-        },
+        "tested": null,
         "confirmed": 25,
         "recovered": 62,
         "deceased": 1
       },
       "2020-04-17": {
-        "tested": {
-          "samples": 29673,
-          "source": "https://stopcorona.tn.gov.in/wp-content/uploads/2020/03/Media-Bulletin-17.04.2020.pdf"
-        },
+        "tested": null,
         "confirmed": 56,
         "recovered": 103,
         "deceased": 0
       },
       "2020-04-18": {
-        "tested": {
-          "samples": 35036,
-          "source": "https://stopcorona.tn.gov.in/wp-content/uploads/2020/03/Media-Bulletin-18.04.2020.pdf"
-        },
+        "tested": null,
         "confirmed": 49,
         "recovered": 82,
         "deceased": 0
       },
       "2020-04-19": {
-        "tested": {
-          "samples": 40876,
-          "source": "https://stopcorona.tn.gov.in/wp-content/uploads/2020/03/Media-Bulletin-19-04-20-COVID-19-6-PM-1.pdf"
-        },
+        "tested": null,
         "confirmed": 105,
         "recovered": 46,
         "deceased": 0
       },
       "2020-04-20": {
-        "tested": {
-          "samples": 46985,
-          "source": "https://stopcorona.tn.gov.in/wp-content/uploads/2020/03/Media-Bulletin20.04.2020.pdf"
-        },
+        "tested": null,
         "confirmed": 43,
         "recovered": 46,
         "deceased": 2
       },
       "2020-04-21": {
-        "tested": {
-          "samples": 53045,
-          "source": "https://stopcorona.tn.gov.in/wp-content/uploads/2020/03/Media-Bulletin-21.04.2020.pdf"
-        },
+        "tested": null,
         "confirmed": 76,
         "recovered": 178,
         "deceased": 1
       },
       "2020-04-22": {
-        "tested": {
-          "samples": 59023,
-          "source": "https://stopcorona.tn.gov.in/wp-content/uploads/2020/03/Media-Bulletin-22.04.2020.pdf"
-        },
+        "tested": null,
         "confirmed": 33,
         "recovered": 27,
         "deceased": 0
       },
       "2020-04-23": {
-        "tested": {
-          "samples": 65977,
-          "source": "https://stopcorona.tn.gov.in/wp-content/uploads/2020/03/Media-Bulletin-23.04.2020.pdf"
-        },
+        "tested": null,
         "confirmed": 54,
         "recovered": 90,
         "deceased": 2
       },
       "2020-04-24": {
-        "tested": {
-          "samples": 72403,
-          "source": "https://stopcorona.tn.gov.in/wp-content/uploads/2020/03/Media-Bulletin-24.04.2020.pdf"
-        },
+        "tested": null,
         "confirmed": 72,
         "recovered": 114,
         "deceased": 2
       },
       "2020-04-25": {
-        "tested": {
-          "samples": 80110,
-          "source": "https://stopcorona.tn.gov.in/wp-content/uploads/2020/03/Media-Bulletin-25.04.2020.pdf"
-        },
+        "tested": null,
         "confirmed": 66,
         "recovered": 94,
         "deceased": 1
       },
       "2020-04-26": {
-        "tested": {
-          "samples": 87605,
-          "source": "https://stopcorona.tn.gov.in/wp-content/uploads/2020/03/Media-Bulletin-26.04.2020.pdf"
-        },
+        "tested": null,
         "confirmed": 64,
         "recovered": 60,
         "deceased": 1
       },
       "2020-04-27": {
-        "tested": {
-          "samples": 94781,
-          "source": "https://stopcorona.tn.gov.in/wp-content/uploads/2020/03/Media-Bulletin-27-04-20-COVID-19-6-PM.pdf"
-        },
+        "tested": null,
         "confirmed": 52,
         "recovered": 54,
         "deceased": 0
       },
       "2020-04-28": {
-        "tested": {
-          "samples": 101874,
-          "source": "https://stopcorona.tn.gov.in/wp-content/uploads/2020/03/Media-Bulletin-28.04.2020.pdf"
-        },
+        "tested": null,
         "confirmed": 121,
         "recovered": 54,
         "deceased": 1
       },
       "2020-04-29": {
-        "tested": {
-          "samples": 109961,
-          "source": "https://stopcorona.tn.gov.in/wp-content/uploads/2020/03/Media-Bulletin-29.04.2020.pdf"
-        },
+        "tested": null,
         "confirmed": 104,
         "recovered": 82,
         "deceased": 2
       },
       "2020-04-30": {
-        "tested": {
-          "samples": 119748,
-          "source": "https://stopcorona.tn.gov.in/wp-content/uploads/2020/03/Media-Bulletin-30.04.2020.pdf"
-        },
+        "tested": null,
         "confirmed": 161,
         "recovered": 48,
         "deceased": 0
       },
       "2020-05-01": {
-        "tested": {
-          "samples": 129363,
-          "source": "https://stopcorona.tn.gov.in/wp-content/uploads/2020/03/Media-Bulletin-01.05.2020.pdf"
-        },
+        "tested": null,
         "confirmed": 203,
         "recovered": 54,
         "deceased": 1
       },
       "2020-05-02": {
-        "tested": {
-          "samples": 139490,
-          "source": "https://stopcorona.tn.gov.in/wp-content/uploads/2020/03/Media-Bulletin-02.05.2020.pdf"
-        },
+        "tested": null,
         "confirmed": 231,
         "recovered": 29,
         "deceased": 1
       },
       "2020-05-03": {
-        "tested": {
-          "samples": 150107,
-          "source": "https://stopcorona.tn.gov.in/wp-content/uploads/2020/03/Media-Bulletin-03.05.2020.pdf"
-        },
+        "tested": null,
         "confirmed": 266,
         "recovered": 38,
         "deceased": 1
       },
       "2020-05-04": {
-        "tested": {
-          "samples": 162970,
-          "source": "https://stopcorona.tn.gov.in/wp-content/uploads/2020/03/Media-Bulletin-04.05.2020-1.pdf"
-        },
+        "tested": null,
         "confirmed": 527,
         "recovered": 30,
         "deceased": 1
       },
       "2020-05-05": {
-        "tested": {
-          "samples": 174828,
-          "source": "https://stopcorona.tn.gov.in/wp-content/uploads/2020/03/Media-Bulletin-05.05.2020.pdf"
-        },
+        "tested": null,
         "confirmed": 508,
         "recovered": 76,
         "deceased": 2
       },
       "2020-05-06": {
-        "tested": {
-          "samples": 188241,
-          "source": "https://stopcorona.tn.gov.in/wp-content/uploads/2020/03/Media-Bulletin-06.05.2020.pdf"
-        },
+        "tested": null,
         "confirmed": 771,
         "recovered": 31,
         "deceased": 2
       },
       "2020-05-07": {
-        "tested": {
-          "samples": 202436,
-          "source": "https://stopcorona.tn.gov.in/wp-content/uploads/2020/05/Media-Bulletin-07-05-20-COVID-19-6-PM.pdf"
-        },
+        "tested": null,
         "confirmed": 580,
         "recovered": 31,
         "deceased": 2
       },
       "2020-05-08": {
-        "tested": {
-          "samples": 216416,
-          "source": "https://stopcorona.tn.gov.in/wp-content/uploads/2020/03/Media-Bulletin-08.05.2020.pdf"
-        },
+        "tested": null,
         "confirmed": 600,
         "recovered": 58,
         "deceased": 3
       },
       "2020-05-09": {
-        "tested": {
-          "samples": 229670,
-          "source": "https://t.me/indiacovid/4383"
-        },
+        "tested": null,
         "confirmed": 526,
         "recovered": 219,
         "deceased": 4
       },
       "2020-05-10": {
-        "tested": {
-          "samples": 243037,
-          "source": "https://stopcorona.tn.gov.in/wp-content/uploads/2020/03/Media-Bulletin-10.05.2020.pdf"
-        },
+        "tested": null,
         "confirmed": 669,
         "recovered": 135,
         "deceased": 3
       },
       "2020-05-11": {
-        "tested": {
-          "samples": 254899,
-          "source": "https://stopcorona.tn.gov.in/wp-content/uploads/2020/03/Media-Bulletin-11.05.2020_1.pdf"
-        },
+        "tested": null,
         "confirmed": 798,
         "recovered": 92,
         "deceased": 6
       },
       "2020-05-12": {
-        "tested": {
-          "samples": 266687,
-          "source": "https://stopcorona.tn.gov.in/wp-content/uploads/2020/03/Media-Bulletin-12.05.2020-23-Pages-English-584-KB.pdf"
-        },
+        "tested": null,
         "confirmed": 716,
         "recovered": 83,
         "deceased": 8
       },
       "2020-05-13": {
-        "tested": {
-          "samples": 279467,
-          "source": "https://stopcorona.tn.gov.in/wp-content/uploads/2020/03/Media-Bulletin-13.05.2020.pdf"
-        },
+        "tested": null,
         "confirmed": 509,
         "recovered": 41,
         "deceased": 3
       },
       "2020-05-14": {
-        "tested": {
-          "samples": 291432,
-          "source": "https://stopcorona.tn.gov.in/wp-content/uploads/2020/03/Media-Bulletin-14-05-20-COVID-19-6-PM.pdf"
-        },
+        "tested": null,
         "confirmed": 447,
         "recovered": 65,
         "deceased": 2
       },
       "2020-05-15": {
-        "tested": {
-          "samples": 303104,
-          "source": "https://stopcorona.tn.gov.in/wp-content/uploads/2020/03/Media-Bulletin-15-05-20-COVID-19-6-PM.pdf"
-        },
+        "tested": null,
         "confirmed": 434,
         "recovered": 359,
         "deceased": 5
       },
       "2020-05-16": {
-        "tested": {
-          "samples": 313639,
-          "source": "https://stopcorona.tn.gov.in/wp-content/uploads/2020/03/Media-Bulletin-16.05.2020.pdf"
-        },
+        "tested": null,
         "confirmed": 477,
         "recovered": 939,
         "deceased": 4
       },
       "2020-05-17": {
-        "tested": {
-          "samples": 326720,
-          "source": "https://stopcorona.tn.gov.in/wp-content/uploads/2020/03/Media-Bulletin-17.05.2020.pdf"
-        },
+        "tested": null,
         "confirmed": 639,
         "recovered": 634,
         "deceased": 4
       },
       "2020-05-18": {
-        "tested": {
-          "samples": 337841,
-          "source": "https://stopcorona.tn.gov.in/wp-content/uploads/2020/03/Media-Bulletin-18-05-20-COVID-19-6-PM.pdf"
-        },
+        "tested": null,
         "confirmed": 536,
         "recovered": 234,
         "deceased": 3
       },
       "2020-05-19": {
-        "tested": {
-          "samples": 348174,
-          "source": "https://stopcorona.tn.gov.in/wp-content/uploads/2020/03/Media-Bulletin-19-05-20-COVID-19-6-PM.pdf"
-        },
+        "tested": null,
         "confirmed": 688,
         "recovered": 489,
         "deceased": 3
       },
       "2020-05-20": {
-        "tested": {
-          "samples": 360068,
-          "source": "https://stopcorona.tn.gov.in/wp-content/uploads/2020/03/Media-Bulletin-20-05-20-COVID-19-6-PM.pdf"
-        },
+        "tested": null,
         "confirmed": 743,
         "recovered": 987,
         "deceased": 3
       },
       "2020-05-21": {
-        "tested": {
-          "samples": 372532,
-          "source": "https://stopcorona.tn.gov.in/wp-content/uploads/2020/03/Media-Bulletin-21-05-20-COVID-19-6-PM.pdf"
-        },
+        "tested": null,
         "confirmed": 776,
         "recovered": 400,
         "deceased": 7
@@ -27740,11 +26290,7 @@
       "confirmed": 13967,
       "recovered": 6282,
       "deceased": 95,
-      "tested": {
-        "samples": 372532,
-        "source": "https://stopcorona.tn.gov.in/wp-content/uploads/2020/03/Media-Bulletin-21-05-20-COVID-19-6-PM.pdf",
-        "last_updated": "2020-05-21"
-      }
+      "tested": null
     },
     "delta": {
       "confirmed": 0,
@@ -27925,10 +26471,7 @@
         "deceased": 0
       },
       "2020-04-11": {
-        "tested": {
-          "samples": 337,
-          "source": "https://m.facebook.com/story.php?story_fbid=2415546905213637&id=632536300181382"
-        },
+        "tested": null,
         "confirmed": 0,
         "recovered": 0,
         "deceased": 0
@@ -27952,19 +26495,13 @@
         "deceased": 0
       },
       "2020-04-15": {
-        "tested": {
-          "samples": 738,
-          "source": "https://www.facebook.com/bjpbiplab/posts/2424173307684330"
-        },
+        "tested": null,
         "confirmed": 0,
         "recovered": 1,
         "deceased": 0
       },
       "2020-04-16": {
-        "tested": {
-          "samples": 762,
-          "source": "https://t.me/indiacovid/2466"
-        },
+        "tested": null,
         "confirmed": 0,
         "recovered": 0,
         "deceased": 0
@@ -27994,19 +26531,13 @@
         "deceased": 0
       },
       "2020-04-21": {
-        "tested": {
-          "samples": 2604,
-          "source": "https://t.me/indiacovid/2898?single"
-        },
+        "tested": null,
         "confirmed": 0,
         "recovered": 0,
         "deceased": 0
       },
       "2020-04-22": {
-        "tested": {
-          "samples": 3215,
-          "source": "https://t.me/indiacovid/2983?single"
-        },
+        "tested": null,
         "confirmed": 0,
         "recovered": 0,
         "deceased": 0
@@ -28060,190 +26591,127 @@
         "deceased": 0
       },
       "2020-05-01": {
-        "tested": {
-          "samples": 4828,
-          "source": "https://tripura.gov.in/covid-test"
-        },
+        "tested": null,
         "confirmed": 0,
         "recovered": 0,
         "deceased": 0
       },
       "2020-05-02": {
-        "tested": {
-          "samples": 4955,
-          "source": "https://covid19.tripura.gov.in/Visitor/ViewStatus.aspx"
-        },
+        "tested": null,
         "confirmed": 2,
         "recovered": 0,
         "deceased": 0
       },
       "2020-05-03": {
-        "tested": {
-          "samples": 5162,
-          "source": "https://covid19.tripura.gov.in/Visitor/ViewStatus.aspx"
-        },
+        "tested": null,
         "confirmed": 12,
         "recovered": 0,
         "deceased": 0
       },
       "2020-05-04": {
-        "tested": {
-          "samples": 5394,
-          "source": "https://covid19.tripura.gov.in/Visitor/ViewStatus.aspx"
-        },
+        "tested": null,
         "confirmed": 13,
         "recovered": 0,
         "deceased": 0
       },
       "2020-05-05": {
-        "tested": {
-          "samples": 5850,
-          "source": "https://covid19.tripura.gov.in/Visitor/ViewStatus.aspx"
-        },
+        "tested": null,
         "confirmed": 13,
         "recovered": 0,
         "deceased": 0
       },
       "2020-05-06": {
-        "tested": {
-          "samples": 6228,
-          "source": "https://covid19.tripura.gov.in/Visitor/ViewStatus.aspx"
-        },
+        "tested": null,
         "confirmed": 22,
         "recovered": 0,
         "deceased": 0
       },
       "2020-05-07": {
-        "tested": {
-          "samples": 6917,
-          "source": "https://covid19.tripura.gov.in/Visitor/ViewStatus.aspx"
-        },
+        "tested": null,
         "confirmed": 24,
         "recovered": 0,
         "deceased": 0
       },
       "2020-05-08": {
-        "tested": {
-          "samples": 7448,
-          "source": "https://covid19.tripura.gov.in/Visitor/ViewStatus.aspx"
-        },
+        "tested": null,
         "confirmed": 30,
         "recovered": 0,
         "deceased": 0
       },
       "2020-05-09": {
-        "tested": {
-          "samples": 8340,
-          "source": "https://covid19.tripura.gov.in/Visitor/ViewStatus.aspx"
-        },
+        "tested": null,
         "confirmed": 17,
         "recovered": 0,
         "deceased": 0
       },
       "2020-05-10": {
-        "tested": {
-          "samples": 9091,
-          "source": "https://covid19.tripura.gov.in/Visitor/ViewStatus.aspx"
-        },
+        "tested": null,
         "confirmed": 16,
         "recovered": 0,
         "deceased": 0
       },
       "2020-05-11": {
-        "tested": {
-          "samples": 9596,
-          "source": "https://covid19.tripura.gov.in/Visitor/ViewStatus.aspx"
-        },
+        "tested": null,
         "confirmed": 0,
         "recovered": 0,
         "deceased": 0
       },
       "2020-05-12": {
-        "tested": {
-          "samples": 10344,
-          "source": "https://covid19.tripura.gov.in/Visitor/ViewStatus.aspx"
-        },
+        "tested": null,
         "confirmed": 2,
         "recovered": 0,
         "deceased": 0
       },
       "2020-05-13": {
-        "tested": {
-          "samples": 11146,
-          "source": "https://covid19.tripura.gov.in/Visitor/ViewStatus.aspx"
-        },
+        "tested": null,
         "confirmed": 1,
         "recovered": 0,
         "deceased": 0
       },
       "2020-05-14": {
-        "tested": {
-          "samples": 11804,
-          "source": "https://covid19.tripura.gov.in/Visitor/ViewStatus.aspx"
-        },
+        "tested": null,
         "confirmed": 1,
         "recovered": 27,
         "deceased": 0
       },
       "2020-05-15": {
-        "tested": {
-          "samples": 12561,
-          "source": "https://t.me/Covid19india_Auxiliary_Test_Data/19"
-        },
+        "tested": null,
         "confirmed": 0,
         "recovered": 13,
         "deceased": 0
       },
       "2020-05-16": {
-        "tested": {
-          "samples": 13178,
-          "source": "https://t.me/Covid19india_Auxiliary_Test_Data/30"
-        },
+        "tested": null,
         "confirmed": 11,
         "recovered": 22,
         "deceased": 0
       },
       "2020-05-17": {
-        "tested": {
-          "samples": 13750,
-          "source": "https://t.me/Covid19india_Auxiliary_Test_Data/41"
-        },
+        "tested": null,
         "confirmed": -2,
         "recovered": 21,
         "deceased": 0
       },
       "2020-05-18": {
-        "tested": {
-          "samples": 14286,
-          "source": "https://t.me/Covid19india_Auxiliary_Test_Data/49"
-        },
+        "tested": null,
         "confirmed": 0,
         "recovered": 4,
         "deceased": 0
       },
       "2020-05-19": {
-        "tested": {
-          "samples": 15083,
-          "source": "https://t.me/Covid19india_Auxiliary_Test_Data/64"
-        },
+        "tested": null,
         "confirmed": 8,
         "recovered": 27,
         "deceased": 0
       },
       "2020-05-20": {
-        "tested": {
-          "samples": 15822,
-          "source": "https://t.me/Covid19india_Auxiliary_Test_Data/79"
-        },
+        "tested": null,
         "confirmed": 0,
         "recovered": 0,
         "deceased": 0
       },
       "2020-05-21": {
-        "tested": {
-          "samples": 16873,
-          "source": "https://t.me/Covid19india_Auxiliary_Test_Data/97"
-        },
+        "tested": null,
         "confirmed": 2,
         "recovered": 32,
         "deceased": 0
@@ -28391,11 +26859,7 @@
       "confirmed": 175,
       "recovered": 148,
       "deceased": 0,
-      "tested": {
-        "samples": 16873,
-        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/97",
-        "last_updated": "2020-05-21"
-      }
+      "tested": null
     },
     "delta": {
       "confirmed": 0,
@@ -28540,10 +27004,7 @@
         "deceased": 0
       },
       "2020-04-05": {
-        "tested": {
-          "samples": 5255,
-          "source": ""
-        },
+        "tested": null,
         "confirmed": 44,
         "recovered": 0,
         "deceased": 1
@@ -28567,388 +27028,259 @@
         "deceased": 1
       },
       "2020-04-09": {
-        "tested": {
-          "samples": 8402,
-          "source": "https://t.me/c/1428198946/1789"
-        },
+        "tested": null,
         "confirmed": 49,
         "recovered": 0,
         "deceased": 0
       },
       "2020-04-10": {
-        "tested": {
-          "samples": 9332,
-          "source": "https://t.me/c/1428198946/1831"
-        },
+        "tested": null,
         "confirmed": 23,
         "recovered": 1,
         "deceased": 0
       },
       "2020-04-11": {
-        "tested": {
-          "samples": 10595,
-          "source": "https://t.me/c/1428198946/1882"
-        },
+        "tested": null,
         "confirmed": 19,
         "recovered": 13,
         "deceased": 1
       },
       "2020-04-12": {
-        "tested": {
-          "samples": 11855,
-          "source": "https://t.me/indiacovid/2132"
-        },
+        "tested": null,
         "confirmed": 31,
         "recovered": 0,
         "deceased": 0
       },
       "2020-04-13": {
-        "tested": {
-          "samples": 13287,
-          "source": "https://t.me/indiacovid/2199"
-        },
+        "tested": null,
         "confirmed": 75,
         "recovered": 4,
         "deceased": 0
       },
       "2020-04-14": {
-        "tested": {
-          "samples": 15914,
-          "source": "https://t.me/indiacovid/2294?single"
-        },
+        "tested": null,
         "confirmed": 102,
         "recovered": 1,
         "deceased": 3
       },
       "2020-04-15": {
-        "tested": {
-          "samples": 19506,
-          "source": "https://t.me/indiacovid/2356"
-        },
+        "tested": null,
         "confirmed": 75,
         "recovered": 7,
         "deceased": 3
       },
       "2020-04-16": {
-        "tested": {
-          "samples": 21384,
-          "source": "https://t.me/indiacovid/2448"
-        },
+        "tested": null,
         "confirmed": 70,
         "recovered": 11,
         "deceased": 2
       },
       "2020-04-17": {
-        "tested": {
-          "samples": 24643,
-          "source": "https://t.me/indiacovid/2504?single"
-        },
+        "tested": null,
         "confirmed": 44,
         "recovered": 14,
         "deceased": 1
       },
       "2020-04-18": {
-        "tested": {
-          "samples": 28484,
-          "source": "https://t.me/indiacovid/2588"
-        },
+        "tested": null,
         "confirmed": 126,
         "recovered": 26,
         "deceased": 0
       },
       "2020-04-19": {
-        "tested": {
-          "samples": 31767,
-          "source": "https://t.me/c/1248471072/11950"
-        },
+        "tested": null,
         "confirmed": 125,
         "recovered": 19,
         "deceased": 3
       },
       "2020-04-20": {
-        "tested": {
-          "samples": 34326,
-          "source": "https://twitter.com/ANINewsUP/status/1252244640079556609?s=09"
-        },
+        "tested": null,
         "confirmed": 84,
         "recovered": 13,
         "deceased": 1
       },
       "2020-04-21": {
-        "tested": {
-          "samples": 37933,
-          "source": "https://twitter.com/ANINewsUP/status/1252619570222731265?s=19"
-        },
+        "tested": null,
         "confirmed": 153,
         "recovered": 22,
         "deceased": 3
       },
       "2020-04-22": {
-        "tested": {
-          "samples": 42192,
-          "source": "https://twitter.com/ANINewsUP/status/1252986461911052289/photo/1"
-        },
+        "tested": null,
         "confirmed": 112,
         "recovered": 11,
         "deceased": 0
       },
       "2020-04-23": {
-        "tested": {
-          "samples": 45483,
-          "source": "https://t.me/indiacovid/3039?single"
-        },
+        "tested": null,
         "confirmed": 61,
         "recovered": 33,
         "deceased": 3
       },
       "2020-04-24": {
-        "tested": {
-          "samples": 53166,
-          "source": "https://t.me/indiacovid/3111?single"
-        },
+        "tested": null,
         "confirmed": 111,
         "recovered": 20,
         "deceased": 1
       },
       "2020-04-25": {
-        "tested": {
-          "samples": 56851,
-          "source": "https://t.me/indiacovid/3193?single"
-        },
+        "tested": null,
         "confirmed": 172,
         "recovered": 35,
         "deceased": 2
       },
       "2020-04-26": {
-        "tested": {
-          "samples": 61799,
-          "source": "https://twitter.com/qazifarazahmad/status/1254434010375131138?s=19"
-        },
+        "tested": null,
         "confirmed": 80,
         "recovered": 66,
         "deceased": 3
       },
       "2020-04-27": {
-        "tested": {
-          "samples": 67145,
-          "source": "https://t.me/indiacovid/3405"
-        },
+        "tested": null,
         "confirmed": 113,
         "recovered": 72,
         "deceased": 1
       },
       "2020-04-28": {
-        "tested": {
-          "samples": 70307,
-          "source": "https://t.me/indiacovid/3474"
-        },
+        "tested": null,
         "confirmed": 67,
         "recovered": 63,
         "deceased": 3
       },
       "2020-04-29": {
-        "tested": {
-          "samples": 73716,
-          "source": "https://t.me/indiacovid/3542"
-        },
+        "tested": null,
         "confirmed": 81,
         "recovered": 48,
         "deceased": 5
       },
       "2020-04-30": {
-        "tested": {
-          "samples": 78013,
-          "source": "https://t.me/indiacovid/3626"
-        },
+        "tested": null,
         "confirmed": 77,
         "recovered": 41,
         "deceased": 1
       },
       "2020-05-01": {
-        "tested": {
-          "samples": 82459,
-          "source": "https://t.me/indiacovid/3728?single"
-        },
+        "tested": null,
         "confirmed": 117,
         "recovered": 103,
         "deceased": 2
       },
       "2020-05-02": {
-        "tested": {
-          "samples": 85729,
-          "source": "https://t.me/indiacovid/3837?single"
-        },
+        "tested": null,
         "confirmed": 159,
         "recovered": 44,
         "deceased": 1
       },
       "2020-05-03": {
-        "tested": {
-          "samples": 95841,
-          "source": "https://t.me/indiacovid/3941?single"
-        },
+        "tested": null,
         "confirmed": 158,
         "recovered": 56,
         "deceased": 0
       },
       "2020-05-04": {
-        "tested": {
-          "samples": 98300,
-          "source": "https://t.me/indiacovid/4016?single"
-        },
+        "tested": null,
         "confirmed": 121,
         "recovered": 48,
         "deceased": 7
       },
       "2020-05-05": {
-        "tested": {
-          "samples": 105234,
-          "source": "https://t.me/indiacovid/4075"
-        },
+        "tested": null,
         "confirmed": 114,
         "recovered": 185,
         "deceased": 6
       },
       "2020-05-06": {
-        "tested": {
-          "samples": 109888,
-          "source": "https://t.me/indiacovid/4163"
-        },
+        "tested": null,
         "confirmed": 118,
         "recovered": 143,
         "deceased": 4
       },
       "2020-05-07": {
-        "tested": {
-          "samples": 113670,
-          "source": "https://t.me/indiacovid/4195"
-        },
+        "tested": null,
         "confirmed": 73,
         "recovered": 120,
         "deceased": 2
       },
       "2020-05-08": {
-        "tested": {
-          "samples": 119688,
-          "source": "https://twitter.com/ANINewsUP/status/1258781538587758599?s=19"
-        },
+        "tested": null,
         "confirmed": 143,
         "recovered": 137,
         "deceased": 4
       },
       "2020-05-09": {
-        "tested": {
-          "samples": 124791,
-          "source": "https://t.me/indiacovid/4398?single"
-        },
+        "tested": null,
         "confirmed": 159,
         "recovered": 112,
         "deceased": 8
       },
       "2020-05-10": {
-        "tested": {
-          "samples": 129955,
-          "source": "https://t.me/indiacovid/4485"
-        },
+        "tested": null,
         "confirmed": 94,
         "recovered": 154,
         "deceased": 5
       },
       "2020-05-11": {
-        "tested": {
-          "samples": 135760,
-          "source": "https://t.me/indiacovid/4555?single"
-        },
+        "tested": null,
         "confirmed": 106,
         "recovered": 105,
         "deceased": 1
       },
       "2020-05-12": {
-        "tested": {
-          "samples": 140166,
-          "source": "https://t.me/indiacovid/4634?single"
-        },
+        "tested": null,
         "confirmed": 91,
         "recovered": 115,
         "deceased": 2
       },
       "2020-05-13": {
-        "tested": {
-          "samples": 145637,
-          "source": "https://t.me/indiacovid/4705?single"
-        },
+        "tested": null,
         "confirmed": 94,
         "recovered": 92,
         "deceased": 4
       },
       "2020-05-14": {
-        "tested": {
-          "samples": 153139,
-          "source": "https://t.me/indiacovid/4767"
-        },
+        "tested": null,
         "confirmed": 144,
         "recovered": 107,
         "deceased": 2
       },
       "2020-05-15": {
-        "tested": {
-          "samples": 159282,
-          "source": "https://t.me/indiacovid/4823?single"
-        },
+        "tested": null,
         "confirmed": 155,
         "recovered": 93,
         "deceased": 7
       },
       "2020-05-16": {
-        "tested": {
-          "samples": 163105,
-          "source": "https://t.me/indiacovid/4903?single"
-        },
+        "tested": null,
         "confirmed": 201,
         "recovered": 276,
         "deceased": 9
       },
       "2020-05-17": {
-        "tested": {
-          "samples": 172219,
-          "source": "https://t.me/indiacovid/4984?single"
-        },
+        "tested": null,
         "confirmed": 206,
         "recovered": 195,
         "deceased": 8
       },
       "2020-05-18": {
-        "tested": {
-          "samples": 176479,
-          "source": "https://t.me/indiacovid/5065?single"
-        },
+        "tested": null,
         "confirmed": 141,
         "recovered": 147,
         "deceased": 6
       },
       "2020-05-19": {
-        "tested": {
-          "samples": 182184,
-          "source": "https://t.me/indiacovid/5132?single"
-        },
+        "tested": null,
         "confirmed": 321,
         "recovered": 135,
         "deceased": 5
       },
       "2020-05-20": {
-        "tested": {
-          "samples": 191164,
-          "source": "https://t.me/indiacovid/5225?single"
-        },
+        "tested": null,
         "confirmed": 249,
         "recovered": 148,
         "deceased": 4
       },
       "2020-05-21": {
-        "tested": {
-          "samples": 206811,
-          "source": "https://t.me/indiacovid/5279?single"
-        },
+        "tested": null,
         "confirmed": 340,
         "recovered": 138,
         "deceased": 11
@@ -30235,11 +28567,7 @@
       "confirmed": 5515,
       "recovered": 3204,
       "deceased": 138,
-      "tested": {
-        "samples": 206811,
-        "source": "https://t.me/indiacovid/5279?single",
-        "last_updated": "2020-05-21"
-      }
+      "tested": null
     },
     "delta": {
       "confirmed": 0,
@@ -30366,10 +28694,7 @@
         "deceased": 0
       },
       "2020-04-02": {
-        "tested": {
-          "samples": 678,
-          "source": "https://www.facebook.com/UKMedicalHealth/photos/a.1666257713623931/2556543367928690/?type=3&theater"
-        },
+        "tested": null,
         "confirmed": 3,
         "recovered": 0,
         "deceased": 0
@@ -30399,10 +28724,7 @@
         "deceased": 0
       },
       "2020-04-07": {
-        "tested": {
-          "samples": 1289,
-          "source": ""
-        },
+        "tested": null,
         "confirmed": 0,
         "recovered": 0,
         "deceased": 0
@@ -30414,388 +28736,259 @@
         "deceased": 0
       },
       "2020-04-09": {
-        "tested": {
-          "samples": 1531,
-          "source": "http://health.uk.gov.in/files/Health_Bulletin__Uttarakhand_Novel_Corona_Virus_9_April_2020_8.00PM.pdf"
-        },
+        "tested": null,
         "confirmed": 0,
         "recovered": 0,
         "deceased": 0
       },
       "2020-04-10": {
-        "tested": {
-          "samples": 1688,
-          "source": "http://health.uk.gov.in/files/Health_Bulletin__Uttarakhand_Novel_Corona_Virus_10_April_2020__5_PM.pdf"
-        },
+        "tested": null,
         "confirmed": 0,
         "recovered": 0,
         "deceased": 0
       },
       "2020-04-11": {
-        "tested": {
-          "samples": 1705,
-          "source": "http://health.uk.gov.in/files/11.04.2020_Daily_Bulletin.pdf"
-        },
+        "tested": null,
         "confirmed": 0,
         "recovered": 0,
         "deceased": 0
       },
       "2020-04-12": {
-        "tested": {
-          "samples": 1820,
-          "source": "https://m.facebook.com/UKMedicalHealth/photos/pcb.2564454990470861/2564454917137535/?type=3&source=49"
-        },
+        "tested": null,
         "confirmed": 0,
         "recovered": 0,
         "deceased": 0
       },
       "2020-04-13": {
-        "tested": {
-          "samples": 1998,
-          "source": "https://www.facebook.com/UKMedicalHealth/photos/a.1933022463614120/2565229507060076/?type=3&theater"
-        },
+        "tested": null,
         "confirmed": 0,
         "recovered": 2,
         "deceased": 0
       },
       "2020-04-14": {
-        "tested": {
-          "samples": 2174,
-          "source": "https://www.facebook.com/UKMedicalHealth/photos/rpp.1665195163730186/2566043650311995/?type=3&theater"
-        },
+        "tested": null,
         "confirmed": 2,
         "recovered": 2,
         "deceased": 0
       },
       "2020-04-15": {
-        "tested": {
-          "samples": 2413,
-          "source": "http://health.uk.gov.in/files/Corrected-15-04-2020-Health-Bulletin.pdf"
-        },
+        "tested": null,
         "confirmed": 0,
         "recovered": 0,
         "deceased": 0
       },
       "2020-04-16": {
-        "tested": {
-          "samples": 2593,
-          "source": "https://m.facebook.com/UKMedicalHealth/photos/a.1933022463614120/2567811600135200/?type=3&source=48&__tn__=EH-R"
-        },
+        "tested": null,
         "confirmed": 0,
         "recovered": 0,
         "deceased": 0
       },
       "2020-04-17": {
-        "tested": {
-          "samples": 2831,
-          "source": "https://m.facebook.com/story.php?story_fbid=2568731796709847&id=1665195163730186&__tn__=%2As%2As-R"
-        },
+        "tested": null,
         "confirmed": 3,
         "recovered": 0,
         "deceased": 0
       },
       "2020-04-18": {
-        "tested": {
-          "samples": 3158,
-          "source": "https://m.facebook.com/UKMedicalHealth/photos/a.1933022463614120/2569600566622970/?type=3"
-        },
+        "tested": null,
         "confirmed": 2,
         "recovered": 0,
         "deceased": 0
       },
       "2020-04-19": {
-        "tested": {
-          "samples": 3344,
-          "source": "https://m.facebook.com/UKMedicalHealth/photos/a.1933022463614120/2570573469859013/?type=3&source=48"
-        },
+        "tested": null,
         "confirmed": 2,
         "recovered": 2,
         "deceased": 0
       },
       "2020-04-20": {
-        "tested": {
-          "samples": 3677,
-          "source": "http://health.uk.gov.in/files/2020.04.20_Health_Bulletin.pdf"
-        },
+        "tested": null,
         "confirmed": 2,
         "recovered": 7,
         "deceased": 0
       },
       "2020-04-21": {
-        "tested": {
-          "samples": 4061,
-          "source": "http://health.uk.gov.in/files/2020.04.21_Health_Bulletin.pdf"
-        },
+        "tested": null,
         "confirmed": 0,
         "recovered": 1,
         "deceased": 0
       },
       "2020-04-22": {
-        "tested": {
-          "samples": 4275,
-          "source": "http://health.uk.gov.in/files/2020.04.22_Health_Bulletin_Summary.pdf"
-        },
+        "tested": null,
         "confirmed": 0,
         "recovered": 4,
         "deceased": 0
       },
       "2020-04-23": {
-        "tested": {
-          "samples": 4473,
-          "source": "http://health.uk.gov.in/files/2020.04.23_Health_Bulletin.pdf"
-        },
+        "tested": null,
         "confirmed": 1,
         "recovered": 1,
         "deceased": 0
       },
       "2020-04-24": {
-        "tested": {
-          "samples": 4767,
-          "source": "http://health.uk.gov.in/files/2020.04.24_Health_Bulletin.pdf"
-        },
+        "tested": null,
         "confirmed": 1,
         "recovered": 1,
         "deceased": 0
       },
       "2020-04-25": {
-        "tested": {
-          "samples": 5194,
-          "source": "https://twitter.com/ANI/status/1254054806567751680"
-        },
+        "tested": null,
         "confirmed": 0,
         "recovered": 1,
         "deceased": 0
       },
       "2020-04-26": {
-        "tested": {
-          "samples": 5277,
-          "source": "http://health.uk.gov.in/files/2020.04.26_Health_Bulletin.pdf"
-        },
+        "tested": null,
         "confirmed": 3,
         "recovered": 0,
         "deceased": 0
       },
       "2020-04-27": {
-        "tested": {
-          "samples": 5463,
-          "source": "http://health.uk.gov.in/files/2020.04.27_Health_Bulletin.pdf"
-        },
+        "tested": null,
         "confirmed": 0,
         "recovered": 0,
         "deceased": 0
       },
       "2020-04-28": {
-        "tested": {
-          "samples": 5739,
-          "source": "https://twitter.com/ANI/status/1255131631137943552?s=09"
-        },
+        "tested": null,
         "confirmed": 3,
         "recovered": 0,
         "deceased": 0
       },
       "2020-04-29": {
-        "tested": {
-          "samples": 6046,
-          "source": "http://health.uk.gov.in/files/Health_Bulletin_2020.04.29.pdf"
-        },
+        "tested": null,
         "confirmed": 1,
         "recovered": 2,
         "deceased": 0
       },
       "2020-04-30": {
-        "tested": {
-          "samples": 6565,
-          "source": "http://health.uk.gov.in/files/2020.04.30_Health_Bulletin.pdf"
-        },
+        "tested": null,
         "confirmed": 2,
         "recovered": 8,
         "deceased": 0
       },
       "2020-05-01": {
-        "tested": {
-          "samples": 7042,
-          "source": "http://health.uk.gov.in/files/2020.05.01_Health_Bulletin.pdf"
-        },
+        "tested": null,
         "confirmed": 0,
         "recovered": 1,
         "deceased": 1
       },
       "2020-05-02": {
-        "tested": {
-          "samples": 7369,
-          "source": "http://health.uk.gov.in/files/2020.05.02_Health_Bulletin.pdf"
-        },
+        "tested": null,
         "confirmed": 2,
         "recovered": 2,
         "deceased": 0
       },
       "2020-05-03": {
-        "tested": {
-          "samples": 7578,
-          "source": "http://health.uk.gov.in/files/2020.05.03_Health_Bulletin.pdf"
-        },
+        "tested": null,
         "confirmed": 1,
         "recovered": 0,
         "deceased": 0
       },
       "2020-05-04": {
-        "tested": {
-          "samples": 7806,
-          "source": "http://health.uk.gov.in/files/2020.05.04_Health_Bulletin.pdf"
-        },
+        "tested": null,
         "confirmed": 0,
         "recovered": 0,
         "deceased": 0
       },
       "2020-05-05": {
-        "tested": {
-          "samples": 8060,
-          "source": "http://health.uk.gov.in/files/2020.05.05_Health_Bulletin.pdf"
-        },
+        "tested": null,
         "confirmed": 1,
         "recovered": 0,
         "deceased": 0
       },
       "2020-05-06": {
-        "tested": {
-          "samples": 8346,
-          "source": "http://health.uk.gov.in/files/2020.05.06_Health_Bulletin.pdf"
-        },
+        "tested": null,
         "confirmed": 0,
         "recovered": 0,
         "deceased": 0
       },
       "2020-05-07": {
-        "tested": {
-          "samples": 8783,
-          "source": "https://twitter.com/ANI/status/1258329513764757504?s=19"
-        },
+        "tested": null,
         "confirmed": 0,
         "recovered": 0,
         "deceased": 0
       },
       "2020-05-08": {
-        "tested": {
-          "samples": 9116,
-          "source": "https://t.me/indiacovid/4250"
-        },
+        "tested": null,
         "confirmed": 2,
         "recovered": 6,
         "deceased": 0
       },
       "2020-05-09": {
-        "tested": {
-          "samples": 9386,
-          "source": "http://health.uk.gov.in/files/2020.05.09_Health_Bulletin.pdf"
-        },
+        "tested": null,
         "confirmed": 4,
         "recovered": 1,
         "deceased": 0
       },
       "2020-05-10": {
-        "tested": {
-          "samples": 9668,
-          "source": "http://health.uk.gov.in/files/2020.05.10_Health_Bulletin.pdf"
-        },
+        "tested": null,
         "confirmed": 1,
         "recovered": 0,
         "deceased": 0
       },
       "2020-05-11": {
-        "tested": {
-          "samples": 9915,
-          "source": "http://health.uk.gov.in/files/2020.05.11_Health_Bulletin.pdf"
-        },
+        "tested": null,
         "confirmed": 0,
         "recovered": 0,
         "deceased": 0
       },
       "2020-05-12": {
-        "tested": {
-          "samples": 10471,
-          "source": "http://health.uk.gov.in/files/2020.05.12_Health_Bulletin.pdf"
-        },
+        "tested": null,
         "confirmed": 1,
         "recovered": 0,
         "deceased": 0
       },
       "2020-05-13": {
-        "tested": {
-          "samples": 10792,
-          "source": "http://health.uk.gov.in/files/2020.05.13_Health_Bulletin.pdf"
-        },
+        "tested": null,
         "confirmed": 3,
         "recovered": 0,
         "deceased": 0
       },
       "2020-05-14": {
-        "tested": {
-          "samples": 11294,
-          "source": "http://health.uk.gov.in/files/2020.05.14_Health_Bulletin.pdf"
-        },
+        "tested": null,
         "confirmed": 6,
         "recovered": 4,
         "deceased": 0
       },
       "2020-05-15": {
-        "tested": {
-          "samples": 12045,
-          "source": "https://t.me/indiacovid/4796"
-        },
+        "tested": null,
         "confirmed": 4,
         "recovered": 1,
         "deceased": 0
       },
       "2020-05-16": {
-        "tested": {
-          "samples": 12597,
-          "source": "https://t.me/indiacovid/4856?single"
-        },
+        "tested": null,
         "confirmed": 9,
         "recovered": 0,
         "deceased": 0
       },
       "2020-05-17": {
-        "tested": {
-          "samples": 13212,
-          "source": "https://twitter.com/ANI/status/1261943540193431552"
-        },
+        "tested": null,
         "confirmed": 1,
         "recovered": 1,
         "deceased": 0
       },
       "2020-05-18": {
-        "tested": {
-          "samples": 13870,
-          "source": "http://health.uk.gov.in/files/2020.05.18_Health_Bulletin_1.pdf"
-        },
+        "tested": null,
         "confirmed": 4,
         "recovered": 0,
         "deceased": 0
       },
       "2020-05-19": {
-        "tested": {
-          "samples": 14691,
-          "source": "http://health.uk.gov.in/files/2020.05.19_Health_Bulletin.pdf"
-        },
+        "tested": null,
         "confirmed": 15,
         "recovered": 0,
         "deceased": 0
       },
       "2020-05-20": {
-        "tested": {
-          "samples": 15503,
-          "source": "http://health.uk.gov.in/files/2020.05.20_Health_Bulletin.pdf"
-        },
+        "tested": null,
         "confirmed": 11,
         "recovered": 1,
         "deceased": 0
       },
       "2020-05-21": {
-        "tested": {
-          "samples": 16528,
-          "source": "http://health.uk.gov.in/files/2020.05.21_Health_Bulletin.pdf"
-        },
+        "tested": null,
         "confirmed": 24,
         "recovered": 0,
         "deceased": 0
@@ -31028,11 +29221,7 @@
       "confirmed": 151,
       "recovered": 53,
       "deceased": 1,
-      "tested": {
-        "samples": 16528,
-        "source": "http://health.uk.gov.in/files/2020.05.21_Health_Bulletin.pdf",
-        "last_updated": "2020-05-21"
-      }
+      "tested": null
     },
     "delta": {
       "confirmed": 5,
@@ -31153,10 +29342,7 @@
         "deceased": 1
       },
       "2020-04-01": {
-        "tested": {
-          "samples": 659,
-          "source": "https://www.wbhealth.gov.in/uploaded_files/corona/Bulletin_West_Bengal_01.04_.2020_.pdf"
-        },
+        "tested": null,
         "confirmed": 0,
         "recovered": 0,
         "deceased": 0
@@ -31174,10 +29360,7 @@
         "deceased": 0
       },
       "2020-04-04": {
-        "tested": {
-          "samples": 1042,
-          "source": ""
-        },
+        "tested": null,
         "confirmed": 0,
         "recovered": 0,
         "deceased": 0
@@ -31189,19 +29372,13 @@
         "deceased": 0
       },
       "2020-04-06": {
-        "tested": {
-          "samples": 1301,
-          "source": "https://www.wbhealth.gov.in/uploaded_files/corona/Bulletin_West_Bengal_06.04_.2020(1)_.pdf"
-        },
+        "tested": null,
         "confirmed": 0,
         "recovered": 0,
         "deceased": 0
       },
       "2020-04-07": {
-        "tested": {
-          "samples": 1487,
-          "source": "https://www.wbhealth.gov.in/uploaded_files/corona/Bulletin_West_Bengal_07.04_.2020_.pdf"
-        },
+        "tested": null,
         "confirmed": 11,
         "recovered": 3,
         "deceased": 0
@@ -31213,388 +29390,259 @@
         "deceased": 2
       },
       "2020-04-09": {
-        "tested": {
-          "samples": 1889,
-          "source": "https://www.wbhealth.gov.in/uploaded_files/corona/Bulletin_West_Bengal_09.04_.2020_.pdf"
-        },
+        "tested": null,
         "confirmed": 4,
         "recovered": 3,
         "deceased": 0
       },
       "2020-04-10": {
-        "tested": {
-          "samples": 2095,
-          "source": "https://www.wbhealth.gov.in/uploaded_files/corona/Bulletin_West_Bengal_10.04_.2020_.pdf"
-        },
+        "tested": null,
         "confirmed": 13,
         "recovered": 0,
         "deceased": 0
       },
       "2020-04-11": {
-        "tested": {
-          "samples": 2286,
-          "source": "https://www.wbhealth.gov.in/uploaded_files/corona/Bulletin_West_Bengal_11.04_.2020_.pdf"
-        },
+        "tested": null,
         "confirmed": 10,
         "recovered": 0,
         "deceased": 0
       },
       "2020-04-12": {
-        "tested": {
-          "samples": 2523,
-          "source": "https://www.wbhealth.gov.in/uploaded_files/corona/Bulletin_West_Bengal_12.04_.2020_.pdf"
-        },
+        "tested": null,
         "confirmed": 8,
         "recovered": 3,
         "deceased": 2
       },
       "2020-04-13": {
-        "tested": {
-          "samples": 2793,
-          "source": "https://www.wbhealth.gov.in/uploaded_files/corona/Bulletin_West_Bengal_13.04_.2020_.pdf"
-        },
+        "tested": null,
         "confirmed": 18,
         "recovered": 10,
         "deceased": 0
       },
       "2020-04-14": {
-        "tested": {
-          "samples": 3081,
-          "source": "https://www.wbhealth.gov.in/uploaded_files/corona/Bulletin_West_Bengal_14.04_.2020_.pdf"
-        },
+        "tested": null,
         "confirmed": 38,
         "recovered": 7,
         "deceased": 0
       },
       "2020-04-15": {
-        "tested": {
-          "samples": 3470,
-          "source": "https://www.wbhealth.gov.in/uploaded_files/corona/Bulletin_West_Bengal_15.04_.2020_.pdf"
-        },
+        "tested": null,
         "confirmed": 23,
         "recovered": 1,
         "deceased": 0
       },
       "2020-04-16": {
-        "tested": {
-          "samples": 3811,
-          "source": "https://www.wbhealth.gov.in/uploaded_files/corona/Bulletin_West_Bengal_16.04_.2020_.pdf"
-        },
+        "tested": null,
         "confirmed": 18,
         "recovered": 5,
         "deceased": 3
       },
       "2020-04-17": {
-        "tested": {
-          "samples": 4212,
-          "source": "https://www.wbhealth.gov.in/uploaded_files/corona/Bulletin_West_Bengal_17.04_.2020_.pdf"
-        },
+        "tested": null,
         "confirmed": 24,
         "recovered": 9,
         "deceased": 0
       },
       "2020-04-18": {
-        "tested": {
-          "samples": 4630,
-          "source": "https://www.wbhealth.gov.in/uploaded_files/corona/Bulletin_West_Bengal_18.04_.2020_.pdf"
-        },
+        "tested": null,
         "confirmed": 32,
         "recovered": 4,
         "deceased": 2
       },
       "2020-04-19": {
-        "tested": {
-          "samples": 5045,
-          "source": "https://www.wbhealth.gov.in/uploaded_files/corona/Bulletin_West_Bengal_19.04_.2020_.pdf"
-        },
+        "tested": null,
         "confirmed": 23,
         "recovered": 7,
         "deceased": 0
       },
       "2020-04-20": {
-        "tested": {
-          "samples": 5469,
-          "source": "https://www.wbhealth.gov.in/uploaded_files/corona/Bulletin_West_Bengal_20.04_.2020_.pdf"
-        },
+        "tested": null,
         "confirmed": 29,
         "recovered": 4,
         "deceased": 0
       },
       "2020-04-21": {
-        "tested": {
-          "samples": 6182,
-          "source": "https://www.wbhealth.gov.in/uploaded_files/corona/Bulletin_West_Bengal_21.04_.2020_.pdf"
-        },
+        "tested": null,
         "confirmed": 53,
         "recovered": 7,
         "deceased": 3
       },
       "2020-04-22": {
-        "tested": {
-          "samples": 7037,
-          "source": "https://www.wbhealth.gov.in/uploaded_files/corona/Bulletin_West_Bengal_22.04_.2020_.pdf"
-        },
+        "tested": null,
         "confirmed": 31,
         "recovered": 0,
         "deceased": 0
       },
       "2020-04-23": {
-        "tested": {
-          "samples": 7990,
-          "source": "https://www.wbhealth.gov.in/uploaded_files/corona/Bulletin_West_Bengal_23.04_.2020_.pdf"
-        },
+        "tested": null,
         "confirmed": 33,
         "recovered": 6,
         "deceased": 0
       },
       "2020-04-24": {
-        "tested": {
-          "samples": 8933,
-          "source": "https://www.wbhealth.gov.in/uploaded_files/corona/Bulletin_West_Bengal_24.04_.2020_.pdf"
-        },
+        "tested": null,
         "confirmed": 58,
         "recovered": 24,
         "deceased": 3
       },
       "2020-04-25": {
-        "tested": {
-          "samples": 9880,
-          "source": "https://www.wbhealth.gov.in/uploaded_files/corona/Bulletin_West_Bengal_25.04_.2020_.pdf"
-        },
+        "tested": null,
         "confirmed": 57,
         "recovered": 0,
         "deceased": 0
       },
       "2020-04-26": {
-        "tested": {
-          "samples": 10893,
-          "source": "https://www.wbhealth.gov.in/uploaded_files/corona/Bulletin_West_Bengal_26.04_.2020_.pdf"
-        },
+        "tested": null,
         "confirmed": 40,
         "recovered": 2,
         "deceased": 2
       },
       "2020-04-27": {
-        "tested": {
-          "samples": 12043,
-          "source": "https://www.wbhealth.gov.in/uploaded_files/corona/Bulletin_West_Bengal_27.04_.2020_.pdf"
-        },
+        "tested": null,
         "confirmed": 38,
         "recovered": 0,
         "deceased": 0
       },
       "2020-04-28": {
-        "tested": {
-          "samples": 13223,
-          "source": "https://www.wbhealth.gov.in/uploaded_files/corona/Bulletin_West_Bengal_28.04_.2020_.pdf"
-        },
+        "tested": null,
         "confirmed": 48,
         "recovered": 4,
         "deceased": 2
       },
       "2020-04-29": {
-        "tested": {
-          "samples": 14620,
-          "source": "https://www.wbhealth.gov.in/uploaded_files/corona/Bulletin_West_Bengal_29.04_.2020_.pdf"
-        },
+        "tested": null,
         "confirmed": 28,
         "recovered": 10,
         "deceased": 0
       },
       "2020-04-30": {
-        "tested": {
-          "samples": 16525,
-          "source": "https://www.wbhealth.gov.in/uploaded_files/corona/Bulletin_West_Bengal_30.04_.2020_.pdf"
-        },
+        "tested": null,
         "confirmed": 33,
         "recovered": 5,
         "deceased": 11
       },
       "2020-05-01": {
-        "tested": {
-          "samples": 18566,
-          "source": "https://www.wbhealth.gov.in/uploaded_files/corona/Bulletin_West_Bengal_01.05_.2020_.pdf"
-        },
+        "tested": null,
         "confirmed": 37,
         "recovered": 15,
         "deceased": 8
       },
       "2020-05-02": {
-        "tested": {
-          "samples": 20976,
-          "source": "https://www.wbhealth.gov.in/uploaded_files/corona/Bulletin_West_Bengal_02.05_.2020_.pdf"
-        },
+        "tested": null,
         "confirmed": 127,
         "recovered": 12,
         "deceased": 7
       },
       "2020-05-03": {
-        "tested": {
-          "samples": 22915,
-          "source": "https://www.wbhealth.gov.in/uploaded_files/corona/Bulletin_West_Bengal_03.05_.2020_.pdf"
-        },
+        "tested": null,
         "confirmed": 276,
         "recovered": -19,
         "deceased": 74
       },
       "2020-05-04": {
-        "tested": {
-          "samples": 25116,
-          "source": "https://www.wbhealth.gov.in/uploaded_files/corona/WB_DHFW_Bulletin_4TH_MAY_FINAL.pdf"
-        },
+        "tested": null,
         "confirmed": 61,
         "recovered": 86,
         "deceased": 11
       },
       "2020-05-05": {
-        "tested": {
-          "samples": 27571,
-          "source": "https://www.wbhealth.gov.in/uploaded_files/corona/WB_DHFW_Bulletin_5TH_MAY_FINAL.pdf"
-        },
+        "tested": null,
         "confirmed": 85,
         "recovered": 46,
         "deceased": 7
       },
       "2020-05-06": {
-        "tested": {
-          "samples": 30141,
-          "source": "https://www.wbhealth.gov.in/uploaded_files/corona/WB_DHFW_Bulletin_6TH_MAY_FINAL.pdf"
-        },
+        "tested": null,
         "confirmed": 112,
         "recovered": 1,
         "deceased": 4
       },
       "2020-05-07": {
-        "tested": {
-          "samples": 32752,
-          "source": "https://www.wbhealth.gov.in/uploaded_files/corona/WB_DHFW_Bulletin_7TH_MAY_FINAL.pdf"
-        },
+        "tested": null,
         "confirmed": 92,
         "recovered": 31,
         "deceased": 7
       },
       "2020-05-08": {
-        "tested": {
-          "samples": 35767,
-          "source": "https://www.wbhealth.gov.in/uploaded_files/corona/WB_DHFW_Bulletin_8th_MAY_FINAL.pdf"
-        },
+        "tested": null,
         "confirmed": 130,
         "recovered": 27,
         "deceased": 9
       },
       "2020-05-09": {
-        "tested": {
-          "samples": 39368,
-          "source": "https://www.wbhealth.gov.in/uploaded_files/corona/WB_DHFW_Bulletin_9th_MAY_REPORT_FINAL.pdf"
-        },
+        "tested": null,
         "confirmed": 108,
         "recovered": 49,
         "deceased": 11
       },
       "2020-05-10": {
-        "tested": {
-          "samples": 43414,
-          "source": "https://www.wbhealth.gov.in/uploaded_files/corona/WB_DHFW_Bulletin_10th_MAY_REPORT_FINAL.pdf"
-        },
+        "tested": null,
         "confirmed": 153,
         "recovered": 45,
         "deceased": 14
       },
       "2020-05-11": {
-        "tested": {
-          "samples": 47615,
-          "source": "https://www.wbhealth.gov.in/uploaded_files/corona/WB_DHFW_Bulletin_11th_MAY_REPORT_FINAL.pdf"
-        },
+        "tested": null,
         "confirmed": 124,
         "recovered": 82,
         "deceased": 5
       },
       "2020-05-12": {
-        "tested": {
-          "samples": 52622,
-          "source": "https://www.wbhealth.gov.in/uploaded_files/corona/WB_DHFW_Bulletin_12th_MAY_REPORT_FINAL.pdf"
-        },
+        "tested": null,
         "confirmed": 110,
         "recovered": 113,
         "deceased": 8
       },
       "2020-05-13": {
-        "tested": {
-          "samples": 57632,
-          "source": "https://www.wbhealth.gov.in/uploaded_files/corona/WB_DHFW_Bulletin_13th_MAY_REPORT_FINAL.pdf"
-        },
+        "tested": null,
         "confirmed": 117,
         "recovered": 90,
         "deceased": 9
       },
       "2020-05-14": {
-        "tested": {
-          "samples": 62837,
-          "source": "https://www.wbhealth.gov.in/uploaded_files/corona/WB_DHFW_Bulletin_14th_MAY_REPORT_FINAL.pdf"
-        },
+        "tested": null,
         "confirmed": 87,
         "recovered": 66,
         "deceased": 8
       },
       "2020-05-15": {
-        "tested": {
-          "samples": 69543,
-          "source": "https://www.wbhealth.gov.in/uploaded_files/corona/WB_DHFW_Bulletin_15th_MAY_REPORT_FINAL.pdf"
-        },
+        "tested": null,
         "confirmed": 84,
         "recovered": 61,
         "deceased": 10
       },
       "2020-05-16": {
-        "tested": {
-          "samples": 77288,
-          "source": "https://www.wbhealth.gov.in/uploaded_files/corona/WB_DHFW_Bulletin_16th_MAY_REPORT_FINAL.pdf"
-        },
+        "tested": null,
         "confirmed": 115,
         "recovered": 63,
         "deceased": 7
       },
       "2020-05-17": {
-        "tested": {
-          "samples": 85956,
-          "source": "https://www.wbhealth.gov.in/uploaded_files/corona/WB_DHFW_Bulletin_17th_MAY_REPORT_FINAL.pdf"
-        },
+        "tested": null,
         "confirmed": 101,
         "recovered": 67,
         "deceased": 6
       },
       "2020-05-18": {
-        "tested": {
-          "samples": 93570,
-          "source": "https://www.wbhealth.gov.in/uploaded_files/corona/WB_DHFW_Bulletin_18th_MAY_REPORT_FINAL.pdf"
-        },
+        "tested": null,
         "confirmed": 147,
         "recovered": 47,
         "deceased": 6
       },
       "2020-05-19": {
-        "tested": {
-          "samples": 102282,
-          "source": "https://www.wbhealth.gov.in/uploaded_files/corona/WB_DHFW_Bulletin_19th_MAY_REPORT_FINAL.pdf"
-        },
+        "tested": null,
         "confirmed": 137,
         "recovered": 68,
         "deceased": 6
       },
       "2020-05-20": {
-        "tested": {
-          "samples": 111002,
-          "source": "https://www.wbhealth.gov.in/uploaded_files/corona/WB_DHFW_Bulletin_20th_MAY_REPORT_FINAL.pdf"
-        },
+        "tested": null,
         "confirmed": 142,
         "recovered": 62,
         "deceased": 3
       },
       "2020-05-21": {
-        "tested": {
-          "samples": 115244,
-          "source": "https://twitter.com/wbdhfw/status/1263497291618570246?s=09"
-        },
+        "tested": null,
         "confirmed": 94,
         "recovered": 57,
         "deceased": 6
@@ -31997,11 +30045,7 @@
       "confirmed": 3197,
       "recovered": 1193,
       "deceased": 259,
-      "tested": {
-        "samples": 115244,
-        "source": "https://twitter.com/wbdhfw/status/1263497291618570246?s=09",
-        "last_updated": "2020-05-21"
-      }
+      "tested": null
     },
     "delta": {
       "confirmed": 0,
@@ -32619,7 +30663,7 @@
     },
     "districts": null,
     "total": {
-      "confirmed": 119524,
+      "confirmed": 119532,
       "recovered": 49026,
       "deceased": 3600,
       "tested": {
@@ -32629,11 +30673,11 @@
       }
     },
     "delta": {
-      "confirmed": 1298,
+      "confirmed": 1306,
       "recovered": 473,
       "deceased": 16
     },
     "notes": "",
-    "last_updated": "2020-05-22T16:42:23+05:30"
+    "last_updated": "2020-05-22T17:21:23+05:30"
   }
 }
