@@ -3225,12 +3225,12 @@
       },
       "Sivasagar": {
         "delta": {
-          "confirmed": 0,
+          "confirmed": 2,
           "recovered": 0,
           "deceased": 0
         },
         "total": {
-          "confirmed": 3,
+          "confirmed": 5,
           "recovered": 0,
           "deceased": 0
         },
@@ -3327,7 +3327,7 @@
       }
     },
     "total": {
-      "confirmed": 213,
+      "confirmed": 215,
       "recovered": 55,
       "deceased": 4,
       "tested": {
@@ -3337,12 +3337,12 @@
       }
     },
     "delta": {
-      "confirmed": 2,
+      "confirmed": 4,
       "recovered": 0,
       "deceased": 0
     },
     "notes": "Includes one case from Nagaland <br>\nTotal of Three* patients who migrated to other states has been reduced from Active count",
-    "last_updated": "2020-05-22T15:34:25+05:30"
+    "last_updated": "2020-05-22T16:31:24+05:30"
   },
   "BR": {
     "timeseries": {
@@ -32619,7 +32619,7 @@
     },
     "districts": null,
     "total": {
-      "confirmed": 119522,
+      "confirmed": 119524,
       "recovered": 49026,
       "deceased": 3600,
       "tested": {
@@ -32629,11 +32629,11 @@
       }
     },
     "delta": {
-      "confirmed": 1296,
+      "confirmed": 1298,
       "recovered": 473,
       "deceased": 16
     },
     "notes": "",
-    "last_updated": "2020-05-22T15:34:23+05:30"
+    "last_updated": "2020-05-22T16:31:23+05:30"
   }
 }
