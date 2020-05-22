@@ -5778,12 +5778,12 @@
       },
       "Bilaspur": {
         "delta": {
-          "confirmed": 0,
+          "confirmed": 2,
           "recovered": 0,
           "deceased": 0
         },
         "total": {
-          "confirmed": 8,
+          "confirmed": 10,
           "recovered": 1,
           "deceased": 0
         },
@@ -5982,12 +5982,12 @@
       },
       "Mungeli": {
         "delta": {
-          "confirmed": 0,
+          "confirmed": 2,
           "recovered": 0,
           "deceased": 0
         },
         "total": {
-          "confirmed": 1,
+          "confirmed": 3,
           "recovered": 0,
           "deceased": 0
         },
@@ -6135,7 +6135,7 @@
       }
     },
     "total": {
-      "confirmed": 128,
+      "confirmed": 132,
       "recovered": 59,
       "deceased": 0,
       "tested": {
@@ -6145,12 +6145,12 @@
       }
     },
     "delta": {
-      "confirmed": 0,
+      "confirmed": 4,
       "recovered": 0,
       "deceased": 0
     },
     "notes": "",
-    "last_updated": "2020-05-21T23:09:31+05:30"
+    "last_updated": "2020-05-22T08:11:27+05:30"
   },
   "DL": {
     "timeseries": {
@@ -11376,12 +11376,12 @@
     "districts": {
       "Bokaro": {
         "delta": {
-          "confirmed": 0,
+          "confirmed": 5,
           "recovered": 0,
           "deceased": 0
         },
         "total": {
-          "confirmed": 10,
+          "confirmed": 15,
           "recovered": 9,
           "deceased": 1
         },
@@ -11784,7 +11784,7 @@
       }
     },
     "total": {
-      "confirmed": 303,
+      "confirmed": 308,
       "recovered": 136,
       "deceased": 3,
       "tested": {
@@ -11794,12 +11794,12 @@
       }
     },
     "delta": {
-      "confirmed": 0,
+      "confirmed": 5,
       "recovered": 0,
       "deceased": 0
     },
     "notes": "",
-    "last_updated": "2020-05-21T22:13:29+05:30"
+    "last_updated": "2020-05-22T08:11:25+05:30"
   },
   "JK": {
     "timeseries": {
@@ -32592,7 +32592,7 @@
     },
     "districts": null,
     "total": {
-      "confirmed": 118226,
+      "confirmed": 118235,
       "recovered": 48553,
       "deceased": 3584,
       "tested": {
@@ -32602,11 +32602,11 @@
       }
     },
     "delta": {
-      "confirmed": 0,
+      "confirmed": 9,
       "recovered": 0,
       "deceased": 0
     },
     "notes": "",
-    "last_updated": "2020-05-22T00:13:23+05:30"
+    "last_updated": "2020-05-22T08:11:23+05:30"
   }
 }
