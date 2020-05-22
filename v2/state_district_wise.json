@@ -4242,12 +4242,12 @@
       {
         "district": "Kozhikode",
         "notes": "",
-        "active": 12,
-        "confirmed": 37,
+        "active": 17,
+        "confirmed": 42,
         "deceased": 0,
         "recovered": 25,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 5,
           "deceased": 0,
           "recovered": 0
         }
@@ -4326,19 +4326,6 @@
         "recovered": 10,
         "delta": {
           "confirmed": 1,
-          "deceased": 0,
-          "recovered": 0
-        }
-      },
-      {
-        "district": "Unknown",
-        "notes": "",
-        "active": 5,
-        "confirmed": 5,
-        "deceased": 0,
-        "recovered": 0,
-        "delta": {
-          "confirmed": 0,
           "deceased": 0,
           "recovered": 0
         }
