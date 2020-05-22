@@ -8883,19 +8883,19 @@
         "deceased": 0,
         "recovered": 0,
         "delta": {
-          "confirmed": 0,
+          "confirmed": -5,
           "deceased": 0,
           "recovered": 0
         }
       },
       "Chamoli": {
         "notes": "",
-        "active": 2,
-        "confirmed": 2,
+        "active": 1,
+        "confirmed": 1,
         "deceased": 0,
         "recovered": 0,
         "delta": {
-          "confirmed": 1,
+          "confirmed": 0,
           "deceased": 0,
           "recovered": 0
         }
@@ -8919,7 +8919,7 @@
         "deceased": 1,
         "recovered": 29,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 7,
           "deceased": 0,
           "recovered": 0
         }
@@ -9022,8 +9022,8 @@
       },
       "Unknown": {
         "notes": "",
-        "active": -2,
-        "confirmed": -2,
+        "active": -3,
+        "confirmed": -3,
         "deceased": 0,
         "recovered": 0,
         "delta": {

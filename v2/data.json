@@ -18261,7 +18261,7 @@
       "deceased": 0
     },
     "notes": "",
-    "last_updated": "2020-05-22T20:51:29+05:30"
+    "last_updated": "2020-05-22T21:00:27+05:30"
   },
   "MP": {
     "timeseries": {
@@ -30821,7 +30821,7 @@
       },
       "Bageshwar": {
         "delta": {
-          "confirmed": 0,
+          "confirmed": -5,
           "recovered": 0,
           "deceased": 0
         },
@@ -30838,12 +30838,12 @@
       },
       "Chamoli": {
         "delta": {
-          "confirmed": 1,
+          "confirmed": 0,
           "recovered": 0,
           "deceased": 0
         },
         "total": {
-          "confirmed": 2,
+          "confirmed": 1,
           "recovered": 0,
           "deceased": 0
         },
@@ -30872,7 +30872,7 @@
       },
       "Dehradun": {
         "delta": {
-          "confirmed": 0,
+          "confirmed": 7,
           "recovered": 0,
           "deceased": 0
         },
@@ -31025,7 +31025,7 @@
       }
     },
     "total": {
-      "confirmed": 150,
+      "confirmed": 148,
       "recovered": 53,
       "deceased": 1,
       "tested": {
@@ -31035,12 +31035,12 @@
       }
     },
     "delta": {
-      "confirmed": 5,
+      "confirmed": 3,
       "recovered": 0,
       "deceased": 0
     },
     "notes": "",
-    "last_updated": "2020-05-22T20:32:31+05:30"
+    "last_updated": "2020-05-22T21:01:25+05:30"
   },
   "WB": {
     "timeseries": {
@@ -32619,7 +32619,7 @@
     },
     "districts": null,
     "total": {
-      "confirmed": 124075,
+      "confirmed": 124073,
       "recovered": 51307,
       "deceased": 3707,
       "tested": {
@@ -32629,11 +32629,11 @@
       }
     },
     "delta": {
-      "confirmed": 5850,
+      "confirmed": 5848,
       "recovered": 2754,
       "deceased": 123
     },
     "notes": "",
-    "last_updated": "2020-05-22T20:51:23+05:30"
+    "last_updated": "2020-05-22T21:01:23+05:30"
   }
 }
