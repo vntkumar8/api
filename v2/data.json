@@ -2834,12 +2834,12 @@
       },
       "Cachar": {
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "recovered": 0,
           "deceased": 0
         },
         "total": {
-          "confirmed": 14,
+          "confirmed": 15,
           "recovered": 6,
           "deceased": 0
         },
@@ -3004,12 +3004,12 @@
       },
       "Hailakandi": {
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "recovered": 0,
           "deceased": 0
         },
         "total": {
-          "confirmed": 1,
+          "confirmed": 2,
           "recovered": 0,
           "deceased": 1
         },
@@ -3327,7 +3327,7 @@
       }
     },
     "total": {
-      "confirmed": 211,
+      "confirmed": 213,
       "recovered": 55,
       "deceased": 4,
       "tested": {
@@ -3337,12 +3337,12 @@
       }
     },
     "delta": {
-      "confirmed": 0,
+      "confirmed": 2,
       "recovered": 0,
       "deceased": 0
     },
     "notes": "Includes one case from Nagaland <br>\nTotal of Three* patients who migrated to other states has been reduced from Active count",
-    "last_updated": "2020-05-21T23:09:28+05:30"
+    "last_updated": "2020-05-22T15:31:25+05:30"
   },
   "BR": {
     "timeseries": {
@@ -30838,12 +30838,12 @@
       },
       "Chamoli": {
         "delta": {
-          "confirmed": 0,
+          "confirmed": 5,
           "recovered": 0,
           "deceased": 0
         },
         "total": {
-          "confirmed": 1,
+          "confirmed": 6,
           "recovered": 0,
           "deceased": 0
         },
@@ -31025,7 +31025,7 @@
       }
     },
     "total": {
-      "confirmed": 146,
+      "confirmed": 151,
       "recovered": 53,
       "deceased": 1,
       "tested": {
@@ -31035,7 +31035,7 @@
       }
     },
     "delta": {
-      "confirmed": 0,
+      "confirmed": 5,
       "recovered": 0,
       "deceased": 0
     },
@@ -32619,7 +32619,7 @@
     },
     "districts": null,
     "total": {
-      "confirmed": 119515,
+      "confirmed": 119522,
       "recovered": 49026,
       "deceased": 3600,
       "tested": {
@@ -32629,11 +32629,11 @@
       }
     },
     "delta": {
-      "confirmed": 1289,
+      "confirmed": 1296,
       "recovered": 473,
       "deceased": 16
     },
     "notes": "",
-    "last_updated": "2020-05-22T15:03:24+05:30"
+    "last_updated": "2020-05-22T15:31:23+05:30"
   }
 }
