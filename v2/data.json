@@ -13502,14 +13502,14 @@
       },
       "Bengaluru Urban": {
         "delta": {
-          "confirmed": 2,
+          "confirmed": 4,
           "recovered": 0,
-          "deceased": 0
+          "deceased": 1
         },
         "total": {
-          "confirmed": 265,
+          "confirmed": 267,
           "recovered": 130,
-          "deceased": 9
+          "deceased": 10
         },
         "zone": {
           "status": "Red",
@@ -13553,12 +13553,12 @@
       },
       "Chikkaballapura": {
         "delta": {
-          "confirmed": 7,
+          "confirmed": 20,
           "recovered": 0,
           "deceased": 0
         },
         "total": {
-          "confirmed": 80,
+          "confirmed": 93,
           "recovered": 18,
           "deceased": 2
         },
@@ -13621,12 +13621,12 @@
       },
       "Davanagere": {
         "delta": {
-          "confirmed": 2,
+          "confirmed": 3,
           "recovered": 0,
           "deceased": 0
         },
         "total": {
-          "confirmed": 118,
+          "confirmed": 119,
           "recovered": 21,
           "deceased": 4
         },
@@ -13638,12 +13638,12 @@
       },
       "Dharwad": {
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "recovered": 0,
           "deceased": 0
         },
         "total": {
-          "confirmed": 33,
+          "confirmed": 34,
           "recovered": 9,
           "deceased": 0
         },
@@ -13655,12 +13655,12 @@
       },
       "Gadag": {
         "delta": {
-          "confirmed": 8,
+          "confirmed": 15,
           "recovered": 0,
           "deceased": 0
         },
         "total": {
-          "confirmed": 28,
+          "confirmed": 35,
           "recovered": 4,
           "deceased": 1
         },
@@ -13774,12 +13774,12 @@
       },
       "Mandya": {
         "delta": {
-          "confirmed": 12,
+          "confirmed": 28,
           "recovered": 0,
           "deceased": 0
         },
         "total": {
-          "confirmed": 221,
+          "confirmed": 237,
           "recovered": 25,
           "deceased": 0
         },
@@ -13808,12 +13808,12 @@
       },
       "Raichur": {
         "delta": {
-          "confirmed": 17,
+          "confirmed": 39,
           "recovered": 0,
           "deceased": 0
         },
         "total": {
-          "confirmed": 43,
+          "confirmed": 65,
           "recovered": 0,
           "deceased": 0
         },
@@ -13876,12 +13876,12 @@
       },
       "Udupi": {
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "recovered": 0,
           "deceased": 0
         },
         "total": {
-          "confirmed": 50,
+          "confirmed": 51,
           "recovered": 3,
           "deceased": 1
         },
@@ -13893,12 +13893,12 @@
       },
       "Uttara Kannada": {
         "delta": {
-          "confirmed": 0,
+          "confirmed": 2,
           "recovered": 0,
           "deceased": 0
         },
         "total": {
-          "confirmed": 66,
+          "confirmed": 68,
           "recovered": 12,
           "deceased": 0
         },
@@ -13927,12 +13927,12 @@
       },
       "Yadgir": {
         "delta": {
-          "confirmed": 14,
+          "confirmed": 72,
           "recovered": 0,
           "deceased": 0
         },
         "total": {
-          "confirmed": 26,
+          "confirmed": 84,
           "recovered": 0,
           "deceased": 0
         },
@@ -13944,9 +13944,9 @@
       }
     },
     "total": {
-      "confirmed": 1816,
+      "confirmed": 1938,
       "recovered": 597,
-      "deceased": 41,
+      "deceased": 42,
       "tested": {
         "samples": 186526,
         "source": "https://t.me/Karnataka_KoViD19_Broadcast/3499",
@@ -13954,12 +13954,12 @@
       }
     },
     "delta": {
-      "confirmed": 73,
+      "confirmed": 195,
       "recovered": 0,
-      "deceased": 0
+      "deceased": 1
     },
     "notes": "One active case in KA reduced as a confirmed patient died of non-CoViD19 related reasons",
-    "last_updated": "2020-05-23T15:34:30+05:30"
+    "last_updated": "2020-05-23T15:51:25+05:30"
   },
   "KL": {
     "timeseries": {
@@ -32931,9 +32931,9 @@
     },
     "districts": null,
     "total": {
-      "confirmed": 126069,
+      "confirmed": 126191,
       "recovered": 52254,
-      "deceased": 3752,
+      "deceased": 3753,
       "tested": {
         "samples": 2834798,
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/110",
@@ -32941,11 +32941,11 @@
       }
     },
     "delta": {
-      "confirmed": 1275,
+      "confirmed": 1397,
       "recovered": 430,
-      "deceased": 26
+      "deceased": 27
     },
     "notes": "",
-    "last_updated": "2020-05-23T15:34:23+05:30"
+    "last_updated": "2020-05-23T15:51:23+05:30"
   }
 }
