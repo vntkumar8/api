@@ -3375,7 +3375,7 @@
       "deceased": 0
     },
     "notes": "Includes one case from Nagaland <br>\nTotal of Three* patients who migrated to other states has been reduced from Active count",
-    "last_updated": "2020-05-23T19:45:27+05:30"
+    "last_updated": "2020-05-23T19:53:31+05:30"
   },
   "BR": {
     "timeseries": {
@@ -8078,7 +8078,7 @@
       "deceased": 0
     },
     "notes": "",
-    "last_updated": "2020-05-23T19:51:27+05:30"
+    "last_updated": "2020-05-23T19:57:31+05:30"
   },
   "GJ": {
     "timeseries": {
@@ -10948,7 +10948,7 @@
       "deceased": 0
     },
     "notes": "",
-    "last_updated": "2020-05-23T19:51:25+05:30"
+    "last_updated": "2020-05-23T19:57:29+05:30"
   },
   "JH": {
     "timeseries": {
@@ -16970,9 +16970,9 @@
       }
     },
     "total": {
-      "confirmed": 44582,
-      "recovered": 12583,
-      "deceased": 1517,
+      "confirmed": 47190,
+      "recovered": 13404,
+      "deceased": 1577,
       "tested": {
         "samples": 348932,
         "source": "https://twitter.com/Maha_MEDD/status/1264074085513846785?s=19",
@@ -16980,12 +16980,12 @@
       }
     },
     "delta": {
-      "confirmed": 0,
-      "recovered": 0,
-      "deceased": 0
+      "confirmed": 2608,
+      "recovered": 821,
+      "deceased": 60
     },
     "notes": "",
-    "last_updated": "2020-05-22T21:40:28+05:30"
+    "last_updated": "2020-05-23T19:57:25+05:30"
   },
   "ML": {
     "timeseries": {
@@ -32315,7 +32315,7 @@
       "deceased": 4
     },
     "notes": "- Cases updated as per WB bulletin.<br>\n- Deaths due to comorbidities added to total deceased<br>\n- Zones updated as per WB bulletin<br>",
-    "last_updated": "2020-05-23T19:45:26+05:30"
+    "last_updated": "2020-05-23T19:53:27+05:30"
   },
   "TT": {
     "timeseries": {
@@ -32934,9 +32934,9 @@
     },
     "districts": null,
     "total": {
-      "confirmed": 127502,
-      "recovered": 52837,
-      "deceased": 3763,
+      "confirmed": 130110,
+      "recovered": 53658,
+      "deceased": 3823,
       "tested": {
         "samples": 2834798,
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/110",
@@ -32944,11 +32944,11 @@
       }
     },
     "delta": {
-      "confirmed": 2708,
-      "recovered": 1004,
-      "deceased": 37
+      "confirmed": 5316,
+      "recovered": 1825,
+      "deceased": 97
     },
     "notes": "",
-    "last_updated": "2020-05-23T19:51:23+05:30"
+    "last_updated": "2020-05-23T19:57:24+05:30"
   }
 }
