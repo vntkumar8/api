@@ -654,12 +654,12 @@
       {
         "district": "Cachar",
         "notes": "",
-        "active": 14,
-        "confirmed": 24,
+        "active": 17,
+        "confirmed": 27,
         "deceased": 0,
         "recovered": 10,
         "delta": {
-          "confirmed": 3,
+          "confirmed": 6,
           "deceased": 0,
           "recovered": 0
         }
@@ -680,12 +680,12 @@
       {
         "district": "Chirang",
         "notes": "",
-        "active": 0,
-        "confirmed": 0,
+        "active": 4,
+        "confirmed": 4,
         "deceased": 0,
         "recovered": 0,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 4,
           "deceased": 0,
           "recovered": 0
         }
@@ -758,12 +758,12 @@
       {
         "district": "Goalpara",
         "notes": "",
-        "active": 2,
-        "confirmed": 6,
+        "active": 3,
+        "confirmed": 7,
         "deceased": 0,
         "recovered": 4,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
@@ -784,12 +784,12 @@
       {
         "district": "Hailakandi",
         "notes": "",
-        "active": 1,
-        "confirmed": 2,
+        "active": 4,
+        "confirmed": 5,
         "deceased": 1,
         "recovered": 0,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 3,
           "deceased": 0,
           "recovered": 0
         }
@@ -1005,12 +1005,12 @@
       {
         "district": "Tinsukia",
         "notes": "",
-        "active": 0,
-        "confirmed": 0,
+        "active": 4,
+        "confirmed": 4,
         "deceased": 0,
         "recovered": 0,
         "delta": {
-          "confirmed": -1,
+          "confirmed": 3,
           "deceased": 0,
           "recovered": 0
         }
@@ -1037,6 +1037,19 @@
         "recovered": 0,
         "delta": {
           "confirmed": 1,
+          "deceased": 0,
+          "recovered": 0
+        }
+      },
+      {
+        "district": "Unknown",
+        "notes": "",
+        "active": 2,
+        "confirmed": 2,
+        "deceased": 0,
+        "recovered": 0,
+        "delta": {
+          "confirmed": 0,
           "deceased": 0,
           "recovered": 0
         }
@@ -3132,12 +3145,12 @@
       {
         "district": "Chatra",
         "notes": "",
-        "active": 1,
-        "confirmed": 1,
+        "active": 2,
+        "confirmed": 2,
         "deceased": 0,
         "recovered": 0,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
@@ -3145,14 +3158,14 @@
       {
         "district": "Deoghar",
         "notes": "",
-        "active": 1,
+        "active": 0,
         "confirmed": 5,
         "deceased": 0,
-        "recovered": 4,
+        "recovered": 5,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 1
         }
       },
       {
@@ -3184,12 +3197,12 @@
       {
         "district": "East Singhbhum",
         "notes": "",
-        "active": 17,
-        "confirmed": 17,
+        "active": 20,
+        "confirmed": 20,
         "deceased": 0,
         "recovered": 0,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 3,
           "deceased": 0,
           "recovered": 0
         }
@@ -3288,12 +3301,12 @@
       {
         "district": "Koderma",
         "notes": "",
-        "active": 15,
-        "confirmed": 16,
+        "active": 25,
+        "confirmed": 26,
         "deceased": 0,
         "recovered": 1,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 10,
           "deceased": 0,
           "recovered": 0
         }
@@ -3366,14 +3379,14 @@
       {
         "district": "Ranchi",
         "notes": "",
-        "active": 19,
-        "confirmed": 112,
+        "active": 17,
+        "confirmed": 114,
         "deceased": 2,
-        "recovered": 91,
+        "recovered": 95,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 2,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 4
         }
       },
       {
@@ -3405,12 +3418,12 @@
       {
         "district": "Simdega",
         "notes": "",
-        "active": 1,
-        "confirmed": 3,
+        "active": 5,
+        "confirmed": 7,
         "deceased": 0,
         "recovered": 2,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 4,
           "deceased": 0,
           "recovered": 0
         }
