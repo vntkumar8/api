@@ -3372,7 +3372,7 @@
       "deceased": 0
     },
     "notes": "Includes one case from Nagaland <br>\nTotal of Three* patients who migrated to other states has been reduced from Active count",
-    "last_updated": "2020-05-23T15:21:25+05:30"
+    "last_updated": "2020-05-23T15:23:25+05:30"
   },
   "BR": {
     "timeseries": {
@@ -13468,12 +13468,12 @@
       },
       "Belagavi": {
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "recovered": 0,
           "deceased": 0
         },
         "total": {
-          "confirmed": 126,
+          "confirmed": 127,
           "recovered": 57,
           "deceased": 1
         },
@@ -13502,12 +13502,12 @@
       },
       "Bengaluru Urban": {
         "delta": {
-          "confirmed": 0,
+          "confirmed": 2,
           "recovered": 0,
           "deceased": 0
         },
         "total": {
-          "confirmed": 263,
+          "confirmed": 265,
           "recovered": 130,
           "deceased": 9
         },
@@ -13553,12 +13553,12 @@
       },
       "Chikkaballapura": {
         "delta": {
-          "confirmed": 0,
+          "confirmed": 7,
           "recovered": 0,
           "deceased": 0
         },
         "total": {
-          "confirmed": 73,
+          "confirmed": 80,
           "recovered": 18,
           "deceased": 2
         },
@@ -13604,12 +13604,12 @@
       },
       "Dakshina Kannada": {
         "delta": {
-          "confirmed": 0,
+          "confirmed": 3,
           "recovered": 0,
           "deceased": 0
         },
         "total": {
-          "confirmed": 56,
+          "confirmed": 59,
           "recovered": 15,
           "deceased": 5
         },
@@ -13621,12 +13621,12 @@
       },
       "Davanagere": {
         "delta": {
-          "confirmed": 0,
+          "confirmed": 2,
           "recovered": 0,
           "deceased": 0
         },
         "total": {
-          "confirmed": 116,
+          "confirmed": 118,
           "recovered": 21,
           "deceased": 4
         },
@@ -13655,12 +13655,12 @@
       },
       "Gadag": {
         "delta": {
-          "confirmed": 0,
+          "confirmed": 8,
           "recovered": 0,
           "deceased": 0
         },
         "total": {
-          "confirmed": 20,
+          "confirmed": 28,
           "recovered": 4,
           "deceased": 1
         },
@@ -13672,12 +13672,12 @@
       },
       "Hassan": {
         "delta": {
-          "confirmed": 0,
+          "confirmed": 4,
           "recovered": 0,
           "deceased": 0
         },
         "total": {
-          "confirmed": 81,
+          "confirmed": 85,
           "recovered": 0,
           "deceased": 0
         },
@@ -13706,12 +13706,12 @@
       },
       "Kalaburagi": {
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "recovered": 0,
           "deceased": 0
         },
         "total": {
-          "confirmed": 135,
+          "confirmed": 136,
           "recovered": 60,
           "deceased": 7
         },
@@ -13740,12 +13740,12 @@
       },
       "Kolar": {
         "delta": {
-          "confirmed": 0,
+          "confirmed": 2,
           "recovered": 0,
           "deceased": 0
         },
         "total": {
-          "confirmed": 11,
+          "confirmed": 13,
           "recovered": 0,
           "deceased": 0
         },
@@ -13774,12 +13774,12 @@
       },
       "Mandya": {
         "delta": {
-          "confirmed": 0,
+          "confirmed": 12,
           "recovered": 0,
           "deceased": 0
         },
         "total": {
-          "confirmed": 209,
+          "confirmed": 221,
           "recovered": 25,
           "deceased": 0
         },
@@ -13808,12 +13808,12 @@
       },
       "Raichur": {
         "delta": {
-          "confirmed": 0,
+          "confirmed": 17,
           "recovered": 0,
           "deceased": 0
         },
         "total": {
-          "confirmed": 26,
+          "confirmed": 43,
           "recovered": 0,
           "deceased": 0
         },
@@ -13927,12 +13927,12 @@
       },
       "Yadgir": {
         "delta": {
-          "confirmed": 0,
+          "confirmed": 14,
           "recovered": 0,
           "deceased": 0
         },
         "total": {
-          "confirmed": 12,
+          "confirmed": 26,
           "recovered": 0,
           "deceased": 0
         },
@@ -13944,7 +13944,7 @@
       }
     },
     "total": {
-      "confirmed": 1743,
+      "confirmed": 1816,
       "recovered": 597,
       "deceased": 41,
       "tested": {
@@ -13954,12 +13954,12 @@
       }
     },
     "delta": {
-      "confirmed": 0,
+      "confirmed": 73,
       "recovered": 0,
       "deceased": 0
     },
     "notes": "One active case in KA reduced as a confirmed patient died of non-CoViD19 related reasons",
-    "last_updated": "2020-05-22T18:47:26+05:30"
+    "last_updated": "2020-05-23T15:32:24+05:30"
   },
   "KL": {
     "timeseries": {
@@ -32931,7 +32931,7 @@
     },
     "districts": null,
     "total": {
-      "confirmed": 125996,
+      "confirmed": 126069,
       "recovered": 52254,
       "deceased": 3752,
       "tested": {
@@ -32941,11 +32941,11 @@
       }
     },
     "delta": {
-      "confirmed": 1202,
+      "confirmed": 1275,
       "recovered": 430,
       "deceased": 26
     },
     "notes": "",
-    "last_updated": "2020-05-23T15:21:23+05:30"
+    "last_updated": "2020-05-23T15:32:23+05:30"
   }
 }
