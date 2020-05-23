@@ -1299,7 +1299,7 @@
       "deceased": 1
     },
     "notes": "Total includes patients from other states.",
-    "last_updated": "2020-05-23T15:01:24+05:30"
+    "last_updated": "2020-05-23T15:03:26+05:30"
   },
   "AR": {
     "timeseries": {
@@ -2949,12 +2949,12 @@
       },
       "Dhubri": {
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "recovered": 0,
           "deceased": 0
         },
         "total": {
-          "confirmed": 7,
+          "confirmed": 8,
           "recovered": 5,
           "deceased": 0
         },
@@ -3051,12 +3051,12 @@
       },
       "Hojai": {
         "delta": {
-          "confirmed": 0,
+          "confirmed": 6,
           "recovered": 0,
           "deceased": 0
         },
         "total": {
-          "confirmed": 10,
+          "confirmed": 16,
           "recovered": 0,
           "deceased": 0
         },
@@ -3357,7 +3357,7 @@
       }
     },
     "total": {
-      "confirmed": 260,
+      "confirmed": 267,
       "recovered": 55,
       "deceased": 4,
       "tested": {
@@ -3367,12 +3367,12 @@
       }
     },
     "delta": {
-      "confirmed": 0,
+      "confirmed": 7,
       "recovered": 0,
       "deceased": 0
     },
     "notes": "Includes one case from Nagaland <br>\nTotal of Three* patients who migrated to other states has been reduced from Active count",
-    "last_updated": "2020-05-23T00:58:26+05:30"
+    "last_updated": "2020-05-23T15:11:25+05:30"
   },
   "BR": {
     "timeseries": {
@@ -4599,7 +4599,7 @@
       "deceased": 0
     },
     "notes": "",
-    "last_updated": "2020-05-23T15:01:25+05:30"
+    "last_updated": "2020-05-23T15:03:27+05:30"
   },
   "CH": {
     "timeseries": {
@@ -22007,12 +22007,12 @@
       },
       "Balangir": {
         "delta": {
-          "confirmed": 0,
+          "confirmed": 3,
           "recovered": 0,
           "deceased": 0
         },
         "total": {
-          "confirmed": 6,
+          "confirmed": 9,
           "recovered": 2,
           "deceased": 0
         },
@@ -22024,12 +22024,12 @@
       },
       "Balasore": {
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "recovered": 0,
           "deceased": 0
         },
         "total": {
-          "confirmed": 127,
+          "confirmed": 128,
           "recovered": 42,
           "deceased": 0
         },
@@ -22092,12 +22092,12 @@
       },
       "Cuttack": {
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "recovered": 0,
           "deceased": 0
         },
         "total": {
-          "confirmed": 56,
+          "confirmed": 57,
           "recovered": 3,
           "deceased": 1
         },
@@ -22143,12 +22143,12 @@
       },
       "Gajapati": {
         "delta": {
-          "confirmed": 0,
+          "confirmed": 4,
           "recovered": 0,
           "deceased": 0
         },
         "total": {
-          "confirmed": 0,
+          "confirmed": 4,
           "recovered": 0,
           "deceased": 0
         },
@@ -22160,12 +22160,12 @@
       },
       "Ganjam": {
         "delta": {
-          "confirmed": 0,
+          "confirmed": 19,
           "recovered": 0,
           "deceased": 0
         },
         "total": {
-          "confirmed": 322,
+          "confirmed": 341,
           "recovered": 162,
           "deceased": 3
         },
@@ -22194,12 +22194,12 @@
       },
       "Jajpur": {
         "delta": {
-          "confirmed": 0,
+          "confirmed": 14,
           "recovered": 0,
           "deceased": 0
         },
         "total": {
-          "confirmed": 225,
+          "confirmed": 239,
           "recovered": 71,
           "deceased": 0
         },
@@ -22211,12 +22211,12 @@
       },
       "Jharsuguda": {
         "delta": {
-          "confirmed": 0,
+          "confirmed": 3,
           "recovered": 0,
           "deceased": 0
         },
         "total": {
-          "confirmed": 2,
+          "confirmed": 5,
           "recovered": 2,
           "deceased": 0
         },
@@ -22245,12 +22245,12 @@
       },
       "Kandhamal": {
         "delta": {
-          "confirmed": 0,
+          "confirmed": 2,
           "recovered": 0,
           "deceased": 0
         },
         "total": {
-          "confirmed": 3,
+          "confirmed": 5,
           "recovered": 0,
           "deceased": 0
         },
@@ -22330,12 +22330,12 @@
       },
       "Malkangiri": {
         "delta": {
-          "confirmed": 0,
+          "confirmed": 5,
           "recovered": 0,
           "deceased": 0
         },
         "total": {
-          "confirmed": 3,
+          "confirmed": 8,
           "recovered": 0,
           "deceased": 0
         },
@@ -22364,12 +22364,12 @@
       },
       "Nabarangapur": {
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "recovered": 0,
           "deceased": 0
         },
         "total": {
-          "confirmed": 0,
+          "confirmed": 1,
           "recovered": 0,
           "deceased": 0
         },
@@ -22381,12 +22381,12 @@
       },
       "Nayagarh": {
         "delta": {
-          "confirmed": 0,
+          "confirmed": 5,
           "recovered": 0,
           "deceased": 0
         },
         "total": {
-          "confirmed": 27,
+          "confirmed": 32,
           "recovered": 1,
           "deceased": 0
         },
@@ -22415,12 +22415,12 @@
       },
       "Puri": {
         "delta": {
-          "confirmed": 0,
+          "confirmed": 17,
           "recovered": 0,
           "deceased": 0
         },
         "total": {
-          "confirmed": 48,
+          "confirmed": 65,
           "recovered": 4,
           "deceased": 0
         },
@@ -22483,12 +22483,12 @@
       },
       "Sundargarh": {
         "delta": {
-          "confirmed": 0,
+          "confirmed": 5,
           "recovered": 0,
           "deceased": 0
         },
         "total": {
-          "confirmed": 28,
+          "confirmed": 33,
           "recovered": 23,
           "deceased": 0
         },
@@ -22500,7 +22500,7 @@
       }
     },
     "total": {
-      "confirmed": 1189,
+      "confirmed": 1269,
       "recovered": 436,
       "deceased": 7,
       "tested": {
@@ -22510,12 +22510,12 @@
       }
     },
     "delta": {
-      "confirmed": 0,
+      "confirmed": 80,
       "recovered": 0,
       "deceased": 0
     },
     "notes": "",
-    "last_updated": "2020-05-22T14:58:29+05:30"
+    "last_updated": "2020-05-23T15:11:24+05:30"
   },
   "PB": {
     "timeseries": {
@@ -32931,7 +32931,7 @@
     },
     "districts": null,
     "total": {
-      "confirmed": 125856,
+      "confirmed": 125943,
       "recovered": 52254,
       "deceased": 3752,
       "tested": {
@@ -32941,11 +32941,11 @@
       }
     },
     "delta": {
-      "confirmed": 1062,
+      "confirmed": 1149,
       "recovered": 430,
       "deceased": 26
     },
     "notes": "",
-    "last_updated": "2020-05-23T15:01:23+05:30"
+    "last_updated": "2020-05-23T15:11:22+05:30"
   }
 }
