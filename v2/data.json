@@ -4599,7 +4599,7 @@
       "deceased": 0
     },
     "notes": "",
-    "last_updated": "2020-05-23T15:03:27+05:30"
+    "last_updated": "2020-05-23T18:10:26+05:30"
   },
   "CH": {
     "timeseries": {
@@ -8019,7 +8019,7 @@
           "source": "https://twitter.com/DHS_Goa/status/1263826561528000514"
         },
         "confirmed": 2,
-        "recovered": 0,
+        "recovered": 9,
         "deceased": 0
       }
     },
@@ -8061,7 +8061,7 @@
     },
     "total": {
       "confirmed": 54,
-      "recovered": 7,
+      "recovered": 16,
       "deceased": 0,
       "tested": {
         "samples": 11362,
@@ -8075,7 +8075,7 @@
       "deceased": 0
     },
     "notes": "",
-    "last_updated": "2020-05-22T20:12:34+05:30"
+    "last_updated": "2020-05-23T18:11:26+05:30"
   },
   "GJ": {
     "timeseries": {
@@ -9987,7 +9987,7 @@
       "deceased": 0
     },
     "notes": "HP has 4 Migrated cases which are reduced from Active #. Also, death of Tibetan refugee is included in deceased numbers, but not in confirmed",
-    "last_updated": "2020-05-23T18:01:25+05:30"
+    "last_updated": "2020-05-23T18:10:34+05:30"
   },
   "HR": {
     "timeseries": {
@@ -15330,7 +15330,7 @@
       "deceased": 0
     },
     "notes": "",
-    "last_updated": "2020-05-23T18:01:27+05:30"
+    "last_updated": "2020-05-23T18:10:36+05:30"
   },
   "LD": {
     "timeseries": {
@@ -22515,7 +22515,7 @@
       "deceased": 0
     },
     "notes": "",
-    "last_updated": "2020-05-23T18:01:24+05:30"
+    "last_updated": "2020-05-23T18:10:27+05:30"
   },
   "PB": {
     "timeseries": {
@@ -27392,12 +27392,12 @@
       },
       "Chengalpattu": {
         "delta": {
-          "confirmed": 0,
+          "confirmed": 39,
           "recovered": 0,
           "deceased": 0
         },
         "total": {
-          "confirmed": 691,
+          "confirmed": 730,
           "recovered": 233,
           "deceased": 4
         },
@@ -27409,12 +27409,12 @@
       },
       "Chennai": {
         "delta": {
-          "confirmed": 0,
+          "confirmed": 625,
           "recovered": 0,
           "deceased": 0
         },
         "total": {
-          "confirmed": 9370,
+          "confirmed": 9995,
           "recovered": 3773,
           "deceased": 70
         },
@@ -27443,12 +27443,12 @@
       },
       "Cuddalore": {
         "delta": {
-          "confirmed": 0,
+          "confirmed": 2,
           "recovered": 0,
           "deceased": 0
         },
         "total": {
-          "confirmed": 421,
+          "confirmed": 423,
           "recovered": 405,
           "deceased": 1
         },
@@ -27528,12 +27528,12 @@
       },
       "Kancheepuram": {
         "delta": {
-          "confirmed": 0,
+          "confirmed": 13,
           "recovered": 0,
           "deceased": 0
         },
         "total": {
-          "confirmed": 246,
+          "confirmed": 259,
           "recovered": 150,
           "deceased": 1
         },
@@ -27596,12 +27596,12 @@
       },
       "Madurai": {
         "delta": {
-          "confirmed": 0,
+          "confirmed": 2,
           "recovered": 0,
           "deceased": 0
         },
         "total": {
-          "confirmed": 224,
+          "confirmed": 226,
           "recovered": 111,
           "deceased": 2
         },
@@ -27698,12 +27698,12 @@
       },
       "Ramanathapuram": {
         "delta": {
-          "confirmed": 0,
+          "confirmed": 3,
           "recovered": 0,
           "deceased": 0
         },
         "total": {
-          "confirmed": 52,
+          "confirmed": 55,
           "recovered": 26,
           "deceased": 1
         },
@@ -27715,12 +27715,12 @@
       },
       "Ranipet": {
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "recovered": 0,
           "deceased": 0
         },
         "total": {
-          "confirmed": 89,
+          "confirmed": 90,
           "recovered": 60,
           "deceased": 0
         },
@@ -27732,12 +27732,12 @@
       },
       "Salem": {
         "delta": {
-          "confirmed": 0,
+          "confirmed": 3,
           "recovered": 0,
           "deceased": 0
         },
         "total": {
-          "confirmed": 49,
+          "confirmed": 52,
           "recovered": 35,
           "deceased": 0
         },
@@ -27766,12 +27766,12 @@
       },
       "Tenkasi": {
         "delta": {
-          "confirmed": 0,
+          "confirmed": 2,
           "recovered": 0,
           "deceased": 0
         },
         "total": {
-          "confirmed": 83,
+          "confirmed": 85,
           "recovered": 51,
           "deceased": 0
         },
@@ -27800,12 +27800,12 @@
       },
       "Theni": {
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "recovered": 0,
           "deceased": 0
         },
         "total": {
-          "confirmed": 101,
+          "confirmed": 102,
           "recovered": 50,
           "deceased": 2
         },
@@ -27817,12 +27817,12 @@
       },
       "Thiruvallur": {
         "delta": {
-          "confirmed": 0,
+          "confirmed": 22,
           "recovered": 0,
           "deceased": 0
         },
         "total": {
-          "confirmed": 675,
+          "confirmed": 697,
           "recovered": 243,
           "deceased": 7
         },
@@ -27885,12 +27885,12 @@
       },
       "Tirunelveli": {
         "delta": {
-          "confirmed": 0,
+          "confirmed": 11,
           "recovered": 0,
           "deceased": 0
         },
         "total": {
-          "confirmed": 272,
+          "confirmed": 283,
           "recovered": 93,
           "deceased": 1
         },
@@ -27987,12 +27987,12 @@
       },
       "Virudhunagar": {
         "delta": {
-          "confirmed": 0,
+          "confirmed": 2,
           "recovered": 0,
           "deceased": 0
         },
         "total": {
-          "confirmed": 95,
+          "confirmed": 97,
           "recovered": 43,
           "deceased": 0
         },
@@ -28004,7 +28004,7 @@
       }
     },
     "total": {
-      "confirmed": 14753,
+      "confirmed": 15512,
       "recovered": 7128,
       "deceased": 99,
       "tested": {
@@ -28014,12 +28014,12 @@
       }
     },
     "delta": {
-      "confirmed": 0,
+      "confirmed": 759,
       "recovered": 0,
       "deceased": 0
     },
     "notes": "",
-    "last_updated": "2020-05-22T18:41:24+05:30"
+    "last_updated": "2020-05-23T18:11:24+05:30"
   },
   "TR": {
     "timeseries": {
@@ -32925,14 +32925,14 @@
           "source": "https://t.me/Covid19india_Auxiliary_Test_Data/99"
         },
         "confirmed": 6570,
-        "recovered": 3271,
+        "recovered": 3280,
         "deceased": 142
       }
     },
     "districts": null,
     "total": {
-      "confirmed": 126516,
-      "recovered": 52335,
+      "confirmed": 127275,
+      "recovered": 52344,
       "deceased": 3754,
       "tested": {
         "samples": 2834798,
@@ -32941,11 +32941,11 @@
       }
     },
     "delta": {
-      "confirmed": 1722,
+      "confirmed": 2481,
       "recovered": 511,
       "deceased": 28
     },
     "notes": "",
-    "last_updated": "2020-05-23T18:01:22+05:30"
+    "last_updated": "2020-05-23T18:11:23+05:30"
   }
 }
