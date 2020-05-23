@@ -1240,24 +1240,24 @@
       },
       "Nalanda": {
         "notes": "",
-        "active": 21,
-        "confirmed": 80,
+        "active": 23,
+        "confirmed": 82,
         "deceased": 0,
         "recovered": 59,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 2,
           "deceased": 0,
           "recovered": 0
         }
       },
       "Nawada": {
         "notes": "",
-        "active": 50,
-        "confirmed": 54,
+        "active": 48,
+        "confirmed": 52,
         "deceased": 0,
         "recovered": 4,
         "delta": {
-          "confirmed": 4,
+          "confirmed": 2,
           "deceased": 0,
           "recovered": 0
         }
@@ -6899,6 +6899,18 @@
         "notes": "",
         "active": 0,
         "confirmed": 0,
+        "deceased": 0,
+        "recovered": 0,
+        "delta": {
+          "confirmed": 0,
+          "deceased": 0,
+          "recovered": 0
+        }
+      },
+      "Unknown": {
+        "notes": "",
+        "active": 1,
+        "confirmed": 1,
         "deceased": 0,
         "recovered": 0,
         "delta": {

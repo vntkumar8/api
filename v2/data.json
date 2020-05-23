@@ -4332,12 +4332,12 @@
       },
       "Nalanda": {
         "delta": {
-          "confirmed": 0,
+          "confirmed": 2,
           "recovered": 0,
           "deceased": 0
         },
         "total": {
-          "confirmed": 80,
+          "confirmed": 82,
           "recovered": 59,
           "deceased": 0
         },
@@ -4349,12 +4349,12 @@
       },
       "Nawada": {
         "delta": {
-          "confirmed": 4,
+          "confirmed": 2,
           "recovered": 0,
           "deceased": 0
         },
         "total": {
-          "confirmed": 54,
+          "confirmed": 52,
           "recovered": 4,
           "deceased": 0
         },
@@ -4602,7 +4602,7 @@
       "deceased": 0
     },
     "notes": "",
-    "last_updated": "2020-05-23T19:20:25+05:30"
+    "last_updated": "2020-05-23T19:22:24+05:30"
   },
   "CH": {
     "timeseries": {
@@ -14788,9 +14788,9 @@
       "recovered": 515,
       "deceased": 5,
       "tested": {
-        "samples": 58382,
+        "samples": 60443,
         "source": "http://dhs.kerala.gov.in/2020/05/22/22-05-2020/",
-        "last_updated": "2020-05-22"
+        "last_updated": "2020-05-23"
       }
     },
     "delta": {
@@ -23473,7 +23473,7 @@
       "deceased": 0
     },
     "notes": "Cases in Punjab were effectively reduced as some cases were added to 'central pool' as per the bulletin",
-    "last_updated": "2020-05-23T19:21:24+05:30"
+    "last_updated": "2020-05-23T19:29:24+05:30"
   },
   "PY": {
     "timeseries": {
@@ -25778,7 +25778,7 @@
       }
     },
     "total": {
-      "confirmed": 0,
+      "confirmed": 1,
       "recovered": 0,
       "deceased": 0,
       "tested": {
@@ -25788,12 +25788,12 @@
       }
     },
     "delta": {
-      "confirmed": 0,
+      "confirmed": 1,
       "recovered": 0,
       "deceased": 0
     },
     "notes": "",
-    "last_updated": "2020-03-26T07:19:29+05:30"
+    "last_updated": "2020-05-23T19:32:27+05:30"
   },
   "TG": {
     "timeseries": {
@@ -32934,7 +32934,7 @@
     },
     "districts": null,
     "total": {
-      "confirmed": 127318,
+      "confirmed": 127319,
       "recovered": 52744,
       "deceased": 3759,
       "tested": {
@@ -32944,11 +32944,11 @@
       }
     },
     "delta": {
-      "confirmed": 2524,
+      "confirmed": 2525,
       "recovered": 911,
       "deceased": 33
     },
     "notes": "",
-    "last_updated": "2020-05-23T19:21:23+05:30"
+    "last_updated": "2020-05-23T19:32:23+05:30"
   }
 }
