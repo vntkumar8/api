@@ -9063,12 +9063,12 @@
       },
       "Bankura": {
         "notes": "",
-        "active": 0,
-        "confirmed": 0,
+        "active": 1,
+        "confirmed": 1,
         "deceased": 0,
         "recovered": 0,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
@@ -9339,8 +9339,8 @@
       },
       "Unknown": {
         "notes": "",
-        "active": 12,
-        "confirmed": 12,
+        "active": 11,
+        "confirmed": 11,
         "deceased": 0,
         "recovered": 0,
         "delta": {

@@ -3375,7 +3375,7 @@
       "deceased": 0
     },
     "notes": "Includes one case from Nagaland <br>\nTotal of Three* patients who migrated to other states has been reduced from Active count",
-    "last_updated": "2020-05-23T23:21:27+05:30"
+    "last_updated": "2020-05-23T23:23:27+05:30"
   },
   "BR": {
     "timeseries": {
@@ -11919,7 +11919,7 @@
       "deceased": 0
     },
     "notes": "",
-    "last_updated": "2020-05-23T23:21:25+05:30"
+    "last_updated": "2020-05-23T23:23:24+05:30"
   },
   "JK": {
     "timeseries": {
@@ -14491,7 +14491,7 @@
       "2020-05-17": {
         "tested": {
           "samples": 45027,
-          "source": "http://dhs.kerala.gov.in/2020/05/17/17-05-2020/"
+          "source": "https://dashboard.kerala.gov.in/testing-view-public.php"
         },
         "confirmed": 14,
         "recovered": 0,
@@ -23462,9 +23462,9 @@
       "recovered": 1870,
       "deceased": 39,
       "tested": {
-        "samples": 62399,
-        "source": "http://pbhealth.gov.in/Media%20Bulletin%20COVID-19%2022-05-2020.pdf",
-        "last_updated": "2020-05-22"
+        "samples": 63567,
+        "source": "http://pbhealth.gov.in/Media%20Bulletin%20COVID-19%2023-05-2020.pdf",
+        "last_updated": "2020-05-23"
       }
     },
     "delta": {
@@ -25782,9 +25782,9 @@
       "recovered": 0,
       "deceased": 0,
       "tested": {
-        "samples": 0,
-        "source": "",
-        "last_updated": "2020-05-24"
+        "samples": 1707,
+        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/127",
+        "last_updated": "2020-05-23"
       }
     },
     "delta": {
@@ -31926,12 +31926,12 @@
       },
       "Bankura": {
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "recovered": 0,
           "deceased": 0
         },
         "total": {
-          "confirmed": 0,
+          "confirmed": 1,
           "recovered": 0,
           "deceased": 0
         },
@@ -32949,6 +32949,6 @@
       "deceased": 142
     },
     "notes": "",
-    "last_updated": "2020-05-23T23:21:23+05:30"
+    "last_updated": "2020-05-23T23:23:23+05:30"
   }
 }
