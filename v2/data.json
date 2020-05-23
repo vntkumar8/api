@@ -1841,7 +1841,10 @@
         "deceased": 0
       },
       "2020-05-23": {
-        "tested": null,
+        "tested": {
+          "samples": 5206,
+          "source": "http://covid19.itanagarsmartcity.in/callstatus.php"
+        },
         "confirmed": 0,
         "recovered": 0,
         "deceased": 0
@@ -2279,9 +2282,9 @@
       "recovered": 1,
       "deceased": 0,
       "tested": {
-        "samples": 4844,
-        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/108",
-        "last_updated": "2050-05-22"
+        "samples": 5206,
+        "source": "http://covid19.itanagarsmartcity.in/callstatus.php",
+        "last_updated": "2020-05-23"
       }
     },
     "delta": {
@@ -2817,7 +2820,10 @@
         "deceased": 0
       },
       "2020-05-23": {
-        "tested": null,
+        "tested": {
+          "samples": 60405,
+          "source": "https://twitter.com/nhm_assam/status/1264220889811476481?s=19"
+        },
         "confirmed": 121,
         "recovered": 2,
         "deceased": 0
@@ -3391,9 +3397,9 @@
       "recovered": 57,
       "deceased": 4,
       "tested": {
-        "samples": 0,
-        "source": "",
-        "last_updated": "2020-05-24"
+        "samples": 60405,
+        "source": "https://twitter.com/nhm_assam/status/1264220889811476481?s=19",
+        "last_updated": "2020-05-23"
       }
     },
     "delta": {
