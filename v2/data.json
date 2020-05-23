@@ -24653,12 +24653,12 @@
       "Ajmer": {
         "delta": {
           "confirmed": 6,
-          "recovered": 0,
+          "recovered": 4,
           "deceased": 0
         },
         "total": {
           "confirmed": 285,
-          "recovered": 231,
+          "recovered": 235,
           "deceased": 5
         },
         "zone": {
@@ -24807,12 +24807,12 @@
         "delta": {
           "confirmed": 1,
           "recovered": 0,
-          "deceased": 0
+          "deceased": 1
         },
         "total": {
           "confirmed": 170,
           "recovered": 118,
-          "deceased": 2
+          "deceased": 3
         },
         "zone": {
           "status": "Orange",
@@ -24925,12 +24925,12 @@
       "Jaipur": {
         "delta": {
           "confirmed": 22,
-          "recovered": 0,
+          "recovered": 68,
           "deceased": 2
         },
         "total": {
           "confirmed": 1737,
-          "recovered": 1106,
+          "recovered": 1174,
           "deceased": 77
         },
         "zone": {
@@ -24942,12 +24942,12 @@
       "Jaisalmer": {
         "delta": {
           "confirmed": 0,
-          "recovered": 0,
+          "recovered": 1,
           "deceased": 0
         },
         "total": {
           "confirmed": 64,
-          "recovered": 35,
+          "recovered": 36,
           "deceased": 0
         },
         "zone": {
@@ -25010,12 +25010,12 @@
       "Jodhpur": {
         "delta": {
           "confirmed": 26,
-          "recovered": 0,
+          "recovered": 11,
           "deceased": 0
         },
         "total": {
           "confirmed": 1189,
-          "recovered": 861,
+          "recovered": 872,
           "deceased": 17
         },
         "zone": {
@@ -25045,12 +25045,12 @@
         "delta": {
           "confirmed": 14,
           "recovered": 0,
-          "deceased": 1
+          "deceased": 2
         },
         "total": {
           "confirmed": 373,
           "recovered": 272,
-          "deceased": 15
+          "deceased": 16
         },
         "zone": {
           "status": "Red",
@@ -25062,12 +25062,12 @@
         "delta": {
           "confirmed": 40,
           "recovered": 0,
-          "deceased": 0
+          "deceased": 2
         },
         "total": {
           "confirmed": 296,
           "recovered": 132,
-          "deceased": 5
+          "deceased": 7
         },
         "zone": {
           "status": "Red",
@@ -25180,12 +25180,12 @@
       "Tonk": {
         "delta": {
           "confirmed": 3,
-          "recovered": 0,
+          "recovered": 7,
           "deceased": 0
         },
         "total": {
           "confirmed": 159,
-          "recovered": 142,
+          "recovered": 149,
           "deceased": 1
         },
         "zone": {
@@ -25214,8 +25214,8 @@
     },
     "total": {
       "confirmed": 6742,
-      "recovered": 3695,
-      "deceased": 156,
+      "recovered": 3786,
+      "deceased": 160,
       "tested": {
         "samples": 303935,
         "source": "https://t.me/indiacovid/5375",
@@ -25224,11 +25224,11 @@
     },
     "delta": {
       "confirmed": 248,
-      "recovered": 15,
-      "deceased": 3
+      "recovered": 106,
+      "deceased": 7
     },
     "notes": "",
-    "last_updated": "2020-05-23T21:51:24+05:30"
+    "last_updated": "2020-05-23T22:01:24+05:30"
   },
   "SK": {
     "timeseries": {
@@ -26797,9 +26797,9 @@
       }
     },
     "total": {
-      "confirmed": 1761,
-      "recovered": 1043,
-      "deceased": 48,
+      "confirmed": 1813,
+      "recovered": 1068,
+      "deceased": 49,
       "tested": {
         "samples": 23388,
         "source": "",
@@ -26807,12 +26807,12 @@
       }
     },
     "delta": {
-      "confirmed": 0,
-      "recovered": 0,
-      "deceased": 0
+      "confirmed": 52,
+      "recovered": 25,
+      "deceased": 1
     },
     "notes": "",
-    "last_updated": "2020-05-22T23:08:26+05:30"
+    "last_updated": "2020-05-23T22:01:26+05:30"
   },
   "TN": {
     "timeseries": {
@@ -28682,7 +28682,7 @@
       "deceased": 0
     },
     "notes": "Two cases are migrated out of Tripura.",
-    "last_updated": "2020-05-23T21:51:27+05:30"
+    "last_updated": "2020-05-23T21:57:26+05:30"
   },
   "UP": {
     "timeseries": {
@@ -32934,9 +32934,9 @@
     },
     "districts": null,
     "total": {
-      "confirmed": 131009,
-      "recovered": 54179,
-      "deceased": 3860,
+      "confirmed": 131061,
+      "recovered": 54295,
+      "deceased": 3865,
       "tested": {
         "samples": 2834798,
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/110",
@@ -32944,11 +32944,11 @@
       }
     },
     "delta": {
-      "confirmed": 6215,
-      "recovered": 2346,
-      "deceased": 134
+      "confirmed": 6267,
+      "recovered": 2462,
+      "deceased": 139
     },
     "notes": "",
-    "last_updated": "2020-05-23T21:51:23+05:30"
+    "last_updated": "2020-05-23T22:01:23+05:30"
   }
 }
