@@ -4588,9 +4588,9 @@
       "recovered": 629,
       "deceased": 11,
       "tested": {
-        "samples": 58481,
-        "source": "https://twitter.com/BiharHealthDept/status/1263795597380739073",
-        "last_updated": "2020-05-22"
+        "samples": 61220,
+        "source": "",
+        "last_updated": "2020-05-23"
       }
     },
     "delta": {
@@ -8075,7 +8075,7 @@
       "deceased": 0
     },
     "notes": "",
-    "last_updated": "2020-05-23T18:11:26+05:30"
+    "last_updated": "2020-05-23T18:20:28+05:30"
   },
   "GJ": {
     "timeseries": {
@@ -27393,12 +27393,12 @@
       "Chengalpattu": {
         "delta": {
           "confirmed": 39,
-          "recovered": 0,
+          "recovered": 12,
           "deceased": 0
         },
         "total": {
           "confirmed": 730,
-          "recovered": 233,
+          "recovered": 245,
           "deceased": 4
         },
         "zone": {
@@ -27410,13 +27410,13 @@
       "Chennai": {
         "delta": {
           "confirmed": 625,
-          "recovered": 0,
-          "deceased": 0
+          "recovered": 278,
+          "deceased": 5
         },
         "total": {
           "confirmed": 9995,
-          "recovered": 3773,
-          "deceased": 70
+          "recovered": 4051,
+          "deceased": 75
         },
         "zone": {
           "status": "Red",
@@ -27444,12 +27444,12 @@
       "Cuddalore": {
         "delta": {
           "confirmed": 2,
-          "recovered": 0,
+          "recovered": 2,
           "deceased": 0
         },
         "total": {
           "confirmed": 423,
-          "recovered": 405,
+          "recovered": 407,
           "deceased": 1
         },
         "zone": {
@@ -27529,12 +27529,12 @@
       "Kancheepuram": {
         "delta": {
           "confirmed": 13,
-          "recovered": 0,
+          "recovered": 5,
           "deceased": 0
         },
         "total": {
           "confirmed": 259,
-          "recovered": 150,
+          "recovered": 155,
           "deceased": 1
         },
         "zone": {
@@ -27546,12 +27546,12 @@
       "Kanyakumari": {
         "delta": {
           "confirmed": 0,
-          "recovered": 0,
+          "recovered": 3,
           "deceased": 0
         },
         "total": {
           "confirmed": 49,
-          "recovered": 24,
+          "recovered": 27,
           "deceased": 1
         },
         "zone": {
@@ -27580,12 +27580,12 @@
       "Krishnagiri": {
         "delta": {
           "confirmed": 0,
-          "recovered": 0,
+          "recovered": 1,
           "deceased": 0
         },
         "total": {
           "confirmed": 22,
-          "recovered": 18,
+          "recovered": 19,
           "deceased": 0
         },
         "zone": {
@@ -27597,12 +27597,12 @@
       "Madurai": {
         "delta": {
           "confirmed": 2,
-          "recovered": 0,
+          "recovered": 2,
           "deceased": 0
         },
         "total": {
           "confirmed": 226,
-          "recovered": 111,
+          "recovered": 113,
           "deceased": 2
         },
         "zone": {
@@ -27614,12 +27614,12 @@
       "Nagapattinam": {
         "delta": {
           "confirmed": 0,
-          "recovered": 0,
+          "recovered": 2,
           "deceased": 0
         },
         "total": {
           "confirmed": 51,
-          "recovered": 46,
+          "recovered": 48,
           "deceased": 0
         },
         "zone": {
@@ -27648,12 +27648,12 @@
       "Nilgiris": {
         "delta": {
           "confirmed": 0,
-          "recovered": 0,
+          "recovered": 1,
           "deceased": 0
         },
         "total": {
           "confirmed": 14,
-          "recovered": 12,
+          "recovered": 13,
           "deceased": 0
         },
         "zone": {
@@ -27665,12 +27665,12 @@
       "Perambalur": {
         "delta": {
           "confirmed": 0,
-          "recovered": 0,
+          "recovered": 1,
           "deceased": 0
         },
         "total": {
           "confirmed": 139,
-          "recovered": 133,
+          "recovered": 134,
           "deceased": 0
         },
         "zone": {
@@ -27681,12 +27681,12 @@
       },
       "Pudukkottai": {
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "recovered": 0,
           "deceased": 0
         },
         "total": {
-          "confirmed": 19,
+          "confirmed": 20,
           "recovered": 7,
           "deceased": 0
         },
@@ -27699,12 +27699,12 @@
       "Ramanathapuram": {
         "delta": {
           "confirmed": 3,
-          "recovered": 0,
+          "recovered": 3,
           "deceased": 0
         },
         "total": {
           "confirmed": 55,
-          "recovered": 26,
+          "recovered": 29,
           "deceased": 1
         },
         "zone": {
@@ -27716,12 +27716,12 @@
       "Ranipet": {
         "delta": {
           "confirmed": 1,
-          "recovered": 0,
+          "recovered": 1,
           "deceased": 0
         },
         "total": {
           "confirmed": 90,
-          "recovered": 60,
+          "recovered": 61,
           "deceased": 0
         },
         "zone": {
@@ -27750,12 +27750,12 @@
       "Sivaganga": {
         "delta": {
           "confirmed": 0,
-          "recovered": 0,
+          "recovered": 13,
           "deceased": 0
         },
         "total": {
           "confirmed": 28,
-          "recovered": 13,
+          "recovered": 26,
           "deceased": 0
         },
         "zone": {
@@ -27767,12 +27767,12 @@
       "Tenkasi": {
         "delta": {
           "confirmed": 2,
-          "recovered": 0,
+          "recovered": 1,
           "deceased": 0
         },
         "total": {
           "confirmed": 85,
-          "recovered": 51,
+          "recovered": 52,
           "deceased": 0
         },
         "zone": {
@@ -27784,12 +27784,12 @@
       "Thanjavur": {
         "delta": {
           "confirmed": 0,
-          "recovered": 0,
+          "recovered": 1,
           "deceased": 0
         },
         "total": {
           "confirmed": 80,
-          "recovered": 66,
+          "recovered": 67,
           "deceased": 0
         },
         "zone": {
@@ -27818,12 +27818,12 @@
       "Thiruvallur": {
         "delta": {
           "confirmed": 22,
-          "recovered": 0,
+          "recovered": 20,
           "deceased": 0
         },
         "total": {
           "confirmed": 697,
-          "recovered": 243,
+          "recovered": 263,
           "deceased": 7
         },
         "zone": {
@@ -27851,13 +27851,13 @@
       },
       "Thoothukkudi": {
         "delta": {
-          "confirmed": 0,
-          "recovered": 0,
+          "confirmed": 5,
+          "recovered": 2,
           "deceased": 0
         },
         "total": {
-          "confirmed": 143,
-          "recovered": 34,
+          "confirmed": 148,
+          "recovered": 36,
           "deceased": 2
         },
         "zone": {
@@ -27886,12 +27886,12 @@
       "Tirunelveli": {
         "delta": {
           "confirmed": 11,
-          "recovered": 0,
+          "recovered": 1,
           "deceased": 0
         },
         "total": {
           "confirmed": 283,
-          "recovered": 93,
+          "recovered": 94,
           "deceased": 1
         },
         "zone": {
@@ -27936,13 +27936,13 @@
       },
       "Tiruvannamalai": {
         "delta": {
-          "confirmed": 0,
-          "recovered": 0,
+          "confirmed": 11,
+          "recovered": 6,
           "deceased": 0
         },
         "total": {
-          "confirmed": 172,
-          "recovered": 75,
+          "confirmed": 183,
+          "recovered": 81,
           "deceased": 0
         },
         "zone": {
@@ -27954,12 +27954,12 @@
       "Vellore": {
         "delta": {
           "confirmed": 0,
-          "recovered": 0,
+          "recovered": 3,
           "deceased": 0
         },
         "total": {
           "confirmed": 39,
-          "recovered": 28,
+          "recovered": 31,
           "deceased": 1
         },
         "zone": {
@@ -27970,13 +27970,13 @@
       },
       "Viluppuram": {
         "delta": {
-          "confirmed": 0,
-          "recovered": 0,
+          "confirmed": 4,
+          "recovered": 4,
           "deceased": 0
         },
         "total": {
-          "confirmed": 323,
-          "recovered": 296,
+          "confirmed": 327,
+          "recovered": 300,
           "deceased": 2
         },
         "zone": {
@@ -27988,12 +27988,12 @@
       "Virudhunagar": {
         "delta": {
           "confirmed": 2,
-          "recovered": 0,
+          "recovered": 1,
           "deceased": 0
         },
         "total": {
           "confirmed": 97,
-          "recovered": 43,
+          "recovered": 44,
           "deceased": 0
         },
         "zone": {
@@ -28005,8 +28005,8 @@
     },
     "total": {
       "confirmed": 15512,
-      "recovered": 7128,
-      "deceased": 99,
+      "recovered": 7491,
+      "deceased": 104,
       "tested": {
         "samples": 385185,
         "source": "https://stopcorona.tn.gov.in/wp-content/uploads/2020/03/Media-Bulletin-22-05-20-COVID-19-6-PM.pdf",
@@ -28015,11 +28015,11 @@
     },
     "delta": {
       "confirmed": 759,
-      "recovered": 0,
-      "deceased": 0
+      "recovered": 363,
+      "deceased": 5
     },
     "notes": "",
-    "last_updated": "2020-05-23T18:11:24+05:30"
+    "last_updated": "2020-05-23T18:21:24+05:30"
   },
   "TR": {
     "timeseries": {
@@ -32932,8 +32932,8 @@
     "districts": null,
     "total": {
       "confirmed": 127275,
-      "recovered": 52344,
-      "deceased": 3754,
+      "recovered": 52707,
+      "deceased": 3759,
       "tested": {
         "samples": 2834798,
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/110",
@@ -32942,10 +32942,10 @@
     },
     "delta": {
       "confirmed": 2481,
-      "recovered": 511,
-      "deceased": 28
+      "recovered": 874,
+      "deceased": 33
     },
     "notes": "",
-    "last_updated": "2020-05-23T18:11:23+05:30"
+    "last_updated": "2020-05-23T18:21:23+05:30"
   }
 }
