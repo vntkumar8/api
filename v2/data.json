@@ -11646,12 +11646,12 @@
       },
       "Gumla": {
         "delta": {
-          "confirmed": 0,
+          "confirmed": 7,
           "recovered": 0,
           "deceased": 0
         },
         "total": {
-          "confirmed": 3,
+          "confirmed": 10,
           "recovered": 0,
           "deceased": 0
         },
@@ -11901,7 +11901,7 @@
       }
     },
     "total": {
-      "confirmed": 323,
+      "confirmed": 330,
       "recovered": 136,
       "deceased": 3,
       "tested": {
@@ -11911,12 +11911,12 @@
       }
     },
     "delta": {
-      "confirmed": 0,
+      "confirmed": 7,
       "recovered": 0,
       "deceased": 0
     },
     "notes": "",
-    "last_updated": "2020-05-22T23:08:29+05:30"
+    "last_updated": "2020-05-23T17:32:24+05:30"
   },
   "JK": {
     "timeseries": {
@@ -31334,7 +31334,7 @@
       "deceased": 0
     },
     "notes": "",
-    "last_updated": "2020-05-23T17:21:25+05:30"
+    "last_updated": "2020-05-23T17:32:25+05:30"
   },
   "WB": {
     "timeseries": {
@@ -32931,7 +32931,7 @@
     },
     "districts": null,
     "total": {
-      "confirmed": 126336,
+      "confirmed": 126343,
       "recovered": 52272,
       "deceased": 3754,
       "tested": {
@@ -32941,11 +32941,11 @@
       }
     },
     "delta": {
-      "confirmed": 1542,
+      "confirmed": 1549,
       "recovered": 448,
       "deceased": 28
     },
     "notes": "",
-    "last_updated": "2020-05-23T17:21:23+05:30"
+    "last_updated": "2020-05-23T17:32:22+05:30"
   }
 }
