@@ -2255,9 +2255,9 @@
       "recovered": 1,
       "deceased": 0,
       "tested": {
-        "samples": 4438,
-        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/90",
-        "last_updated": "2020-05-21"
+        "samples": 4844,
+        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/108",
+        "last_updated": "2050-05-22"
       }
     },
     "delta": {
@@ -2784,7 +2784,10 @@
         "deceased": 0
       },
       "2020-05-22": {
-        "tested": null,
+        "tested": {
+          "samples": 55791,
+          "source": "https://twitter.com/nhm_assam/status/1263867748083314688?s=19"
+        },
         "confirmed": 49,
         "recovered": 0,
         "deceased": 0
@@ -3358,9 +3361,9 @@
       "recovered": 55,
       "deceased": 4,
       "tested": {
-        "samples": 51730,
-        "source": "https://twitter.com/nhm_assam/status/1263506782728515586",
-        "last_updated": "2020-05-21"
+        "samples": 55791,
+        "source": "https://twitter.com/nhm_assam/status/1263867748083314688?s=19",
+        "last_updated": "2020-05-22"
       }
     },
     "delta": {
