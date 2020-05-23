@@ -431,7 +431,10 @@
         "deceased": 0
       },
       "2020-05-22": {
-        "tested": null,
+        "tested": {
+          "samples": 7263,
+          "source": "https://t.me/Covid19india_Auxiliary_Test_Data/117?single"
+        },
         "confirmed": 0,
         "recovered": 0,
         "deceased": 0
@@ -495,9 +498,9 @@
       "recovered": 33,
       "deceased": 0,
       "tested": {
-        "samples": 6677,
-        "source": "https://t.me/indiacovid/4925",
-        "last_updated": "2020-05-16"
+        "samples": 7263,
+        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/117?single",
+        "last_updated": "2020-05-22"
       }
     },
     "delta": {
@@ -2813,12 +2816,12 @@
       },
       "Barpeta": {
         "delta": {
-          "confirmed": 0,
+          "confirmed": 4,
           "recovered": 0,
           "deceased": 0
         },
         "total": {
-          "confirmed": 0,
+          "confirmed": 4,
           "recovered": 0,
           "deceased": 0
         },
@@ -2864,12 +2867,12 @@
       },
       "Cachar": {
         "delta": {
-          "confirmed": 2,
+          "confirmed": 3,
           "recovered": 0,
           "deceased": 0
         },
         "total": {
-          "confirmed": 23,
+          "confirmed": 24,
           "recovered": 10,
           "deceased": 0
         },
@@ -3051,12 +3054,12 @@
       },
       "Hojai": {
         "delta": {
-          "confirmed": 7,
+          "confirmed": 5,
           "recovered": 0,
           "deceased": 0
         },
         "total": {
-          "confirmed": 17,
+          "confirmed": 15,
           "recovered": 0,
           "deceased": 0
         },
@@ -3102,12 +3105,12 @@
       },
       "Kamrup Metropolitan": {
         "delta": {
-          "confirmed": 44,
+          "confirmed": 73,
           "recovered": 0,
           "deceased": 0
         },
         "total": {
-          "confirmed": 125,
+          "confirmed": 154,
           "recovered": 4,
           "deceased": 3
         },
@@ -3153,12 +3156,12 @@
       },
       "Kokrajhar": {
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "recovered": 0,
           "deceased": 0
         },
         "total": {
-          "confirmed": 6,
+          "confirmed": 7,
           "recovered": 0,
           "deceased": 0
         },
@@ -3255,12 +3258,12 @@
       },
       "Sivasagar": {
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "recovered": 0,
           "deceased": 0
         },
         "total": {
-          "confirmed": 6,
+          "confirmed": 7,
           "recovered": 0,
           "deceased": 0
         },
@@ -3306,12 +3309,12 @@
       },
       "Tinsukia": {
         "delta": {
-          "confirmed": 0,
+          "confirmed": -1,
           "recovered": 0,
           "deceased": 0
         },
         "total": {
-          "confirmed": 1,
+          "confirmed": 0,
           "recovered": 0,
           "deceased": 0
         },
@@ -3340,12 +3343,12 @@
       },
       "West Karbi Anglong": {
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "recovered": 0,
           "deceased": 0
         },
         "total": {
-          "confirmed": 1,
+          "confirmed": 2,
           "recovered": 0,
           "deceased": 0
         },
@@ -3955,12 +3958,12 @@
       },
       "Arwal": {
         "delta": {
-          "confirmed": 0,
+          "confirmed": 2,
           "recovered": 0,
           "deceased": 0
         },
         "total": {
-          "confirmed": 21,
+          "confirmed": 23,
           "recovered": 5,
           "deceased": 0
         },
@@ -3972,12 +3975,12 @@
       },
       "Aurangabad": {
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "recovered": 0,
           "deceased": 0
         },
         "total": {
-          "confirmed": 34,
+          "confirmed": 35,
           "recovered": 14,
           "deceased": 0
         },
@@ -3989,12 +3992,12 @@
       },
       "Banka": {
         "delta": {
-          "confirmed": 0,
+          "confirmed": 6,
           "recovered": 0,
           "deceased": 0
         },
         "total": {
-          "confirmed": 64,
+          "confirmed": 70,
           "recovered": 1,
           "deceased": 0
         },
@@ -4023,12 +4026,12 @@
       },
       "Bhagalpur": {
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "recovered": 0,
           "deceased": 0
         },
         "total": {
-          "confirmed": 69,
+          "confirmed": 70,
           "recovered": 27,
           "deceased": 0
         },
@@ -4057,12 +4060,12 @@
       },
       "Buxar": {
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "recovered": 0,
           "deceased": 0
         },
         "total": {
-          "confirmed": 113,
+          "confirmed": 114,
           "recovered": 56,
           "deceased": 0
         },
@@ -4074,12 +4077,12 @@
       },
       "Darbhanga": {
         "delta": {
-          "confirmed": 0,
+          "confirmed": 9,
           "recovered": 0,
           "deceased": 0
         },
         "total": {
-          "confirmed": 31,
+          "confirmed": 40,
           "recovered": 7,
           "deceased": 0
         },
@@ -4261,12 +4264,12 @@
       },
       "Madhepura": {
         "delta": {
-          "confirmed": 0,
+          "confirmed": 19,
           "recovered": 0,
           "deceased": 0
         },
         "total": {
-          "confirmed": 22,
+          "confirmed": 41,
           "recovered": 9,
           "deceased": 0
         },
@@ -4278,12 +4281,12 @@
       },
       "Madhubani": {
         "delta": {
-          "confirmed": 0,
+          "confirmed": 4,
           "recovered": 0,
           "deceased": 0
         },
         "total": {
-          "confirmed": 115,
+          "confirmed": 119,
           "recovered": 20,
           "deceased": 0
         },
@@ -4363,12 +4366,12 @@
       },
       "Patna": {
         "delta": {
-          "confirmed": 0,
+          "confirmed": 3,
           "recovered": 0,
           "deceased": 0
         },
         "total": {
-          "confirmed": 186,
+          "confirmed": 189,
           "recovered": 52,
           "deceased": 2
         },
@@ -4397,12 +4400,12 @@
       },
       "Rohtas": {
         "delta": {
-          "confirmed": 0,
+          "confirmed": 31,
           "recovered": 0,
           "deceased": 0
         },
         "total": {
-          "confirmed": 123,
+          "confirmed": 154,
           "recovered": 59,
           "deceased": 1
         },
@@ -4533,12 +4536,12 @@
       },
       "Supaul": {
         "delta": {
-          "confirmed": 0,
+          "confirmed": 5,
           "recovered": 0,
           "deceased": 0
         },
         "total": {
-          "confirmed": 29,
+          "confirmed": 34,
           "recovered": 0,
           "deceased": 0
         },
@@ -4584,7 +4587,7 @@
       }
     },
     "total": {
-      "confirmed": 2345,
+      "confirmed": 2263,
       "recovered": 629,
       "deceased": 11,
       "tested": {
@@ -4594,12 +4597,12 @@
       }
     },
     "delta": {
-      "confirmed": 179,
+      "confirmed": 97,
       "recovered": 0,
       "deceased": 0
     },
     "notes": "",
-    "last_updated": "2020-05-23T18:10:26+05:30"
+    "last_updated": "2020-05-23T19:01:30+05:30"
   },
   "CH": {
     "timeseries": {
@@ -5159,13 +5162,13 @@
     "districts": {
       "Chandigarh": {
         "delta": {
-          "confirmed": 0,
-          "recovered": 0,
+          "confirmed": 6,
+          "recovered": 1,
           "deceased": 0
         },
         "total": {
-          "confirmed": 219,
-          "recovered": 178,
+          "confirmed": 225,
+          "recovered": 179,
           "deceased": 3
         },
         "zone": {
@@ -5176,8 +5179,8 @@
       }
     },
     "total": {
-      "confirmed": 219,
-      "recovered": 178,
+      "confirmed": 225,
+      "recovered": 179,
       "deceased": 3,
       "tested": {
         "samples": 3531,
@@ -5186,12 +5189,12 @@
       }
     },
     "delta": {
-      "confirmed": 0,
-      "recovered": 0,
+      "confirmed": 6,
+      "recovered": 1,
       "deceased": 0
     },
     "notes": "",
-    "last_updated": "2020-05-22T20:12:32+05:30"
+    "last_updated": "2020-05-23T19:01:38+05:30"
   },
   "CT": {
     "timeseries": {
@@ -13959,7 +13962,7 @@
       "deceased": 1
     },
     "notes": "One active case in KA reduced as a confirmed patient died of non-CoViD19 related reasons",
-    "last_updated": "2020-05-23T18:32:27+05:30"
+    "last_updated": "2020-05-23T18:58:36+05:30"
   },
   "KL": {
     "timeseries": {
@@ -14796,7 +14799,7 @@
       "deceased": 0
     },
     "notes": "Mahe native who expired in Kannur included in Kerala's tally",
-    "last_updated": "2020-05-23T18:32:33+05:30"
+    "last_updated": "2020-05-23T19:01:36+05:30"
   },
   "LA": {
     "timeseries": {
@@ -15319,9 +15322,9 @@
       "recovered": 43,
       "deceased": 0,
       "tested": {
-        "samples": 5505,
-        "source": "https://twitter.com/ladags/status/1263763741599952896",
-        "last_updated": "2020-05-22"
+        "samples": 5727,
+        "source": "https://twitter.com/ladags/status/1264134154263752704?s=19",
+        "last_updated": "2020-05-23"
       }
     },
     "delta": {
@@ -18444,7 +18447,7 @@
       "deceased": 0
     },
     "notes": "",
-    "last_updated": "2020-05-23T18:32:41+05:30"
+    "last_updated": "2020-05-23T18:44:28+05:30"
   },
   "MP": {
     "timeseries": {
@@ -32931,8 +32934,8 @@
     },
     "districts": null,
     "total": {
-      "confirmed": 127296,
-      "recovered": 52720,
+      "confirmed": 127220,
+      "recovered": 52721,
       "deceased": 3759,
       "tested": {
         "samples": 2834798,
@@ -32941,11 +32944,11 @@
       }
     },
     "delta": {
-      "confirmed": 2502,
-      "recovered": 887,
+      "confirmed": 2426,
+      "recovered": 888,
       "deceased": 33
     },
     "notes": "",
-    "last_updated": "2020-05-23T18:32:23+05:30"
+    "last_updated": "2020-05-23T19:01:27+05:30"
   }
 }
