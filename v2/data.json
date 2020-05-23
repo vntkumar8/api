@@ -2864,12 +2864,12 @@
       },
       "Cachar": {
         "delta": {
-          "confirmed": 0,
+          "confirmed": 2,
           "recovered": 0,
           "deceased": 0
         },
         "total": {
-          "confirmed": 21,
+          "confirmed": 23,
           "recovered": 10,
           "deceased": 0
         },
@@ -2983,12 +2983,12 @@
       },
       "Dima Hasao": {
         "delta": {
-          "confirmed": 0,
+          "confirmed": 7,
           "recovered": 0,
           "deceased": 0
         },
         "total": {
-          "confirmed": 0,
+          "confirmed": 7,
           "recovered": 0,
           "deceased": 0
         },
@@ -3102,12 +3102,12 @@
       },
       "Kamrup Metropolitan": {
         "delta": {
-          "confirmed": 0,
+          "confirmed": 44,
           "recovered": 0,
           "deceased": 0
         },
         "total": {
-          "confirmed": 81,
+          "confirmed": 125,
           "recovered": 4,
           "deceased": 3
         },
@@ -3357,7 +3357,7 @@
       }
     },
     "total": {
-      "confirmed": 267,
+      "confirmed": 320,
       "recovered": 55,
       "deceased": 4,
       "tested": {
@@ -3367,12 +3367,12 @@
       }
     },
     "delta": {
-      "confirmed": 7,
+      "confirmed": 60,
       "recovered": 0,
       "deceased": 0
     },
     "notes": "Includes one case from Nagaland <br>\nTotal of Three* patients who migrated to other states has been reduced from Active count",
-    "last_updated": "2020-05-23T15:11:25+05:30"
+    "last_updated": "2020-05-23T15:21:25+05:30"
   },
   "BR": {
     "timeseries": {
@@ -22515,7 +22515,7 @@
       "deceased": 0
     },
     "notes": "",
-    "last_updated": "2020-05-23T15:11:24+05:30"
+    "last_updated": "2020-05-23T15:14:25+05:30"
   },
   "PB": {
     "timeseries": {
@@ -32931,7 +32931,7 @@
     },
     "districts": null,
     "total": {
-      "confirmed": 125943,
+      "confirmed": 125996,
       "recovered": 52254,
       "deceased": 3752,
       "tested": {
@@ -32941,11 +32941,11 @@
       }
     },
     "delta": {
-      "confirmed": 1149,
+      "confirmed": 1202,
       "recovered": 430,
       "deceased": 26
     },
     "notes": "",
-    "last_updated": "2020-05-23T15:11:22+05:30"
+    "last_updated": "2020-05-23T15:21:23+05:30"
   }
 }
