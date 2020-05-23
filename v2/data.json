@@ -431,10 +431,7 @@
         "deceased": 0
       },
       "2020-05-22": {
-        "tested": {
-          "samples": 7263,
-          "source": "https://t.me/Covid19india_Auxiliary_Test_Data/117?single"
-        },
+        "tested": null,
         "confirmed": 0,
         "recovered": 0,
         "deceased": 0
@@ -498,9 +495,9 @@
       "recovered": 33,
       "deceased": 0,
       "tested": {
-        "samples": 7263,
-        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/117?single",
-        "last_updated": "2020-05-22"
+        "samples": 6677,
+        "source": "https://t.me/indiacovid/4925",
+        "last_updated": "2020-05-16"
       }
     },
     "delta": {
@@ -2816,12 +2813,12 @@
       },
       "Barpeta": {
         "delta": {
-          "confirmed": 4,
+          "confirmed": 0,
           "recovered": 0,
           "deceased": 0
         },
         "total": {
-          "confirmed": 4,
+          "confirmed": 0,
           "recovered": 0,
           "deceased": 0
         },
@@ -2867,12 +2864,12 @@
       },
       "Cachar": {
         "delta": {
-          "confirmed": 3,
+          "confirmed": 2,
           "recovered": 0,
           "deceased": 0
         },
         "total": {
-          "confirmed": 24,
+          "confirmed": 23,
           "recovered": 10,
           "deceased": 0
         },
@@ -3054,12 +3051,12 @@
       },
       "Hojai": {
         "delta": {
-          "confirmed": 5,
+          "confirmed": 7,
           "recovered": 0,
           "deceased": 0
         },
         "total": {
-          "confirmed": 15,
+          "confirmed": 17,
           "recovered": 0,
           "deceased": 0
         },
@@ -3105,12 +3102,12 @@
       },
       "Kamrup Metropolitan": {
         "delta": {
-          "confirmed": 73,
+          "confirmed": 44,
           "recovered": 0,
           "deceased": 0
         },
         "total": {
-          "confirmed": 154,
+          "confirmed": 125,
           "recovered": 4,
           "deceased": 3
         },
@@ -3156,12 +3153,12 @@
       },
       "Kokrajhar": {
         "delta": {
-          "confirmed": 1,
+          "confirmed": 0,
           "recovered": 0,
           "deceased": 0
         },
         "total": {
-          "confirmed": 7,
+          "confirmed": 6,
           "recovered": 0,
           "deceased": 0
         },
@@ -3258,12 +3255,12 @@
       },
       "Sivasagar": {
         "delta": {
-          "confirmed": 1,
+          "confirmed": 0,
           "recovered": 0,
           "deceased": 0
         },
         "total": {
-          "confirmed": 7,
+          "confirmed": 6,
           "recovered": 0,
           "deceased": 0
         },
@@ -3309,12 +3306,12 @@
       },
       "Tinsukia": {
         "delta": {
-          "confirmed": -1,
+          "confirmed": 0,
           "recovered": 0,
           "deceased": 0
         },
         "total": {
-          "confirmed": 0,
+          "confirmed": 1,
           "recovered": 0,
           "deceased": 0
         },
@@ -3343,12 +3340,12 @@
       },
       "West Karbi Anglong": {
         "delta": {
-          "confirmed": 1,
+          "confirmed": 0,
           "recovered": 0,
           "deceased": 0
         },
         "total": {
-          "confirmed": 2,
+          "confirmed": 1,
           "recovered": 0,
           "deceased": 0
         },
@@ -13962,7 +13959,7 @@
       "deceased": 1
     },
     "notes": "One active case in KA reduced as a confirmed patient died of non-CoViD19 related reasons",
-    "last_updated": "2020-05-23T18:42:25+05:30"
+    "last_updated": "2020-05-23T18:32:27+05:30"
   },
   "KL": {
     "timeseries": {
@@ -14546,12 +14543,12 @@
     "districts": {
       "Alappuzha": {
         "delta": {
-          "confirmed": 10,
+          "confirmed": 5,
           "recovered": 0,
           "deceased": 0
         },
         "total": {
-          "confirmed": 23,
+          "confirmed": 18,
           "recovered": 5,
           "deceased": 0
         },
@@ -14597,12 +14594,12 @@
       },
       "Kannur": {
         "delta": {
-          "confirmed": 32,
+          "confirmed": 16,
           "recovered": 0,
           "deceased": 0
         },
         "total": {
-          "confirmed": 180,
+          "confirmed": 164,
           "recovered": 116,
           "deceased": 1
         },
@@ -14614,12 +14611,12 @@
       },
       "Kasaragod": {
         "delta": {
-          "confirmed": 8,
+          "confirmed": 4,
           "recovered": 1,
           "deceased": 0
         },
         "total": {
-          "confirmed": 214,
+          "confirmed": 210,
           "recovered": 181,
           "deceased": 0
         },
@@ -14631,12 +14628,12 @@
       },
       "Kollam": {
         "delta": {
-          "confirmed": 6,
+          "confirmed": 3,
           "recovered": 1,
           "deceased": 0
         },
         "total": {
-          "confirmed": 37,
+          "confirmed": 34,
           "recovered": 21,
           "deceased": 0
         },
@@ -14648,12 +14645,12 @@
       },
       "Kottayam": {
         "delta": {
-          "confirmed": 4,
+          "confirmed": 2,
           "recovered": 1,
           "deceased": 0
         },
         "total": {
-          "confirmed": 34,
+          "confirmed": 32,
           "recovered": 23,
           "deceased": 0
         },
@@ -14665,12 +14662,12 @@
       },
       "Kozhikode": {
         "delta": {
-          "confirmed": 8,
+          "confirmed": 4,
           "recovered": 0,
           "deceased": 0
         },
         "total": {
-          "confirmed": 50,
+          "confirmed": 46,
           "recovered": 25,
           "deceased": 0
         },
@@ -14682,12 +14679,12 @@
       },
       "Malappuram": {
         "delta": {
-          "confirmed": 16,
+          "confirmed": 8,
           "recovered": 0,
           "deceased": 0
         },
         "total": {
-          "confirmed": 80,
+          "confirmed": 72,
           "recovered": 27,
           "deceased": 1
         },
@@ -14699,12 +14696,12 @@
       },
       "Palakkad": {
         "delta": {
-          "confirmed": 38,
+          "confirmed": 19,
           "recovered": 0,
           "deceased": 0
         },
         "total": {
-          "confirmed": 77,
+          "confirmed": 58,
           "recovered": 13,
           "deceased": 0
         },
@@ -14767,12 +14764,12 @@
       },
       "Wayanad": {
         "delta": {
-          "confirmed": 2,
+          "confirmed": 1,
           "recovered": 0,
           "deceased": 0
         },
         "total": {
-          "confirmed": 24,
+          "confirmed": 23,
           "recovered": 10,
           "deceased": 0
         },
@@ -14784,7 +14781,7 @@
       }
     },
     "total": {
-      "confirmed": 857,
+      "confirmed": 795,
       "recovered": 515,
       "deceased": 5,
       "tested": {
@@ -14794,12 +14791,12 @@
       }
     },
     "delta": {
-      "confirmed": 124,
+      "confirmed": 62,
       "recovered": 3,
       "deceased": 0
     },
     "notes": "Mahe native who expired in Kannur included in Kerala's tally",
-    "last_updated": "2020-05-23T18:42:27+05:30"
+    "last_updated": "2020-05-23T18:32:33+05:30"
   },
   "LA": {
     "timeseries": {
@@ -15322,9 +15319,9 @@
       "recovered": 43,
       "deceased": 0,
       "tested": {
-        "samples": 5727,
-        "source": "https://twitter.com/ladags/status/1264134154263752704?s=19",
-        "last_updated": "2020-05-23"
+        "samples": 5505,
+        "source": "https://twitter.com/ladags/status/1263763741599952896",
+        "last_updated": "2020-05-22"
       }
     },
     "delta": {
@@ -18447,7 +18444,7 @@
       "deceased": 0
     },
     "notes": "",
-    "last_updated": "2020-05-23T18:42:29+05:30"
+    "last_updated": "2020-05-23T18:32:41+05:30"
   },
   "MP": {
     "timeseries": {
@@ -32934,7 +32931,7 @@
     },
     "districts": null,
     "total": {
-      "confirmed": 127358,
+      "confirmed": 127296,
       "recovered": 52720,
       "deceased": 3759,
       "tested": {
@@ -32944,11 +32941,11 @@
       }
     },
     "delta": {
-      "confirmed": 2564,
+      "confirmed": 2502,
       "recovered": 887,
       "deceased": 33
     },
     "notes": "",
-    "last_updated": "2020-05-23T18:42:23+05:30"
+    "last_updated": "2020-05-23T18:32:23+05:30"
   }
 }

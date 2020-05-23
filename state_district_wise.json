@@ -563,12 +563,12 @@
       },
       "Barpeta": {
         "notes": "",
-        "active": 4,
-        "confirmed": 4,
+        "active": 0,
+        "confirmed": 0,
         "deceased": 0,
         "recovered": 0,
         "delta": {
-          "confirmed": 4,
+          "confirmed": 0,
           "deceased": 0,
           "recovered": 0
         }
@@ -599,12 +599,12 @@
       },
       "Cachar": {
         "notes": "",
-        "active": 14,
-        "confirmed": 24,
+        "active": 13,
+        "confirmed": 23,
         "deceased": 0,
         "recovered": 10,
         "delta": {
-          "confirmed": 3,
+          "confirmed": 2,
           "deceased": 0,
           "recovered": 0
         }
@@ -731,12 +731,12 @@
       },
       "Hojai": {
         "notes": "",
-        "active": 15,
-        "confirmed": 15,
+        "active": 17,
+        "confirmed": 17,
         "deceased": 0,
         "recovered": 0,
         "delta": {
-          "confirmed": 5,
+          "confirmed": 7,
           "deceased": 0,
           "recovered": 0
         }
@@ -767,12 +767,12 @@
       },
       "Kamrup Metropolitan": {
         "notes": "",
-        "active": 147,
-        "confirmed": 154,
+        "active": 118,
+        "confirmed": 125,
         "deceased": 3,
         "recovered": 4,
         "delta": {
-          "confirmed": 73,
+          "confirmed": 44,
           "deceased": 0,
           "recovered": 0
         }
@@ -803,12 +803,12 @@
       },
       "Kokrajhar": {
         "notes": "",
-        "active": 7,
-        "confirmed": 7,
+        "active": 6,
+        "confirmed": 6,
         "deceased": 0,
         "recovered": 0,
         "delta": {
-          "confirmed": 1,
+          "confirmed": 0,
           "deceased": 0,
           "recovered": 0
         }
@@ -887,12 +887,12 @@
       },
       "Sivasagar": {
         "notes": "",
-        "active": 7,
-        "confirmed": 7,
+        "active": 6,
+        "confirmed": 6,
         "deceased": 0,
         "recovered": 0,
         "delta": {
-          "confirmed": 1,
+          "confirmed": 0,
           "deceased": 0,
           "recovered": 0
         }
@@ -923,12 +923,12 @@
       },
       "Tinsukia": {
         "notes": "",
-        "active": 0,
-        "confirmed": 0,
+        "active": 1,
+        "confirmed": 1,
         "deceased": 0,
         "recovered": 0,
         "delta": {
-          "confirmed": -1,
+          "confirmed": 0,
           "deceased": 0,
           "recovered": 0
         }
@@ -947,12 +947,24 @@
       },
       "West Karbi Anglong": {
         "notes": "",
-        "active": 2,
-        "confirmed": 2,
+        "active": 1,
+        "confirmed": 1,
         "deceased": 0,
         "recovered": 0,
         "delta": {
-          "confirmed": 1,
+          "confirmed": 0,
+          "deceased": 0,
+          "recovered": 0
+        }
+      },
+      "Unknown": {
+        "notes": "",
+        "active": 34,
+        "confirmed": 34,
+        "deceased": 0,
+        "recovered": 0,
+        "delta": {
+          "confirmed": 0,
           "deceased": 0,
           "recovered": 0
         }
@@ -3808,12 +3820,12 @@
     "districtData": {
       "Alappuzha": {
         "notes": "",
-        "active": 18,
-        "confirmed": 23,
+        "active": 13,
+        "confirmed": 18,
         "deceased": 0,
         "recovered": 5,
         "delta": {
-          "confirmed": 10,
+          "confirmed": 5,
           "deceased": 0,
           "recovered": 0
         }
@@ -3844,84 +3856,84 @@
       },
       "Kannur": {
         "notes": "",
-        "active": 63,
-        "confirmed": 180,
+        "active": 47,
+        "confirmed": 164,
         "deceased": 1,
         "recovered": 116,
-        "delta": {
-          "confirmed": 32,
-          "deceased": 0,
-          "recovered": 0
-        }
-      },
-      "Kasaragod": {
-        "notes": "",
-        "active": 33,
-        "confirmed": 214,
-        "deceased": 0,
-        "recovered": 181,
-        "delta": {
-          "confirmed": 8,
-          "deceased": 0,
-          "recovered": 1
-        }
-      },
-      "Kollam": {
-        "notes": "",
-        "active": 16,
-        "confirmed": 37,
-        "deceased": 0,
-        "recovered": 21,
-        "delta": {
-          "confirmed": 6,
-          "deceased": 0,
-          "recovered": 1
-        }
-      },
-      "Kottayam": {
-        "notes": "",
-        "active": 11,
-        "confirmed": 34,
-        "deceased": 0,
-        "recovered": 23,
-        "delta": {
-          "confirmed": 4,
-          "deceased": 0,
-          "recovered": 1
-        }
-      },
-      "Kozhikode": {
-        "notes": "",
-        "active": 25,
-        "confirmed": 50,
-        "deceased": 0,
-        "recovered": 25,
-        "delta": {
-          "confirmed": 8,
-          "deceased": 0,
-          "recovered": 0
-        }
-      },
-      "Malappuram": {
-        "notes": "",
-        "active": 52,
-        "confirmed": 80,
-        "deceased": 1,
-        "recovered": 27,
         "delta": {
           "confirmed": 16,
           "deceased": 0,
           "recovered": 0
         }
       },
+      "Kasaragod": {
+        "notes": "",
+        "active": 29,
+        "confirmed": 210,
+        "deceased": 0,
+        "recovered": 181,
+        "delta": {
+          "confirmed": 4,
+          "deceased": 0,
+          "recovered": 1
+        }
+      },
+      "Kollam": {
+        "notes": "",
+        "active": 13,
+        "confirmed": 34,
+        "deceased": 0,
+        "recovered": 21,
+        "delta": {
+          "confirmed": 3,
+          "deceased": 0,
+          "recovered": 1
+        }
+      },
+      "Kottayam": {
+        "notes": "",
+        "active": 9,
+        "confirmed": 32,
+        "deceased": 0,
+        "recovered": 23,
+        "delta": {
+          "confirmed": 2,
+          "deceased": 0,
+          "recovered": 1
+        }
+      },
+      "Kozhikode": {
+        "notes": "",
+        "active": 21,
+        "confirmed": 46,
+        "deceased": 0,
+        "recovered": 25,
+        "delta": {
+          "confirmed": 4,
+          "deceased": 0,
+          "recovered": 0
+        }
+      },
+      "Malappuram": {
+        "notes": "",
+        "active": 44,
+        "confirmed": 72,
+        "deceased": 1,
+        "recovered": 27,
+        "delta": {
+          "confirmed": 8,
+          "deceased": 0,
+          "recovered": 0
+        }
+      },
       "Palakkad": {
         "notes": "",
-        "active": 64,
-        "confirmed": 77,
+        "active": 45,
+        "confirmed": 58,
         "deceased": 0,
         "recovered": 13,
         "delta": {
-          "confirmed": 38,
+          "confirmed": 19,
           "deceased": 0,
           "recovered": 0
         }
@@ -3964,12 +3976,12 @@
       },
       "Wayanad": {
         "notes": "",
-        "active": 14,
-        "confirmed": 24,
+        "active": 13,
+        "confirmed": 23,
         "deceased": 0,
         "recovered": 10,
         "delta": {
-          "confirmed": 2,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
