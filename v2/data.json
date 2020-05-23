@@ -2791,7 +2791,7 @@
           "samples": 55791,
           "source": "https://twitter.com/nhm_assam/status/1263867748083314688?s=19"
         },
-        "confirmed": 49,
+        "confirmed": 15,
         "recovered": 0,
         "deceased": 0
       }
@@ -3370,7 +3370,7 @@
       }
     },
     "delta": {
-      "confirmed": 87,
+      "confirmed": 121,
       "recovered": 2,
       "deceased": 0
     },
@@ -7472,7 +7472,7 @@
       }
     },
     "total": {
-      "confirmed": 1,
+      "confirmed": 2,
       "recovered": 1,
       "deceased": 0,
       "tested": {
@@ -7482,12 +7482,12 @@
       }
     },
     "delta": {
-      "confirmed": 0,
+      "confirmed": 1,
       "recovered": 0,
       "deceased": 0
     },
     "notes": "",
-    "last_updated": "2020-05-12T23:23:25+05:30"
+    "last_updated": "2020-05-23T23:44:19+05:30"
   },
   "GA": {
     "timeseries": {
@@ -9979,8 +9979,8 @@
       "recovered": 57,
       "deceased": 4,
       "tested": {
-        "samples": 25629,
-        "source": "https://twitter.com/nhm_hp/status/1264170376042393601?s=19",
+        "samples": 25905,
+        "source": "https://twitter.com/nhm_hp/status/1264222704099524609?s=19",
         "last_updated": "2020-05-23"
       }
     },
@@ -11908,8 +11908,8 @@
       "recovered": 141,
       "deceased": 3,
       "tested": {
-        "samples": 43998,
-        "source": "https://twitter.com/RanchiPIB/status/1264126203679641600?s=19",
+        "samples": 45785,
+        "source": "https://twitter.com/RanchiPIB/status/1264230815841415169?s=19",
         "last_updated": "2020-05-23"
       }
     },
@@ -32927,14 +32927,14 @@
           "samples": 2719434,
           "source": "https://t.me/Covid19india_Auxiliary_Test_Data/99"
         },
-        "confirmed": 6570,
+        "confirmed": 6536,
         "recovered": 3280,
         "deceased": 142
       }
     },
     "districts": null,
     "total": {
-      "confirmed": 131422,
+      "confirmed": 131423,
       "recovered": 54385,
       "deceased": 3868,
       "tested": {
@@ -32944,11 +32944,11 @@
       }
     },
     "delta": {
-      "confirmed": 6628,
+      "confirmed": 6663,
       "recovered": 2552,
       "deceased": 142
     },
     "notes": "",
-    "last_updated": "2020-05-23T23:23:23+05:30"
+    "last_updated": "2020-05-23T23:44:16+05:30"
   }
 }
