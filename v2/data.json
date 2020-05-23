@@ -5721,7 +5721,10 @@
         "deceased": 0
       },
       "2020-05-22": {
-        "tested": null,
+        "tested": {
+          "samples": 48116,
+          "source": "http://cghealth.nic.in/cghealth17/Information/content/CORONA/MediaBulletinHindi_22052020.pdf"
+        },
         "confirmed": 44,
         "recovered": 3,
         "deceased": 0
@@ -6193,9 +6196,9 @@
       "recovered": 62,
       "deceased": 0,
       "tested": {
-        "samples": 45522,
-        "source": "http://cghealth.nic.in/cghealth17/Information/content/CORONA/MediaBulletinHindi_21052020.pdf",
-        "last_updated": "2020-05-21"
+        "samples": 48116,
+        "source": "http://cghealth.nic.in/cghealth17/Information/content/CORONA/MediaBulletinHindi_22052020.pdf",
+        "last_updated": "2020-05-22"
       }
     },
     "delta": {
