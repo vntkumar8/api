@@ -1569,25 +1569,25 @@
       {
         "district": "Balod",
         "notes": "",
-        "active": 18,
+        "active": 16,
         "confirmed": 18,
         "deceased": 0,
-        "recovered": 0,
+        "recovered": 2,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 2
         }
       },
       {
         "district": "Baloda Bazar",
         "notes": "",
-        "active": 12,
-        "confirmed": 12,
+        "active": 15,
+        "confirmed": 15,
         "deceased": 0,
         "recovered": 0,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 3,
           "deceased": 0,
           "recovered": 0
         }
@@ -1647,12 +1647,12 @@
       {
         "district": "Bilaspur",
         "notes": "",
-        "active": 10,
-        "confirmed": 11,
+        "active": 18,
+        "confirmed": 19,
         "deceased": 0,
         "recovered": 1,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 8,
           "deceased": 0,
           "recovered": 0
         }
@@ -1686,12 +1686,12 @@
       {
         "district": "Durg",
         "notes": "",
-        "active": 2,
-        "confirmed": 12,
+        "active": 0,
+        "confirmed": 10,
         "deceased": 0,
         "recovered": 10,
         "delta": {
-          "confirmed": 0,
+          "confirmed": -2,
           "deceased": 0,
           "recovered": 0
         }
@@ -1725,12 +1725,12 @@
       {
         "district": "Jashpur",
         "notes": "",
-        "active": 0,
-        "confirmed": 0,
+        "active": 1,
+        "confirmed": 1,
         "deceased": 0,
         "recovered": 0,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
@@ -1777,12 +1777,12 @@
       {
         "district": "Koriya",
         "notes": "",
-        "active": 1,
-        "confirmed": 1,
+        "active": 5,
+        "confirmed": 5,
         "deceased": 0,
         "recovered": 0,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 4,
           "deceased": 0,
           "recovered": 0
         }
@@ -1803,12 +1803,12 @@
       {
         "district": "Mungeli",
         "notes": "",
-        "active": 3,
-        "confirmed": 3,
+        "active": 12,
+        "confirmed": 12,
         "deceased": 0,
         "recovered": 0,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 9,
           "deceased": 0,
           "recovered": 0
         }
@@ -1829,12 +1829,12 @@
       {
         "district": "Raigarh",
         "notes": "",
-        "active": 5,
-        "confirmed": 5,
+        "active": 9,
+        "confirmed": 9,
         "deceased": 0,
         "recovered": 0,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 4,
           "deceased": 0,
           "recovered": 0
         }
@@ -1855,12 +1855,12 @@
       {
         "district": "Rajnandgaon",
         "notes": "",
-        "active": 11,
-        "confirmed": 12,
+        "active": 21,
+        "confirmed": 22,
         "deceased": 0,
         "recovered": 1,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 10,
           "deceased": 0,
           "recovered": 0
         }
@@ -1894,12 +1894,12 @@
       {
         "district": "Surguja",
         "notes": "",
-        "active": 3,
-        "confirmed": 3,
+        "active": 6,
+        "confirmed": 6,
         "deceased": 0,
         "recovered": 0,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 3,
           "deceased": 0,
           "recovered": 0
         }
@@ -1909,6 +1909,19 @@
         "notes": "",
         "active": 5,
         "confirmed": 5,
+        "deceased": 0,
+        "recovered": 0,
+        "delta": {
+          "confirmed": 0,
+          "deceased": 0,
+          "recovered": 0
+        }
+      },
+      {
+        "district": "Unknown",
+        "notes": "",
+        "active": 2,
+        "confirmed": 2,
         "deceased": 0,
         "recovered": 0,
         "delta": {
