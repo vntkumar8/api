@@ -171,18 +171,18 @@
 			"statecode": "AP"
 		},
 		{
-			"active": "128",
+			"active": "127",
 			"confirmed": "153",
 			"deceased": "0",
-			"deltaactive": "0",
+			"deltaactive": "-1",
 			"deltaconfirmed": "0",
 			"deltadeceased": "0",
-			"deltarecovered": "0",
+			"deltarecovered": "1",
 			"district": "Other State",
 			"districtkey": "AP_Other State",
 			"districtnotes": "",
 			"lastupdated": "",
-			"recovered": "25",
+			"recovered": "26",
 			"slno": "0",
 			"state": "Andhra Pradesh",
 			"statecode": "AP"
@@ -12853,8 +12853,8 @@
 			"statecode": "AS"
 		},
 		{
-			"active": "0",
-			"confirmed": "0",
+			"active": "97",
+			"confirmed": "97",
 			"deceased": "0",
 			"deltaactive": "0",
 			"deltaconfirmed": "0",

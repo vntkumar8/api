@@ -148,14 +148,14 @@
       {
         "district": "Other State",
         "notes": "",
-        "active": 128,
+        "active": 127,
         "confirmed": 153,
         "deceased": 0,
-        "recovered": 25,
+        "recovered": 26,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 1
         }
       },
       {
@@ -1548,6 +1548,19 @@
         "confirmed": 32,
         "deceased": 0,
         "recovered": 11,
+        "delta": {
+          "confirmed": 0,
+          "deceased": 0,
+          "recovered": 0
+        }
+      },
+      {
+        "district": "Unknown",
+        "notes": "",
+        "active": 97,
+        "confirmed": 97,
+        "deceased": 0,
+        "recovered": 0,
         "delta": {
           "confirmed": 0,
           "deceased": 0,

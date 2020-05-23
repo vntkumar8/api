@@ -1285,7 +1285,7 @@
     },
     "total": {
       "confirmed": 2714,
-      "recovered": 1778,
+      "recovered": 1779,
       "deceased": 56,
       "tested": {
         "samples": 284119,
@@ -1295,11 +1295,11 @@
     },
     "delta": {
       "confirmed": 47,
-      "recovered": 47,
+      "recovered": 48,
       "deceased": 1
     },
     "notes": "Total includes patients from other states.",
-    "last_updated": "2020-05-23T14:51:26+05:30"
+    "last_updated": "2020-05-23T15:01:24+05:30"
   },
   "AR": {
     "timeseries": {
@@ -4584,7 +4584,7 @@
       }
     },
     "total": {
-      "confirmed": 2166,
+      "confirmed": 2263,
       "recovered": 629,
       "deceased": 11,
       "tested": {
@@ -4594,12 +4594,12 @@
       }
     },
     "delta": {
-      "confirmed": 0,
+      "confirmed": 97,
       "recovered": 0,
       "deceased": 0
     },
     "notes": "",
-    "last_updated": "2020-05-23T00:23:27+05:30"
+    "last_updated": "2020-05-23T15:01:25+05:30"
   },
   "CH": {
     "timeseries": {
@@ -6972,7 +6972,7 @@
       "deceased": 23
     },
     "notes": "[10-May]<br>\n\nDelhi will be releasing bulletins in the morning, containing data of the previous day. We will add that data to the date on which the report is released, rather than the previous day.",
-    "last_updated": "2020-05-23T14:51:24+05:30"
+    "last_updated": "2020-05-23T14:56:24+05:30"
   },
   "DN": {
     "timeseries": {
@@ -32931,8 +32931,8 @@
     },
     "districts": null,
     "total": {
-      "confirmed": 125759,
-      "recovered": 52253,
+      "confirmed": 125856,
+      "recovered": 52254,
       "deceased": 3752,
       "tested": {
         "samples": 2834798,
@@ -32941,11 +32941,11 @@
       }
     },
     "delta": {
-      "confirmed": 965,
-      "recovered": 429,
+      "confirmed": 1062,
+      "recovered": 430,
       "deceased": 26
     },
     "notes": "",
-    "last_updated": "2020-05-23T14:51:23+05:30"
+    "last_updated": "2020-05-23T15:01:23+05:30"
   }
 }
