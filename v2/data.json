@@ -29264,12 +29264,12 @@
         "delta": {
           "confirmed": 0,
           "recovered": 0,
-          "deceased": 0
+          "deceased": 1
         },
         "total": {
           "confirmed": 115,
           "recovered": 55,
-          "deceased": 10
+          "deceased": 11
         },
         "zone": {
           "status": "Red",
@@ -29570,12 +29570,12 @@
         "delta": {
           "confirmed": 0,
           "recovered": 0,
-          "deceased": 0
+          "deceased": 1
         },
         "total": {
           "confirmed": 103,
           "recovered": 70,
-          "deceased": 1
+          "deceased": 2
         },
         "zone": {
           "status": "Red",
@@ -29706,12 +29706,12 @@
         "delta": {
           "confirmed": 0,
           "recovered": 0,
-          "deceased": 0
+          "deceased": 1
         },
         "total": {
           "confirmed": 208,
           "recovered": 185,
-          "deceased": 6
+          "deceased": 7
         },
         "zone": {
           "status": "Red",
@@ -30522,7 +30522,7 @@
     "total": {
       "confirmed": 5735,
       "recovered": 3324,
-      "deceased": 152,
+      "deceased": 155,
       "tested": {
         "samples": 214060,
         "source": "https://t.me/indiacovid/5343",
@@ -30532,10 +30532,10 @@
     "delta": {
       "confirmed": 0,
       "recovered": 0,
-      "deceased": 0
+      "deceased": 3
     },
     "notes": "",
-    "last_updated": "2020-05-23T00:23:25+05:30"
+    "last_updated": "2020-05-23T22:43:24+05:30"
   },
   "UT": {
     "timeseries": {
@@ -32936,7 +32936,7 @@
     "total": {
       "confirmed": 131103,
       "recovered": 54298,
-      "deceased": 3865,
+      "deceased": 3868,
       "tested": {
         "samples": 2834798,
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/110",
@@ -32946,9 +32946,9 @@
     "delta": {
       "confirmed": 6309,
       "recovered": 2465,
-      "deceased": 139
+      "deceased": 142
     },
     "notes": "",
-    "last_updated": "2020-05-23T22:23:23+05:30"
+    "last_updated": "2020-05-23T22:43:23+05:30"
   }
 }
