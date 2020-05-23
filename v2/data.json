@@ -3017,12 +3017,12 @@
       },
       "Golaghat": {
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "recovered": 0,
           "deceased": 0
         },
         "total": {
-          "confirmed": 15,
+          "confirmed": 16,
           "recovered": 9,
           "deceased": 0
         },
@@ -3051,12 +3051,12 @@
       },
       "Hojai": {
         "delta": {
-          "confirmed": 6,
+          "confirmed": 7,
           "recovered": 0,
           "deceased": 0
         },
         "total": {
-          "confirmed": 16,
+          "confirmed": 17,
           "recovered": 0,
           "deceased": 0
         },
@@ -3068,12 +3068,12 @@
       },
       "Jorhat": {
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "recovered": 0,
           "deceased": 0
         },
         "total": {
-          "confirmed": 7,
+          "confirmed": 8,
           "recovered": 2,
           "deceased": 0
         },
@@ -3204,12 +3204,12 @@
       },
       "Morigaon": {
         "delta": {
-          "confirmed": 0,
+          "confirmed": 4,
           "recovered": 0,
           "deceased": 0
         },
         "total": {
-          "confirmed": 6,
+          "confirmed": 10,
           "recovered": 6,
           "deceased": 0
         },
@@ -3221,12 +3221,12 @@
       },
       "Nagaon": {
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "recovered": 0,
           "deceased": 0
         },
         "total": {
-          "confirmed": 5,
+          "confirmed": 6,
           "recovered": 0,
           "deceased": 0
         },
@@ -3238,12 +3238,12 @@
       },
       "Nalbari": {
         "delta": {
-          "confirmed": 0,
+          "confirmed": 2,
           "recovered": 0,
           "deceased": 0
         },
         "total": {
-          "confirmed": 6,
+          "confirmed": 8,
           "recovered": 4,
           "deceased": 0
         },
@@ -3357,7 +3357,7 @@
       }
     },
     "total": {
-      "confirmed": 320,
+      "confirmed": 330,
       "recovered": 55,
       "deceased": 4,
       "tested": {
@@ -3367,12 +3367,12 @@
       }
     },
     "delta": {
-      "confirmed": 60,
+      "confirmed": 70,
       "recovered": 0,
       "deceased": 0
     },
     "notes": "Includes one case from Nagaland <br>\nTotal of Three* patients who migrated to other states has been reduced from Active count",
-    "last_updated": "2020-05-23T15:23:25+05:30"
+    "last_updated": "2020-05-23T17:52:25+05:30"
   },
   "BR": {
     "timeseries": {
@@ -14796,7 +14796,7 @@
       "deceased": 0
     },
     "notes": "Mahe native who expired in Kannur included in Kerala's tally",
-    "last_updated": "2020-05-23T17:46:25+05:30"
+    "last_updated": "2020-05-23T17:51:26+05:30"
   },
   "LA": {
     "timeseries": {
@@ -32931,7 +32931,7 @@
     },
     "districts": null,
     "total": {
-      "confirmed": 126405,
+      "confirmed": 126415,
       "recovered": 52272,
       "deceased": 3754,
       "tested": {
@@ -32941,11 +32941,11 @@
       }
     },
     "delta": {
-      "confirmed": 1611,
+      "confirmed": 1621,
       "recovered": 448,
       "deceased": 28
     },
     "notes": "",
-    "last_updated": "2020-05-23T17:46:23+05:30"
+    "last_updated": "2020-05-23T17:52:23+05:30"
   }
 }
