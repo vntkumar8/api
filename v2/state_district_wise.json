@@ -122,13 +122,13 @@
       {
         "district": "Krishna",
         "notes": "",
-        "active": 101,
+        "active": 100,
         "confirmed": 396,
-        "deceased": 15,
+        "deceased": 16,
         "recovered": 280,
         "delta": {
           "confirmed": 0,
-          "deceased": 0,
+          "deceased": 1,
           "recovered": 0
         }
       },
@@ -253,9 +253,9 @@
         "district": "Unknown",
         "notes": "",
         "active": 39,
-        "confirmed": 107,
+        "confirmed": 154,
         "deceased": 1,
-        "recovered": 67,
+        "recovered": 114,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
@@ -2082,10 +2082,10 @@
       {
         "district": "Unknown",
         "notes": "",
-        "active": 5427,
-        "confirmed": 11531,
-        "deceased": 207,
-        "recovered": 5897,
+        "active": 5625,
+        "confirmed": 12122,
+        "deceased": 230,
+        "recovered": 6267,
         "delta": {
           "confirmed": 0,
           "deceased": 0,

@@ -1133,12 +1133,12 @@
         "delta": {
           "confirmed": 0,
           "recovered": 0,
-          "deceased": 0
+          "deceased": 1
         },
         "total": {
           "confirmed": 396,
           "recovered": 280,
-          "deceased": 15
+          "deceased": 16
         },
         "zone": {
           "status": "Red",
@@ -1284,9 +1284,9 @@
       }
     },
     "total": {
-      "confirmed": 2667,
-      "recovered": 1731,
-      "deceased": 55,
+      "confirmed": 2714,
+      "recovered": 1778,
+      "deceased": 56,
       "tested": {
         "samples": 284119,
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/103",
@@ -1294,12 +1294,12 @@
       }
     },
     "delta": {
-      "confirmed": 0,
-      "recovered": 0,
-      "deceased": 0
+      "confirmed": 47,
+      "recovered": 47,
+      "deceased": 1
     },
     "notes": "Total includes patients from other states.",
-    "last_updated": "2020-05-22T13:53:27+05:30"
+    "last_updated": "2020-05-23T14:51:26+05:30"
   },
   "AR": {
     "timeseries": {
@@ -6957,9 +6957,9 @@
       }
     },
     "total": {
-      "confirmed": 12319,
-      "recovered": 5897,
-      "deceased": 208,
+      "confirmed": 12910,
+      "recovered": 6267,
+      "deceased": 231,
       "tested": {
         "samples": 160255,
         "source": "https://delhifightscorona.in/wp-content/uploads/2020/05/05-22.pdf",
@@ -6967,12 +6967,12 @@
       }
     },
     "delta": {
-      "confirmed": 0,
-      "recovered": 0,
-      "deceased": 0
+      "confirmed": 591,
+      "recovered": 370,
+      "deceased": 23
     },
     "notes": "[10-May]<br>\n\nDelhi will be releasing bulletins in the morning, containing data of the previous day. We will add that data to the date on which the report is released, rather than the previous day.",
-    "last_updated": "2020-05-22T13:21:26+05:30"
+    "last_updated": "2020-05-23T14:51:24+05:30"
   },
   "DN": {
     "timeseries": {
@@ -32931,9 +32931,9 @@
     },
     "districts": null,
     "total": {
-      "confirmed": 125121,
-      "recovered": 51836,
-      "deceased": 3728,
+      "confirmed": 125759,
+      "recovered": 52253,
+      "deceased": 3752,
       "tested": {
         "samples": 2834798,
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/110",
@@ -32941,11 +32941,11 @@
       }
     },
     "delta": {
-      "confirmed": 327,
-      "recovered": 12,
-      "deceased": 2
+      "confirmed": 965,
+      "recovered": 429,
+      "deceased": 26
     },
     "notes": "",
-    "last_updated": "2020-05-23T10:28:23+05:30"
+    "last_updated": "2020-05-23T14:51:23+05:30"
   }
 }

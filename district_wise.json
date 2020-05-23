@@ -137,12 +137,12 @@
 			"statecode": "AP"
 		},
 		{
-			"active": "101",
+			"active": "100",
 			"confirmed": "396",
-			"deceased": "15",
-			"deltaactive": "0",
+			"deceased": "16",
+			"deltaactive": "-1",
 			"deltaconfirmed": "0",
-			"deltadeceased": "0",
+			"deltadeceased": "1",
 			"deltarecovered": "0",
 			"district": "Krishna",
 			"districtkey": "AP_Krishna",
@@ -12803,7 +12803,7 @@
 		},
 		{
 			"active": "39",
-			"confirmed": "107",
+			"confirmed": "154",
 			"deceased": "1",
 			"deltaactive": "0",
 			"deltaconfirmed": "0",
@@ -12813,7 +12813,7 @@
 			"districtkey": "AP_Unknown",
 			"districtnotes": "",
 			"lastupdated": "",
-			"recovered": "67",
+			"recovered": "114",
 			"slno": "729",
 			"state": "Andhra Pradesh",
 			"statecode": "AP"
@@ -12921,9 +12921,9 @@
 			"statecode": "DN"
 		},
 		{
-			"active": "5427",
-			"confirmed": "11531",
-			"deceased": "207",
+			"active": "5625",
+			"confirmed": "12122",
+			"deceased": "230",
 			"deltaactive": "0",
 			"deltaconfirmed": "0",
 			"deltadeceased": "0",
@@ -12932,7 +12932,7 @@
 			"districtkey": "DL_Unknown",
 			"districtnotes": "",
 			"lastupdated": "",
-			"recovered": "5897",
+			"recovered": "6267",
 			"slno": "737",
 			"state": "Delhi",
 			"statecode": "DL"
