@@ -19136,12 +19136,12 @@
       "Bhind": {
         "delta": {
           "confirmed": 0,
-          "recovered": 0,
+          "recovered": 5,
           "deceased": 0
         },
         "total": {
           "confirmed": 44,
-          "recovered": 2,
+          "recovered": 7,
           "deceased": 0
         },
         "zone": {
@@ -19153,12 +19153,12 @@
       "Bhopal": {
         "delta": {
           "confirmed": 38,
-          "recovered": 0,
+          "recovered": 32,
           "deceased": 2
         },
         "total": {
           "confirmed": 1191,
-          "recovered": 708,
+          "recovered": 740,
           "deceased": 42
         },
         "zone": {
@@ -19306,12 +19306,12 @@
       "Guna": {
         "delta": {
           "confirmed": 1,
-          "recovered": 0,
+          "recovered": 1,
           "deceased": 0
         },
         "total": {
           "confirmed": 2,
-          "recovered": 0,
+          "recovered": 1,
           "deceased": 0
         },
         "zone": {
@@ -19374,12 +19374,12 @@
       "Indore": {
         "delta": {
           "confirmed": 83,
-          "recovered": 0,
+          "recovered": 101,
           "deceased": 2
         },
         "total": {
           "confirmed": 2933,
-          "recovered": 1280,
+          "recovered": 1381,
           "deceased": 111
         },
         "zone": {
@@ -19391,12 +19391,12 @@
       "Jabalpur": {
         "delta": {
           "confirmed": 5,
-          "recovered": 0,
+          "recovered": 1,
           "deceased": 0
         },
         "total": {
           "confirmed": 199,
-          "recovered": 115,
+          "recovered": 116,
           "deceased": 9
         },
         "zone": {
@@ -19442,12 +19442,12 @@
       "Khandwa": {
         "delta": {
           "confirmed": 8,
-          "recovered": 0,
+          "recovered": 19,
           "deceased": 1
         },
         "total": {
           "confirmed": 216,
-          "recovered": 128,
+          "recovered": 147,
           "deceased": 11
         },
         "zone": {
@@ -19459,12 +19459,12 @@
       "Khargone": {
         "delta": {
           "confirmed": 1,
-          "recovered": 0,
+          "recovered": 2,
           "deceased": 0
         },
         "total": {
           "confirmed": 115,
-          "recovered": 87,
+          "recovered": 89,
           "deceased": 8
         },
         "zone": {
@@ -19476,12 +19476,12 @@
       "Mandla": {
         "delta": {
           "confirmed": 0,
-          "recovered": 0,
+          "recovered": 1,
           "deceased": 0
         },
         "total": {
           "confirmed": 1,
-          "recovered": 0,
+          "recovered": 1,
           "deceased": 0
         },
         "zone": {
@@ -19493,12 +19493,12 @@
       "Mandsaur": {
         "delta": {
           "confirmed": 2,
-          "recovered": 0,
+          "recovered": 10,
           "deceased": 0
         },
         "total": {
           "confirmed": 85,
-          "recovered": 40,
+          "recovered": 50,
           "deceased": 6
         },
         "zone": {
@@ -19646,12 +19646,12 @@
       "Rewa": {
         "delta": {
           "confirmed": 0,
-          "recovered": 0,
+          "recovered": 1,
           "deceased": 0
         },
         "total": {
           "confirmed": 26,
-          "recovered": 1,
+          "recovered": 2,
           "deceased": 0
         },
         "zone": {
@@ -19663,12 +19663,12 @@
       "Sagar": {
         "delta": {
           "confirmed": 2,
-          "recovered": 0,
+          "recovered": 3,
           "deceased": 1
         },
         "total": {
           "confirmed": 59,
-          "recovered": 5,
+          "recovered": 8,
           "deceased": 3
         },
         "zone": {
@@ -19714,12 +19714,12 @@
       "Seoni": {
         "delta": {
           "confirmed": 0,
-          "recovered": 0,
+          "recovered": 1,
           "deceased": 0
         },
         "total": {
           "confirmed": 2,
-          "recovered": 0,
+          "recovered": 1,
           "deceased": 0
         },
         "zone": {
@@ -19850,12 +19850,12 @@
       "Ujjain": {
         "delta": {
           "confirmed": 27,
-          "recovered": 0,
+          "recovered": 1,
           "deceased": 0
         },
         "total": {
           "confirmed": 531,
-          "recovered": 218,
+          "recovered": 219,
           "deceased": 51
         },
         "zone": {
@@ -19901,7 +19901,7 @@
     },
     "total": {
       "confirmed": 6371,
-      "recovered": 3089,
+      "recovered": 3267,
       "deceased": 281,
       "tested": {
         "samples": 132769,
@@ -19911,11 +19911,11 @@
     },
     "delta": {
       "confirmed": 201,
-      "recovered": 0,
+      "recovered": 178,
       "deceased": 9
     },
     "notes": "",
-    "last_updated": "2020-05-23T21:21:25+05:30"
+    "last_updated": "2020-05-23T21:32:24+05:30"
   },
   "MZ": {
     "timeseries": {
@@ -32935,7 +32935,7 @@
     "districts": null,
     "total": {
       "confirmed": 130859,
-      "recovered": 54001,
+      "recovered": 54179,
       "deceased": 3860,
       "tested": {
         "samples": 2834798,
@@ -32945,10 +32945,10 @@
     },
     "delta": {
       "confirmed": 6065,
-      "recovered": 2168,
+      "recovered": 2346,
       "deceased": 134
     },
     "notes": "",
-    "last_updated": "2020-05-23T21:21:23+05:30"
+    "last_updated": "2020-05-23T21:32:23+05:30"
   }
 }
