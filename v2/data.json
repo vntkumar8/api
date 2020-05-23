@@ -3975,12 +3975,12 @@
       },
       "Aurangabad": {
         "delta": {
-          "confirmed": 2,
+          "confirmed": 14,
           "recovered": 0,
           "deceased": 0
         },
         "total": {
-          "confirmed": 36,
+          "confirmed": 48,
           "recovered": 14,
           "deceased": 0
         },
@@ -4026,12 +4026,12 @@
       },
       "Bhagalpur": {
         "delta": {
-          "confirmed": 1,
+          "confirmed": 3,
           "recovered": 0,
           "deceased": 0
         },
         "total": {
-          "confirmed": 70,
+          "confirmed": 72,
           "recovered": 27,
           "deceased": 0
         },
@@ -4111,12 +4111,12 @@
       },
       "Gaya": {
         "delta": {
-          "confirmed": 2,
+          "confirmed": 10,
           "recovered": 0,
           "deceased": 0
         },
         "total": {
-          "confirmed": 33,
+          "confirmed": 41,
           "recovered": 6,
           "deceased": 0
         },
@@ -4332,12 +4332,12 @@
       },
       "Nalanda": {
         "delta": {
-          "confirmed": 2,
+          "confirmed": 3,
           "recovered": 0,
           "deceased": 0
         },
         "total": {
-          "confirmed": 82,
+          "confirmed": 83,
           "recovered": 59,
           "deceased": 0
         },
@@ -4349,12 +4349,12 @@
       },
       "Nawada": {
         "delta": {
-          "confirmed": 2,
+          "confirmed": 8,
           "recovered": 0,
           "deceased": 0
         },
         "total": {
-          "confirmed": 52,
+          "confirmed": 58,
           "recovered": 4,
           "deceased": 0
         },
@@ -4451,12 +4451,12 @@
       },
       "Saran": {
         "delta": {
-          "confirmed": 0,
+          "confirmed": 4,
           "recovered": 0,
           "deceased": 0
         },
         "total": {
-          "confirmed": 25,
+          "confirmed": 29,
           "recovered": 8,
           "deceased": 0
         },
@@ -4502,12 +4502,12 @@
       },
       "Sitamarhi": {
         "delta": {
-          "confirmed": 0,
+          "confirmed": 13,
           "recovered": 0,
           "deceased": 0
         },
         "total": {
-          "confirmed": 15,
+          "confirmed": 28,
           "recovered": 6,
           "deceased": 1
         },
@@ -4553,12 +4553,12 @@
       },
       "Vaishali": {
         "delta": {
-          "confirmed": 23,
+          "confirmed": 24,
           "recovered": 0,
           "deceased": 0
         },
         "total": {
-          "confirmed": 48,
+          "confirmed": 49,
           "recovered": 2,
           "deceased": 2
         },
@@ -4570,12 +4570,12 @@
       },
       "West Champaran": {
         "delta": {
-          "confirmed": 0,
+          "confirmed": 2,
           "recovered": 0,
           "deceased": 0
         },
         "total": {
-          "confirmed": 32,
+          "confirmed": 34,
           "recovered": 11,
           "deceased": 0
         },
@@ -4587,7 +4587,7 @@
       }
     },
     "total": {
-      "confirmed": 2345,
+      "confirmed": 2394,
       "recovered": 629,
       "deceased": 11,
       "tested": {
@@ -4597,12 +4597,12 @@
       }
     },
     "delta": {
-      "confirmed": 179,
+      "confirmed": 228,
       "recovered": 0,
       "deceased": 0
     },
     "notes": "",
-    "last_updated": "2020-05-23T19:22:24+05:30"
+    "last_updated": "2020-05-23T21:43:25+05:30"
   },
   "CH": {
     "timeseries": {
@@ -19915,7 +19915,7 @@
       "deceased": 9
     },
     "notes": "",
-    "last_updated": "2020-05-23T21:32:24+05:30"
+    "last_updated": "2020-05-23T21:43:24+05:30"
   },
   "MZ": {
     "timeseries": {
@@ -32934,7 +32934,7 @@
     },
     "districts": null,
     "total": {
-      "confirmed": 130859,
+      "confirmed": 130908,
       "recovered": 54179,
       "deceased": 3860,
       "tested": {
@@ -32944,11 +32944,11 @@
       }
     },
     "delta": {
-      "confirmed": 6065,
+      "confirmed": 6114,
       "recovered": 2346,
       "deceased": 134
     },
     "notes": "",
-    "last_updated": "2020-05-23T21:32:23+05:30"
+    "last_updated": "2020-05-23T21:43:23+05:30"
   }
 }
