@@ -9693,12 +9693,12 @@
       {
         "district": "Dehradun",
         "notes": "",
-        "active": 25,
-        "confirmed": 55,
+        "active": 33,
+        "confirmed": 63,
         "deceased": 1,
         "recovered": 29,
         "delta": {
-          "confirmed": 1,
+          "confirmed": 9,
           "deceased": 0,
           "recovered": 0
         }
@@ -9706,23 +9706,10 @@
       {
         "district": "Haridwar",
         "notes": "",
-        "active": 6,
-        "confirmed": 13,
+        "active": 7,
+        "confirmed": 14,
         "deceased": 0,
         "recovered": 7,
-        "delta": {
-          "confirmed": 1,
-          "deceased": 0,
-          "recovered": 0
-        }
-      },
-      {
-        "district": "Nainital",
-        "notes": "",
-        "active": 20,
-        "confirmed": 30,
-        "deceased": 0,
-        "recovered": 10,
         "delta": {
           "confirmed": 2,
           "deceased": 0,
@@ -9730,14 +9717,27 @@
         }
       },
       {
+        "district": "Nainital",
+        "notes": "",
+        "active": 75,
+        "confirmed": 85,
+        "deceased": 0,
+        "recovered": 10,
+        "delta": {
+          "confirmed": 57,
+          "deceased": 0,
+          "recovered": 0
+        }
+      },
+      {
         "district": "Pauri Garhwal",
         "notes": "",
-        "active": 3,
-        "confirmed": 4,
+        "active": 5,
+        "confirmed": 6,
         "deceased": 0,
         "recovered": 1,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 2,
           "deceased": 0,
           "recovered": 0
         }
@@ -9758,12 +9758,12 @@
       {
         "district": "Rudraprayag",
         "notes": "",
-        "active": 0,
-        "confirmed": 0,
+        "active": 3,
+        "confirmed": 3,
         "deceased": 0,
         "recovered": 0,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 3,
           "deceased": 0,
           "recovered": 0
         }
@@ -9784,12 +9784,12 @@
       {
         "district": "Udham Singh Nagar",
         "notes": "",
-        "active": 24,
-        "confirmed": 31,
+        "active": 27,
+        "confirmed": 34,
         "deceased": 0,
         "recovered": 7,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 3,
           "deceased": 0,
           "recovered": 2
         }

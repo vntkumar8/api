@@ -12868,7 +12868,7 @@
       "deceased": 1
     },
     "notes": "",
-    "last_updated": "2020-05-23T20:32:27+05:30"
+    "last_updated": "2020-05-23T20:43:25+05:30"
   },
   "KA": {
     "timeseries": {
@@ -19904,9 +19904,9 @@
       "recovered": 3089,
       "deceased": 272,
       "tested": {
-        "samples": 129060,
-        "source": "https://twitter.com/healthminmp/status/1263847987714891776",
-        "last_updated": "2020-05-22"
+        "samples": 132769,
+        "source": "https://twitter.com/healthminmp/status/1264203664694087685",
+        "last_updated": "2020-05-23"
       }
     },
     "delta": {
@@ -31169,12 +31169,12 @@
       },
       "Dehradun": {
         "delta": {
-          "confirmed": 1,
+          "confirmed": 9,
           "recovered": 0,
           "deceased": 0
         },
         "total": {
-          "confirmed": 55,
+          "confirmed": 63,
           "recovered": 29,
           "deceased": 1
         },
@@ -31186,12 +31186,12 @@
       },
       "Haridwar": {
         "delta": {
-          "confirmed": 1,
+          "confirmed": 2,
           "recovered": 0,
           "deceased": 0
         },
         "total": {
-          "confirmed": 13,
+          "confirmed": 14,
           "recovered": 7,
           "deceased": 0
         },
@@ -31203,12 +31203,12 @@
       },
       "Nainital": {
         "delta": {
-          "confirmed": 2,
+          "confirmed": 57,
           "recovered": 0,
           "deceased": 0
         },
         "total": {
-          "confirmed": 30,
+          "confirmed": 85,
           "recovered": 10,
           "deceased": 0
         },
@@ -31220,12 +31220,12 @@
       },
       "Pauri Garhwal": {
         "delta": {
-          "confirmed": 0,
+          "confirmed": 2,
           "recovered": 0,
           "deceased": 0
         },
         "total": {
-          "confirmed": 4,
+          "confirmed": 6,
           "recovered": 1,
           "deceased": 0
         },
@@ -31254,12 +31254,12 @@
       },
       "Rudraprayag": {
         "delta": {
-          "confirmed": 0,
+          "confirmed": 3,
           "recovered": 0,
           "deceased": 0
         },
         "total": {
-          "confirmed": 0,
+          "confirmed": 3,
           "recovered": 0,
           "deceased": 0
         },
@@ -31288,12 +31288,12 @@
       },
       "Udham Singh Nagar": {
         "delta": {
-          "confirmed": 0,
+          "confirmed": 3,
           "recovered": 2,
           "deceased": 0
         },
         "total": {
-          "confirmed": 31,
+          "confirmed": 34,
           "recovered": 7,
           "deceased": 0
         },
@@ -31322,7 +31322,7 @@
       }
     },
     "total": {
-      "confirmed": 172,
+      "confirmed": 244,
       "recovered": 55,
       "deceased": 1,
       "tested": {
@@ -31332,12 +31332,12 @@
       }
     },
     "delta": {
-      "confirmed": 19,
+      "confirmed": 91,
       "recovered": 2,
       "deceased": 0
     },
     "notes": "",
-    "last_updated": "2020-05-23T17:33:29+05:30"
+    "last_updated": "2020-05-23T20:43:26+05:30"
   },
   "WB": {
     "timeseries": {
@@ -32934,7 +32934,7 @@
     },
     "districts": null,
     "total": {
-      "confirmed": 130586,
+      "confirmed": 130658,
       "recovered": 54001,
       "deceased": 3851,
       "tested": {
@@ -32944,11 +32944,11 @@
       }
     },
     "delta": {
-      "confirmed": 5792,
+      "confirmed": 5864,
       "recovered": 2168,
       "deceased": 125
     },
     "notes": "",
-    "last_updated": "2020-05-23T20:32:23+05:30"
+    "last_updated": "2020-05-23T20:43:23+05:30"
   }
 }
