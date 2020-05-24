@@ -7137,12 +7137,12 @@
         "notes": "",
         "active": 45,
         "confirmed": 170,
-        "deceased": 7,
-        "recovered": 118,
+        "deceased": 3,
+        "recovered": 122,
         "delta": {
           "confirmed": 0,
-          "deceased": 4,
-          "recovered": 0
+          "deceased": 0,
+          "recovered": 4
         }
       },
       {
@@ -7278,13 +7278,13 @@
       {
         "district": "Jalore",
         "notes": "",
-        "active": 140,
+        "active": 139,
         "confirmed": 149,
-        "deceased": 2,
+        "deceased": 3,
         "recovered": 7,
         "delta": {
           "confirmed": 0,
-          "deceased": 0,
+          "deceased": 1,
           "recovered": 0
         }
       },
@@ -7343,27 +7343,27 @@
       {
         "district": "Kota",
         "notes": "",
-        "active": 85,
-        "confirmed": 373,
+        "active": 75,
+        "confirmed": 374,
         "deceased": 16,
-        "recovered": 272,
+        "recovered": 283,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 11
         }
       },
       {
         "district": "Nagaur",
         "notes": "",
-        "active": 157,
-        "confirmed": 296,
+        "active": 158,
+        "confirmed": 300,
         "deceased": 7,
-        "recovered": 132,
+        "recovered": 135,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 4,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 3
         }
       },
       {
@@ -7477,19 +7477,6 @@
         "confirmed": 459,
         "deceased": 1,
         "recovered": 70,
-        "delta": {
-          "confirmed": 0,
-          "deceased": 0,
-          "recovered": 0
-        }
-      },
-      {
-        "district": "Unknown",
-        "notes": "",
-        "active": -1,
-        "confirmed": 0,
-        "deceased": 0,
-        "recovered": 1,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
