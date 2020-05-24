@@ -5213,12 +5213,12 @@
     "districts": {
       "Chandigarh": {
         "delta": {
-          "confirmed": 0,
+          "confirmed": 13,
           "recovered": 0,
           "deceased": 0
         },
         "total": {
-          "confirmed": 225,
+          "confirmed": 238,
           "recovered": 179,
           "deceased": 3
         },
@@ -5230,7 +5230,7 @@
       }
     },
     "total": {
-      "confirmed": 225,
+      "confirmed": 238,
       "recovered": 179,
       "deceased": 3,
       "tested": {
@@ -5240,12 +5240,12 @@
       }
     },
     "delta": {
-      "confirmed": 0,
+      "confirmed": 13,
       "recovered": 0,
       "deceased": 0
     },
     "notes": "",
-    "last_updated": "2020-05-23T19:11:29+05:30"
+    "last_updated": "2020-05-24T11:52:05+05:30"
   },
   "CT": {
     "timeseries": {
@@ -8159,7 +8159,7 @@
       "deceased": 0
     },
     "notes": "",
-    "last_updated": "2020-05-24T11:44:04+05:30"
+    "last_updated": "2020-05-24T11:47:06+05:30"
   },
   "GJ": {
     "timeseries": {
@@ -33243,7 +33243,7 @@
     },
     "districts": null,
     "total": {
-      "confirmed": 131996,
+      "confirmed": 132009,
       "recovered": 54427,
       "deceased": 3869,
       "tested": {
@@ -33253,11 +33253,11 @@
       }
     },
     "delta": {
-      "confirmed": 573,
+      "confirmed": 586,
       "recovered": 18,
       "deceased": 1
     },
     "notes": "",
-    "last_updated": "2020-05-24T11:44:02+05:30"
+    "last_updated": "2020-05-24T11:52:03+05:30"
   }
 }
