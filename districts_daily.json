@@ -162266,14 +162266,6 @@
           "deceased": 0,
           "recovered": 0,
           "date": "2020-05-23"
-        },
-        {
-          "notes": "",
-          "active": 0,
-          "confirmed": 0,
-          "deceased": 0,
-          "recovered": 0,
-          "date": "2020-05-24"
         }
       ],
       "North District": [
@@ -162364,14 +162356,6 @@
           "deceased": 0,
           "recovered": 0,
           "date": "2020-05-23"
-        },
-        {
-          "notes": "",
-          "active": 0,
-          "confirmed": 0,
-          "deceased": 0,
-          "recovered": 0,
-          "date": "2020-05-24"
         }
       ],
       "South District": [
@@ -162462,14 +162446,6 @@
           "deceased": 0,
           "recovered": 0,
           "date": "2020-05-23"
-        },
-        {
-          "notes": "",
-          "active": 0,
-          "confirmed": 0,
-          "deceased": 0,
-          "recovered": 0,
-          "date": "2020-05-24"
         }
       ],
       "West District": [
@@ -162560,14 +162536,6 @@
           "deceased": 0,
           "recovered": 0,
           "date": "2020-05-23"
-        },
-        {
-          "notes": "",
-          "active": 0,
-          "confirmed": 0,
-          "deceased": 0,
-          "recovered": 0,
-          "date": "2020-05-24"
         }
       ],
       "Unknown": [
@@ -162578,11 +162546,43 @@
           "deceased": 0,
           "recovered": 0,
           "date": "2020-05-23"
-        },
+        }
+      ],
+      "East Sikkim": [
+        {
+          "notes": "",
+          "active": 0,
+          "confirmed": 0,
+          "deceased": 0,
+          "recovered": 0,
+          "date": "2020-05-24"
+        }
+      ],
+      "North Sikkim": [
         {
           "notes": "",
           "active": 1,
           "confirmed": 1,
+          "deceased": 0,
+          "recovered": 0,
+          "date": "2020-05-24"
+        }
+      ],
+      "South Sikkim": [
+        {
+          "notes": "",
+          "active": 0,
+          "confirmed": 0,
+          "deceased": 0,
+          "recovered": 0,
+          "date": "2020-05-24"
+        }
+      ],
+      "West Sikkim": [
+        {
+          "notes": "",
+          "active": 0,
+          "confirmed": 0,
           "deceased": 0,
           "recovered": 0,
           "date": "2020-05-24"
