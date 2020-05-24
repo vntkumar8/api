@@ -1044,10 +1044,10 @@
       {
         "district": "Unknown",
         "notes": "",
-        "active": 2,
+        "active": 1,
         "confirmed": 2,
         "deceased": 0,
-        "recovered": 0,
+        "recovered": 1,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
@@ -1563,12 +1563,12 @@
       {
         "district": "Chandigarh",
         "notes": "",
-        "active": 56,
-        "confirmed": 238,
+        "active": 65,
+        "confirmed": 247,
         "deceased": 3,
         "recovered": 179,
         "delta": {
-          "confirmed": 13,
+          "confirmed": 22,
           "deceased": 0,
           "recovered": 0
         }
@@ -2853,14 +2853,14 @@
       {
         "district": "Faridabad",
         "notes": "",
-        "active": 85,
+        "active": 80,
         "confirmed": 206,
         "deceased": 6,
-        "recovered": 115,
+        "recovered": 120,
         "delta": {
           "confirmed": 11,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 5
         }
       },
       {
@@ -2879,14 +2879,14 @@
       {
         "district": "Gurugram",
         "notes": "",
-        "active": 120,
+        "active": 112,
         "confirmed": 262,
         "deceased": 2,
-        "recovered": 140,
+        "recovered": 148,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 8
         }
       },
       {
@@ -3048,14 +3048,14 @@
       {
         "district": "Rewari",
         "notes": "",
-        "active": 11,
+        "active": 10,
         "confirmed": 11,
         "deceased": 0,
-        "recovered": 0,
+        "recovered": 1,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 1
         }
       },
       {
