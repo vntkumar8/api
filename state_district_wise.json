@@ -4476,7 +4476,7 @@
         "deceased": 0,
         "recovered": 91,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 2,
           "deceased": 0,
           "recovered": 0
         }
@@ -6948,6 +6948,18 @@
   },
   "Telangana": {
     "districtData": {
+      "Foreign Evacuees": {
+        "notes": "Category added in Telangana State Bulletin",
+        "active": 6,
+        "confirmed": 6,
+        "deceased": 0,
+        "recovered": 0,
+        "delta": {
+          "confirmed": 6,
+          "deceased": 0,
+          "recovered": 0
+        }
+      },
       "Other State": {
         "notes": "",
         "active": 127,
@@ -7358,8 +7370,8 @@
       },
       "Unknown": {
         "notes": "",
-        "active": -466,
-        "confirmed": 98,
+        "active": -472,
+        "confirmed": 92,
         "deceased": 23,
         "recovered": 541,
         "delta": {

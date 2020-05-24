@@ -6107,8 +6107,8 @@
 			"active": "24",
 			"confirmed": "115",
 			"deceased": "0",
-			"deltaactive": "0",
-			"deltaconfirmed": "0",
+			"deltaactive": "2",
+			"deltaconfirmed": "2",
 			"deltadeceased": "0",
 			"deltarecovered": "0",
 			"district": "Yavatmal",
@@ -9502,6 +9502,23 @@
 			"slno": "543",
 			"state": "Sikkim",
 			"statecode": "SK"
+		},
+		{
+			"active": "6",
+			"confirmed": "6",
+			"deceased": "0",
+			"deltaactive": "6",
+			"deltaconfirmed": "6",
+			"deltadeceased": "0",
+			"deltarecovered": "0",
+			"district": "Foreign Evacuees",
+			"districtkey": "TG_Foreign Evacuees",
+			"districtnotes": "Category added in Telangana State Bulletin",
+			"lastupdated": "",
+			"recovered": "0",
+			"slno": "0",
+			"state": "Telangana",
+			"statecode": "TG"
 		},
 		{
 			"active": "127",
@@ -13329,8 +13346,8 @@
 			"statecode": "TN"
 		},
 		{
-			"active": "-466",
-			"confirmed": "98",
+			"active": "-472",
+			"confirmed": "92",
 			"deceased": "23",
 			"deltaactive": "0",
 			"deltaconfirmed": "0",
