@@ -1038,14 +1038,14 @@
 	],
 	"statewise": [
 		{
-			"active": "74030",
+			"active": "74026",
 			"confirmed": "132755",
-			"deaths": "3899",
+			"deaths": "3901",
 			"deltaconfirmed": "1330",
-			"deltadeaths": "31",
-			"deltarecovered": "409",
-			"lastupdatedtime": "24/05/2020 15:45:03",
-			"recovered": "54818",
+			"deltadeaths": "33",
+			"deltarecovered": "410",
+			"lastupdatedtime": "24/05/2020 16:01:02",
+			"recovered": "54819",
 			"state": "Total",
 			"statecode": "TT",
 			"statenotes": ""
@@ -1311,17 +1311,17 @@
 			"statenotes": ""
 		},
 		{
-			"active": "242",
+			"active": "238",
 			"confirmed": "298",
-			"deaths": "1",
+			"deaths": "3",
 			"deltaconfirmed": "54",
-			"deltadeaths": "0",
-			"deltarecovered": "0",
-			"lastupdatedtime": "23/05/2020 20:54:25",
-			"recovered": "55",
+			"deltadeaths": "2",
+			"deltarecovered": "1",
+			"lastupdatedtime": "24/05/2020 16:01:04",
+			"recovered": "56",
 			"state": "Uttarakhand",
 			"statecode": "UT",
-			"statenotes": ""
+			"statenotes": "One migrated case reduced from Active count"
 		},
 		{
 			"active": "56",
@@ -1369,7 +1369,7 @@
 			"deltaconfirmed": "6",
 			"deltadeaths": "0",
 			"deltarecovered": "2",
-			"lastupdatedtime": "24/05/2020 15:45:04",
+			"lastupdatedtime": "24/05/2020 15:52:05",
 			"recovered": "59",
 			"state": "Himachal Pradesh",
 			"statecode": "HP",
