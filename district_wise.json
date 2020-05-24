@@ -1038,18 +1038,18 @@
 			"statecode": "AS"
 		},
 		{
-			"active": "148",
-			"confirmed": "157",
+			"active": "149",
+			"confirmed": "159",
 			"deceased": "3",
-			"deltaactive": "3",
-			"deltaconfirmed": "3",
+			"deltaactive": "4",
+			"deltaconfirmed": "5",
 			"deltadeceased": "0",
-			"deltarecovered": "0",
+			"deltarecovered": "1",
 			"district": "Kamrup Metropolitan",
 			"districtkey": "AS_Kamrup Metropolitan",
 			"districtnotes": "",
 			"lastupdated": "",
-			"recovered": "6",
+			"recovered": "7",
 			"slno": "60",
 			"state": "Assam",
 			"statecode": "AS"
@@ -3501,6 +3501,23 @@
 			"slno": "223",
 			"state": "Himachal Pradesh",
 			"statecode": "HP"
+		},
+		{
+			"active": "21",
+			"confirmed": "21",
+			"deceased": "0",
+			"deltaactive": "21",
+			"deltaconfirmed": "21",
+			"deltadeceased": "0",
+			"deltarecovered": "0",
+			"district": "Foreign Evacuees",
+			"districtkey": "HR_Foreign Evacuees",
+			"districtnotes": "",
+			"lastupdated": "",
+			"recovered": "0",
+			"slno": "0",
+			"state": "Haryana",
+			"statecode": "HR"
 		},
 		{
 			"active": "0",
@@ -12870,8 +12887,8 @@
 			"statecode": "AR"
 		},
 		{
-			"active": "1",
-			"confirmed": "2",
+			"active": "0",
+			"confirmed": "0",
 			"deceased": "0",
 			"deltaactive": "0",
 			"deltaconfirmed": "0",
@@ -12881,7 +12898,7 @@
 			"districtkey": "AS_Unknown",
 			"districtnotes": "",
 			"lastupdated": "",
-			"recovered": "1",
+			"recovered": "0",
 			"slno": "731",
 			"state": "Assam",
 			"statecode": "AS"
@@ -13006,8 +13023,8 @@
 			"statecode": "GJ"
 		},
 		{
-			"active": "21",
-			"confirmed": "21",
+			"active": "0",
+			"confirmed": "0",
 			"deceased": "0",
 			"deltaactive": "0",
 			"deltaconfirmed": "0",
@@ -13023,8 +13040,8 @@
 			"statecode": "HR"
 		},
 		{
-			"active": "0",
-			"confirmed": "0",
+			"active": "8",
+			"confirmed": "8",
 			"deceased": "0",
 			"deltaactive": "0",
 			"deltaconfirmed": "0",
