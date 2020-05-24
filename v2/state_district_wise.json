@@ -1063,12 +1063,12 @@
       {
         "district": "Arwal",
         "notes": "",
-        "active": 20,
-        "confirmed": 25,
+        "active": 19,
+        "confirmed": 24,
         "deceased": 0,
         "recovered": 5,
         "delta": {
-          "confirmed": 2,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
@@ -1076,14 +1076,14 @@
       {
         "district": "Aurangabad",
         "notes": "",
-        "active": 32,
+        "active": 36,
         "confirmed": 50,
         "deceased": 0,
-        "recovered": 18,
+        "recovered": 14,
         "delta": {
           "confirmed": 2,
           "deceased": 0,
-          "recovered": 4
+          "recovered": 0
         }
       },
       {
@@ -1115,12 +1115,12 @@
       {
         "district": "Bhagalpur",
         "notes": "",
-        "active": 45,
-        "confirmed": 74,
+        "active": 49,
+        "confirmed": 78,
         "deceased": 0,
         "recovered": 29,
         "delta": {
-          "confirmed": 2,
+          "confirmed": 6,
           "deceased": 0,
           "recovered": 0
         }
@@ -1258,12 +1258,12 @@
       {
         "district": "Khagaria",
         "notes": "",
-        "active": 100,
-        "confirmed": 118,
+        "active": 101,
+        "confirmed": 119,
         "deceased": 2,
         "recovered": 16,
         "delta": {
-          "confirmed": 1,
+          "confirmed": 2,
           "deceased": 0,
           "recovered": 0
         }
@@ -1271,14 +1271,14 @@
       {
         "district": "Kishanganj",
         "notes": "",
-        "active": 5,
+        "active": 7,
         "confirmed": 14,
         "deceased": 0,
-        "recovered": 9,
+        "recovered": 7,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 2
+          "recovered": 0
         }
       },
       {
@@ -1310,12 +1310,12 @@
       {
         "district": "Madhubani",
         "notes": "",
-        "active": 115,
-        "confirmed": 135,
+        "active": 116,
+        "confirmed": 136,
         "deceased": 0,
         "recovered": 20,
         "delta": {
-          "confirmed": 2,
+          "confirmed": 3,
           "deceased": 0,
           "recovered": 0
         }
@@ -1323,14 +1323,14 @@
       {
         "district": "Munger",
         "notes": "",
-        "active": 39,
+        "active": 52,
         "confirmed": 146,
         "deceased": 1,
-        "recovered": 106,
+        "recovered": 93,
         "delta": {
           "confirmed": 6,
           "deceased": 0,
-          "recovered": 13
+          "recovered": 0
         }
       },
       {
@@ -1349,12 +1349,12 @@
       {
         "district": "Nalanda",
         "notes": "",
-        "active": 22,
-        "confirmed": 84,
+        "active": 23,
+        "confirmed": 85,
         "deceased": 0,
         "recovered": 62,
         "delta": {
-          "confirmed": 1,
+          "confirmed": 2,
           "deceased": 0,
           "recovered": 0
         }
@@ -1362,27 +1362,27 @@
       {
         "district": "Nawada",
         "notes": "",
-        "active": 47,
-        "confirmed": 60,
+        "active": 55,
+        "confirmed": 59,
         "deceased": 0,
-        "recovered": 13,
+        "recovered": 4,
         "delta": {
-          "confirmed": 2,
+          "confirmed": 1,
           "deceased": 0,
-          "recovered": 9
+          "recovered": 0
         }
       },
       {
         "district": "Patna",
         "notes": "",
-        "active": 124,
-        "confirmed": 195,
+        "active": 142,
+        "confirmed": 196,
         "deceased": 2,
-        "recovered": 69,
+        "recovered": 52,
         "delta": {
-          "confirmed": -1,
+          "confirmed": 0,
           "deceased": 0,
-          "recovered": 17
+          "recovered": 0
         }
       },
       {
@@ -1427,12 +1427,12 @@
       {
         "district": "Samastipur",
         "notes": "",
-        "active": 62,
-        "confirmed": 64,
+        "active": 58,
+        "confirmed": 60,
         "deceased": 0,
         "recovered": 2,
         "delta": {
-          "confirmed": 8,
+          "confirmed": 4,
           "deceased": 0,
           "recovered": 0
         }
@@ -1440,27 +1440,27 @@
       {
         "district": "Saran",
         "notes": "",
-        "active": 20,
+        "active": 21,
         "confirmed": 29,
-        "deceased": 1,
+        "deceased": 0,
         "recovered": 8,
         "delta": {
           "confirmed": 0,
-          "deceased": 1,
+          "deceased": 0,
           "recovered": 0
         }
       },
       {
         "district": "Sheikhpura",
         "notes": "",
-        "active": 43,
+        "active": 44,
         "confirmed": 44,
         "deceased": 0,
-        "recovered": 1,
+        "recovered": 0,
         "delta": {
           "confirmed": 3,
           "deceased": 0,
-          "recovered": 1
+          "recovered": 0
         }
       },
       {
@@ -1492,25 +1492,25 @@
       {
         "district": "Siwan",
         "notes": "",
-        "active": 23,
+        "active": 24,
         "confirmed": 56,
-        "deceased": 1,
+        "deceased": 0,
         "recovered": 32,
         "delta": {
           "confirmed": 0,
-          "deceased": 1,
+          "deceased": 0,
           "recovered": 0
         }
       },
       {
         "district": "Supaul",
         "notes": "",
-        "active": 41,
-        "confirmed": 42,
+        "active": 43,
+        "confirmed": 44,
         "deceased": 0,
         "recovered": 1,
         "delta": {
-          "confirmed": -2,
+          "confirmed": 0,
           "deceased": 0,
           "recovered": 0
         }
@@ -4328,6 +4328,19 @@
           "confirmed": 0,
           "deceased": 1,
           "recovered": 3
+        }
+      },
+      {
+        "district": "Unknown",
+        "notes": "",
+        "active": 1,
+        "confirmed": 1,
+        "deceased": 0,
+        "recovered": 0,
+        "delta": {
+          "confirmed": 0,
+          "deceased": 0,
+          "recovered": 0
         }
       }
     ]
