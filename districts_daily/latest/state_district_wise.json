@@ -1461,14 +1461,14 @@
     "districtData": {
       "Chandigarh": {
         "notes": "",
-        "active": 79,
-        "confirmed": 262,
+        "active": 75,
+        "confirmed": 266,
         "deceased": 4,
-        "recovered": 179,
+        "recovered": 187,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 4,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 8
         }
       }
     },
@@ -1502,12 +1502,12 @@
       },
       "Balrampur": {
         "notes": "",
-        "active": 7,
-        "confirmed": 7,
+        "active": 8,
+        "confirmed": 8,
         "deceased": 0,
         "recovered": 0,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
@@ -1550,12 +1550,12 @@
       },
       "Bilaspur": {
         "notes": "",
-        "active": 36,
-        "confirmed": 37,
+        "active": 37,
+        "confirmed": 38,
         "deceased": 0,
         "recovered": 1,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
@@ -1574,12 +1574,12 @@
       },
       "Dhamtari": {
         "notes": "",
-        "active": 0,
-        "confirmed": 0,
+        "active": 2,
+        "confirmed": 2,
         "deceased": 0,
         "recovered": 0,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 2,
           "deceased": 0,
           "recovered": 0
         }
@@ -1694,12 +1694,12 @@
       },
       "Mungeli": {
         "notes": "",
-        "active": 13,
-        "confirmed": 13,
+        "active": 39,
+        "confirmed": 39,
         "deceased": 0,
         "recovered": 0,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 26,
           "deceased": 0,
           "recovered": 0
         }
@@ -1742,12 +1742,12 @@
       },
       "Rajnandgaon": {
         "notes": "",
-        "active": 21,
-        "confirmed": 22,
+        "active": 22,
+        "confirmed": 23,
         "deceased": 0,
         "recovered": 1,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
@@ -9094,9 +9094,9 @@
       },
       "Unknown": {
         "notes": "",
-        "active": -3,
+        "active": -4,
         "confirmed": 0,
-        "deceased": 2,
+        "deceased": 3,
         "recovered": 1,
         "delta": {
           "confirmed": 0,
