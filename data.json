@@ -1047,13 +1047,13 @@
 	],
 	"statewise": [
 		{
-			"active": "77214",
-			"confirmed": "138947",
+			"active": "77316",
+			"confirmed": "139049",
 			"deaths": "4024",
-			"deltaconfirmed": "411",
+			"deltaconfirmed": "513",
 			"deltadeaths": "0",
 			"deltarecovered": "8",
-			"lastupdatedtime": "25/05/2020 10:27:03",
+			"lastupdatedtime": "25/05/2020 10:43:03",
 			"recovered": "57700",
 			"state": "Total",
 			"statecode": "TT",
@@ -1255,13 +1255,13 @@
 			"statenotes": ""
 		},
 		{
-			"active": "779",
-			"confirmed": "1336",
+			"active": "881",
+			"confirmed": "1438",
 			"deaths": "7",
-			"deltaconfirmed": "0",
+			"deltaconfirmed": "102",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
-			"lastupdatedtime": "24/05/2020 15:32:04",
+			"lastupdatedtime": "25/05/2020 10:43:04",
 			"recovered": "550",
 			"state": "Odisha",
 			"statecode": "OR",
@@ -2609,15 +2609,15 @@
 		{
 			"individualstestedperconfirmedcase": "",
 			"positivecasesfromsamplesreported": "",
-			"samplereportedtoday": "",
-			"source": "",
+			"samplereportedtoday": "90170",
+			"source": "https://t.me/Covid19india_Auxiliary_Test_Data/146",
 			"testpositivityrate": "",
 			"testsconductedbyprivatelabs": "",
 			"testsperconfirmedcase": "",
 			"testspermillion": "",
 			"totalindividualstested": "",
 			"totalpositivecases": "",
-			"totalsamplestested": "",
+			"totalsamplestested": "3033591",
 			"updatetimestamp": "25/05/2020 09:00:00"
 		}
 	]
