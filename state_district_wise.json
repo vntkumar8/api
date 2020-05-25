@@ -3491,72 +3491,72 @@
     "districtData": {
       "Bagalkote": {
         "notes": "",
-        "active": 26,
+        "active": 23,
         "confirmed": 77,
         "deceased": 1,
-        "recovered": 50,
+        "recovered": 53,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 3
         }
       },
       "Ballari": {
         "notes": "",
-        "active": 19,
-        "confirmed": 33,
+        "active": 22,
+        "confirmed": 36,
         "deceased": 1,
         "recovered": 13,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 3,
           "deceased": 0,
           "recovered": 0
         }
       },
       "Belagavi": {
         "notes": "",
-        "active": 69,
-        "confirmed": 127,
+        "active": 61,
+        "confirmed": 128,
         "deceased": 1,
-        "recovered": 57,
+        "recovered": 66,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 9
         }
       },
       "Bengaluru Rural": {
         "notes": "",
-        "active": 5,
+        "active": 4,
         "confirmed": 11,
-        "deceased": 0,
+        "deceased": 1,
         "recovered": 6,
         "delta": {
           "confirmed": 0,
-          "deceased": 0,
+          "deceased": 1,
           "recovered": 0
         }
       },
       "Bengaluru Urban": {
         "notes": "",
-        "active": 128,
-        "confirmed": 268,
+        "active": 115,
+        "confirmed": 274,
         "deceased": 10,
-        "recovered": 130,
+        "recovered": 149,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 6,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 19
         }
       },
       "Bidar": {
         "notes": "",
-        "active": 62,
-        "confirmed": 85,
+        "active": 63,
+        "confirmed": 86,
         "deceased": 2,
         "recovered": 21,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
@@ -3611,36 +3611,36 @@
       },
       "Dakshina Kannada": {
         "notes": "",
-        "active": 39,
-        "confirmed": 60,
-        "deceased": 5,
+        "active": 41,
+        "confirmed": 63,
+        "deceased": 6,
         "recovered": 15,
         "delta": {
-          "confirmed": 0,
-          "deceased": 0,
+          "confirmed": 3,
+          "deceased": 1,
           "recovered": 0
         }
       },
       "Davanagere": {
         "notes": "",
-        "active": 73,
+        "active": 69,
         "confirmed": 123,
         "deceased": 4,
-        "recovered": 46,
+        "recovered": 50,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 4
         }
       },
       "Dharwad": {
         "notes": "",
-        "active": 29,
-        "confirmed": 39,
+        "active": 32,
+        "confirmed": 42,
         "deceased": 0,
         "recovered": 10,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 3,
           "deceased": 0,
           "recovered": 0
         }
@@ -3671,26 +3671,26 @@
       },
       "Haveri": {
         "notes": "",
-        "active": 5,
+        "active": 4,
         "confirmed": 6,
         "deceased": 0,
-        "recovered": 1,
+        "recovered": 2,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 1
         }
       },
       "Kalaburagi": {
         "notes": "",
-        "active": 73,
-        "confirmed": 142,
+        "active": 77,
+        "confirmed": 156,
         "deceased": 7,
-        "recovered": 62,
+        "recovered": 72,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 14,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 10
         }
       },
       "Kodagu": {
@@ -3707,12 +3707,12 @@
       },
       "Kolar": {
         "notes": "",
-        "active": 14,
-        "confirmed": 14,
+        "active": 16,
+        "confirmed": 16,
         "deceased": 0,
         "recovered": 0,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 2,
           "deceased": 0,
           "recovered": 0
         }
@@ -3731,14 +3731,14 @@
       },
       "Mandya": {
         "notes": "",
-        "active": 226,
-        "confirmed": 252,
+        "active": 227,
+        "confirmed": 254,
         "deceased": 0,
-        "recovered": 26,
+        "recovered": 27,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 2,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 1
         }
       },
       "Mysuru": {
@@ -3779,12 +3779,12 @@
       },
       "Ramanagara": {
         "notes": "",
-        "active": 0,
-        "confirmed": 0,
+        "active": 1,
+        "confirmed": 1,
         "deceased": 0,
         "recovered": 0,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
@@ -3803,60 +3803,60 @@
       },
       "Tumakuru": {
         "notes": "",
-        "active": 19,
-        "confirmed": 26,
+        "active": 20,
+        "confirmed": 27,
         "deceased": 2,
         "recovered": 5,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
       },
       "Udupi": {
         "notes": "",
-        "active": 72,
-        "confirmed": 76,
+        "active": 88,
+        "confirmed": 92,
         "deceased": 1,
         "recovered": 3,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 16,
           "deceased": 0,
           "recovered": 0
         }
       },
       "Uttara Kannada": {
         "notes": "",
-        "active": 38,
+        "active": 37,
         "confirmed": 70,
         "deceased": 0,
-        "recovered": 32,
+        "recovered": 33,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 1
         }
       },
       "Vijayapura": {
         "notes": "",
-        "active": 24,
-        "confirmed": 69,
+        "active": 22,
+        "confirmed": 70,
         "deceased": 4,
-        "recovered": 41,
+        "recovered": 44,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 3
         }
       },
       "Yadgir": {
         "notes": "",
-        "active": 110,
-        "confirmed": 110,
+        "active": 125,
+        "confirmed": 125,
         "deceased": 0,
         "recovered": 0,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 15,
           "deceased": 0,
           "recovered": 0
         }
