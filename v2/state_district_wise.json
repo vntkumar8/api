@@ -732,12 +732,12 @@
       {
         "district": "Dhemaji",
         "notes": "",
-        "active": 1,
-        "confirmed": 1,
+        "active": 4,
+        "confirmed": 4,
         "deceased": 0,
         "recovered": 0,
         "delta": {
-          "confirmed": 1,
+          "confirmed": 4,
           "deceased": 0,
           "recovered": 0
         }
@@ -797,12 +797,12 @@
       {
         "district": "Golaghat",
         "notes": "",
-        "active": 25,
-        "confirmed": 34,
+        "active": 60,
+        "confirmed": 69,
         "deceased": 0,
         "recovered": 9,
         "delta": {
-          "confirmed": 18,
+          "confirmed": 53,
           "deceased": 0,
           "recovered": 0
         }
@@ -953,12 +953,12 @@
       {
         "district": "Nagaon",
         "notes": "",
-        "active": 10,
-        "confirmed": 10,
+        "active": 11,
+        "confirmed": 11,
         "deceased": 0,
         "recovered": 0,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
@@ -2134,10 +2134,10 @@
       {
         "district": "Unknown",
         "notes": "",
-        "active": 5830,
-        "confirmed": 12630,
-        "deceased": 260,
-        "recovered": 6540,
+        "active": 6219,
+        "confirmed": 13265,
+        "deceased": 275,
+        "recovered": 6771,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
