@@ -623,12 +623,12 @@
       },
       "Cachar": {
         "notes": "",
-        "active": 19,
-        "confirmed": 29,
+        "active": 24,
+        "confirmed": 34,
         "deceased": 0,
         "recovered": 10,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 5,
           "deceased": 0,
           "recovered": 0
         }
@@ -719,12 +719,12 @@
       },
       "Goalpara": {
         "notes": "",
-        "active": 3,
-        "confirmed": 7,
+        "active": 4,
+        "confirmed": 8,
         "deceased": 0,
         "recovered": 4,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
@@ -743,12 +743,12 @@
       },
       "Hailakandi": {
         "notes": "",
-        "active": 4,
-        "confirmed": 5,
+        "active": 8,
+        "confirmed": 9,
         "deceased": 1,
         "recovered": 0,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 4,
           "deceased": 0,
           "recovered": 0
         }
@@ -815,12 +815,12 @@
       },
       "Karimganj": {
         "notes": "",
-        "active": 8,
-        "confirmed": 10,
+        "active": 24,
+        "confirmed": 26,
         "deceased": 0,
         "recovered": 2,
         "delta": {
-          "confirmed": 5,
+          "confirmed": 21,
           "deceased": 0,
           "recovered": 0
         }
@@ -839,12 +839,12 @@
       },
       "Lakhimpur": {
         "notes": "",
-        "active": 3,
-        "confirmed": 4,
+        "active": 11,
+        "confirmed": 12,
         "deceased": 0,
         "recovered": 1,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 8,
           "deceased": 0,
           "recovered": 0
         }
@@ -863,12 +863,12 @@
       },
       "Morigaon": {
         "notes": "",
-        "active": 5,
-        "confirmed": 11,
+        "active": 6,
+        "confirmed": 12,
         "deceased": 0,
         "recovered": 6,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
@@ -887,12 +887,12 @@
       },
       "Nalbari": {
         "notes": "",
-        "active": 11,
-        "confirmed": 15,
+        "active": 13,
+        "confirmed": 17,
         "deceased": 0,
         "recovered": 4,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 2,
           "deceased": 0,
           "recovered": 0
         }
@@ -935,12 +935,12 @@
       },
       "South Salmara Mankachar": {
         "notes": "",
-        "active": 0,
-        "confirmed": 1,
+        "active": 3,
+        "confirmed": 4,
         "deceased": 0,
         "recovered": 1,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 3,
           "deceased": 0,
           "recovered": 0
         }
@@ -973,6 +973,18 @@
         "notes": "",
         "active": 5,
         "confirmed": 5,
+        "deceased": 0,
+        "recovered": 0,
+        "delta": {
+          "confirmed": 0,
+          "deceased": 0,
+          "recovered": 0
+        }
+      },
+      "Unknown": {
+        "notes": "",
+        "active": 8,
+        "confirmed": 8,
         "deceased": 0,
         "recovered": 0,
         "delta": {
@@ -2667,7 +2679,7 @@
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 2
         }
       },
       "Charkhi Dadri": {
@@ -2689,7 +2701,7 @@
         "deceased": 6,
         "recovered": 120,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
@@ -2715,7 +2727,7 @@
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 18
         }
       },
       "Hisar": {
@@ -2725,7 +2737,7 @@
         "deceased": 0,
         "recovered": 3,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
@@ -2785,9 +2797,9 @@
         "deceased": 1,
         "recovered": 14,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 3
         }
       },
       "Kurukshetra": {
@@ -2811,7 +2823,7 @@
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 2
         }
       },
       "Nuh": {
@@ -2859,7 +2871,7 @@
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 1
         }
       },
       "Rewari": {
@@ -3539,12 +3551,12 @@
       },
       "Bengaluru Urban": {
         "notes": "",
-        "active": 115,
-        "confirmed": 274,
+        "active": 117,
+        "confirmed": 276,
         "deceased": 10,
         "recovered": 149,
         "delta": {
-          "confirmed": 6,
+          "confirmed": 8,
           "deceased": 0,
           "recovered": 19
         }
@@ -3611,12 +3623,12 @@
       },
       "Dakshina Kannada": {
         "notes": "",
-        "active": 41,
-        "confirmed": 63,
+        "active": 42,
+        "confirmed": 64,
         "deceased": 6,
         "recovered": 15,
         "delta": {
-          "confirmed": 3,
+          "confirmed": 4,
           "deceased": 1,
           "recovered": 0
         }
@@ -3635,12 +3647,12 @@
       },
       "Dharwad": {
         "notes": "",
-        "active": 32,
-        "confirmed": 42,
+        "active": 33,
+        "confirmed": 43,
         "deceased": 0,
         "recovered": 10,
         "delta": {
-          "confirmed": 3,
+          "confirmed": 4,
           "deceased": 0,
           "recovered": 0
         }
@@ -3659,12 +3671,12 @@
       },
       "Hassan": {
         "notes": "",
-        "active": 99,
-        "confirmed": 99,
+        "active": 100,
+        "confirmed": 100,
         "deceased": 0,
         "recovered": 0,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
@@ -3683,12 +3695,12 @@
       },
       "Kalaburagi": {
         "notes": "",
-        "active": 77,
-        "confirmed": 156,
+        "active": 79,
+        "confirmed": 158,
         "deceased": 7,
         "recovered": 72,
         "delta": {
-          "confirmed": 14,
+          "confirmed": 16,
           "deceased": 0,
           "recovered": 10
         }
@@ -3815,24 +3827,24 @@
       },
       "Udupi": {
         "notes": "",
-        "active": 88,
-        "confirmed": 92,
+        "active": 104,
+        "confirmed": 108,
         "deceased": 1,
         "recovered": 3,
         "delta": {
-          "confirmed": 16,
+          "confirmed": 32,
           "deceased": 0,
           "recovered": 0
         }
       },
       "Uttara Kannada": {
         "notes": "",
-        "active": 37,
-        "confirmed": 70,
+        "active": 38,
+        "confirmed": 71,
         "deceased": 0,
         "recovered": 33,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 1
         }
@@ -4058,7 +4070,7 @@
         "deceased": 0,
         "recovered": 9,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
