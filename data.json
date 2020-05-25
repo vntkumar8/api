@@ -1047,14 +1047,14 @@
 	],
 	"statewise": [
 		{
-			"active": "77316",
-			"confirmed": "139051",
+			"active": "77379",
+			"confirmed": "139157",
 			"deaths": "4024",
-			"deltaconfirmed": "515",
+			"deltaconfirmed": "621",
 			"deltadeaths": "0",
-			"deltarecovered": "8",
-			"lastupdatedtime": "25/05/2020 12:03:03",
-			"recovered": "57702",
+			"deltarecovered": "51",
+			"lastupdatedtime": "25/05/2020 12:33:03",
+			"recovered": "57745",
 			"state": "Total",
 			"statecode": "TT",
 			"statenotes": ""
@@ -1164,17 +1164,17 @@
 			"statenotes": "- Cases updated as per WB bulletin.<br>\n- Deaths due to comorbidities added to total deceased<br>\n- Zones updated as per WB bulletin<br>"
 		},
 		{
-			"active": "883",
-			"confirmed": "2780",
+			"active": "946",
+			"confirmed": "2886",
 			"deaths": "56",
-			"deltaconfirmed": "0",
+			"deltaconfirmed": "106",
 			"deltadeaths": "0",
-			"deltarecovered": "0",
-			"lastupdatedtime": "24/05/2020 15:22:03",
-			"recovered": "1841",
+			"deltarecovered": "43",
+			"lastupdatedtime": "25/05/2020 12:33:04",
+			"recovered": "1884",
 			"state": "Andhra Pradesh",
 			"statecode": "AP",
-			"statenotes": "Total includes patients from other states."
+			"statenotes": "Total includes patients from other states and a new category \"Foreign Evacuees\" which is now reported in AP bulletin"
 		},
 		{
 			"active": "2642",
