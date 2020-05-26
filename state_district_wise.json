@@ -659,12 +659,12 @@
       },
       "Darrang": {
         "notes": "",
-        "active": 1,
-        "confirmed": 1,
+        "active": 2,
+        "confirmed": 2,
         "deceased": 0,
         "recovered": 0,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
@@ -791,12 +791,12 @@
       },
       "Kamrup Metropolitan": {
         "notes": "",
-        "active": 169,
-        "confirmed": 182,
+        "active": 190,
+        "confirmed": 203,
         "deceased": 3,
         "recovered": 10,
         "delta": {
-          "confirmed": 6,
+          "confirmed": 27,
           "deceased": 0,
           "recovered": 0
         }
@@ -875,12 +875,12 @@
       },
       "Nagaon": {
         "notes": "",
-        "active": 18,
-        "confirmed": 18,
+        "active": 19,
+        "confirmed": 19,
         "deceased": 0,
         "recovered": 0,
         "delta": {
-          "confirmed": 7,
+          "confirmed": 8,
           "deceased": 0,
           "recovered": 0
         }
