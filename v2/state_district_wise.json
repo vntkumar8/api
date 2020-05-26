@@ -1089,14 +1089,14 @@
       {
         "district": "Araria",
         "notes": "",
-        "active": 10,
+        "active": 12,
         "confirmed": 14,
         "deceased": 0,
-        "recovered": 4,
+        "recovered": 2,
         "delta": {
           "confirmed": 3,
           "deceased": 0,
-          "recovered": 1
+          "recovered": -1
         }
       },
       {
@@ -1219,14 +1219,14 @@
       {
         "district": "Gaya",
         "notes": "",
-        "active": 42,
+        "active": 46,
         "confirmed": 52,
         "deceased": 0,
-        "recovered": 10,
+        "recovered": 6,
         "delta": {
           "confirmed": 4,
           "deceased": 0,
-          "recovered": 2
+          "recovered": -2
         }
       },
       {
@@ -1505,14 +1505,14 @@
       {
         "district": "Sheohar",
         "notes": "",
-        "active": 3,
+        "active": 4,
         "confirmed": 6,
         "deceased": 0,
-        "recovered": 3,
+        "recovered": 2,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": -1
         }
       },
       {
@@ -1544,14 +1544,14 @@
       {
         "district": "Supaul",
         "notes": "",
-        "active": 56,
+        "active": 54,
         "confirmed": 57,
         "deceased": 0,
-        "recovered": 1,
+        "recovered": 3,
         "delta": {
           "confirmed": 8,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 2
         }
       },
       {
