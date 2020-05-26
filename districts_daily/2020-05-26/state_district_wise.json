@@ -2033,10 +2033,10 @@
       },
       "Unknown": {
         "notes": "",
-        "active": 40,
-        "confirmed": 52,
+        "active": 22,
+        "confirmed": 43,
         "deceased": 0,
-        "recovered": 12,
+        "recovered": 21,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
@@ -3318,13 +3318,13 @@
       },
       "Kulgam": {
         "notes": "",
-        "active": 208,
+        "active": 207,
         "confirmed": 228,
-        "deceased": 3,
+        "deceased": 4,
         "recovered": 17,
         "delta": {
           "confirmed": 1,
-          "deceased": 0,
+          "deceased": 1,
           "recovered": 2
         }
       },
@@ -4516,6 +4516,18 @@
           "deceased": 0,
           "recovered": 0
         }
+      },
+      "Unknown": {
+        "notes": "",
+        "active": 923,
+        "confirmed": 2091,
+        "deceased": 0,
+        "recovered": 1168,
+        "delta": {
+          "confirmed": 0,
+          "deceased": 0,
+          "recovered": 0
+        }
       }
     },
     "statecode": "MH"
@@ -4954,26 +4966,26 @@
       },
       "Bhind": {
         "notes": "",
-        "active": 44,
+        "active": 41,
         "confirmed": 51,
         "deceased": 0,
-        "recovered": 7,
+        "recovered": 10,
         "delta": {
           "confirmed": 2,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 3
         }
       },
       "Bhopal": {
         "notes": "",
-        "active": 452,
+        "active": 428,
         "confirmed": 1303,
-        "deceased": 48,
-        "recovered": 803,
+        "deceased": 49,
+        "recovered": 826,
         "delta": {
           "confirmed": 32,
-          "deceased": 0,
-          "recovered": 0
+          "deceased": 1,
+          "recovered": 23
         }
       },
       "Burhanpur": {
@@ -5014,62 +5026,62 @@
       },
       "Damoh": {
         "notes": "",
-        "active": 10,
+        "active": 9,
         "confirmed": 10,
         "deceased": 0,
-        "recovered": 0,
+        "recovered": 1,
         "delta": {
           "confirmed": 2,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 1
         }
       },
       "Datia": {
         "notes": "",
-        "active": 4,
+        "active": 3,
         "confirmed": 7,
-        "deceased": 0,
+        "deceased": 1,
         "recovered": 3,
         "delta": {
           "confirmed": 0,
-          "deceased": 0,
+          "deceased": 1,
           "recovered": 0
         }
       },
       "Dewas": {
         "notes": "",
-        "active": 33,
+        "active": 22,
         "confirmed": 83,
         "deceased": 8,
-        "recovered": 42,
+        "recovered": 53,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 11
         }
       },
       "Dhar": {
         "notes": "",
-        "active": 8,
+        "active": 7,
         "confirmed": 114,
         "deceased": 3,
-        "recovered": 103,
+        "recovered": 104,
         "delta": {
           "confirmed": 3,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 1
         }
       },
       "Dindori": {
         "notes": "",
-        "active": 15,
+        "active": 14,
         "confirmed": 16,
         "deceased": 0,
-        "recovered": 1,
+        "recovered": 2,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 1
         }
       },
       "Guna": {
@@ -5086,14 +5098,14 @@
       },
       "Gwalior": {
         "notes": "",
-        "active": 79,
+        "active": 75,
         "confirmed": 117,
         "deceased": 2,
-        "recovered": 36,
+        "recovered": 40,
         "delta": {
           "confirmed": 10,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 4
         }
       },
       "Harda": {
@@ -5122,38 +5134,38 @@
       },
       "Indore": {
         "notes": "",
-        "active": 1511,
+        "active": 1502,
         "confirmed": 3103,
-        "deceased": 116,
-        "recovered": 1476,
+        "deceased": 117,
+        "recovered": 1484,
         "delta": {
           "confirmed": 39,
-          "deceased": 0,
-          "recovered": 0
+          "deceased": 1,
+          "recovered": 8
         }
       },
       "Jabalpur": {
         "notes": "",
-        "active": 63,
+        "active": 53,
         "confirmed": 213,
         "deceased": 9,
-        "recovered": 141,
+        "recovered": 151,
         "delta": {
           "confirmed": 1,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 10
         }
       },
       "Jhabua": {
         "notes": "",
-        "active": 9,
+        "active": 6,
         "confirmed": 13,
         "deceased": 1,
-        "recovered": 3,
+        "recovered": 6,
         "delta": {
           "confirmed": 1,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 3
         }
       },
       "Katni": {
@@ -5170,62 +5182,62 @@
       },
       "Khandwa": {
         "notes": "",
-        "active": 49,
+        "active": 36,
         "confirmed": 232,
-        "deceased": 11,
-        "recovered": 172,
+        "deceased": 12,
+        "recovered": 184,
         "delta": {
           "confirmed": 2,
-          "deceased": 0,
-          "recovered": 0
+          "deceased": 1,
+          "recovered": 12
         }
       },
       "Khargone": {
         "notes": "",
-        "active": 20,
+        "active": 16,
         "confirmed": 119,
         "deceased": 8,
-        "recovered": 91,
+        "recovered": 95,
         "delta": {
           "confirmed": 1,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 4
         }
       },
       "Mandla": {
         "notes": "",
-        "active": 1,
+        "active": 0,
         "confirmed": 2,
-        "deceased": 0,
+        "deceased": 1,
         "recovered": 1,
         "delta": {
           "confirmed": 1,
-          "deceased": 0,
+          "deceased": 1,
           "recovered": 0
         }
       },
       "Mandsaur": {
         "notes": "",
-        "active": 30,
+        "active": 28,
         "confirmed": 90,
         "deceased": 8,
-        "recovered": 52,
+        "recovered": 54,
         "delta": {
           "confirmed": 2,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 2
         }
       },
       "Morena": {
         "notes": "",
-        "active": 60,
+        "active": 54,
         "confirmed": 85,
         "deceased": 0,
-        "recovered": 25,
+        "recovered": 31,
         "delta": {
           "confirmed": 2,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 6
         }
       },
       "Narsinghpur": {
@@ -5242,14 +5254,14 @@
       },
       "Neemuch": {
         "notes": "",
-        "active": 41,
+        "active": 40,
         "confirmed": 90,
         "deceased": 3,
-        "recovered": 46,
+        "recovered": 47,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 1
         }
       },
       "Niwari": {
@@ -5290,14 +5302,14 @@
       },
       "Raisen": {
         "notes": "",
-        "active": 3,
+        "active": 1,
         "confirmed": 68,
         "deceased": 3,
-        "recovered": 62,
+        "recovered": 64,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 2
         }
       },
       "Rajgarh": {
@@ -5338,26 +5350,26 @@
       },
       "Sagar": {
         "notes": "",
-        "active": 71,
+        "active": 64,
         "confirmed": 86,
         "deceased": 3,
-        "recovered": 12,
+        "recovered": 19,
         "delta": {
           "confirmed": 9,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 7
         }
       },
       "Satna": {
         "notes": "",
-        "active": 9,
+        "active": 8,
         "confirmed": 14,
         "deceased": 1,
-        "recovered": 4,
+        "recovered": 5,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 1
         }
       },
       "Sehore": {
@@ -5434,14 +5446,14 @@
       },
       "Sidhi": {
         "notes": "",
-        "active": 9,
+        "active": 5,
         "confirmed": 9,
         "deceased": 0,
-        "recovered": 0,
+        "recovered": 4,
         "delta": {
           "confirmed": 1,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 4
         }
       },
       "Singrauli": {
@@ -5458,26 +5470,26 @@
       },
       "Tikamgarh": {
         "notes": "",
-        "active": 3,
+        "active": 2,
         "confirmed": 6,
         "deceased": 0,
-        "recovered": 3,
+        "recovered": 4,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 1
         }
       },
       "Ujjain": {
         "notes": "",
-        "active": 310,
+        "active": 299,
         "confirmed": 601,
         "deceased": 54,
-        "recovered": 237,
+        "recovered": 248,
         "delta": {
           "confirmed": 26,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 11
         }
       },
       "Umaria": {
@@ -5494,14 +5506,14 @@
       },
       "Vidisha": {
         "notes": "",
-        "active": 7,
+        "active": 5,
         "confirmed": 20,
         "deceased": 0,
-        "recovered": 13,
+        "recovered": 15,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 2
         }
       }
     },
@@ -6986,24 +6998,24 @@
     "districtData": {
       "Foreign Evacuees": {
         "notes": "Category added in Telangana State Bulletin",
-        "active": 24,
-        "confirmed": 24,
+        "active": 28,
+        "confirmed": 28,
         "deceased": 0,
         "recovered": 0,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 4,
           "deceased": 0,
           "recovered": 0
         }
       },
       "Other State": {
         "notes": "",
-        "active": 143,
-        "confirmed": 143,
+        "active": 155,
+        "confirmed": 155,
         "deceased": 0,
         "recovered": 0,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 12,
           "deceased": 0,
           "recovered": 0
         }
@@ -7034,12 +7046,12 @@
       },
       "Hyderabad": {
         "notes": "",
-        "active": 850,
-        "confirmed": 1178,
+        "active": 888,
+        "confirmed": 1216,
         "deceased": 23,
         "recovered": 305,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 38,
           "deceased": 0,
           "recovered": 0
         }
@@ -7190,12 +7202,12 @@
       },
       "Medchal Malkajgiri": {
         "notes": "",
-        "active": 15,
-        "confirmed": 25,
+        "active": 21,
+        "confirmed": 31,
         "deceased": 1,
         "recovered": 9,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 6,
           "deceased": 0,
           "recovered": 0
         }
@@ -7226,24 +7238,24 @@
       },
       "Nalgonda": {
         "notes": "",
-        "active": 5,
-        "confirmed": 17,
+        "active": 6,
+        "confirmed": 18,
         "deceased": 0,
         "recovered": 12,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
       },
       "Narayanpet": {
         "notes": "",
-        "active": 0,
-        "confirmed": 1,
+        "active": 1,
+        "confirmed": 2,
         "deceased": 1,
         "recovered": 0,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
@@ -7298,12 +7310,12 @@
       },
       "Ranga Reddy": {
         "notes": "",
-        "active": 30,
-        "confirmed": 49,
+        "active": 37,
+        "confirmed": 56,
         "deceased": 2,
         "recovered": 17,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 7,
           "deceased": 0,
           "recovered": 0
         }
@@ -7334,24 +7346,24 @@
       },
       "Suryapet": {
         "notes": "",
-        "active": 59,
-        "confirmed": 83,
+        "active": 60,
+        "confirmed": 84,
         "deceased": 0,
         "recovered": 24,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
       },
       "Vikarabad": {
         "notes": "",
-        "active": 21,
-        "confirmed": 37,
+        "active": 22,
+        "confirmed": 38,
         "deceased": 1,
         "recovered": 15,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
@@ -7406,10 +7418,10 @@
       },
       "Unknown": {
         "notes": "",
-        "active": -547,
+        "active": -668,
         "confirmed": 92,
-        "deceased": 26,
-        "recovered": 613,
+        "deceased": 27,
+        "recovered": 733,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
