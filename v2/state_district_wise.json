@@ -3158,12 +3158,12 @@
       {
         "district": "Chatra",
         "notes": "",
-        "active": 2,
-        "confirmed": 2,
+        "active": 1,
+        "confirmed": 1,
         "deceased": 0,
         "recovered": 0,
         "delta": {
-          "confirmed": 0,
+          "confirmed": -1,
           "deceased": 0,
           "recovered": 0
         }
@@ -3184,12 +3184,12 @@
       {
         "district": "Dhanbad",
         "notes": "",
-        "active": 6,
-        "confirmed": 8,
+        "active": 9,
+        "confirmed": 11,
         "deceased": 0,
         "recovered": 2,
         "delta": {
-          "confirmed": 1,
+          "confirmed": 4,
           "deceased": 0,
           "recovered": 0
         }
@@ -3210,12 +3210,12 @@
       {
         "district": "East Singhbhum",
         "notes": "",
-        "active": 25,
-        "confirmed": 25,
+        "active": 28,
+        "confirmed": 28,
         "deceased": 0,
         "recovered": 0,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 3,
           "deceased": 0,
           "recovered": 0
         }
@@ -3262,12 +3262,12 @@
       {
         "district": "Gumla",
         "notes": "",
-        "active": 10,
-        "confirmed": 10,
+        "active": 11,
+        "confirmed": 11,
         "deceased": 0,
         "recovered": 0,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
@@ -3275,14 +3275,14 @@
       {
         "district": "Hazaribagh",
         "notes": "",
-        "active": 42,
-        "confirmed": 45,
+        "active": 40,
+        "confirmed": 48,
         "deceased": 0,
-        "recovered": 3,
+        "recovered": 8,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 3,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 5
         }
       },
       {
@@ -3301,12 +3301,12 @@
       {
         "district": "Khunti",
         "notes": "",
-        "active": 0,
-        "confirmed": 0,
+        "active": 1,
+        "confirmed": 1,
         "deceased": 0,
         "recovered": 0,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
@@ -3327,12 +3327,12 @@
       {
         "district": "Latehar",
         "notes": "",
-        "active": 4,
-        "confirmed": 4,
+        "active": 9,
+        "confirmed": 9,
         "deceased": 0,
         "recovered": 0,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 5,
           "deceased": 0,
           "recovered": 0
         }
@@ -3353,12 +3353,12 @@
       {
         "district": "Pakur",
         "notes": "",
-        "active": 0,
-        "confirmed": 0,
+        "active": 4,
+        "confirmed": 4,
         "deceased": 0,
         "recovered": 0,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 4,
           "deceased": 0,
           "recovered": 0
         }
@@ -3366,12 +3366,12 @@
       {
         "district": "Palamu",
         "notes": "",
-        "active": 1,
-        "confirmed": 16,
+        "active": 2,
+        "confirmed": 17,
         "deceased": 0,
         "recovered": 15,
         "delta": {
-          "confirmed": 1,
+          "confirmed": 2,
           "deceased": 0,
           "recovered": 0
         }
@@ -3379,12 +3379,12 @@
       {
         "district": "Ramgarh",
         "notes": "",
-        "active": 10,
-        "confirmed": 10,
+        "active": 11,
+        "confirmed": 11,
         "deceased": 0,
         "recovered": 0,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
@@ -3431,12 +3431,12 @@
       {
         "district": "Simdega",
         "notes": "",
-        "active": 5,
-        "confirmed": 7,
+        "active": 8,
+        "confirmed": 10,
         "deceased": 0,
         "recovered": 2,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 3,
           "deceased": 0,
           "recovered": 0
         }
@@ -3444,25 +3444,12 @@
       {
         "district": "West Singhbhum",
         "notes": "",
-        "active": 6,
-        "confirmed": 6,
+        "active": 14,
+        "confirmed": 14,
         "deceased": 0,
         "recovered": 0,
         "delta": {
-          "confirmed": 0,
-          "deceased": 0,
-          "recovered": 0
-        }
-      },
-      {
-        "district": "Unknown",
-        "notes": "",
-        "active": 22,
-        "confirmed": 22,
-        "deceased": 0,
-        "recovered": 0,
-        "delta": {
-          "confirmed": 0,
+          "confirmed": 8,
           "deceased": 0,
           "recovered": 0
         }
