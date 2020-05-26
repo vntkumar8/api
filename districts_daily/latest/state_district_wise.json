@@ -3479,14 +3479,14 @@
     "districtData": {
       "Bagalkote": {
         "notes": "",
-        "active": 24,
+        "active": 7,
         "confirmed": 78,
         "deceased": 1,
-        "recovered": 53,
+        "recovered": 70,
         "delta": {
           "confirmed": 1,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 17
         }
       },
       "Ballari": {
@@ -3527,14 +3527,14 @@
       },
       "Bengaluru Urban": {
         "notes": "",
-        "active": 119,
+        "active": 118,
         "confirmed": 278,
         "deceased": 10,
-        "recovered": 149,
+        "recovered": 150,
         "delta": {
           "confirmed": 2,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 1
         }
       },
       "Bidar": {
@@ -3635,14 +3635,14 @@
       },
       "Gadag": {
         "notes": "",
-        "active": 30,
+        "active": 28,
         "confirmed": 35,
         "deceased": 1,
-        "recovered": 4,
+        "recovered": 6,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 2
         }
       },
       "Hassan": {
@@ -3815,24 +3815,24 @@
       },
       "Uttara Kannada": {
         "notes": "",
-        "active": 37,
+        "active": 31,
         "confirmed": 71,
         "deceased": 0,
-        "recovered": 34,
+        "recovered": 40,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 1
+          "recovered": 7
         }
       },
       "Vijayapura": {
         "notes": "",
-        "active": 27,
-        "confirmed": 75,
+        "active": 28,
+        "confirmed": 76,
         "deceased": 4,
         "recovered": 44,
         "delta": {
-          "confirmed": 5,
+          "confirmed": 6,
           "deceased": 0,
           "recovered": 0
         }
@@ -4519,9 +4519,9 @@
       },
       "Unknown": {
         "notes": "",
-        "active": 923,
+        "active": 826,
         "confirmed": 2091,
-        "deceased": 0,
+        "deceased": 97,
         "recovered": 1168,
         "delta": {
           "confirmed": 0,
