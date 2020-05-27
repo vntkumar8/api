@@ -1065,14 +1065,14 @@
 	],
 	"statewise": [
 		{
-			"active": "83232",
-			"confirmed": "151864",
-			"deaths": "4344",
-			"deltaconfirmed": "1048",
-			"deltadeaths": "0",
-			"deltarecovered": "0",
-			"lastupdatedtime": "27/05/2020 09:50:03",
-			"recovered": "64277",
+			"active": "83322",
+			"confirmed": "151973",
+			"deaths": "4346",
+			"deltaconfirmed": "1157",
+			"deltadeaths": "2",
+			"deltarecovered": "17",
+			"lastupdatedtime": "27/05/2020 10:01:03",
+			"recovered": "64294",
 			"state": "Total",
 			"statecode": "TT",
 			"statenotes": ""
@@ -1130,14 +1130,14 @@
 			"statenotes": "[10-May]<br>\n\nDelhi will be releasing bulletins in the morning, containing data of the previous day. We will add that data to the date on which the report is released, rather than the previous day."
 		},
 		{
-			"active": "3090",
-			"confirmed": "7536",
-			"deaths": "170",
-			"deltaconfirmed": "0",
-			"deltadeaths": "0",
-			"deltarecovered": "0",
-			"lastupdatedtime": "27/05/2020 09:49:03",
-			"recovered": "4276",
+			"active": "3180",
+			"confirmed": "7645",
+			"deaths": "172",
+			"deltaconfirmed": "109",
+			"deltadeaths": "2",
+			"deltarecovered": "17",
+			"lastupdatedtime": "27/05/2020 10:01:04",
+			"recovered": "4293",
 			"state": "Rajasthan",
 			"statecode": "RJ",
 			"statenotes": ""
@@ -1396,7 +1396,7 @@
 			"deltaconfirmed": "0",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
-			"lastupdatedtime": "27/05/2020 09:50:05",
+			"lastupdatedtime": "27/05/2020 09:53:04",
 			"recovered": "165",
 			"state": "Tripura",
 			"statecode": "TR",
@@ -2651,6 +2651,20 @@
 			"totalpositivecases": "",
 			"totalsamplestested": "3126119",
 			"updatetimestamp": "26/05/2020 09:00:00"
+		},
+		{
+			"individualstestedperconfirmedcase": "",
+			"positivecasesfromsamplesreported": "",
+			"samplereportedtoday": "116041",
+			"source": "https://t.me/Covid19india_Auxiliary_Test_Data/177",
+			"testpositivityrate": "",
+			"testsconductedbyprivatelabs": "",
+			"testsperconfirmedcase": "",
+			"testspermillion": "",
+			"totalindividualstested": "",
+			"totalpositivecases": "",
+			"totalsamplestested": "3242160",
+			"updatetimestamp": "27/05/2020 09:00:00"
 		}
 	]
 }
