@@ -1065,14 +1065,14 @@
 	],
 	"statewise": [
 		{
-			"active": "85796",
-			"confirmed": "158052",
+			"active": "85783",
+			"confirmed": "158077",
 			"deaths": "4534",
-			"deltaconfirmed": "7236",
+			"deltaconfirmed": "7261",
 			"deltadeaths": "187",
-			"deltarecovered": "3434",
-			"lastupdatedtime": "27/05/2020 23:22:03",
-			"recovered": "67711",
+			"deltarecovered": "3472",
+			"lastupdatedtime": "27/05/2020 23:32:04",
+			"recovered": "67749",
 			"state": "Total",
 			"statecode": "TT",
 			"statenotes": ""
@@ -1104,19 +1104,6 @@
 			"statenotes": "2 deaths cross notified to other states from Chennai and Coimbatore. 1 patient died after turning negative for infection in Chengalpattu"
 		},
 		{
-			"active": "6718",
-			"confirmed": "15205",
-			"deaths": "938",
-			"deltaconfirmed": "376",
-			"deltadeaths": "23",
-			"deltarecovered": "410",
-			"lastupdatedtime": "27/05/2020 20:44:04",
-			"recovered": "7549",
-			"state": "Gujarat",
-			"statecode": "GJ",
-			"statenotes": ""
-		},
-		{
 			"active": "7690",
 			"confirmed": "15257",
 			"deaths": "303",
@@ -1128,6 +1115,19 @@
 			"state": "Delhi",
 			"statecode": "DL",
 			"statenotes": "[10-May]<br>\n\nDelhi bulletins in the morning, containing data of the previous day. We will add that data to the date on which the report is released, rather than the previous day."
+		},
+		{
+			"active": "6718",
+			"confirmed": "15205",
+			"deaths": "938",
+			"deltaconfirmed": "376",
+			"deltadeaths": "23",
+			"deltarecovered": "410",
+			"lastupdatedtime": "27/05/2020 20:44:04",
+			"recovered": "7549",
+			"state": "Gujarat",
+			"statecode": "GJ",
+			"statenotes": ""
 		},
 		{
 			"active": "3082",
@@ -1182,19 +1182,6 @@
 			"statenotes": "- Cases updated as per WB bulletin.<br>\n- Deaths due to comorbidities added to total deceased<br>\n- Zones updated as per WB bulletin<br>"
 		},
 		{
-			"active": "994",
-			"confirmed": "3117",
-			"deaths": "58",
-			"deltaconfirmed": "134",
-			"deltadeaths": "1",
-			"deltarecovered": "48",
-			"lastupdatedtime": "27/05/2020 18:24:06",
-			"recovered": "2065",
-			"state": "Andhra Pradesh",
-			"statecode": "AP",
-			"statenotes": "Total includes patients from other states and a new category \"Foreign Evacuees\" which is now reported in AP bulletin. <br>\nAP district data updated to match state dashboard as of 27th May. "
-		},
-		{
 			"active": "4013",
 			"confirmed": "4013",
 			"deaths": "0",
@@ -1206,6 +1193,19 @@
 			"state": "State Unassigned",
 			"statecode": "UN",
 			"statenotes": "MoHFW website reports that these are the \"cases that are being reassigned to states\""
+		},
+		{
+			"active": "994",
+			"confirmed": "3117",
+			"deaths": "58",
+			"deltaconfirmed": "134",
+			"deltadeaths": "1",
+			"deltarecovered": "48",
+			"lastupdatedtime": "27/05/2020 18:24:06",
+			"recovered": "2065",
+			"state": "Andhra Pradesh",
+			"statecode": "AP",
+			"statenotes": "Total includes patients from other states and a new category \"Foreign Evacuees\" which is now reported in AP bulletin. <br>\nAP district data updated to match state dashboard as of 27th May. "
 		},
 		{
 			"active": "2103",
@@ -1325,19 +1325,6 @@
 			"statenotes": "Includes one case from Nagaland <br>\nTotal of Three* patients who migrated to other states has been reduced from Active count"
 		},
 		{
-			"active": "276",
-			"confirmed": "433",
-			"deaths": "4",
-			"deltaconfirmed": "7",
-			"deltadeaths": "0",
-			"deltarecovered": "0",
-			"lastupdatedtime": "27/05/2020 20:56:11",
-			"recovered": "153",
-			"state": "Jharkhand",
-			"statecode": "JH",
-			"statenotes": ""
-		},
-		{
 			"active": "383",
 			"confirmed": "469",
 			"deaths": "4",
@@ -1349,6 +1336,19 @@
 			"state": "Uttarakhand",
 			"statecode": "UT",
 			"statenotes": "Three migrated cases reduced from Active count"
+		},
+		{
+			"active": "263",
+			"confirmed": "458",
+			"deaths": "4",
+			"deltaconfirmed": "32",
+			"deltadeaths": "0",
+			"deltarecovered": "38",
+			"lastupdatedtime": "27/05/2020 23:32:06",
+			"recovered": "191",
+			"state": "Jharkhand",
+			"statecode": "JH",
+			"statenotes": ""
 		},
 		{
 			"active": "281",
