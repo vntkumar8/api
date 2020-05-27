@@ -6520,36 +6520,36 @@
       },
       "Barmer": {
         "notes": "",
-        "active": 90,
+        "active": 85,
         "confirmed": 91,
         "deceased": 0,
-        "recovered": 1,
+        "recovered": 6,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 5
         }
       },
       "Bharatpur": {
         "notes": "",
-        "active": 22,
-        "confirmed": 149,
+        "active": 24,
+        "confirmed": 151,
         "deceased": 4,
         "recovered": 123,
         "delta": {
-          "confirmed": 6,
+          "confirmed": 8,
           "deceased": 0,
           "recovered": 0
         }
       },
       "Bhilwara": {
         "notes": "",
-        "active": 69,
-        "confirmed": 127,
+        "active": 70,
+        "confirmed": 128,
         "deceased": 2,
         "recovered": 56,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
@@ -6616,14 +6616,14 @@
       },
       "Dausa": {
         "notes": "",
-        "active": 16,
+        "active": 11,
         "confirmed": 46,
         "deceased": 0,
-        "recovered": 30,
+        "recovered": 35,
         "delta": {
           "confirmed": 1,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 5
         }
       },
       "Dholpur": {
@@ -6640,12 +6640,12 @@
       },
       "Dungarpur": {
         "notes": "",
-        "active": 322,
-        "confirmed": 331,
+        "active": 323,
+        "confirmed": 332,
         "deceased": 0,
         "recovered": 9,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
@@ -6700,12 +6700,12 @@
       },
       "Jaipur": {
         "notes": "",
-        "active": 520,
-        "confirmed": 1866,
+        "active": 529,
+        "confirmed": 1875,
         "deceased": 83,
         "recovered": 1263,
         "delta": {
-          "confirmed": 6,
+          "confirmed": 15,
           "deceased": 2,
           "recovered": 0
         }
@@ -6748,24 +6748,24 @@
       },
       "Jhunjhunu": {
         "notes": "",
-        "active": 46,
+        "active": 41,
         "confirmed": 98,
         "deceased": 0,
-        "recovered": 52,
+        "recovered": 57,
         "delta": {
           "confirmed": 2,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 5
         }
       },
       "Jodhpur": {
         "notes": "",
-        "active": 267,
-        "confirmed": 1278,
+        "active": 280,
+        "confirmed": 1291,
         "deceased": 17,
         "recovered": 994,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 13,
           "deceased": 0,
           "recovered": 0
         }
@@ -6784,12 +6784,12 @@
       },
       "Kota": {
         "notes": "",
-        "active": 83,
-        "confirmed": 412,
+        "active": 85,
+        "confirmed": 414,
         "deceased": 16,
         "recovered": 313,
         "delta": {
-          "confirmed": 16,
+          "confirmed": 18,
           "deceased": 0,
           "recovered": 0
         }
@@ -6868,12 +6868,12 @@
       },
       "Sikar": {
         "notes": "",
-        "active": 116,
-        "confirmed": 151,
+        "active": 123,
+        "confirmed": 158,
         "deceased": 4,
         "recovered": 31,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 7,
           "deceased": 0,
           "recovered": 3
         }
@@ -6892,26 +6892,26 @@
       },
       "Tonk": {
         "notes": "",
-        "active": 0,
+        "active": 2,
         "confirmed": 159,
         "deceased": 1,
-        "recovered": 158,
+        "recovered": 156,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": -2
         }
       },
       "Udaipur": {
         "notes": "",
-        "active": 396,
+        "active": 361,
         "confirmed": 517,
         "deceased": 1,
-        "recovered": 120,
+        "recovered": 155,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 35
         }
       }
     },
