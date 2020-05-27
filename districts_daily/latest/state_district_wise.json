@@ -97,13 +97,13 @@
       },
       "East Godavari": {
         "notes": "",
-        "active": 16,
+        "active": 15,
         "confirmed": 59,
-        "deceased": 0,
+        "deceased": 1,
         "recovered": 43,
         "delta": {
           "confirmed": 0,
-          "deceased": 0,
+          "deceased": 1,
           "recovered": 0
         }
       },
@@ -145,14 +145,14 @@
       },
       "Other State": {
         "notes": "",
-        "active": 47,
-        "confirmed": 153,
+        "active": 75,
+        "confirmed": 219,
         "deceased": 0,
-        "recovered": 106,
+        "recovered": 144,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 66,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 38
         }
       },
       "Prakasam": {
@@ -241,10 +241,10 @@
       },
       "Unknown": {
         "notes": "",
-        "active": 38,
-        "confirmed": 312,
+        "active": 96,
+        "confirmed": 380,
         "deceased": 2,
-        "recovered": 272,
+        "recovered": 282,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
@@ -671,12 +671,12 @@
       },
       "Dhemaji": {
         "notes": "",
-        "active": 4,
-        "confirmed": 4,
+        "active": 5,
+        "confirmed": 5,
         "deceased": 0,
         "recovered": 0,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
@@ -875,12 +875,12 @@
       },
       "Nagaon": {
         "notes": "",
-        "active": 19,
-        "confirmed": 19,
+        "active": 22,
+        "confirmed": 22,
         "deceased": 0,
         "recovered": 0,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 3,
           "deceased": 0,
           "recovered": 0
         }
@@ -988,12 +988,12 @@
     "districtData": {
       "Araria": {
         "notes": "",
-        "active": 12,
-        "confirmed": 14,
+        "active": 26,
+        "confirmed": 28,
         "deceased": 0,
         "recovered": 2,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 14,
           "deceased": 0,
           "recovered": 0
         }
@@ -1036,12 +1036,12 @@
       },
       "Begusarai": {
         "notes": "",
-        "active": 125,
-        "confirmed": 157,
+        "active": 127,
+        "confirmed": 159,
         "deceased": 1,
         "recovered": 31,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 2,
           "deceased": 0,
           "recovered": 0
         }
@@ -1084,12 +1084,12 @@
       },
       "Darbhanga": {
         "notes": "",
-        "active": 57,
-        "confirmed": 65,
+        "active": 61,
+        "confirmed": 69,
         "deceased": 0,
         "recovered": 8,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 4,
           "deceased": 0,
           "recovered": 0
         }
@@ -1192,12 +1192,12 @@
       },
       "Kishanganj": {
         "notes": "",
-        "active": 19,
-        "confirmed": 31,
+        "active": 20,
+        "confirmed": 32,
         "deceased": 0,
         "recovered": 12,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
@@ -1216,12 +1216,12 @@
       },
       "Madhepura": {
         "notes": "",
-        "active": 34,
-        "confirmed": 43,
+        "active": 43,
+        "confirmed": 52,
         "deceased": 0,
         "recovered": 9,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 9,
           "deceased": 0,
           "recovered": 0
         }
@@ -1324,12 +1324,12 @@
       },
       "Saharsa": {
         "notes": "",
-        "active": 52,
-        "confirmed": 54,
+        "active": 55,
+        "confirmed": 57,
         "deceased": 0,
         "recovered": 2,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 3,
           "deceased": 0,
           "recovered": 0
         }
@@ -1348,12 +1348,12 @@
       },
       "Saran": {
         "notes": "",
-        "active": 34,
-        "confirmed": 43,
+        "active": 38,
+        "confirmed": 47,
         "deceased": 1,
         "recovered": 8,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 4,
           "deceased": 0,
           "recovered": 0
         }
@@ -1420,12 +1420,12 @@
       },
       "Vaishali": {
         "notes": "",
-        "active": 51,
-        "confirmed": 59,
+        "active": 52,
+        "confirmed": 60,
         "deceased": 2,
         "recovered": 6,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
@@ -9070,10 +9070,10 @@
       },
       "Unknown": {
         "notes": "",
-        "active": 5,
+        "active": -10,
         "confirmed": 5,
         "deceased": 0,
-        "recovered": 0,
+        "recovered": 15,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
