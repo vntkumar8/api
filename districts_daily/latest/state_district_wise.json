@@ -587,12 +587,12 @@
       },
       "Barpeta": {
         "notes": "",
-        "active": 13,
-        "confirmed": 13,
+        "active": 16,
+        "confirmed": 16,
         "deceased": 0,
         "recovered": 0,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 3,
           "deceased": 0,
           "recovered": 0
         }
@@ -623,12 +623,12 @@
       },
       "Cachar": {
         "notes": "",
-        "active": 31,
-        "confirmed": 41,
+        "active": 35,
+        "confirmed": 45,
         "deceased": 0,
         "recovered": 10,
         "delta": {
-          "confirmed": 7,
+          "confirmed": 11,
           "deceased": 0,
           "recovered": 0
         }
@@ -671,12 +671,12 @@
       },
       "Dhemaji": {
         "notes": "",
-        "active": 5,
-        "confirmed": 5,
+        "active": 8,
+        "confirmed": 8,
         "deceased": 0,
         "recovered": 0,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 3,
           "deceased": 0,
           "recovered": 0
         }
@@ -791,12 +791,12 @@
       },
       "Kamrup Metropolitan": {
         "notes": "",
-        "active": 253,
-        "confirmed": 266,
+        "active": 266,
+        "confirmed": 279,
         "deceased": 3,
         "recovered": 10,
         "delta": {
-          "confirmed": 19,
+          "confirmed": 32,
           "deceased": 0,
           "recovered": 0
         }
@@ -827,12 +827,12 @@
       },
       "Kokrajhar": {
         "notes": "",
-        "active": 13,
-        "confirmed": 13,
+        "active": 15,
+        "confirmed": 15,
         "deceased": 0,
         "recovered": 0,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 2,
           "deceased": 0,
           "recovered": 0
         }
@@ -3539,24 +3539,24 @@
       },
       "Bengaluru Urban": {
         "notes": "",
-        "active": 129,
-        "confirmed": 291,
+        "active": 131,
+        "confirmed": 293,
         "deceased": 10,
         "recovered": 152,
         "delta": {
-          "confirmed": 7,
+          "confirmed": 9,
           "deceased": 0,
           "recovered": 0
         }
       },
       "Bidar": {
         "notes": "",
-        "active": 82,
-        "confirmed": 109,
+        "active": 94,
+        "confirmed": 121,
         "deceased": 3,
         "recovered": 24,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 12,
           "deceased": 0,
           "recovered": 0
         }
@@ -3611,12 +3611,12 @@
       },
       "Dakshina Kannada": {
         "notes": "",
-        "active": 59,
-        "confirmed": 84,
+        "active": 77,
+        "confirmed": 102,
         "deceased": 6,
         "recovered": 18,
         "delta": {
-          "confirmed": 6,
+          "confirmed": 24,
           "deceased": 0,
           "recovered": 3
         }
@@ -3671,24 +3671,24 @@
       },
       "Haveri": {
         "notes": "",
-        "active": 3,
-        "confirmed": 6,
+        "active": 7,
+        "confirmed": 10,
         "deceased": 0,
         "recovered": 3,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 4,
           "deceased": 0,
           "recovered": 0
         }
       },
       "Kalaburagi": {
         "notes": "",
-        "active": 107,
-        "confirmed": 189,
+        "active": 109,
+        "confirmed": 191,
         "deceased": 7,
         "recovered": 75,
         "delta": {
-          "confirmed": 3,
+          "confirmed": 5,
           "deceased": 0,
           "recovered": 0
         }
@@ -3815,12 +3815,12 @@
       },
       "Udupi": {
         "notes": "",
-        "active": 143,
-        "confirmed": 147,
+        "active": 145,
+        "confirmed": 149,
         "deceased": 1,
         "recovered": 3,
         "delta": {
-          "confirmed": 27,
+          "confirmed": 29,
           "deceased": 0,
           "recovered": 0
         }
@@ -3859,6 +3859,18 @@
           "confirmed": 7,
           "deceased": 0,
           "recovered": 9
+        }
+      },
+      "Unknown": {
+        "notes": "",
+        "active": -25,
+        "confirmed": 0,
+        "deceased": 0,
+        "recovered": 25,
+        "delta": {
+          "confirmed": 0,
+          "deceased": 0,
+          "recovered": 0
         }
       }
     },
