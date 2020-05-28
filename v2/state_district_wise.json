@@ -609,8 +609,8 @@
       {
         "district": "Unknown",
         "notes": "",
-        "active": 1,
-        "confirmed": 1,
+        "active": 2,
+        "confirmed": 2,
         "deceased": 0,
         "recovered": 0,
         "delta": {
@@ -745,12 +745,12 @@
       {
         "district": "Dhubri",
         "notes": "",
-        "active": 4,
-        "confirmed": 9,
+        "active": 5,
+        "confirmed": 10,
         "deceased": 0,
         "recovered": 5,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
@@ -758,12 +758,12 @@
       {
         "district": "Dibrugarh",
         "notes": "",
-        "active": 4,
-        "confirmed": 4,
+        "active": 6,
+        "confirmed": 6,
         "deceased": 0,
         "recovered": 0,
         "delta": {
-          "confirmed": 3,
+          "confirmed": 5,
           "deceased": 0,
           "recovered": 0
         }
@@ -784,12 +784,12 @@
       {
         "district": "Goalpara",
         "notes": "",
-        "active": 12,
-        "confirmed": 16,
+        "active": 23,
+        "confirmed": 27,
         "deceased": 0,
         "recovered": 4,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 11,
           "deceased": 0,
           "recovered": 0
         }
@@ -849,12 +849,12 @@
       {
         "district": "Kamrup",
         "notes": "",
-        "active": 21,
-        "confirmed": 22,
+        "active": 22,
+        "confirmed": 23,
         "deceased": 0,
         "recovered": 1,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
@@ -875,12 +875,12 @@
       {
         "district": "Karbi Anglong",
         "notes": "",
-        "active": 4,
-        "confirmed": 4,
+        "active": 5,
+        "confirmed": 5,
         "deceased": 0,
         "recovered": 0,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
@@ -953,12 +953,12 @@
       {
         "district": "Nagaon",
         "notes": "",
-        "active": 33,
-        "confirmed": 33,
+        "active": 34,
+        "confirmed": 34,
         "deceased": 0,
         "recovered": 0,
         "delta": {
-          "confirmed": 10,
+          "confirmed": 11,
           "deceased": 0,
           "recovered": 0
         }
@@ -966,12 +966,12 @@
       {
         "district": "Nalbari",
         "notes": "",
-        "active": 13,
-        "confirmed": 17,
+        "active": 16,
+        "confirmed": 20,
         "deceased": 0,
         "recovered": 4,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 3,
           "deceased": 0,
           "recovered": 0
         }
@@ -1031,12 +1031,12 @@
       {
         "district": "Tinsukia",
         "notes": "",
-        "active": 6,
-        "confirmed": 6,
+        "active": 9,
+        "confirmed": 9,
         "deceased": 0,
         "recovered": 0,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 3,
           "deceased": 0,
           "recovered": 0
         }
