@@ -1070,8 +1070,8 @@
       {
         "district": "Unknown",
         "notes": "",
-        "active": -25,
-        "confirmed": 0,
+        "active": -10,
+        "confirmed": 15,
         "deceased": 0,
         "recovered": 25,
         "delta": {
@@ -2821,12 +2821,12 @@
       {
         "district": "Solan",
         "notes": "",
-        "active": 14,
-        "confirmed": 20,
+        "active": 17,
+        "confirmed": 23,
         "deceased": 1,
         "recovered": 5,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 3,
           "deceased": 0,
           "recovered": 0
         }
@@ -3794,14 +3794,14 @@
       {
         "district": "Bagalkote",
         "notes": "",
-        "active": 7,
+        "active": 6,
         "confirmed": 78,
         "deceased": 1,
-        "recovered": 70,
+        "recovered": 71,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 1
         }
       },
       {
@@ -3820,14 +3820,14 @@
       {
         "district": "Belagavi",
         "notes": "",
-        "active": 64,
+        "active": 62,
         "confirmed": 145,
         "deceased": 1,
-        "recovered": 80,
+        "recovered": 82,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 2
         }
       },
       {
@@ -3924,27 +3924,27 @@
       {
         "district": "Dakshina Kannada",
         "notes": "",
-        "active": 62,
+        "active": 59,
         "confirmed": 84,
         "deceased": 6,
-        "recovered": 15,
+        "recovered": 18,
         "delta": {
           "confirmed": 6,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 3
         }
       },
       {
         "district": "Davanagere",
         "notes": "",
-        "active": 84,
+        "active": 76,
         "confirmed": 140,
         "deceased": 4,
-        "recovered": 52,
+        "recovered": 60,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 8
         }
       },
       {
@@ -4067,14 +4067,14 @@
       {
         "district": "Mysuru",
         "notes": "",
-        "active": 2,
+        "active": 1,
         "confirmed": 90,
         "deceased": 0,
-        "recovered": 88,
+        "recovered": 89,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 1
         }
       },
       {
@@ -4171,27 +4171,27 @@
       {
         "district": "Vijayapura",
         "notes": "",
-        "active": 32,
+        "active": 28,
         "confirmed": 81,
         "deceased": 5,
-        "recovered": 44,
+        "recovered": 48,
         "delta": {
           "confirmed": 2,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 4
         }
       },
       {
         "district": "Yadgir",
         "notes": "",
-        "active": 161,
+        "active": 152,
         "confirmed": 162,
         "deceased": 1,
-        "recovered": 0,
+        "recovered": 9,
         "delta": {
           "confirmed": 7,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 9
         }
       }
     ]
