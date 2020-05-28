@@ -1115,8 +1115,8 @@
       {
         "district": "Aurangabad",
         "notes": "",
-        "active": 39,
-        "confirmed": 62,
+        "active": 40,
+        "confirmed": 63,
         "deceased": 0,
         "recovered": 23,
         "delta": {
@@ -1141,8 +1141,8 @@
       {
         "district": "Begusarai",
         "notes": "",
-        "active": 125,
-        "confirmed": 160,
+        "active": 126,
+        "confirmed": 161,
         "deceased": 1,
         "recovered": 34,
         "delta": {
@@ -1154,8 +1154,8 @@
       {
         "district": "Bhagalpur",
         "notes": "",
-        "active": 60,
-        "confirmed": 95,
+        "active": 65,
+        "confirmed": 100,
         "deceased": 0,
         "recovered": 35,
         "delta": {
@@ -1219,8 +1219,8 @@
       {
         "district": "Gaya",
         "notes": "",
-        "active": 45,
-        "confirmed": 53,
+        "active": 57,
+        "confirmed": 65,
         "deceased": 0,
         "recovered": 8,
         "delta": {
@@ -1232,8 +1232,8 @@
       {
         "district": "Gopalganj",
         "notes": "",
-        "active": 49,
-        "confirmed": 99,
+        "active": 51,
+        "confirmed": 101,
         "deceased": 0,
         "recovered": 50,
         "delta": {
@@ -1297,8 +1297,8 @@
       {
         "district": "Khagaria",
         "notes": "",
-        "active": 124,
-        "confirmed": 143,
+        "active": 129,
+        "confirmed": 148,
         "deceased": 2,
         "recovered": 17,
         "delta": {
@@ -1401,8 +1401,8 @@
       {
         "district": "Nawada",
         "notes": "",
-        "active": 46,
-        "confirmed": 71,
+        "active": 56,
+        "confirmed": 81,
         "deceased": 0,
         "recovered": 25,
         "delta": {
@@ -1414,8 +1414,8 @@
       {
         "district": "Patna",
         "notes": "",
-        "active": 142,
-        "confirmed": 218,
+        "active": 144,
+        "confirmed": 220,
         "deceased": 2,
         "recovered": 74,
         "delta": {
@@ -1427,8 +1427,8 @@
       {
         "district": "Purnia",
         "notes": "",
-        "active": 40,
-        "confirmed": 47,
+        "active": 48,
+        "confirmed": 55,
         "deceased": 0,
         "recovered": 7,
         "delta": {
@@ -1531,8 +1531,8 @@
       {
         "district": "Siwan",
         "notes": "",
-        "active": 25,
-        "confirmed": 67,
+        "active": 30,
+        "confirmed": 72,
         "deceased": 1,
         "recovered": 41,
         "delta": {
@@ -1544,8 +1544,8 @@
       {
         "district": "Supaul",
         "notes": "",
-        "active": 49,
-        "confirmed": 57,
+        "active": 52,
+        "confirmed": 60,
         "deceased": 0,
         "recovered": 8,
         "delta": {
@@ -4193,6 +4193,19 @@
           "deceased": 0,
           "recovered": 0
         }
+      },
+      {
+        "district": "Unknown",
+        "notes": "",
+        "active": 75,
+        "confirmed": 75,
+        "deceased": 0,
+        "recovered": 0,
+        "delta": {
+          "confirmed": 0,
+          "deceased": 0,
+          "recovered": 0
+        }
       }
     ]
   },
@@ -6294,6 +6307,19 @@
         "notes": "",
         "active": 0,
         "confirmed": 0,
+        "deceased": 0,
+        "recovered": 0,
+        "delta": {
+          "confirmed": 0,
+          "deceased": 0,
+          "recovered": 0
+        }
+      },
+      {
+        "district": "Unknown",
+        "notes": "",
+        "active": 9,
+        "confirmed": 9,
         "deceased": 0,
         "recovered": 0,
         "delta": {
