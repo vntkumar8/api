@@ -3784,6 +3784,19 @@
           "deceased": 0,
           "recovered": 0
         }
+      },
+      {
+        "district": "Unknown",
+        "notes": "",
+        "active": 115,
+        "confirmed": 115,
+        "deceased": 0,
+        "recovered": 0,
+        "delta": {
+          "confirmed": 0,
+          "deceased": 0,
+          "recovered": 0
+        }
       }
     ]
   },
@@ -9758,12 +9771,12 @@
       {
         "district": "Almora",
         "notes": "",
-        "active": 18,
-        "confirmed": 21,
+        "active": 21,
+        "confirmed": 24,
         "deceased": 0,
         "recovered": 3,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 3,
           "deceased": 0,
           "recovered": 0
         }
@@ -9810,12 +9823,12 @@
       {
         "district": "Dehradun",
         "notes": "",
-        "active": 50,
-        "confirmed": 89,
+        "active": 53,
+        "confirmed": 92,
         "deceased": 4,
         "recovered": 35,
         "delta": {
-          "confirmed": 6,
+          "confirmed": 9,
           "deceased": 0,
           "recovered": 0
         }
@@ -9836,12 +9849,12 @@
       {
         "district": "Nainital",
         "notes": "",
-        "active": 116,
-        "confirmed": 138,
+        "active": 117,
+        "confirmed": 139,
         "deceased": 0,
         "recovered": 22,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
