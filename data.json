@@ -1083,13 +1083,13 @@
 	],
 	"statewise": [
 		{
-			"active": "90136",
-			"confirmed": "165820",
+			"active": "90145",
+			"confirmed": "165829",
 			"deaths": "4713",
-			"deltaconfirmed": "432",
+			"deltaconfirmed": "441",
 			"deltadeaths": "2",
 			"deltarecovered": "40",
-			"lastupdatedtime": "29/05/2020 11:14:03",
+			"lastupdatedtime": "29/05/2020 11:51:03",
 			"recovered": "70960",
 			"state": "Total",
 			"statecode": "TT",
@@ -1395,13 +1395,13 @@
 			"statenotes": ""
 		},
 		{
-			"active": "199",
-			"confirmed": "281",
+			"active": "208",
+			"confirmed": "290",
 			"deaths": "6",
-			"deltaconfirmed": "0",
+			"deltaconfirmed": "9",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
-			"lastupdatedtime": "28/05/2020 22:14:07",
+			"lastupdatedtime": "29/05/2020 11:51:06",
 			"recovered": "73",
 			"state": "Himachal Pradesh",
 			"statecode": "HP",
@@ -2697,6 +2697,20 @@
 			"totalpositivecases": "",
 			"totalsamplestested": "3362136",
 			"updatetimestamp": "28/05/2020 09:00:00"
+		},
+		{
+			"individualstestedperconfirmedcase": "",
+			"positivecasesfromsamplesreported": "",
+			"samplereportedtoday": "121702",
+			"source": "https://t.me/Covid19india_Auxiliary_Test_Data/211",
+			"testpositivityrate": "",
+			"testsconductedbyprivatelabs": "",
+			"testsperconfirmedcase": "",
+			"testspermillion": "",
+			"totalindividualstested": "",
+			"totalpositivecases": "",
+			"totalsamplestested": "3483838",
+			"updatetimestamp": "29/05/2020 09:00:00"
 		}
 	]
 }
