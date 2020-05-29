@@ -194,6 +194,9 @@
     }
   },
   "AR": {
+    "delta": {
+      "tested": 504
+    },
     "districts": {
       "Lohit": {
         "total": {
@@ -208,12 +211,16 @@
       }
     },
     "meta": {
-      "last_updated": "2020-05-29T00:33:07+05:30"
+      "last_updated": "2020-05-29T00:33:07+05:30",
+      "tested": {
+        "last_updated": "2020-05-29",
+        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/222"
+      }
     },
     "total": {
       "confirmed": 3,
       "recovered": 1,
-      "tested": 6984
+      "tested": 7488
     }
   },
   "AS": {
@@ -810,7 +817,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-05-29T23:43:05+05:30",
+      "last_updated": "2020-05-29T23:45:05+05:30",
       "tested": {
         "last_updated": "2020-05-29",
         "source": "https://twitter.com/PIB_Patna/status/1266341629104799750"
@@ -2072,7 +2079,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-05-29T23:43:08+05:30"
+      "last_updated": "2020-05-29T23:54:05+05:30"
     },
     "total": {
       "confirmed": 521,
@@ -5333,7 +5340,7 @@
       "tested": 121702
     },
     "meta": {
-      "last_updated": "2020-05-29T23:43:03+05:30",
+      "last_updated": "2020-05-29T23:54:03+05:30",
       "tested": {
         "last_updated": "2020-05-29",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/211"
