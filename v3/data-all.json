@@ -190716,7 +190716,7 @@
         }
       },
       "meta": {
-        "last_updated": "2020-05-30T00:03:05+05:30",
+        "last_updated": "2020-05-30T00:12:05+05:30",
         "tested": {
           "last_updated": "2020-05-29",
           "source": "https://twitter.com/PIB_Patna/status/1266341629104799750"
@@ -191806,7 +191806,8 @@
       "delta": {
         "confirmed": 82,
         "deceased": 1,
-        "recovered": 63
+        "recovered": 63,
+        "tested": 2202
       },
       "districts": {
         "Bokaro": {
@@ -192002,13 +192003,17 @@
         }
       },
       "meta": {
-        "last_updated": "2020-05-29T23:54:05+05:30"
+        "last_updated": "2020-05-29T23:54:05+05:30",
+        "tested": {
+          "last_updated": "2020-05-29",
+          "source": "https://t.me/indiacovid/5876"
+        }
       },
       "total": {
         "confirmed": 521,
         "deceased": 5,
         "recovered": 216,
-        "tested": 57250
+        "tested": 59452
       }
     },
     "JK": {
@@ -194088,6 +194093,9 @@
       }
     },
     "PY": {
+      "delta": {
+        "tested": 126
+      },
       "districts": {
         "Karaikal": {
           "total": {
@@ -194114,12 +194122,16 @@
         }
       },
       "meta": {
-        "last_updated": "2020-05-28T23:20:05+05:30"
+        "last_updated": "2020-05-28T23:20:05+05:30",
+        "tested": {
+          "last_updated": "2020-05-29",
+          "source": "https://covid19dashboard.py.gov.in/LabTestReport"
+        }
       },
       "total": {
         "confirmed": 53,
         "recovered": 17,
-        "tested": 6917
+        "tested": 7043
       }
     },
     "RJ": {
@@ -195189,7 +195201,8 @@
     },
     "TR": {
       "delta": {
-        "confirmed": 10
+        "confirmed": 10,
+        "tested": 1277
       },
       "districts": {
         "Dhalai": {
@@ -195247,12 +195260,16 @@
       },
       "meta": {
         "last_updated": "2020-05-29T23:15:11+05:30",
-        "notes": "Two cases are migrated out of Tripura."
+        "notes": "Two cases are migrated out of Tripura.",
+        "tested": {
+          "last_updated": "2020-05-29",
+          "source": "https://t.me/Covid19india_Auxiliary_Test_Data/225"
+        }
       },
       "total": {
         "confirmed": 254,
         "recovered": 167,
-        "tested": 24126
+        "tested": 25403
       }
     },
     "TT": {
@@ -195263,7 +195280,7 @@
         "tested": 121702
       },
       "meta": {
-        "last_updated": "2020-05-30T00:03:03+05:30",
+        "last_updated": "2020-05-30T00:12:03+05:30",
         "tested": {
           "last_updated": "2020-05-29",
           "source": "https://t.me/Covid19india_Auxiliary_Test_Data/211"
@@ -195302,7 +195319,8 @@
       "delta": {
         "confirmed": 275,
         "deceased": 4,
-        "recovered": 195
+        "recovered": 195,
+        "tested": 14653
       },
       "districts": {
         "Agra": {
@@ -196015,13 +196033,17 @@
         }
       },
       "meta": {
-        "last_updated": "2020-05-29T22:15:08+05:30"
+        "last_updated": "2020-05-29T22:15:08+05:30",
+        "tested": {
+          "last_updated": "2020-05-29",
+          "source": "https://t.me/indiacovid/5859?single"
+        }
       },
       "total": {
         "confirmed": 7445,
         "deceased": 201,
         "recovered": 4410,
-        "tested": 256267
+        "tested": 270920
       }
     },
     "UT": {
