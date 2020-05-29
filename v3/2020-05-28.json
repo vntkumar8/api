@@ -197,7 +197,8 @@
   },
   "AR": {
     "delta": {
-      "confirmed": 1
+      "confirmed": 1,
+      "tested": 548
     },
     "districts": {
       "Lohit": {
@@ -215,10 +216,16 @@
         }
       }
     },
+    "meta": {
+      "tested": {
+        "last_updated": "2020-05-28",
+        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/216"
+      }
+    },
     "total": {
       "confirmed": 3,
       "recovered": 1,
-      "tested": 6436
+      "tested": 6984
     }
   },
   "AS": {
