@@ -3171,27 +3171,27 @@
       {
         "district": "Bokaro",
         "notes": "",
-        "active": 7,
+        "active": 2,
         "confirmed": 17,
         "deceased": 1,
-        "recovered": 9,
+        "recovered": 14,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 5
         }
       },
       {
         "district": "Chatra",
         "notes": "",
-        "active": 1,
+        "active": 0,
         "confirmed": 1,
         "deceased": 0,
-        "recovered": 0,
+        "recovered": 1,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 1
         }
       },
       {
@@ -3210,14 +3210,14 @@
       {
         "district": "Dhanbad",
         "notes": "",
-        "active": 9,
-        "confirmed": 11,
+        "active": 10,
+        "confirmed": 14,
         "deceased": 0,
-        "recovered": 2,
+        "recovered": 4,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 3,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 2
         }
       },
       {
@@ -3236,38 +3236,38 @@
       {
         "district": "East Singhbhum",
         "notes": "",
-        "active": 28,
-        "confirmed": 28,
+        "active": 33,
+        "confirmed": 34,
         "deceased": 0,
-        "recovered": 0,
+        "recovered": 1,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 6,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 1
         }
       },
       {
         "district": "Garhwa",
         "notes": "",
-        "active": 52,
-        "confirmed": 55,
+        "active": 22,
+        "confirmed": 57,
         "deceased": 0,
-        "recovered": 3,
+        "recovered": 35,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 2,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 32
         }
       },
       {
         "district": "Giridih",
         "notes": "",
-        "active": 13,
-        "confirmed": 16,
+        "active": 14,
+        "confirmed": 17,
         "deceased": 0,
         "recovered": 3,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
@@ -3288,12 +3288,12 @@
       {
         "district": "Gumla",
         "notes": "",
-        "active": 13,
-        "confirmed": 13,
+        "active": 20,
+        "confirmed": 20,
         "deceased": 0,
         "recovered": 0,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 7,
           "deceased": 0,
           "recovered": 0
         }
@@ -3301,14 +3301,14 @@
       {
         "district": "Hazaribagh",
         "notes": "",
-        "active": 45,
-        "confirmed": 53,
+        "active": 36,
+        "confirmed": 55,
         "deceased": 0,
-        "recovered": 8,
+        "recovered": 19,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 2,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 11
         }
       },
       {
@@ -3327,12 +3327,12 @@
       {
         "district": "Khunti",
         "notes": "",
-        "active": 1,
-        "confirmed": 1,
+        "active": 3,
+        "confirmed": 3,
         "deceased": 0,
         "recovered": 0,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 2,
           "deceased": 0,
           "recovered": 0
         }
@@ -3340,38 +3340,38 @@
       {
         "district": "Koderma",
         "notes": "",
-        "active": 29,
-        "confirmed": 31,
+        "active": 30,
+        "confirmed": 34,
         "deceased": 1,
-        "recovered": 1,
+        "recovered": 3,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 3,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 2
         }
       },
       {
         "district": "Latehar",
         "notes": "",
-        "active": 10,
+        "active": 6,
         "confirmed": 10,
         "deceased": 0,
-        "recovered": 0,
+        "recovered": 4,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 4
         }
       },
       {
         "district": "Lohardaga",
         "notes": "",
-        "active": 2,
-        "confirmed": 2,
+        "active": 3,
+        "confirmed": 3,
         "deceased": 0,
         "recovered": 0,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
@@ -3405,12 +3405,12 @@
       {
         "district": "Ramgarh",
         "notes": "",
-        "active": 11,
-        "confirmed": 11,
+        "active": 15,
+        "confirmed": 15,
         "deceased": 0,
         "recovered": 0,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 4,
           "deceased": 0,
           "recovered": 0
         }
@@ -3418,14 +3418,14 @@
       {
         "district": "Ranchi",
         "notes": "",
-        "active": 28,
-        "confirmed": 130,
+        "active": 26,
+        "confirmed": 129,
         "deceased": 2,
-        "recovered": 100,
+        "recovered": 101,
         "delta": {
-          "confirmed": 0,
+          "confirmed": -1,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 1
         }
       },
       {
@@ -3474,19 +3474,6 @@
         "confirmed": 15,
         "deceased": 0,
         "recovered": 0,
-        "delta": {
-          "confirmed": 0,
-          "deceased": 0,
-          "recovered": 0
-        }
-      },
-      {
-        "district": "Unknown",
-        "notes": "",
-        "active": -7,
-        "confirmed": 31,
-        "deceased": 0,
-        "recovered": 38,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
