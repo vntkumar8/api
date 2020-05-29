@@ -191320,7 +191320,7 @@
         }
       },
       "meta": {
-        "last_updated": "2020-05-29T20:33:05+05:30",
+        "last_updated": "2020-05-29T20:36:05+05:30",
         "tested": {
           "last_updated": "2020-05-29",
           "source": ""
@@ -191430,7 +191430,7 @@
     },
     "HR": {
       "delta": {
-        "confirmed": 31,
+        "confirmed": 42,
         "recovered": 3
       },
       "districts": {
@@ -191455,10 +191455,10 @@
         },
         "Faridabad": {
           "delta": {
-            "confirmed": 21
+            "confirmed": 31
           },
           "total": {
-            "confirmed": 297,
+            "confirmed": 307,
             "deceased": 7,
             "recovered": 138
           }
@@ -191537,10 +191537,10 @@
         },
         "Nuh": {
           "delta": {
-            "confirmed": 1
+            "confirmed": 2
           },
           "total": {
-            "confirmed": 67,
+            "confirmed": 68,
             "recovered": 65
           }
         },
@@ -191614,10 +191614,10 @@
         }
       },
       "meta": {
-        "last_updated": "2020-05-29T15:04:10+05:30"
+        "last_updated": "2020-05-29T20:37:15+05:30"
       },
       "total": {
-        "confirmed": 1535,
+        "confirmed": 1546,
         "deceased": 19,
         "recovered": 884,
         "tested": 108031
@@ -192032,7 +192032,8 @@
       "delta": {
         "confirmed": 248,
         "deceased": 1,
-        "recovered": 60
+        "recovered": 60,
+        "tested": 12411
       },
       "districts": {
         "Bagalkote": {
@@ -192296,13 +192297,17 @@
       },
       "meta": {
         "last_updated": "2020-05-29T18:53:05+05:30",
-        "notes": "Two active cases in KA reduced as a confirmed patient died of non-CoViD19 related reasons"
+        "notes": "Two active cases in KA reduced as a confirmed patient died of non-CoViD19 related reasons",
+        "tested": {
+          "last_updated": "2020-05-29",
+          "source": "https://covid19.karnataka.gov.in/storage/pdf-files/Media-Bulletin/29.05.2020%20EMB%20English.pdf"
+        }
       },
       "total": {
         "confirmed": 2781,
         "deceased": 48,
         "recovered": 894,
-        "tested": 252078
+        "tested": 264489
       }
     },
     "KL": {
@@ -192889,7 +192894,7 @@
         }
       },
       "meta": {
-        "last_updated": "2020-05-29T20:32:11+05:30"
+        "last_updated": "2020-05-29T20:36:09+05:30"
       },
       "total": {
         "confirmed": 58,
@@ -194781,7 +194786,7 @@
         "notes": "2 deaths cross notified to other states from Chennai and Coimbatore. 1 patient died after turning negative for infection in Chengalpattu",
         "tested": {
           "last_updated": "2020-05-29",
-          "source": ""
+          "source": "https://stopcorona.tn.gov.in/wp-content/uploads/2020/03/Media-Bulletin-29.05.2020.pdf"
         }
       },
       "total": {
@@ -194855,20 +194860,20 @@
     },
     "TT": {
       "delta": {
-        "confirmed": 6822,
+        "confirmed": 6833,
         "deceased": 245,
         "recovered": 10652,
         "tested": 121702
       },
       "meta": {
-        "last_updated": "2020-05-29T20:33:03+05:30",
+        "last_updated": "2020-05-29T20:37:12+05:30",
         "tested": {
           "last_updated": "2020-05-29",
           "source": "https://t.me/Covid19india_Auxiliary_Test_Data/211"
         }
       },
       "total": {
-        "confirmed": 172176,
+        "confirmed": 172187,
         "deceased": 4956,
         "recovered": 81550,
         "tested": 3483838
@@ -195531,7 +195536,7 @@
         }
       },
       "meta": {
-        "last_updated": "2020-05-29T20:32:08+05:30",
+        "last_updated": "2020-05-29T20:36:07+05:30",
         "notes": "Three migrated cases reduced from Active count"
       },
       "total": {
@@ -195776,7 +195781,7 @@
         "notes": "- Cases updated as per WB bulletin.<br>\n- Deaths due to comorbidities added to total deceased<br>\n- Zones updated as per WB bulletin<br>",
         "tested": {
           "last_updated": "2020-05-29",
-          "source": ""
+          "source": "https://www.wbhealth.gov.in/uploaded_files/corona/WB_DHFW_Bulletin_29th_MAY_REPORT_FINAL.pdf"
         }
       },
       "total": {
