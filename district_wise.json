@@ -2058,11 +2058,11 @@
 			"statecode": "CT"
 		},
 		{
-			"active": "1",
-			"confirmed": "1",
+			"active": "2",
+			"confirmed": "2",
 			"deceased": "0",
-			"deltaactive": "0",
-			"deltaconfirmed": "0",
+			"deltaactive": "1",
+			"deltaconfirmed": "1",
 			"deltadeceased": "0",
 			"deltarecovered": "0",
 			"district": "Bastar",
@@ -2092,11 +2092,11 @@
 			"statecode": "CT"
 		},
 		{
-			"active": "46",
-			"confirmed": "47",
+			"active": "48",
+			"confirmed": "49",
 			"deceased": "0",
-			"deltaactive": "0",
-			"deltaconfirmed": "0",
+			"deltaactive": "2",
+			"deltaconfirmed": "2",
 			"deltadeceased": "0",
 			"deltarecovered": "0",
 			"district": "Bilaspur",
@@ -2143,11 +2143,11 @@
 			"statecode": "CT"
 		},
 		{
-			"active": "0",
-			"confirmed": "10",
+			"active": "1",
+			"confirmed": "11",
 			"deceased": "0",
-			"deltaactive": "0",
-			"deltaconfirmed": "0",
+			"deltaactive": "1",
+			"deltaconfirmed": "1",
 			"deltadeceased": "0",
 			"deltarecovered": "0",
 			"district": "Durg",
@@ -2279,11 +2279,11 @@
 			"statecode": "CT"
 		},
 		{
-			"active": "0",
-			"confirmed": "0",
+			"active": "1",
+			"confirmed": "1",
 			"deceased": "0",
-			"deltaactive": "0",
-			"deltaconfirmed": "0",
+			"deltaactive": "1",
+			"deltaconfirmed": "1",
 			"deltadeceased": "0",
 			"deltarecovered": "0",
 			"district": "Mahasamund",
@@ -2296,11 +2296,11 @@
 			"statecode": "CT"
 		},
 		{
-			"active": "81",
-			"confirmed": "81",
+			"active": "82",
+			"confirmed": "82",
 			"deceased": "0",
-			"deltaactive": "0",
-			"deltaconfirmed": "0",
+			"deltaactive": "1",
+			"deltaconfirmed": "1",
 			"deltadeceased": "0",
 			"deltarecovered": "0",
 			"district": "Mungeli",
@@ -4710,7 +4710,7 @@
 			"statecode": "JK"
 		},
 		{
-			"active": "6",
+			"active": "14",
 			"confirmed": "78",
 			"deceased": "1",
 			"deltaactive": "0",
@@ -4721,7 +4721,7 @@
 			"districtkey": "KA_Bagalkote",
 			"districtnotes": "",
 			"lastupdated": "",
-			"recovered": "71",
+			"recovered": "63",
 			"slno": "270",
 			"state": "Karnataka",
 			"statecode": "KA"
@@ -4744,7 +4744,7 @@
 			"statecode": "KA"
 		},
 		{
-			"active": "61",
+			"active": "52",
 			"confirmed": "145",
 			"deceased": "1",
 			"deltaactive": "0",
@@ -4755,7 +4755,7 @@
 			"districtkey": "KA_Belagavi",
 			"districtnotes": "",
 			"lastupdated": "",
-			"recovered": "83",
+			"recovered": "92",
 			"slno": "272",
 			"state": "Karnataka",
 			"statecode": "KA"
@@ -4897,7 +4897,7 @@
 			"statecode": "KA"
 		},
 		{
-			"active": "75",
+			"active": "61",
 			"confirmed": "144",
 			"deceased": "4",
 			"deltaactive": "4",
@@ -4908,7 +4908,7 @@
 			"districtkey": "KA_Davanagere",
 			"districtnotes": "",
 			"lastupdated": "",
-			"recovered": "65",
+			"recovered": "79",
 			"slno": "281",
 			"state": "Karnataka",
 			"statecode": "KA"
@@ -4965,7 +4965,7 @@
 			"statecode": "KA"
 		},
 		{
-			"active": "7",
+			"active": "8",
 			"confirmed": "10",
 			"deceased": "0",
 			"deltaactive": "0",
@@ -4976,7 +4976,7 @@
 			"districtkey": "KA_Haveri",
 			"districtnotes": "",
 			"lastupdated": "",
-			"recovered": "3",
+			"recovered": "2",
 			"slno": "285",
 			"state": "Karnataka",
 			"statecode": "KA"
@@ -5084,7 +5084,7 @@
 			"statecode": "KA"
 		},
 		{
-			"active": "1",
+			"active": "0",
 			"confirmed": "22",
 			"deceased": "1",
 			"deltaactive": "0",
@@ -5095,7 +5095,7 @@
 			"districtkey": "KA_Other State",
 			"districtnotes": "",
 			"lastupdated": "",
-			"recovered": "20",
+			"recovered": "21",
 			"slno": "0",
 			"state": "Karnataka",
 			"statecode": "KA"
@@ -5186,7 +5186,7 @@
 			"statecode": "KA"
 		},
 		{
-			"active": "34",
+			"active": "33",
 			"confirmed": "77",
 			"deceased": "0",
 			"deltaactive": "-3",
@@ -5197,7 +5197,7 @@
 			"districtkey": "KA_Uttara Kannada",
 			"districtnotes": "",
 			"lastupdated": "",
-			"recovered": "43",
+			"recovered": "44",
 			"slno": "297",
 			"state": "Karnataka",
 			"statecode": "KA"
@@ -13108,7 +13108,7 @@
 			"statecode": "JH"
 		},
 		{
-			"active": "-16",
+			"active": "0",
 			"confirmed": "0",
 			"deceased": "0",
 			"deltaactive": "0",
@@ -13119,7 +13119,7 @@
 			"districtkey": "KA_Unknown",
 			"districtnotes": "",
 			"lastupdated": "",
-			"recovered": "16",
+			"recovered": "0",
 			"slno": "744",
 			"state": "Karnataka",
 			"statecode": "KA"

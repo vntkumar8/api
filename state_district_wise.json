@@ -1526,12 +1526,12 @@
       },
       "Bastar": {
         "notes": "",
-        "active": 1,
-        "confirmed": 1,
+        "active": 2,
+        "confirmed": 2,
         "deceased": 0,
         "recovered": 0,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
@@ -1550,12 +1550,12 @@
       },
       "Bilaspur": {
         "notes": "",
-        "active": 46,
-        "confirmed": 47,
+        "active": 48,
+        "confirmed": 49,
         "deceased": 0,
         "recovered": 1,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 2,
           "deceased": 0,
           "recovered": 0
         }
@@ -1586,12 +1586,12 @@
       },
       "Durg": {
         "notes": "",
-        "active": 0,
-        "confirmed": 10,
+        "active": 1,
+        "confirmed": 11,
         "deceased": 0,
         "recovered": 10,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
@@ -1682,24 +1682,24 @@
       },
       "Mahasamund": {
         "notes": "",
-        "active": 0,
-        "confirmed": 0,
+        "active": 1,
+        "confirmed": 1,
         "deceased": 0,
         "recovered": 0,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
       },
       "Mungeli": {
         "notes": "",
-        "active": 81,
-        "confirmed": 81,
+        "active": 82,
+        "confirmed": 82,
         "deceased": 0,
         "recovered": 0,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
@@ -3479,10 +3479,10 @@
     "districtData": {
       "Bagalkote": {
         "notes": "",
-        "active": 6,
+        "active": 14,
         "confirmed": 78,
         "deceased": 1,
-        "recovered": 71,
+        "recovered": 63,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
@@ -3503,10 +3503,10 @@
       },
       "Belagavi": {
         "notes": "",
-        "active": 61,
+        "active": 52,
         "confirmed": 145,
         "deceased": 1,
-        "recovered": 83,
+        "recovered": 92,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
@@ -3611,10 +3611,10 @@
       },
       "Davanagere": {
         "notes": "",
-        "active": 75,
+        "active": 61,
         "confirmed": 144,
         "deceased": 4,
-        "recovered": 65,
+        "recovered": 79,
         "delta": {
           "confirmed": 4,
           "deceased": 0,
@@ -3659,10 +3659,10 @@
       },
       "Haveri": {
         "notes": "",
-        "active": 7,
+        "active": 8,
         "confirmed": 10,
         "deceased": 0,
-        "recovered": 3,
+        "recovered": 2,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
@@ -3743,10 +3743,10 @@
       },
       "Other State": {
         "notes": "",
-        "active": 1,
+        "active": 0,
         "confirmed": 22,
         "deceased": 1,
-        "recovered": 20,
+        "recovered": 21,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
@@ -3815,10 +3815,10 @@
       },
       "Uttara Kannada": {
         "notes": "",
-        "active": 34,
+        "active": 33,
         "confirmed": 77,
         "deceased": 0,
-        "recovered": 43,
+        "recovered": 44,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
@@ -3845,18 +3845,6 @@
         "recovered": 9,
         "delta": {
           "confirmed": 60,
-          "deceased": 0,
-          "recovered": 0
-        }
-      },
-      "Unknown": {
-        "notes": "",
-        "active": -16,
-        "confirmed": 0,
-        "deceased": 0,
-        "recovered": 16,
-        "delta": {
-          "confirmed": 0,
           "deceased": 0,
           "recovered": 0
         }
