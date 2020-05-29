@@ -4334,12 +4334,12 @@
         "district": "Thiruvananthapuram",
         "notes": "",
         "active": 32,
-        "confirmed": 49,
-        "deceased": 1,
+        "confirmed": 50,
+        "deceased": 2,
         "recovered": 16,
         "delta": {
           "confirmed": 7,
-          "deceased": 0,
+          "deceased": 1,
           "recovered": 0
         }
       },
@@ -4363,19 +4363,6 @@
         "confirmed": 26,
         "deceased": 1,
         "recovered": 15,
-        "delta": {
-          "confirmed": 0,
-          "deceased": 0,
-          "recovered": 0
-        }
-      },
-      {
-        "district": "Unknown",
-        "notes": "",
-        "active": -1,
-        "confirmed": 0,
-        "deceased": 1,
-        "recovered": 0,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
