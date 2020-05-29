@@ -189831,20 +189831,12 @@
         },
         "Unassigned": {
           "delta": {
-            "confirmed": 2
+            "confirmed": -15
           },
           "total": {
-            "confirmed": -206,
+            "confirmed": -223,
             "deceased": -20,
             "recovered": -105
-          }
-        },
-        "Unknown": {
-          "delta": {
-            "confirmed": -17
-          },
-          "total": {
-            "confirmed": -17
           }
         },
         "Uttar Dinajpur": {
@@ -190685,7 +190677,8 @@
     "CT": {
       "delta": {
         "confirmed": 6,
-        "deceased": 1
+        "deceased": 1,
+        "tested": 2221
       },
       "districts": {
         "Balod": {
@@ -190842,13 +190835,17 @@
         }
       },
       "meta": {
-        "last_updated": "2020-05-29T19:12:14+05:30"
+        "last_updated": "2020-05-29T19:12:14+05:30",
+        "tested": {
+          "last_updated": "2020-05-29",
+          "source": "https://t.me/indiacovid/5853?single"
+        }
       },
       "total": {
         "confirmed": 404,
         "deceased": 1,
         "recovered": 83,
-        "tested": 61771
+        "tested": 63992
       }
     },
     "DL": {
@@ -191443,7 +191440,7 @@
     },
     "HR": {
       "delta": {
-        "confirmed": 211,
+        "confirmed": 217,
         "recovered": 59
       },
       "districts": {
@@ -191546,10 +191543,11 @@
         },
         "Karnal": {
           "delta": {
+            "confirmed": 6,
             "recovered": 4
           },
           "total": {
-            "confirmed": 42,
+            "confirmed": 48,
             "deceased": 1,
             "recovered": 20
           }
@@ -191667,10 +191665,10 @@
         }
       },
       "meta": {
-        "last_updated": "2020-05-29T20:59:57+05:30"
+        "last_updated": "2020-05-29T21:22:06+05:30"
       },
       "total": {
-        "confirmed": 1715,
+        "confirmed": 1721,
         "deceased": 19,
         "recovered": 940,
         "tested": 108031
@@ -192902,7 +192900,7 @@
     },
     "MN": {
       "delta": {
-        "confirmed": 3,
+        "confirmed": 4,
         "recovered": 2
       },
       "districts": {
@@ -192940,17 +192938,20 @@
           }
         },
         "Unassigned": {
+          "delta": {
+            "confirmed": 1
+          },
           "total": {
-            "confirmed": 24,
+            "confirmed": 25,
             "recovered": 2
           }
         }
       },
       "meta": {
-        "last_updated": "2020-05-29T20:38:13+05:30"
+        "last_updated": "2020-05-29T21:21:07+05:30"
       },
       "total": {
-        "confirmed": 58,
+        "confirmed": 59,
         "recovered": 6,
         "tested": 7758
       }
@@ -193890,7 +193891,8 @@
       "delta": {
         "confirmed": 91,
         "deceased": 2,
-        "recovered": 40
+        "recovered": 40,
+        "tested": 13759
       },
       "districts": {
         "Ajmer": {
@@ -194187,13 +194189,17 @@
         }
       },
       "meta": {
-        "last_updated": "2020-05-29T11:14:05+05:30"
+        "last_updated": "2020-05-29T11:14:05+05:30",
+        "tested": {
+          "last_updated": "2020-05-29",
+          "source": "https://t.me/indiacovid/5851"
+        }
       },
       "total": {
         "confirmed": 8158,
         "deceased": 182,
         "recovered": 4855,
-        "tested": 365556
+        "tested": 379315
       }
     },
     "SK": {
@@ -194934,20 +194940,20 @@
     },
     "TT": {
       "delta": {
-        "confirmed": 7002,
+        "confirmed": 7009,
         "deceased": 245,
         "recovered": 10708,
         "tested": 121702
       },
       "meta": {
-        "last_updated": "2020-05-29T20:59:57+05:30",
+        "last_updated": "2020-05-29T21:22:03+05:30",
         "tested": {
           "last_updated": "2020-05-29",
           "source": "https://t.me/Covid19india_Auxiliary_Test_Data/211"
         }
       },
       "total": {
-        "confirmed": 172356,
+        "confirmed": 172363,
         "deceased": 4956,
         "recovered": 81606,
         "tested": 3483838
@@ -195840,14 +195846,9 @@
         },
         "Unassigned": {
           "total": {
-            "confirmed": -206,
+            "confirmed": -223,
             "deceased": -20,
             "recovered": -105
-          }
-        },
-        "Unknown": {
-          "total": {
-            "confirmed": -17
           }
         },
         "Uttar Dinajpur": {
