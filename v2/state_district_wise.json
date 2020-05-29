@@ -1115,12 +1115,12 @@
       {
         "district": "Aurangabad",
         "notes": "",
-        "active": 36,
-        "confirmed": 63,
+        "active": 38,
+        "confirmed": 65,
         "deceased": 0,
         "recovered": 27,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 2,
           "deceased": 0,
           "recovered": 0
         }
@@ -1128,12 +1128,12 @@
       {
         "district": "Banka",
         "notes": "",
-        "active": 98,
-        "confirmed": 105,
+        "active": 100,
+        "confirmed": 107,
         "deceased": 0,
         "recovered": 7,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 2,
           "deceased": 0,
           "recovered": 0
         }
@@ -1232,12 +1232,12 @@
       {
         "district": "Gopalganj",
         "notes": "",
-        "active": 51,
-        "confirmed": 101,
+        "active": 59,
+        "confirmed": 109,
         "deceased": 0,
         "recovered": 50,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 8,
           "deceased": 0,
           "recovered": 0
         }
@@ -1297,12 +1297,12 @@
       {
         "district": "Khagaria",
         "notes": "",
-        "active": 122,
-        "confirmed": 148,
+        "active": 125,
+        "confirmed": 151,
         "deceased": 2,
         "recovered": 24,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 3,
           "deceased": 0,
           "recovered": 0
         }
@@ -1349,12 +1349,12 @@
       {
         "district": "Madhubani",
         "notes": "",
-        "active": 153,
-        "confirmed": 176,
+        "active": 156,
+        "confirmed": 179,
         "deceased": 0,
         "recovered": 23,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 3,
           "deceased": 0,
           "recovered": 0
         }
@@ -1362,12 +1362,12 @@
       {
         "district": "Munger",
         "notes": "",
-        "active": 27,
-        "confirmed": 148,
+        "active": 28,
+        "confirmed": 149,
         "deceased": 1,
         "recovered": 120,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
@@ -1427,12 +1427,12 @@
       {
         "district": "Purnia",
         "notes": "",
-        "active": 52,
-        "confirmed": 59,
+        "active": 57,
+        "confirmed": 64,
         "deceased": 0,
         "recovered": 7,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 5,
           "deceased": 0,
           "recovered": 0
         }
@@ -1574,6 +1574,19 @@
         "confirmed": 42,
         "deceased": 0,
         "recovered": 22,
+        "delta": {
+          "confirmed": 0,
+          "deceased": 0,
+          "recovered": 0
+        }
+      },
+      {
+        "district": "Unknown",
+        "notes": "",
+        "active": 66,
+        "confirmed": 66,
+        "deceased": 0,
+        "recovered": 0,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
@@ -9879,6 +9892,19 @@
         "confirmed": 10,
         "deceased": 0,
         "recovered": 1,
+        "delta": {
+          "confirmed": 0,
+          "deceased": 0,
+          "recovered": 0
+        }
+      },
+      {
+        "district": "Unknown",
+        "notes": "",
+        "active": 2,
+        "confirmed": 2,
+        "deceased": 0,
+        "recovered": 0,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
