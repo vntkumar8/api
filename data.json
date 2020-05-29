@@ -1056,11 +1056,11 @@
 		{
 			"dailyconfirmed": "5907",
 			"dailydeceased": "173",
-			"dailyrecovered": "3571",
+			"dailyrecovered": "3587",
 			"date": "26 May ",
 			"totalconfirmed": "150856",
 			"totaldeceased": "4346",
-			"totalrecovered": "64277"
+			"totalrecovered": "64293"
 		},
 		{
 			"dailyconfirmed": "7271",
@@ -1069,7 +1069,7 @@
 			"date": "27 May ",
 			"totalconfirmed": "158127",
 			"totaldeceased": "4534",
-			"totalrecovered": "67749"
+			"totalrecovered": "67765"
 		},
 		{
 			"dailyconfirmed": "7260",
@@ -1078,19 +1078,19 @@
 			"date": "28 May ",
 			"totalconfirmed": "165387",
 			"totaldeceased": "4710",
-			"totalrecovered": "70920"
+			"totalrecovered": "70936"
 		}
 	],
 	"statewise": [
 		{
-			"active": "90358",
-			"confirmed": "166077",
+			"active": "90368",
+			"confirmed": "166107",
 			"deaths": "4713",
-			"deltaconfirmed": "689",
+			"deltaconfirmed": "719",
 			"deltadeaths": "2",
-			"deltarecovered": "75",
-			"lastupdatedtime": "29/05/2020 14:01:03",
-			"recovered": "70995",
+			"deltarecovered": "79",
+			"lastupdatedtime": "29/05/2020 14:11:03",
+			"recovered": "71015",
 			"state": "Total",
 			"statecode": "TT",
 			"statenotes": ""
@@ -1239,14 +1239,14 @@
 			"statenotes": ""
 		},
 		{
-			"active": "1809",
+			"active": "1793",
 			"confirmed": "2711",
 			"deaths": "47",
 			"deltaconfirmed": "178",
 			"deltadeaths": "0",
 			"deltarecovered": "35",
-			"lastupdatedtime": "29/05/2020 14:01:05",
-			"recovered": "853",
+			"lastupdatedtime": "29/05/2020 14:11:06",
+			"recovered": "869",
 			"state": "Karnataka",
 			"statecode": "KA",
 			"statenotes": "Two active cases in KA reduced as a confirmed patient died of non-CoViD19 related reasons"
@@ -1330,13 +1330,13 @@
 			"statenotes": "Mahe native who expired in Kannur included in Kerala's tally"
 		},
 		{
-			"active": "770",
-			"confirmed": "881",
+			"active": "800",
+			"confirmed": "911",
 			"deaths": "4",
-			"deltaconfirmed": "0",
+			"deltaconfirmed": "30",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
-			"lastupdatedtime": "29/05/2020 10:19:05",
+			"lastupdatedtime": "29/05/2020 14:11:11",
 			"recovered": "104",
 			"state": "Assam",
 			"statecode": "AS",
@@ -1395,14 +1395,14 @@
 			"statenotes": ""
 		},
 		{
-			"active": "208",
+			"active": "204",
 			"confirmed": "290",
 			"deaths": "6",
 			"deltaconfirmed": "9",
 			"deltadeaths": "0",
-			"deltarecovered": "0",
-			"lastupdatedtime": "29/05/2020 11:58:07",
-			"recovered": "73",
+			"deltarecovered": "4",
+			"lastupdatedtime": "29/05/2020 14:11:13",
+			"recovered": "77",
 			"state": "Himachal Pradesh",
 			"statecode": "HP",
 			"statenotes": "HP has 4 Migrated cases which are reduced from Active #. Also, death of Tibetan refugee is included in deceased numbers, but not in confirmed"
