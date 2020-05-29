@@ -3623,7 +3623,7 @@
     "meta": {
       "tested": {
         "last_updated": "2020-05-28",
-        "source": ""
+        "source": "https://twitter.com/healthminmp/status/1266005654210334722?s=19"
       }
     },
     "total": {
@@ -6254,11 +6254,11 @@
       },
       "Hooghly": {
         "delta": {
-          "confirmed": 3,
+          "confirmed": 5,
           "deceased": 2
         },
         "total": {
-          "confirmed": 242,
+          "confirmed": 244,
           "deceased": 9,
           "recovered": 121
         }
@@ -6298,23 +6298,23 @@
       },
       "Kolkata": {
         "delta": {
-          "confirmed": 87,
+          "confirmed": 94,
           "deceased": 3,
           "recovered": 27
         },
         "total": {
-          "confirmed": 1895,
+          "confirmed": 1902,
           "deceased": 194,
           "recovered": 787
         }
       },
       "Malda": {
         "delta": {
-          "confirmed": 9,
+          "confirmed": 10,
           "recovered": 19
         },
         "total": {
-          "confirmed": 124,
+          "confirmed": 125,
           "recovered": 38
         }
       },
@@ -6339,22 +6339,22 @@
       },
       "North 24 Parganas": {
         "delta": {
-          "confirmed": 49,
+          "confirmed": 51,
           "deceased": 1,
           "recovered": 6
         },
         "total": {
-          "confirmed": 589,
+          "confirmed": 591,
           "deceased": 40,
           "recovered": 206
         }
       },
       "Other State": {
         "delta": {
-          "confirmed": 2
+          "confirmed": 3
         },
         "total": {
-          "confirmed": 47,
+          "confirmed": 48,
           "deceased": 2,
           "recovered": 10
         }
@@ -6371,11 +6371,11 @@
       },
       "Paschim Medinipur": {
         "delta": {
-          "confirmed": 1,
+          "confirmed": 3,
           "recovered": 1
         },
         "total": {
-          "confirmed": 28,
+          "confirmed": 30,
           "recovered": 20
         }
       },
@@ -6391,11 +6391,11 @@
       },
       "Purba Medinipur": {
         "delta": {
-          "confirmed": 8,
+          "confirmed": 9,
           "recovered": 3
         },
         "total": {
-          "confirmed": 76,
+          "confirmed": 77,
           "deceased": 1,
           "recovered": 36
         }
@@ -6407,11 +6407,11 @@
       },
       "South 24 Parganas": {
         "delta": {
-          "confirmed": 10,
+          "confirmed": 11,
           "recovered": 2
         },
         "total": {
-          "confirmed": 166,
+          "confirmed": 167,
           "deceased": 5,
           "recovered": 58
         }
@@ -6424,6 +6424,14 @@
           "confirmed": -206,
           "deceased": -20,
           "recovered": -105
+        }
+      },
+      "Unknown": {
+        "delta": {
+          "confirmed": -17
+        },
+        "total": {
+          "confirmed": -17
         }
       },
       "Uttar Dinajpur": {
