@@ -2934,8 +2934,11 @@
         }
       },
       "Other State": {
+        "delta": {
+          "confirmed": 1
+        },
         "total": {
-          "confirmed": 53,
+          "confirmed": 54,
           "deceased": 13,
           "recovered": 0
         }
@@ -3049,11 +3052,8 @@
         }
       },
       "Unassigned": {
-        "delta": {
-          "confirmed": 1
-        },
         "total": {
-          "confirmed": 1,
+          "confirmed": 0,
           "deceased": 0,
           "recovered": 0
         }

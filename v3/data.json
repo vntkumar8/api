@@ -485,7 +485,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-05-30T00:34:05+05:30",
+      "last_updated": "2020-05-30T00:43:06+05:30",
       "notes": "Includes one case from Nagaland <br>\nTotal of Three* patients who migrated to other states has been reduced from Active count",
       "tested": {
         "last_updated": "2020-05-29",
@@ -3086,8 +3086,11 @@
         }
       },
       "Other State": {
+        "delta": {
+          "confirmed": 2
+        },
         "total": {
-          "confirmed": 53,
+          "confirmed": 56,
           "deceased": 13,
           "recovered": 0
         }
@@ -3205,11 +3208,8 @@
         }
       },
       "Unassigned": {
-        "delta": {
-          "confirmed": 2
-        },
         "total": {
-          "confirmed": 3,
+          "confirmed": 0,
           "deceased": 0,
           "recovered": 0
         }
@@ -5560,7 +5560,7 @@
       "tested": 121702
     },
     "meta": {
-      "last_updated": "2020-05-30T00:34:03+05:30",
+      "last_updated": "2020-05-30T00:43:03+05:30",
       "tested": {
         "last_updated": "2020-05-29",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/211"
