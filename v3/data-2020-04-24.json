@@ -141,11 +141,23 @@
     }
   },
   "DN": {
+    "meta": {
+      "tested": {
+        "last_updated": "2020-04-23",
+        "source": "https://twitter.com/DnhPublicity/status/1253396695653720064"
+      }
+    },
     "total": {
       "tested": 913
     }
   },
   "GA": {
+    "meta": {
+      "tested": {
+        "last_updated": "2020-04-23",
+        "source": "https://twitter.com/DHS_Goa/status/1253330859903479814"
+      }
+    },
     "total": {
       "confirmed": 7,
       "recovered": 7,
@@ -286,6 +298,12 @@
     }
   },
   "LA": {
+    "meta": {
+      "tested": {
+        "last_updated": "2020-04-21",
+        "source": "https://twitter.com/ladags/status/1252646578688389121?s=09"
+      }
+    },
     "total": {
       "confirmed": 18,
       "recovered": 16,
@@ -365,12 +383,24 @@
     }
   },
   "MZ": {
+    "meta": {
+      "tested": {
+        "last_updated": "2020-04-23",
+        "source": "https://health.mizoram.gov.in/post/covid-19-bulletin-date-2342020"
+      }
+    },
     "total": {
       "confirmed": 1,
       "tested": 137
     }
   },
   "NL": {
+    "meta": {
+      "tested": {
+        "last_updated": "2020-04-23",
+        "source": "https://nagahealth.nagaland.gov.in/"
+      }
+    },
     "total": {
       "tested": 607
     }
@@ -453,6 +483,12 @@
       "confirmed": 13,
       "recovered": 39
     },
+    "meta": {
+      "tested": {
+        "last_updated": "2020-04-19",
+        "source": "https://t.me/indiacovid/2688?single"
+      }
+    },
     "total": {
       "confirmed": 983,
       "deceased": 25,
@@ -481,6 +517,12 @@
     }
   },
   "TR": {
+    "meta": {
+      "tested": {
+        "last_updated": "2020-04-22",
+        "source": "https://t.me/indiacovid/2983?single"
+      }
+    },
     "total": {
       "confirmed": 2,
       "recovered": 2,

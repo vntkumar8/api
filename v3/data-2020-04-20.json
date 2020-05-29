@@ -3,6 +3,12 @@
     "delta": {
       "confirmed": 1
     },
+    "meta": {
+      "tested": {
+        "last_updated": "2020-04-17",
+        "source": "https://t.me/indiacovid/2550"
+      }
+    },
     "total": {
       "confirmed": 16,
       "recovered": 11,
@@ -135,6 +141,12 @@
     }
   },
   "DN": {
+    "meta": {
+      "tested": {
+        "last_updated": "2020-04-16",
+        "source": "https://twitter.com/DnhPublicity/status/1250813940537278464"
+      }
+    },
     "total": {
       "tested": 382
     }
@@ -288,6 +300,12 @@
     }
   },
   "LA": {
+    "meta": {
+      "tested": {
+        "last_updated": "2020-04-19",
+        "source": "https://twitter.com/ladags/status/1251890558810812422?s=19"
+      }
+    },
     "total": {
       "confirmed": 18,
       "recovered": 14,
@@ -333,6 +351,12 @@
   "MN": {
     "delta": {
       "recovered": 1
+    },
+    "meta": {
+      "tested": {
+        "last_updated": "2020-04-17",
+        "source": "http://nrhmmanipur.org/wp-content/uploads/2020/03/170420_status.jpg"
+      }
     },
     "total": {
       "confirmed": 2,
@@ -466,6 +490,12 @@
       "confirmed": 14,
       "deceased": 2
     },
+    "meta": {
+      "tested": {
+        "last_updated": "2020-04-19",
+        "source": "https://t.me/indiacovid/2688?single"
+      }
+    },
     "total": {
       "confirmed": 872,
       "deceased": 23,
@@ -494,6 +524,12 @@
     }
   },
   "TR": {
+    "meta": {
+      "tested": {
+        "last_updated": "2020-04-16",
+        "source": "https://t.me/indiacovid/2466"
+      }
+    },
     "total": {
       "confirmed": 2,
       "recovered": 1,
@@ -505,6 +541,12 @@
       "confirmed": 1239,
       "deceased": 33,
       "recovered": 419
+    },
+    "meta": {
+      "tested": {
+        "last_updated": "2020-04-19",
+        "source": "https://icmr.nic.in/sites/default/files/whats_new/ICMR_testing_update_19April_9PM_IST.pdf"
+      }
     },
     "total": {
       "confirmed": 18541,

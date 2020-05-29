@@ -14,6 +14,12 @@
       "deceased": 2,
       "recovered": 4
     },
+    "meta": {
+      "tested": {
+        "last_updated": "2020-04-02",
+        "source": "https://twitter.com/ArogyaAndhra/status/1245580598938198016?s=20"
+      }
+    },
     "total": {
       "confirmed": 363,
       "deceased": 6,
@@ -40,6 +46,12 @@
     "delta": {
       "confirmed": 1
     },
+    "meta": {
+      "tested": {
+        "last_updated": "2020-04-02",
+        "source": "https://twitter.com/nhm_assam/status/1245742375319691264/photo/1"
+      }
+    },
     "total": {
       "confirmed": 29,
       "tested": 962
@@ -64,6 +76,12 @@
     }
   },
   "CH": {
+    "meta": {
+      "tested": {
+        "last_updated": "2020-04-08",
+        "source": "http://chdcovid19.in/"
+      }
+    },
     "total": {
       "confirmed": 18,
       "recovered": 7,
@@ -73,6 +91,12 @@
   "CT": {
     "delta": {
       "confirmed": 8
+    },
+    "meta": {
+      "tested": {
+        "last_updated": "2020-04-02",
+        "source": "http://www.cghealth.nic.in/cghealth17/"
+      }
     },
     "total": {
       "confirmed": 18,
@@ -135,6 +159,12 @@
       "deceased": 2,
       "recovered": 1
     },
+    "meta": {
+      "tested": {
+        "last_updated": "2020-04-08",
+        "source": "https://t.me/indiacovid/1850?single"
+      }
+    },
     "total": {
       "confirmed": 262,
       "deceased": 18,
@@ -184,6 +214,12 @@
     "delta": {
       "confirmed": 26,
       "deceased": 1
+    },
+    "meta": {
+      "tested": {
+        "last_updated": "2020-04-05",
+        "source": "https://twitter.com/diprjk/status/1246764514135040000"
+      }
     },
     "total": {
       "confirmed": 184,
@@ -298,6 +334,12 @@
     }
   },
   "NL": {
+    "meta": {
+      "tested": {
+        "last_updated": "2020-04-06",
+        "source": "http://morungexpress.com/nagaland-covid-19-update-2"
+      }
+    },
     "total": {
       "tested": 60
     }
