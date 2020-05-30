@@ -1214,6 +1214,9 @@
     }
   },
   "HP": {
+    "delta": {
+      "confirmed": 2
+    },
     "districts": {
       "Bilaspur": {
         "total": {
@@ -1235,8 +1238,11 @@
         }
       },
       "Kangra": {
+        "delta": {
+          "confirmed": 1
+        },
         "total": {
-          "confirmed": 74,
+          "confirmed": 75,
           "deceased": 1,
           "recovered": 24
         }
@@ -1267,8 +1273,11 @@
         }
       },
       "Solan": {
+        "delta": {
+          "confirmed": 1
+        },
         "total": {
-          "confirmed": 23,
+          "confirmed": 24,
           "deceased": 1,
           "recovered": 5
         }
@@ -1286,7 +1295,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-05-29T23:15:10+05:30",
+      "last_updated": "2020-05-30T12:43:10+05:30",
       "notes": "HP has 4 Migrated cases which are reduced from Active #. Also, death of Tibetan refugee is included in deceased numbers, but not in confirmed",
       "tested": {
         "last_updated": "2020-05-29",
@@ -1294,7 +1303,7 @@
       }
     },
     "total": {
-      "confirmed": 295,
+      "confirmed": 297,
       "deceased": 6,
       "recovered": 83,
       "tested": 33979
@@ -4291,19 +4300,19 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 430,
+      "confirmed": 432,
       "deceased": 1,
       "recovered": 46
     },
     "meta": {
-      "last_updated": "2020-05-30T11:46:03+05:30",
+      "last_updated": "2020-05-30T12:43:06+05:30",
       "tested": {
         "last_updated": "2020-05-29",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/211"
       }
     },
     "total": {
-      "confirmed": 173918,
+      "confirmed": 173920,
       "deceased": 4981,
       "recovered": 82673,
       "tested": 3483838
