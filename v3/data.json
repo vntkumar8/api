@@ -268,8 +268,11 @@
         }
       },
       "Chirang": {
+        "delta": {
+          "confirmed": 26
+        },
         "total": {
-          "confirmed": 6
+          "confirmed": 32
         }
       },
       "Darrang": {
@@ -354,10 +357,11 @@
       },
       "Kamrup Metropolitan": {
         "delta": {
+          "confirmed": 3,
           "recovered": 13
         },
         "total": {
-          "confirmed": 313,
+          "confirmed": 316,
           "deceased": 3,
           "recovered": 78
         }
@@ -438,10 +442,10 @@
       },
       "Unassigned": {
         "delta": {
-          "confirmed": 29
+          "confirmed": 0
         },
         "total": {
-          "confirmed": 27,
+          "confirmed": -2,
           "deceased": 0,
           "recovered": 0
         }
@@ -867,7 +871,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-05-30T23:03:05+05:30",
+      "last_updated": "2020-05-30T23:04:06+05:30",
       "tested": {
         "last_updated": "2020-05-30",
         "source": "https://t.me/indiacovid/5905?single"
@@ -4381,7 +4385,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-05-30T23:02:06+05:30",
+      "last_updated": "2020-05-30T23:04:08+05:30",
       "tested": {
         "last_updated": "2020-05-30",
         "source": "http://chdcovid19.in/"
@@ -5603,7 +5607,7 @@
       "tested": 127761
     },
     "meta": {
-      "last_updated": "2020-05-30T23:03:03+05:30",
+      "last_updated": "2020-05-30T23:04:03+05:30",
       "tested": {
         "last_updated": "2020-05-30",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/228"
