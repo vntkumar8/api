@@ -1655,7 +1655,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-05-30T22:22:09+05:30",
+      "last_updated": "2020-05-30T22:36:17+05:30",
       "notes": "HP has 4 Migrated cases which are reduced from Active #. Also, death of Tibetan refugee is included in deceased numbers, but not in confirmed",
       "tested": {
         "last_updated": "2020-05-30",
@@ -2065,7 +2065,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-05-30T22:22:07+05:30",
+      "last_updated": "2020-05-30T22:36:10+05:30",
       "tested": {
         "last_updated": "2020-05-29",
         "source": "https://t.me/indiacovid/5876"
@@ -3775,7 +3775,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-05-30T22:22:04+05:30",
+      "last_updated": "2020-05-30T22:36:04+05:30",
       "tested": {
         "last_updated": "2020-05-30",
         "source": "https://twitter.com/healthminmp/status/1266739615857336321?s=19"
@@ -5084,7 +5084,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-05-30T22:22:06+05:30",
+      "last_updated": "2020-05-30T22:36:06+05:30",
       "tested": {
         "last_updated": "2020-05-16",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/42"
@@ -5487,22 +5487,37 @@
     }
   },
   "TR": {
+    "delta": {
+      "confirmed": 17,
+      "recovered": 5
+    },
     "districts": {
       "Dhalai": {
+        "delta": {
+          "confirmed": 6,
+          "recovered": 1
+        },
         "total": {
-          "confirmed": 165,
-          "recovered": 162
+          "confirmed": 171,
+          "recovered": 163
         }
       },
       "Gomati": {
-        "total": {
-          "confirmed": 28,
+        "delta": {
+          "confirmed": 3,
           "recovered": 1
+        },
+        "total": {
+          "confirmed": 31,
+          "recovered": 2
         }
       },
       "Khowai": {
+        "delta": {
+          "confirmed": 1
+        },
         "total": {
-          "confirmed": 13,
+          "confirmed": 14,
           "recovered": 1
         }
       },
@@ -5513,33 +5528,52 @@
         }
       },
       "Sipahijala": {
+        "delta": {
+          "confirmed": 18,
+          "recovered": 2
+        },
+        "total": {
+          "confirmed": 23,
+          "recovered": 2
+        }
+      },
+      "South Tripura": {
+        "delta": {
+          "confirmed": 1
+        },
         "total": {
           "confirmed": 5
         }
       },
-      "South Tripura": {
-        "total": {
-          "confirmed": 4
-        }
-      },
       "Unassigned": {
+        "delta": {
+          "confirmed": -22
+        },
         "total": {
-          "confirmed": 22
+          "confirmed": 0
         }
       },
       "Unokoti": {
+        "delta": {
+          "confirmed": 1,
+          "recovered": 1
+        },
         "total": {
-          "confirmed": 1
+          "confirmed": 2,
+          "recovered": 1
         }
       },
       "West Tripura": {
+        "delta": {
+          "confirmed": 9
+        },
         "total": {
-          "confirmed": 8
+          "confirmed": 17
         }
       }
     },
     "meta": {
-      "last_updated": "2020-05-29T23:15:11+05:30",
+      "last_updated": "2020-05-30T22:36:18+05:30",
       "notes": "Two cases have migrated out of Tripura.",
       "tested": {
         "last_updated": "2020-05-29",
@@ -5547,29 +5581,29 @@
       }
     },
     "total": {
-      "confirmed": 254,
-      "recovered": 167,
+      "confirmed": 271,
+      "recovered": 172,
       "tested": 25403
     }
   },
   "TT": {
     "delta": {
-      "confirmed": 8284,
+      "confirmed": 8301,
       "deceased": 205,
-      "recovered": 4248,
+      "recovered": 4253,
       "tested": 127761
     },
     "meta": {
-      "last_updated": "2020-05-30T22:22:03+05:30",
+      "last_updated": "2020-05-30T22:36:03+05:30",
       "tested": {
         "last_updated": "2020-05-30",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/228"
       }
     },
     "total": {
-      "confirmed": 181775,
+      "confirmed": 181792,
       "deceased": 5185,
-      "recovered": 86875,
+      "recovered": 86880,
       "tested": 3611599
     }
   },
