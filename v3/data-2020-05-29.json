@@ -381,13 +381,8 @@
           "confirmed": 8
         },
         "total": {
-          "confirmed": 41,
+          "confirmed": 43,
           "recovered": 2
-        }
-      },
-      "Karimnagar": {
-        "total": {
-          "confirmed": 2
         }
       },
       "Kokrajhar": {
@@ -2569,6 +2564,11 @@
           "confirmed": 164,
           "deceased": 1,
           "recovered": 5
+        }
+      },
+      "Unassigned": {
+        "total": {
+          "recovered": 0
         }
       },
       "Uttara Kannada": {

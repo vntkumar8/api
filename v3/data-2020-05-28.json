@@ -384,17 +384,12 @@
         }
       },
       "Karimganj": {
-        "total": {
-          "confirmed": 33,
-          "recovered": 2
-        }
-      },
-      "Karimnagar": {
         "delta": {
           "confirmed": 2
         },
         "total": {
-          "confirmed": 2
+          "confirmed": 35,
+          "recovered": 2
         }
       },
       "Kokrajhar": {
@@ -2475,6 +2470,11 @@
           "confirmed": 149,
           "deceased": 1,
           "recovered": 3
+        }
+      },
+      "Unassigned": {
+        "total": {
+          "recovered": 0
         }
       },
       "Uttara Kannada": {

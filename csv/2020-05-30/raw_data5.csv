@@ -2955,7 +2955,9 @@ Entry_ID,State Patient Number,Date Announced,Age Bracket,Gender,Detected City,De
 31176,,25/05/2020,,,,Bilaspur,Chhattisgarh,CT,1,Hospitalized,,,https://twitter.com/HealthCgGov/status/1264909016809050120,,,,,,60112
 31177,,25/05/2020,,,,,Chhattisgarh,CT,3,Recovered,,Reconciling to reach active,https://twitter.com/HealthCgGov/status/1264909016809050120,,,,,,60113
 31178,,25/05/2020,,,,Wardha,Maharashtra,MH,2,Hospitalized,,,https://twitter.com/the_hindu/status/1264922559830605824,https://twitter.com/rajeshtope11/status/1264923005559336960,,,,,60114
-31179,,25/05/2020,,,,,Maharashtra,MH,,Recovered,,,https://twitter.com/the_hindu/status/1264922559830605824,https://twitter.com/rajeshtope11/status/1264923005559336960,,,,,60115
+31179,,25/05/2020,,,,,Maharashtra,MH,0,Recovered,"
+
+",Split below,https://twitter.com/the_hindu/status/1264922559830605824,https://twitter.com/rajeshtope11/status/1264923005559336960,,,,,60115
 31180,,25/05/2020,,,,Thane,Maharashtra,MH,6,Deceased,,,https://twitter.com/the_hindu/status/1264922559830605824,https://twitter.com/rajeshtope11/status/1264923005559336960,,,,,60116
 31181,,25/05/2020,,,,Ahmedabad,Gujarat,GJ,310,Hospitalized,,,https://twitter.com/PIBAhmedabad/status/1264928294060855296,,,,,,60117
 31182,,25/05/2020,,,,Surat,Gujarat,GJ,31,Hospitalized,,,https://twitter.com/PIBAhmedabad/status/1264928294060855296,,,,,,60118
@@ -5107,44 +5109,46 @@ Entry_ID,State Patient Number,Date Announced,Age Bracket,Gender,Detected City,De
 33328,,27/05/2020,,,,Nayagarh,Odisha,OR,2,Hospitalized,,,https://twitter.com/IPR_Odisha/status/1265509528138899457,,,,,,62264
 33329,,27/05/2020,,,,Nuapada,Odisha,OR,13,Hospitalized,,,https://twitter.com/IPR_Odisha/status/1265509528138899457,,,,,,62265
 33330,,27/05/2020,,,,Sundargarh,Odisha,OR,2,Hospitalized,,,https://twitter.com/IPR_Odisha/status/1265509528138899457,,,,,,62266
-33331,,27/05/2020,20,M,Marhaura,Saran,Bihar,BR,,Hospitalized,,Rows ignored as the same entries are added later,https://twitter.com/BiharHealthDept/status/1265547387235381249?s=20,,,,,,62267
-33332,,27/05/2020,45,M,Sonepur,Saran,Bihar,BR,,Hospitalized,,Rows ignored as the same entries are added later,https://twitter.com/BiharHealthDept/status/1265547387235381249?s=20,,,,,,62268
-33333,,27/05/2020,64,M,Parsa,Saran,Bihar,BR,,Hospitalized,,Rows ignored as the same entries are added later,https://twitter.com/BiharHealthDept/status/1265547387235381249?s=20,,,,,,62269
-33334,,27/05/2020,40,M,Parsa,Saran,Bihar,BR,,Hospitalized,,Rows ignored as the same entries are added later,https://twitter.com/BiharHealthDept/status/1265547387235381249?s=20,,,,,,62270
-33335,,27/05/2020,32,M,Bhagwanpur,Begusarai,Bihar,BR,,Hospitalized,,Rows ignored as the same entries are added later,https://twitter.com/BiharHealthDept/status/1265547387235381249?s=20,,,,,,62271
-33336,,27/05/2020,32,M,Bhagwanpur,Begusarai,Bihar,BR,,Hospitalized,,Rows ignored as the same entries are added later,https://twitter.com/BiharHealthDept/status/1265547387235381249?s=20,,,,,,62272
-33337,,27/05/2020,65,M,Hajipur,Vaishali,Bihar,BR,,Hospitalized,,Rows ignored as the same entries are added later,https://twitter.com/BiharHealthDept/status/1265547387235381249?s=20,,,,,,62273
-33338,,27/05/2020,55,M,Narpatganj,Araria,Bihar,BR,,Hospitalized,,Rows ignored as the same entries are added later,https://twitter.com/BiharHealthDept/status/1265547387235381249?s=20,,,,,,62274
-33339,,27/05/2020,27,M,Narpatganj,Araria,Bihar,BR,,Hospitalized,,Rows ignored as the same entries are added later,https://twitter.com/BiharHealthDept/status/1265547387235381249?s=20,,,,,,62275
-33340,,27/05/2020,25,M,Raniganj,Araria,Bihar,BR,,Hospitalized,,Rows ignored as the same entries are added later,https://twitter.com/BiharHealthDept/status/1265547387235381249?s=20,,,,,,62276
-33341,,27/05/2020,18,M,Araria,Araria,Bihar,BR,,Hospitalized,,Rows ignored as the same entries are added later,https://twitter.com/BiharHealthDept/status/1265547387235381249?s=20,,,,,,62277
-33342,,27/05/2020,41,M,Raniganj,Araria,Bihar,BR,,Hospitalized,,Rows ignored as the same entries are added later,https://twitter.com/BiharHealthDept/status/1265547387235381249?s=20,,,,,,62278
-33343,,27/05/2020,33,M,Jokihat,Araria,Bihar,BR,,Hospitalized,,Rows ignored as the same entries are added later,https://twitter.com/BiharHealthDept/status/1265547387235381249?s=20,,,,,,62279
-33344,,27/05/2020,52,F,Forbesganj,Araria,Bihar,BR,,Hospitalized,,Rows ignored as the same entries are added later,https://twitter.com/BiharHealthDept/status/1265547387235381249?s=20,,,,,,62280
-33345,,27/05/2020,19,M,Araria,Araria,Bihar,BR,,Hospitalized,,Rows ignored as the same entries are added later,https://twitter.com/BiharHealthDept/status/1265547387235381249?s=20,,,,,,62281
-33346,,27/05/2020,21,M,Araria,Araria,Bihar,BR,,Hospitalized,,Rows ignored as the same entries are added later,https://twitter.com/BiharHealthDept/status/1265547387235381249?s=20,,,,,,62282
-33347,,27/05/2020,38,M,Araria,Araria,Bihar,BR,,Hospitalized,,Rows ignored as the same entries are added later,https://twitter.com/BiharHealthDept/status/1265547387235381249?s=20,,,,,,62283
-33348,,27/05/2020,22,M,Narpatganj,Araria,Bihar,BR,,Hospitalized,,Rows ignored as the same entries are added later,https://twitter.com/BiharHealthDept/status/1265547387235381249?s=20,,,,,,62284
-33349,,27/05/2020,40,M,Sikti,Araria,Bihar,BR,,Hospitalized,,Rows ignored as the same entries are added later,https://twitter.com/BiharHealthDept/status/1265547387235381249?s=20,,,,,,62285
-33350,,27/05/2020,24,M,Sikti,Araria,Bihar,BR,,Hospitalized,,Rows ignored as the same entries are added later,https://twitter.com/BiharHealthDept/status/1265547387235381249?s=20,,,,,,62286
-33351,,27/05/2020,25,M,Narpatganj,Araria,Bihar,BR,,Hospitalized,,Rows ignored as the same entries are added later,https://twitter.com/BiharHealthDept/status/1265547387235381249?s=20,,,,,,62287
-33352,,27/05/2020,22,M,Darbhanga,Darbhanga,Bihar,BR,,Hospitalized,,Rows ignored as the same entries are added later,https://twitter.com/BiharHealthDept/status/1265547387235381249?s=20,,,,,,62288
-33353,,27/05/2020,22,M,Allalpatii,Darbhanga,Bihar,BR,,Hospitalized,,Rows ignored as the same entries are added later,https://twitter.com/BiharHealthDept/status/1265547387235381249?s=20,,,,,,62289
-33354,,27/05/2020,35,M,Darbhanga,Darbhanga,Bihar,BR,,Hospitalized,,Rows ignored as the same entries are added later,https://twitter.com/BiharHealthDept/status/1265547387235381249?s=20,,,,,,62290
-33355,,27/05/2020,43,M,Darbhanga,Darbhanga,Bihar,BR,,Hospitalized,,Rows ignored as the same entries are added later,https://twitter.com/BiharHealthDept/status/1265547387235381249?s=20,,,,,,62291
-33356,,27/05/2020,25,M,Pothia,Kishanganj,Bihar,BR,,Hospitalized,,Rows ignored as the same entries are added later,https://twitter.com/BiharHealthDept/status/1265547387235381249?s=20,,,,,,62292
-33357,,27/05/2020,38,M,Alamnagar,Madhepura,Bihar,BR,,Hospitalized,,Rows ignored as the same entries are added later,https://twitter.com/BiharHealthDept/status/1265547387235381249?s=20,,,,,,62293
-33358,,27/05/2020,35,M,Alamnagar,Madhepura,Bihar,BR,,Hospitalized,,Rows ignored as the same entries are added later,https://twitter.com/BiharHealthDept/status/1265547387235381249?s=20,,,,,,62294
-33359,,27/05/2020,15,F,Alamnagar,Madhepura,Bihar,BR,,Hospitalized,,Rows ignored as the same entries are added later,https://twitter.com/BiharHealthDept/status/1265547387235381249?s=20,,,,,,62295
-33360,,27/05/2020,10,M,Shankarpur,Madhepura,Bihar,BR,,Hospitalized,,Rows ignored as the same entries are added later,https://twitter.com/BiharHealthDept/status/1265547387235381249?s=20,,,,,,62296
-33361,,27/05/2020,15,M,Shankarpur,Madhepura,Bihar,BR,,Hospitalized,,Rows ignored as the same entries are added later,https://twitter.com/BiharHealthDept/status/1265547387235381249?s=20,,,,,,62297
-33362,,27/05/2020,13,M,Shankarpur,Madhepura,Bihar,BR,,Hospitalized,,Rows ignored as the same entries are added later,https://twitter.com/BiharHealthDept/status/1265547387235381249?s=20,,,,,,62298
-33363,,27/05/2020,24,M,Madhepura,Madhepura,Bihar,BR,,Hospitalized,,Rows ignored as the same entries are added later,https://twitter.com/BiharHealthDept/status/1265547387235381249?s=20,,,,,,62299
-33364,,27/05/2020,36,M,Alamnagar,Madhepura,Bihar,BR,,Hospitalized,,Rows ignored as the same entries are added later,https://twitter.com/BiharHealthDept/status/1265547387235381249?s=20,,,,,,62300
-33365,,27/05/2020,22,M,Chausa,Madhepura,Bihar,BR,,Hospitalized,,Rows ignored as the same entries are added later,https://twitter.com/BiharHealthDept/status/1265547387235381249?s=20,,,,,,62301
-33366,,27/05/2020,20,M,Satiar Katiya,Saharsa,Bihar,BR,,Hospitalized,,Rows ignored as the same entries are added later,https://twitter.com/BiharHealthDept/status/1265547387235381249?s=20,,,,,,62302
-33367,,27/05/2020,45,M,Satiar Katiya,Saharsa,Bihar,BR,,Hospitalized,,Rows ignored as the same entries are added later,https://twitter.com/BiharHealthDept/status/1265547387235381249?s=20,,,,,,62303
-33368,,27/05/2020,25,M,Sonbarsa,Saharsa,Bihar,BR,,Hospitalized,,Rows ignored as the same entries are added later,https://twitter.com/BiharHealthDept/status/1265547387235381249?s=20,,,,,,62304
+33331,,27/05/2020,20,M,Marhaura,Saran,Bihar,BR,0,Hospitalized,"
+
+",Rows ignored as the same entries are added later,https://twitter.com/BiharHealthDept/status/1265547387235381249?s=20,,,,,,62267
+33332,,27/05/2020,45,M,Sonepur,Saran,Bihar,BR,0,Hospitalized,,Rows ignored as the same entries are added later,https://twitter.com/BiharHealthDept/status/1265547387235381249?s=20,,,,,,62268
+33333,,27/05/2020,64,M,Parsa,Saran,Bihar,BR,0,Hospitalized,,Rows ignored as the same entries are added later,https://twitter.com/BiharHealthDept/status/1265547387235381249?s=20,,,,,,62269
+33334,,27/05/2020,40,M,Parsa,Saran,Bihar,BR,0,Hospitalized,,Rows ignored as the same entries are added later,https://twitter.com/BiharHealthDept/status/1265547387235381249?s=20,,,,,,62270
+33335,,27/05/2020,32,M,Bhagwanpur,Begusarai,Bihar,BR,0,Hospitalized,,Rows ignored as the same entries are added later,https://twitter.com/BiharHealthDept/status/1265547387235381249?s=20,,,,,,62271
+33336,,27/05/2020,32,M,Bhagwanpur,Begusarai,Bihar,BR,0,Hospitalized,,Rows ignored as the same entries are added later,https://twitter.com/BiharHealthDept/status/1265547387235381249?s=20,,,,,,62272
+33337,,27/05/2020,65,M,Hajipur,Vaishali,Bihar,BR,0,Hospitalized,,Rows ignored as the same entries are added later,https://twitter.com/BiharHealthDept/status/1265547387235381249?s=20,,,,,,62273
+33338,,27/05/2020,55,M,Narpatganj,Araria,Bihar,BR,0,Hospitalized,,Rows ignored as the same entries are added later,https://twitter.com/BiharHealthDept/status/1265547387235381249?s=20,,,,,,62274
+33339,,27/05/2020,27,M,Narpatganj,Araria,Bihar,BR,0,Hospitalized,,Rows ignored as the same entries are added later,https://twitter.com/BiharHealthDept/status/1265547387235381249?s=20,,,,,,62275
+33340,,27/05/2020,25,M,Raniganj,Araria,Bihar,BR,0,Hospitalized,,Rows ignored as the same entries are added later,https://twitter.com/BiharHealthDept/status/1265547387235381249?s=20,,,,,,62276
+33341,,27/05/2020,18,M,Araria,Araria,Bihar,BR,0,Hospitalized,,Rows ignored as the same entries are added later,https://twitter.com/BiharHealthDept/status/1265547387235381249?s=20,,,,,,62277
+33342,,27/05/2020,41,M,Raniganj,Araria,Bihar,BR,0,Hospitalized,,Rows ignored as the same entries are added later,https://twitter.com/BiharHealthDept/status/1265547387235381249?s=20,,,,,,62278
+33343,,27/05/2020,33,M,Jokihat,Araria,Bihar,BR,0,Hospitalized,,Rows ignored as the same entries are added later,https://twitter.com/BiharHealthDept/status/1265547387235381249?s=20,,,,,,62279
+33344,,27/05/2020,52,F,Forbesganj,Araria,Bihar,BR,0,Hospitalized,,Rows ignored as the same entries are added later,https://twitter.com/BiharHealthDept/status/1265547387235381249?s=20,,,,,,62280
+33345,,27/05/2020,19,M,Araria,Araria,Bihar,BR,0,Hospitalized,,Rows ignored as the same entries are added later,https://twitter.com/BiharHealthDept/status/1265547387235381249?s=20,,,,,,62281
+33346,,27/05/2020,21,M,Araria,Araria,Bihar,BR,0,Hospitalized,,Rows ignored as the same entries are added later,https://twitter.com/BiharHealthDept/status/1265547387235381249?s=20,,,,,,62282
+33347,,27/05/2020,38,M,Araria,Araria,Bihar,BR,0,Hospitalized,,Rows ignored as the same entries are added later,https://twitter.com/BiharHealthDept/status/1265547387235381249?s=20,,,,,,62283
+33348,,27/05/2020,22,M,Narpatganj,Araria,Bihar,BR,0,Hospitalized,,Rows ignored as the same entries are added later,https://twitter.com/BiharHealthDept/status/1265547387235381249?s=20,,,,,,62284
+33349,,27/05/2020,40,M,Sikti,Araria,Bihar,BR,0,Hospitalized,,Rows ignored as the same entries are added later,https://twitter.com/BiharHealthDept/status/1265547387235381249?s=20,,,,,,62285
+33350,,27/05/2020,24,M,Sikti,Araria,Bihar,BR,0,Hospitalized,,Rows ignored as the same entries are added later,https://twitter.com/BiharHealthDept/status/1265547387235381249?s=20,,,,,,62286
+33351,,27/05/2020,25,M,Narpatganj,Araria,Bihar,BR,0,Hospitalized,,Rows ignored as the same entries are added later,https://twitter.com/BiharHealthDept/status/1265547387235381249?s=20,,,,,,62287
+33352,,27/05/2020,22,M,Darbhanga,Darbhanga,Bihar,BR,0,Hospitalized,,Rows ignored as the same entries are added later,https://twitter.com/BiharHealthDept/status/1265547387235381249?s=20,,,,,,62288
+33353,,27/05/2020,22,M,Allalpatii,Darbhanga,Bihar,BR,0,Hospitalized,,Rows ignored as the same entries are added later,https://twitter.com/BiharHealthDept/status/1265547387235381249?s=20,,,,,,62289
+33354,,27/05/2020,35,M,Darbhanga,Darbhanga,Bihar,BR,0,Hospitalized,,Rows ignored as the same entries are added later,https://twitter.com/BiharHealthDept/status/1265547387235381249?s=20,,,,,,62290
+33355,,27/05/2020,43,M,Darbhanga,Darbhanga,Bihar,BR,0,Hospitalized,,Rows ignored as the same entries are added later,https://twitter.com/BiharHealthDept/status/1265547387235381249?s=20,,,,,,62291
+33356,,27/05/2020,25,M,Pothia,Kishanganj,Bihar,BR,0,Hospitalized,,Rows ignored as the same entries are added later,https://twitter.com/BiharHealthDept/status/1265547387235381249?s=20,,,,,,62292
+33357,,27/05/2020,38,M,Alamnagar,Madhepura,Bihar,BR,0,Hospitalized,,Rows ignored as the same entries are added later,https://twitter.com/BiharHealthDept/status/1265547387235381249?s=20,,,,,,62293
+33358,,27/05/2020,35,M,Alamnagar,Madhepura,Bihar,BR,0,Hospitalized,,Rows ignored as the same entries are added later,https://twitter.com/BiharHealthDept/status/1265547387235381249?s=20,,,,,,62294
+33359,,27/05/2020,15,F,Alamnagar,Madhepura,Bihar,BR,0,Hospitalized,,Rows ignored as the same entries are added later,https://twitter.com/BiharHealthDept/status/1265547387235381249?s=20,,,,,,62295
+33360,,27/05/2020,10,M,Shankarpur,Madhepura,Bihar,BR,0,Hospitalized,,Rows ignored as the same entries are added later,https://twitter.com/BiharHealthDept/status/1265547387235381249?s=20,,,,,,62296
+33361,,27/05/2020,15,M,Shankarpur,Madhepura,Bihar,BR,0,Hospitalized,,Rows ignored as the same entries are added later,https://twitter.com/BiharHealthDept/status/1265547387235381249?s=20,,,,,,62297
+33362,,27/05/2020,13,M,Shankarpur,Madhepura,Bihar,BR,0,Hospitalized,,Rows ignored as the same entries are added later,https://twitter.com/BiharHealthDept/status/1265547387235381249?s=20,,,,,,62298
+33363,,27/05/2020,24,M,Madhepura,Madhepura,Bihar,BR,0,Hospitalized,,Rows ignored as the same entries are added later,https://twitter.com/BiharHealthDept/status/1265547387235381249?s=20,,,,,,62299
+33364,,27/05/2020,36,M,Alamnagar,Madhepura,Bihar,BR,0,Hospitalized,,Rows ignored as the same entries are added later,https://twitter.com/BiharHealthDept/status/1265547387235381249?s=20,,,,,,62300
+33365,,27/05/2020,22,M,Chausa,Madhepura,Bihar,BR,0,Hospitalized,,Rows ignored as the same entries are added later,https://twitter.com/BiharHealthDept/status/1265547387235381249?s=20,,,,,,62301
+33366,,27/05/2020,20,M,Satiar Katiya,Saharsa,Bihar,BR,0,Hospitalized,,Rows ignored as the same entries are added later,https://twitter.com/BiharHealthDept/status/1265547387235381249?s=20,,,,,,62302
+33367,,27/05/2020,45,M,Satiar Katiya,Saharsa,Bihar,BR,0,Hospitalized,,Rows ignored as the same entries are added later,https://twitter.com/BiharHealthDept/status/1265547387235381249?s=20,,,,,,62303
+33368,,27/05/2020,25,M,Sonbarsa,Saharsa,Bihar,BR,0,Hospitalized,,Rows ignored as the same entries are added later,https://twitter.com/BiharHealthDept/status/1265547387235381249?s=20,,,,,,62304
 33369,,27/05/2020,,,,Kamrup Metropolitan,Assam,AS,1,Hospitalized,,Travelled from Ahmedabad,https://twitter.com/himantabiswa/status/1265558805699604480,,,,,,62305
 33370,,27/05/2020,,,,Golaghat,Assam,AS,14,Hospitalized,,,https://twitter.com/himantabiswa/status/1265558805699604480,,,,,,62306
 33371,,27/05/2020,,,,Karbi Anglong,Assam,AS,2,Hospitalized,,,https://twitter.com/himantabiswa/status/1265558805699604480,,,,,,62307
@@ -6893,7 +6897,9 @@ Maharashtra",https://t.me/Karnataka_KoViD19_Broadcast/3670,,,,,,63882
 35067,,28/05/2020,,,,Cachar,Assam,AS,7,Hospitalized,,,https://twitter.com/himantabiswa/status/1265936205876617216,,,,,,64003
 35068,,28/05/2020,,,,Hojai,Assam,AS,1,Hospitalized,,,https://twitter.com/himantabiswa/status/1265936205876617216,,,,,,64004
 35069,,28/05/2020,,,,Dima Hasao,Assam,AS,1,Hospitalized,,,https://twitter.com/himantabiswa/status/1265936205876617216,,,,,,64005
-35070,,28/05/2020,,,,Karimnagar,Assam,AS,2,Hospitalized,,,https://twitter.com/himantabiswa/status/1265936205876617216,,,,,,64006
+35070,,28/05/2020,,,,Karimganj,Assam,AS,2,Hospitalized,"
+
+",,https://twitter.com/himantabiswa/status/1265936205876617216,,,,,,64006
 35071,,28/05/2020,,,,Hailakandi,Assam,AS,2,Hospitalized,,,https://twitter.com/himantabiswa/status/1265936205876617216,,,,,,64007
 35072,,28/05/2020,,,,,Assam,AS,2,Hospitalized,,Yet to be found,https://twitter.com/himantabiswa/status/1265936205876617216,,,,,,64008
 35073,,28/05/2020,,,,Chandigarh,Chandigarh,CH,1,Hospitalized,,,https://t.me/indiacovid/5627,,,,,,64009
@@ -8663,7 +8669,7 @@ Maharashtra",https://t.me/Karnataka_KoViD19_Broadcast/3670,,,,,,63882
 36837,,29/05/2020,,,,Hailakandi,Assam,AS,2,Hospitalized,,,https://twitter.com/himantabiswa/status/1266266964000862208?s=20,,,,,,65773
 36838,,29/05/2020,,,,Karbi Anglong,Assam,AS,2,Hospitalized,,,https://twitter.com/himantabiswa/status/1266266964000862208?s=20,,,,,,65774
 36839,,29/05/2020,,,,Hamirpur,Himachal Pradesh,HP,4,Recovered,,,https://twitter.com/nhm_hp/status/1266277682259431424?s=20,,,,,,65775
-36840,,26/05/2020,,,,,Karnataka,KA,,Recovered,,"To be Expanded, ** Total Discharges data reconciled with SSU",https://covid19.karnataka.gov.in/storage/pdf-files/Media-Bulletin/27.05.2020%20EMB%20English.pdf,,,,,,65776
+36840,,26/05/2020,,,,,Karnataka,KA,0,Recovered,,"To be Expanded, ** Total Discharges data reconciled with SSU",https://covid19.karnataka.gov.in/storage/pdf-files/Media-Bulletin/27.05.2020%20EMB%20English.pdf,,,,,,65776
 36841,,26/05/2020,,,,Belagavi,Karnataka,KA,9,Recovered,,,https://covid19.karnataka.gov.in/storage/pdf-files/Media-Bulletin/28.05.2020%20EMB%20English.pdf,,,,,,65777
 36842,,26/05/2020,,,,Davanagere,Karnataka,KA,14,Recovered,,,https://covid19.karnataka.gov.in/storage/pdf-files/Media-Bulletin/28.05.2020%20EMB%20English.pdf,,,,,,65778
 36843,,26/05/2020,,,,Bagalkote,Karnataka,KA,-8,Recovered,,,https://covid19.karnataka.gov.in/storage/pdf-files/Media-Bulletin/28.05.2020%20EMB%20English.pdf,,,,,,65779
@@ -8721,9 +8727,9 @@ Maharashtra",https://t.me/Karnataka_KoViD19_Broadcast/3670,,,,,,63882
 36895,,29/05/2020,25,,,Lakhisarai,Bihar,BR,1,Hospitalized,,,https://twitter.com/BiharHealthDept/status/1266274632388112387,,,,,,65831
 36896,,29/05/2020,48,,,Lakhisarai,Bihar,BR,1,Hospitalized,,,https://twitter.com/BiharHealthDept/status/1266274632388112387,,,,,,65832
 36897,,29/05/2020,22,,,Vaishali,Bihar,BR,1,Hospitalized,,,https://twitter.com/BiharHealthDept/status/1266274632388112387,,,,,,65833
-36898,,29/05/2020,26,,,gaya,Bihar,BR,1,Hospitalized,,,https://twitter.com/BiharHealthDept/status/1266274632388112387,,,,,,65834
-36899,,29/05/2020,43,,,gaya,Bihar,BR,1,Hospitalized,,,https://twitter.com/BiharHealthDept/status/1266274632388112387,,,,,,65835
-36900,,29/05/2020,25,,,gaya,Bihar,BR,1,Hospitalized,,,https://twitter.com/BiharHealthDept/status/1266274632388112387,,,,,,65836
+36898,,29/05/2020,26,,,Gaya,Bihar,BR,1,Hospitalized,,,https://twitter.com/BiharHealthDept/status/1266274632388112387,,,,,,65834
+36899,,29/05/2020,43,,,Gaya,Bihar,BR,1,Hospitalized,,,https://twitter.com/BiharHealthDept/status/1266274632388112387,,,,,,65835
+36900,,29/05/2020,25,,,Gaya,Bihar,BR,1,Hospitalized,,,https://twitter.com/BiharHealthDept/status/1266274632388112387,,,,,,65836
 36901,,29/05/2020,54,,,Saran,Bihar,BR,1,Hospitalized,,,https://twitter.com/BiharHealthDept/status/1266274632388112387,,,,,,65837
 36902,,29/05/2020,46,,,Bhojpur,Bihar,BR,1,Hospitalized,,,https://twitter.com/BiharHealthDept/status/1266274632388112387,,,,,,65838
 36903,,29/05/2020,35,,,Patna,Bihar,BR,1,Hospitalized,,,https://twitter.com/BiharHealthDept/status/1266274632388112387,,,,,,65839
@@ -8731,30 +8737,30 @@ Maharashtra",https://t.me/Karnataka_KoViD19_Broadcast/3670,,,,,,63882
 36905,,29/05/2020,37,,,Sheikhpura,Bihar,BR,1,Hospitalized,,,https://twitter.com/BiharHealthDept/status/1266274632388112387,,,,,,65841
 36906,,29/05/2020,36,,,Samastipur,Bihar,BR,1,Hospitalized,,,https://twitter.com/BiharHealthDept/status/1266274632388112387,,,,,,65842
 36907,,29/05/2020,35,,,Samastipur,Bihar,BR,1,Hospitalized,,,https://twitter.com/BiharHealthDept/status/1266274632388112387,,,,,,65843
-36908,,29/05/2020,29,M,,SAMASTIPUR,Bihar,BR,1,Hospitalized,,3,https://twitter.com/BiharHealthDept/status/1266274632388112387,,,,,,65844
-36909,,29/05/2020,27,M,,SAMASTIPUR,Bihar,BR,1,Hospitalized,,,https://twitter.com/BiharHealthDept/status/1266274632388112387,,,,,,65845
-36910,,29/05/2020,41,M,,SAMASTIPUR,Bihar,BR,1,Hospitalized,,,https://twitter.com/BiharHealthDept/status/1266274632388112387,,,,,,65846
-36911,,29/05/2020,26,M,,SAMASTIPUR,Bihar,BR,1,Hospitalized,,,https://twitter.com/BiharHealthDept/status/1266274632388112387,,,,,,65847
-36912,,29/05/2020,40,M,,SHEIKHPURA,Bihar,BR,1,Hospitalized,,,https://twitter.com/BiharHealthDept/status/1266274632388112387,,,,,,65848
-36913,,29/05/2020,42,M,,SHEIKHPURA,Bihar,BR,1,Hospitalized,,,https://twitter.com/BiharHealthDept/status/1266274632388112387,,,,,,65849
-36914,,29/05/2020,30,M,,SHEIKHPURA,Bihar,BR,1,Hospitalized,,,https://twitter.com/BiharHealthDept/status/1266274632388112387,,,,,,65850
-36915,,29/05/2020,22,M,,SHEIKHPURA,Bihar,BR,1,Hospitalized,,,https://twitter.com/BiharHealthDept/status/1266274632388112387,,,,,,65851
-36916,,29/05/2020,35,M,,SHEIKHPURA,Bihar,BR,1,Hospitalized,,,https://twitter.com/BiharHealthDept/status/1266274632388112387,,,,,,65852
-36917,,29/05/2020,22,M,,SHEIKHPURA,Bihar,BR,1,Hospitalized,,,https://twitter.com/BiharHealthDept/status/1266274632388112387,,,,,,65853
-36918,,29/05/2020,1,M,,SHEIKHPURA,Bihar,BR,1,Hospitalized,,,https://twitter.com/BiharHealthDept/status/1266274632388112387,,,,,,65854
-36919,,29/05/2020,7,F,,SHEIKHPURA,Bihar,BR,1,Hospitalized,,,https://twitter.com/BiharHealthDept/status/1266274632388112387,,,,,,65855
-36920,,29/05/2020,27,M,,SHEIKHPURA,Bihar,BR,1,Hospitalized,,,https://twitter.com/BiharHealthDept/status/1266274632388112387,,,,,,65856
-36921,,29/05/2020,26,M,,LAKHISARAI,Bihar,BR,1,Hospitalized,,,https://twitter.com/BiharHealthDept/status/1266274632388112387,,,,,,65857
-36922,,29/05/2020,45,M,,JAMUI,Bihar,BR,1,Hospitalized,,,https://twitter.com/BiharHealthDept/status/1266274632388112387,,,,,,65858
-36923,,29/05/2020,34,M,,JAMUI,Bihar,BR,1,Hospitalized,,,https://twitter.com/BiharHealthDept/status/1266274632388112387,,,,,,65859
-36924,,29/05/2020,33,M,,JAMUI,Bihar,BR,1,Hospitalized,,,https://twitter.com/BiharHealthDept/status/1266274632388112387,,,,,,65860
-36925,,29/05/2020,64,M,,JAMUI,Bihar,BR,1,Hospitalized,,,https://twitter.com/BiharHealthDept/status/1266274632388112387,,,,,,65861
-36926,,29/05/2020,31,M,,NAWADA,Bihar,BR,1,Hospitalized,,,https://twitter.com/BiharHealthDept/status/1266274632388112387,,,,,,65862
-36927,,29/05/2020,36,M,,JEHANABAD,Bihar,BR,1,Hospitalized,,,https://twitter.com/BiharHealthDept/status/1266274632388112387,,,,,,65863
-36928,,29/05/2020,26,M,,JEHANABAD,Bihar,BR,1,Hospitalized,,,https://twitter.com/BiharHealthDept/status/1266274632388112387,,,,,,65864
-36929,,29/05/2020,22,M,,JEHANABAD,Bihar,BR,1,Hospitalized,,,https://twitter.com/BiharHealthDept/status/1266274632388112387,,,,,,65865
-36930,,29/05/2020,19,M,,JEHANABAD,Bihar,BR,1,Hospitalized,,,https://twitter.com/BiharHealthDept/status/1266274632388112387,,,,,,65866
-36931,,29/05/2020,29,M,,JEHANABAD,Bihar,BR,1,Hospitalized,,4,https://twitter.com/BiharHealthDept/status/1266274632388112387,,,,,,65867
+36908,,29/05/2020,29,M,,Samastipur,Bihar,BR,1,Hospitalized,,,https://twitter.com/BiharHealthDept/status/1266274632388112387,,,,,,65844
+36909,,29/05/2020,27,M,,Samastipur,Bihar,BR,1,Hospitalized,,,https://twitter.com/BiharHealthDept/status/1266274632388112387,,,,,,65845
+36910,,29/05/2020,41,M,,Samastipur,Bihar,BR,1,Hospitalized,,,https://twitter.com/BiharHealthDept/status/1266274632388112387,,,,,,65846
+36911,,29/05/2020,26,M,,Samastipur,Bihar,BR,1,Hospitalized,,,https://twitter.com/BiharHealthDept/status/1266274632388112387,,,,,,65847
+36912,,29/05/2020,40,M,,Sheikhpura,Bihar,BR,1,Hospitalized,,,https://twitter.com/BiharHealthDept/status/1266274632388112387,,,,,,65848
+36913,,29/05/2020,42,M,,Sheikhpura,Bihar,BR,1,Hospitalized,,,https://twitter.com/BiharHealthDept/status/1266274632388112387,,,,,,65849
+36914,,29/05/2020,30,M,,Sheikhpura,Bihar,BR,1,Hospitalized,,,https://twitter.com/BiharHealthDept/status/1266274632388112387,,,,,,65850
+36915,,29/05/2020,22,M,,Sheikhpura,Bihar,BR,1,Hospitalized,,,https://twitter.com/BiharHealthDept/status/1266274632388112387,,,,,,65851
+36916,,29/05/2020,35,M,,Sheikhpura,Bihar,BR,1,Hospitalized,,,https://twitter.com/BiharHealthDept/status/1266274632388112387,,,,,,65852
+36917,,29/05/2020,22,M,,Sheikhpura,Bihar,BR,1,Hospitalized,,,https://twitter.com/BiharHealthDept/status/1266274632388112387,,,,,,65853
+36918,,29/05/2020,1,M,,Sheikhpura,Bihar,BR,1,Hospitalized,,,https://twitter.com/BiharHealthDept/status/1266274632388112387,,,,,,65854
+36919,,29/05/2020,7,F,,Sheikhpura,Bihar,BR,1,Hospitalized,,,https://twitter.com/BiharHealthDept/status/1266274632388112387,,,,,,65855
+36920,,29/05/2020,27,M,,Sheikhpura,Bihar,BR,1,Hospitalized,,,https://twitter.com/BiharHealthDept/status/1266274632388112387,,,,,,65856
+36921,,29/05/2020,26,M,,Lakhisarai,Bihar,BR,1,Hospitalized,,,https://twitter.com/BiharHealthDept/status/1266274632388112387,,,,,,65857
+36922,,29/05/2020,45,M,,Jamui,Bihar,BR,1,Hospitalized,,,https://twitter.com/BiharHealthDept/status/1266274632388112387,,,,,,65858
+36923,,29/05/2020,34,M,,Jamui,Bihar,BR,1,Hospitalized,,,https://twitter.com/BiharHealthDept/status/1266274632388112387,,,,,,65859
+36924,,29/05/2020,33,M,,Jamui,Bihar,BR,1,Hospitalized,,,https://twitter.com/BiharHealthDept/status/1266274632388112387,,,,,,65860
+36925,,29/05/2020,64,M,,Jamui,Bihar,BR,1,Hospitalized,,,https://twitter.com/BiharHealthDept/status/1266274632388112387,,,,,,65861
+36926,,29/05/2020,31,M,,Nawada,Bihar,BR,1,Hospitalized,,,https://twitter.com/BiharHealthDept/status/1266274632388112387,,,,,,65862
+36927,,29/05/2020,36,M,,Jehanabad,Bihar,BR,1,Hospitalized,,,https://twitter.com/BiharHealthDept/status/1266274632388112387,,,,,,65863
+36928,,29/05/2020,26,M,,Jehanabad,Bihar,BR,1,Hospitalized,,,https://twitter.com/BiharHealthDept/status/1266274632388112387,,,,,,65864
+36929,,29/05/2020,22,M,,Jehanabad,Bihar,BR,1,Hospitalized,,,https://twitter.com/BiharHealthDept/status/1266274632388112387,,,,,,65865
+36930,,29/05/2020,19,M,,Jehanabad,Bihar,BR,1,Hospitalized,,,https://twitter.com/BiharHealthDept/status/1266274632388112387,,,,,,65866
+36931,,29/05/2020,29,M,,Jehanabad,Bihar,BR,1,Hospitalized,,,https://twitter.com/BiharHealthDept/status/1266274632388112387,,,,,,65867
 36932,,29/05/2020,11,F,,Jehanabad,Bihar,BR,1,Hospitalized,,,https://twitter.com/BiharHealthDept/status/1266274632388112387,,,,,,65868
 36933,,29/05/2020,5,M,,Jehanabad,Bihar,BR,1,Hospitalized,,,https://twitter.com/BiharHealthDept/status/1266274632388112387,,,,,,65869
 36934,,29/05/2020,35,M,,Jehanabad,Bihar,BR,1,Hospitalized,,,https://twitter.com/BiharHealthDept/status/1266274632388112387,,,,,,65870
@@ -10530,173 +10536,173 @@ Maharashtra",https://t.me/Karnataka_KoViD19_Broadcast/3670,,,,,,63882
 38704,,30/05/2020,,,,Jagatsinghpur,Odisha,OR,6,Hospitalized,,,https://twitter.com/IPR_Odisha/status/1266617086312407043,,,,,,
 38705,,30/05/2020,,,,Jajpur,Odisha,OR,6,Hospitalized,,,https://twitter.com/IPR_Odisha/status/1266617086312407043,,,,,,
 38706,,30/05/2020,19,F,,Imphal West,Manipur,MN,1,Hospitalized,,,https://twitter.com/IPR_Odisha/status/1266617086312407043,,,,,,
-38707,,30/05/2020,35,M,Sasaram,Rohtas,Bihar,BR,1,Hospitalized,,,https://twitter.com/DiprManipur/status/1266628130317365249,,,,,,
-38708,,30/05/2020,28,M,Sasaram,Rohtas,Bihar,BR,1,Hospitalized,,,,,,,,,
-38709,,30/05/2020,25,M,Bhabhua,Kaimur,Bihar,BR,1,Hospitalized,,,,,,,,,
-38710,,30/05/2020,19,M,Bhabhua,Kaimur,Bihar,BR,1,Hospitalized,,,,,,,,,
-38711,,30/05/2020,1,M,Jagdishpur,Bhagalpur,Bihar,BR,1,Hospitalized,,,,,,,,,
-38712,,30/05/2020,86,M,Hajipur,Vaishali,Bihar,BR,1,Hospitalized,,,,,,,,,
-38713,,30/05/2020,9,M,Chapra,Saran,Bihar,BR,1,Hospitalized,,,,,,,,,
-38714,,30/05/2020,15,M,Ara,Bhojpur,Bihar,BR,1,Hospitalized,,,,,,,,,
-38715,,30/05/2020,2,M,Ara,Bhojpur,Bihar,BR,1,Hospitalized,,,,,,,,,
-38716,,30/05/2020,4,M,Ara,Bhojpur,Bihar,BR,1,Hospitalized,,,,,,,,,
-38717,,30/05/2020,20,F,Ara,Bhojpur,Bihar,BR,1,Hospitalized,,,,,,,,,
-38718,,30/05/2020,28,M,Ara,Bhojpur,Bihar,BR,1,Hospitalized,,,,,,,,,
-38719,,30/05/2020,55,M,Ara,Bhojpur,Bihar,BR,1,Hospitalized,,,,,,,,,
-38720,,30/05/2020,28,M,Ara,Bhojpur,Bihar,BR,1,Hospitalized,,,,,,,,,
-38721,,30/05/2020,25,F,Mal'X>Ur,Gaya,Bihar,BR,1,Hospitalized,,,,,,,,,
-38722,,30/05/2020,27,F,Belaganj,Gaya,Bihar,BR,1,Hospitalized,,,,,,,,,
-38723,,30/05/2020,30,F,Belaganj,Gaya,Bihar,BR,1,Hospitalized,,,,,,,,,
-38724,,30/05/2020,32,F,Guraru,Gaya,Bihar,BR,1,Hospitalized,,,,,,,,,
-38725,,30/05/2020,30,F,Paraiya,Gaya,Bihar,BR,1,Hospitalized,,,,,,,,,
-38726,,30/05/2020,19,F,Hasanpura,Siwan,Bihar,BR,1,Hospitalized,,,,,,,,,
-38727,,30/05/2020,40,M,Chewara,Sheikhpura,Bihar,BR,1,Hospitalized,,,,,,,,,
-38728,,30/05/2020,25,M,Sanhaula,Bhagalpur,Bihar,BR,1,Hospitalized,,,,,,,,,
-38729,,30/05/2020,28,M,Sheikhpura,Sheikhpura,Bihar,BR,1,Hospitalized,,,,,,,,,
-38730,,30/05/2020,17,M,Ar Iyari,Sheikhpura,Bihar,BR,1,Hospitalized,,,,,,,,,
-38731,,30/05/2020,35,M,Ar Iyari,Sheikhpura,Bihar,BR,1,Hospitalized,,,,,,,,,
-38732,,30/05/2020,24,M,Ariyari,Sheikhpura,Bihar,BR,1,Hospitalized,,,,,,,,,
-38733,,30/05/2020,45,M,Ariyari,Sheikhpura,Bihar,BR,1,Hospitalized,,,,,,,,,
-38734,,30/05/2020,42,M,Ariyari,Sheikhpura,Bihar,BR,1,Hospitalized,,,,,,,,,
-38735,,30/05/2020,28,M,Ariyari,Sheikhpura,Bihar,BR,1,Hospitalized,,,,,,,,,
-38736,,30/05/2020,20,M,Ariyari,Sheikhpura,Bihar,BR,1,Hospitalized,,,,,,,,,
-38737,,30/05/2020,28,M,Ariyari,Sheikhpura,Bihar,BR,1,Hospitalized,,,,,,,,,
-38738,,30/05/2020,20,F,Sheikhpura,Sheikhpura,Bihar,BR,1,Hospitalized,,,,,,,,,
-38739,,30/05/2020,27,M,Sheikhpura,Sheikhpura,Bihar,BR,1,Hospitalized,,,,,,,,,
-38740,,30/05/2020,27,M,Sheikhpura,Sheikhpura,Bihar,BR,1,Hospitalized,,,,,,,,,
-38741,,30/05/2020,22,F,Barbigha,Sheikhpura,Bihar,BR,1,Hospitalized,,,,,,,,,
-38742,,30/05/2020,35,M,Chewara,Sheikhpura,Bihar,BR,1,Hospitalized,,,,,,,,,
-38743,,30/05/2020,35,F,Garhani,Bhojpur,Bihar,BR,1,Hospitalized,,,,,,,,,
-38744,,30/05/2020,36,M,Goreakothi,Siwan,Bihar,BR,1,Hospitalized,,,,,,,,,
-38745,,30/05/2020,42,M,Goreakothi,Siwan,Bihar,BR,1,Hospitalized,,,,,,,,,
-38746,,30/05/2020,44,M,Goreakothi,Siwan,Bihar,BR,1,Hospitalized,,,,,,,,,
-38747,,30/05/2020,22,M,Goreakothi,Siwan,Bihar,BR,1,Hospitalized,,,,,,,,,
-38748,,30/05/2020,63,M,Raghunathpur,Siwan,Bihar,BR,1,Hospitalized,,,,,,,,,
-38749,,30/05/2020,43,M,Raghunathpur,Siwan,Bihar,BR,1,Hospitalized,,,,,,,,,
-38750,,30/05/2020,19,M,Patna,Patna,Bihar,BR,1,Hospitalized,,,,,,,,,
-38751,,30/05/2020,6,M,Ara,Bhojpur,Bihar,BR,1,Hospitalized,,,,,,,,,
-38752,,30/05/2020,18,M,Ara,Bhojpur,Bihar,BR,1,Hospitalized,,,,,,,,,
-38753,,30/05/2020,24,M,Ara,Bhojpur,Bihar,BR,1,Hospitalized,,,,,,,,,
-38754,,30/05/2020,53,M,Ara,Bhojpur,Bihar,BR,1,Hospitalized,,,,,,,,,
-38755,,30/05/2020,8,M,Ara,Bhojpur,Bihar,BR,1,Hospitalized,,,,,,,,,
-38756,,30/05/2020,27,M,Dhanarua,Patna,Bihar,BR,1,Hospitalized,,,,,,,,,
-38757,,30/05/2020,27,M,Sattar Katiya,Saharsa,Bihar,BR,1,Hospitalized,,,,,,,,,
-38758,,30/05/2020,39,M,Jehanabad,Jehanabad,Bihar,BR,1,Hospitalized,,,,,,,,,
-38759,,30/05/2020,37,F,Jehanabad,Jehanabad,Bihar,BR,1,Hospitalized,,,,,,,,,
-38760,,30/05/2020,15,F,Jehanabad,Jehanabad,Bihar,BR,1,Hospitalized,,,,,,,,,
-38761,,30/05/2020,29,M,Sasaram,Rohtas,Bihar,BR,1,Hospitalized,,,,,,,,,
-38762,,30/05/2020,23,M,Ghoshi,Jehanabad,Bihar,BR,1,Hospitalized,,,,,,,,,
-38763,,30/05/2020,18,M,Ghoshi,Jehanabad,Bihar,BR,1,Hospitalized,,,,,,,,,
-38764,,30/05/2020,13,M,Jehanabad,Jehanabad,Bihar,BR,1,Hospitalized,,,,,,,,,
-38765,,30/05/2020,20,M,Nagarnausa,Nalanda,Bihar,BR,1,Hospitalized,,,,,,,,,
-38766,,30/05/2020,60,M,Nagarnausa,Nalanda,Bihar,BR,1,Hospitalized,,,,,,,,,
-38767,,30/05/2020,30,M,Sikti,Araria,Bihar,BR,1,Hospitalized,,,,,,,,,
-38768,,30/05/2020,55,M,Narpatganj,Araria,Bihar,BR,1,Hospitalized,,,,,,,,,
-38769,,30/05/2020,43,M,Forbesganj,Araria,Bihar,BR,1,Hospitalized,,,,,,,,,
-38770,,30/05/2020,52,M,Jokihat,Araria,Bihar,BR,1,Hospitalized,,,,,,,,,
-38771,,30/05/2020,18,M,Kiratpur,Darbhanga,Bihar,BR,1,Hospitalized,,,,,,,,,
-38772,,30/05/2020,25,M,Keoti Runway,Darbhanga,Bihar,BR,1,Hospitalized,,,,,,,,,
-38773,,30/05/2020,39,M,Kiratpur,Darbhanga,Bihar,BR,1,Hospitalized,,,,,,,,,
-38774,,30/05/2020,30,M,Keoti Runway,Darbhanga,Bihar,BR,1,Hospitalized,,,,,,,,,
-38775,,30/05/2020,19,M,Kiratp Ur,Darbhanga,Bihar,BR,1,Hospitalized,,,,,,,,,
-38776,,30/05/2020,40,M,Keoti Runway,Darbhanga,Bihar,BR,1,Hospitalized,,,,,,,,,
-38777,,30/05/2020,18,M,Lida Kishanganj,Madhepura,Bihar,BR,1,Hospitalized,,,,,,,,,
-38778,,30/05/2020,30,M,Lida Kishanganj,Madhepura,Bihar,BR,1,Hospitalized,,,,,,,,,
-38779,,30/05/2020,15,M,L\Da Kishanganj,Madhepura,Bihar,BR,1,Hospitalized,,,,,,,,,
-38780,,30/05/2020,18,M,Amarpur,Banka,Bihar,BR,1,Hospitalized,,,,,,,,,
-38781,,30/05/2020,52,M,Chausa,Madhepura,Bihar,BR,1,Hospitalized,,,,,,,,,
-38782,,30/05/2020,34,M,Singheswar,Madhepura,Bihar,BR,1,Hospitalized,,,,,,,,,
-38783,,30/05/2020,35,M,Patna,Patna,Bihar,BR,1,Hospitalized,,,,,,,,,
-38784,,30/05/2020,24,M,Pachrukhi,Siwan,Bihar,BR,1,Hospitalized,,,,,,,,,
-38785,,30/05/2020,32,M,Jale,Darbhanga,Bihar,BR,1,Hospitalized,,,,,,,,,
-38786,,30/05/2020,34,M,Jale,Darbhanga,Bihar,BR,1,Hospitalized,,,,,,,,,
-38787,,30/05/2020,27,M,Jale,Darbhanga,Bihar,BR,1,Hospitalized,,,,,,,,,
-38788,,30/05/2020,22,M,Kusheshwar Asthan,Darbhanga,Bihar,BR,1,Hospitalized,,,,,,,,,
-38789,,30/05/2020,17,M,Kusheshwar Asthan,Darbhanga,Bihar,BR,1,Hospitalized,,,,,,,,,
-38790,,30/05/2020,34,M,Kusheshwar  Asthan,Darbhanga,Bihar,BR,1,Hospitalized,,,,,,,,,
-38791,,30/05/2020,25,M,Bihariganj,Madhepura,Bihar,BR,1,Hospitalized,,,,,,,,,
-38792,,30/05/2020,18,M,Araria,Araria,Bihar,BR,1,Hospitalized,,,,,,,,,
-38793,,30/05/2020,24,M,Araria,Araria,Bihar,BR,1,Hospitalized,,,,,,,,,
-38794,,30/05/2020,15,M,Pothia,Kishanganj,Bihar,BR,1,Hospitalized,,,,,,,,,
-38795,,30/05/2020,22,M,K Ishanganj,Kishanganj,Bihar,BR,1,Hospitalized,,,,,,,,,
-38796,,30/05/2020,35,M,Thakurganj,Kishanganj,Bihar,BR,1,Hospitalized,,,,,,,,,
-38797,,30/05/2020,30,M,Bahadu Rganj,Kishanganj,Bihar,BR,1,Hospitalized,,,,,,,,,
-38798,,30/05/2020,18,M,Bahadu Rganj,Kishanganj,Bihar,BR,1,Hospitalized,,,,,,,,,
-38799,,30/05/2020,19,M,Ara,Bhojpur,Bihar,BR,1,Hospitalized,,,,,,,,,
-38800,,30/05/2020,29,F,Kaltv'.Or,Kaimur,Bihar,BR,1,Hospitalized,,,,,,,,,
-38801,,30/05/2020,53,M,Bahadu Rpur,Darbhanga,Bihar,BR,1,Hospitalized,,,,,,,,,
-38802,,30/05/2020,29,M,Bahadurpur,Darbhanga,Bihar,BR,1,Hospitalized,,,,,,,,,
-38803,,30/05/2020,57,M,Bahadu Rpur,Darbhanga,Bihar,BR,1,Hospitalized,,,,,,,,,
-38804,,30/05/2020,41,M,Jale,Darbhanga,Bihar,BR,1,Hospitalized,,,,,,,,,
-38805,,30/05/2020,24,M,Jale,Darbhanga,Bihar,BR,1,Hospitalized,,,,,,,,,
-38806,,30/05/2020,44,M,Ekangarsarai,Nalanda,Bihar,BR,1,Hospitalized,,,,,,,,,
-38807,,30/05/2020,15,M,Dumraon,Buxar,Bihar,BR,1,Hospitalized,,,,,,,,,
-38808,,30/05/2020,18,M,Sangrampu R,East Champaran,Bihar,BR,1,Hospitalized,,,,,,,,,
-38809,,30/05/2020,39,M,Sheohar,Sheohar,Bihar,BR,1,Hospitalized,,,,,,,,,
-38810,,30/05/2020,24,M,Sheohar,Sheohar,Bihar,BR,1,Hospitalized,,,,,,,,,
-38811,,30/05/2020,22,M,Murau L,Muzaffarpur,Bihar,BR,1,Hospitalized,,,,,,,,,
-38812,,30/05/2020,18,M,Murau L,Muzaffarpur,Bihar,BR,1,Hospitalized,,,,,,,,,
-38813,,30/05/2020,17,M,Murau L,Muzaffarpur,Bihar,BR,1,Hospitalized,,,,,,,,,
-38814,,30/05/2020,22,M,Parihar,Sitamarhi,Bihar,BR,1,Hospitalized,,,,,,,,,
-38815,,30/05/2020,40,M,Mushahar I,Muzaffarpur,Bihar,BR,1,Hospitalized,,,,,,,,,
-38816,,30/05/2020,18,M,Bochahan,Muzaffarpur,Bihar,BR,1,Hospitalized,,,,,,,,,
-38817,,30/05/2020,24,F,M Ushahar I,Muzaffarpur,Bihar,BR,1,Hospitalized,,,,,,,,,
-38818,,30/05/2020,24,M,Mushahar I,Muzaffarpur,Bihar,BR,1,Hospitalized,,,,,,,,,
-38819,,30/05/2020,53,M,M Ushahar I,Muzaffarpur,Bihar,BR,1,Hospitalized,,,,,,,,,
-38820,,30/05/2020,23,M,Jokihat,Araria,Bihar,BR,1,Hospitalized,,,,,,,,,
-38821,,30/05/2020,30,M,Asa Rganj,Munger,Bihar,BR,1,Hospitalized,,,,,,,,,
-38822,,30/05/2020,25,F,Asa Rga Nj,Munger,Bihar,BR,1,Hospitalized,,,,,,,,,
-38823,,30/05/2020,46,M,M Ung Er,Munger,Bihar,BR,1,Hospitalized,,,,,,,,,
-38824,,30/05/2020,30,M,M Ung Er,Munger,Bihar,BR,1,Hospitalized,,,,,,,,,
-38825,,30/05/2020,50,M,Jamalpur,Munger,Bihar,BR,1,Hospitalized,,,,,,,,,
-38826,,30/05/2020,32,M,M Ung Er,Munger,Bihar,BR,1,Hospitalized,,,,,,,,,
-38827,,30/05/2020,21,F,Beg Usara I,Begusarai,Bihar,BR,1,Hospitalized,,,,,,,,,
-38828,,30/05/2020,25,F,Beg Usarai,Begusarai,Bihar,BR,1,Hospitalized,,,,,,,,,
-38829,,30/05/2020,45,F,Beg Usarai,Begusarai,Bihar,BR,1,Hospitalized,,,,,,,,,
-38830,,30/05/2020,18,M,Beg Usara I,Begusarai,Bihar,BR,1,Hospitalized,,,,,,,,,
-38831,,30/05/2020,45,M,Barau N I,Begusarai,Bihar,BR,1,Hospitalized,,,,,,,,,
-38832,,30/05/2020,20,F,Matihani,Begusarai,Bihar,BR,1,Hospitalized,,,,,,,,,
-38833,,30/05/2020,55,M,Sahe Bpur Kama L,Begusarai,Bihar,BR,1,Hospitalized,,,,,,,,,
-38834,,30/05/2020,27,M,Bak Hri,Begusarai,Bihar,BR,1,Hospitalized,,,,,,,,,
-38835,,30/05/2020,24,M,Balia,Begusarai,Bihar,BR,1,Hospitalized,,,,,,,,,
-38836,,30/05/2020,40,M,Bak Hri,Begusarai,Bihar,BR,1,Hospitalized,,,,,,,,,
-38837,,30/05/2020,49,M,Bak Hri,Begusarai,Bihar,BR,1,Hospitalized,,,,,,,,,
-38838,,30/05/2020,48,M,Bakhri,Begusarai,Bihar,BR,1,Hospitalized,,,,,,,,,
-38839,,30/05/2020,43,M,Bakhri,Begusarai,Bihar,BR,1,Hospitalized,,,,,,,,,
-38840,,30/05/2020,32,M,Begusarai,Begusarai,Bihar,BR,1,Hospitalized,,,,,,,,,
-38841,,30/05/2020,30,M,Begusarai,Begusarai,Bihar,BR,1,Hospitalized,,,,,,,,,
-38842,,30/05/2020,24,F,Dandari,Begusarai,Bihar,BR,1,Hospitalized,,,,,,,,,
-38843,,30/05/2020,2,M,Barauni,Begusarai,Bihar,BR,1,Hospitalized,,,,,,,,,
-38844,,30/05/2020,40,F,Begusarai,Begusarai,Bihar,BR,1,Hospitalized,,,,,,,,,
-38845,,30/05/2020,15,M,Begusarai,Begusarai,Bihar,BR,1,Hospitalized,,,,,,,,,
-38846,,30/05/2020,38,M,Alaulibeldaur,Khagaria,Bihar,BR,1,Hospitalized,,,,,,,,,
-38847,,30/05/2020,58,M,Kursakanta,Araria,Bihar,BR,1,Hospitalized,,,,,,,,,
-38848,,30/05/2020,28,M,Kursakanta,Araria,Bihar,BR,1,Hospitalized,,,,,,,,,
-38849,,30/05/2020,18,F,Kumarkhand,Madhepura,Bihar,BR,1,Hospitalized,,,,,,,,,
-38850,,30/05/2020,16,F,Kumarkhand,Madhepura,Bihar,BR,1,Hospitalized,,,,,,,,,
-38851,,30/05/2020,31,M,Gamhariya,Madhepura,Bihar,BR,1,Hospitalized,,,,,,,,,
-38852,,30/05/2020,26,M,Kumarkhand,Madhepura,Bihar,BR,1,Hospitalized,,,,,,,,,
-38853,,30/05/2020,22,M,Patarghat,Saharsa,Bihar,BR,1,Hospitalized,,,,,,,,,
-38854,,30/05/2020,35,M,Patarghat,Saharsa,Bihar,BR,1,Hospitalized,,,,,,,,,
-38855,,30/05/2020,36,M,Samasti Pur,Samastipur,Bihar,BR,1,Hospitalized,,,,,,,,,
-38856,,30/05/2020,20,M,Jhajha,Jamui,Bihar,BR,1,Hospitalized,,,,,,,,,
-38857,,30/05/2020,,,,,,,,,,,,,,,,,
-38858,,30/05/2020,,,,,,,,,,,,,,,,,
-38859,,30/05/2020,,,,,,,,,,,,,,,,,
-38860,,30/05/2020,,,,,,,,,,,,,,,,,
-38861,,30/05/2020,,,,,,,,,,,,,,,,,
-38862,,30/05/2020,,,,,,,,,,,,,,,,,
-38863,,30/05/2020,,,,,,,,,,,,,,,,,
-38864,,30/05/2020,,,,,,,,,,,,,,,,,
-38865,,30/05/2020,,,,,,,,,,,,,,,,,
-38866,,30/05/2020,,,,,,,,,,,,,,,,,
-38867,,30/05/2020,,,,,,,,,,,,,,,,,
-38868,,30/05/2020,,,,,,,,,,,,,,,,,
-38869,,30/05/2020,,,,,,,,,,,,,,,,,
-38870,,30/05/2020,,,,,,,,,,,,,,,,,
-38871,,30/05/2020,,,,,,,,,,,,,,,,,
-38872,,30/05/2020,,,,,,,,,,,,,,,,,
-38873,,30/05/2020,,,,,,,,,,,,,,,,,
+38707,,30/05/2020,35,M,Sasaram,Rohtas,Bihar,BR,1,Hospitalized,,,https://twitter.com/BiharHealthDept/status/1266641965409542145?s=19,,,,,,
+38708,,30/05/2020,28,M,Sasaram,Rohtas,Bihar,BR,1,Hospitalized,,,https://twitter.com/BiharHealthDept/status/1266641965409542145?s=19,,,,,,
+38709,,30/05/2020,25,M,Bhabhua,Kaimur,Bihar,BR,1,Hospitalized,,,https://twitter.com/BiharHealthDept/status/1266641965409542145?s=19,,,,,,
+38710,,30/05/2020,19,M,Bhabhua,Kaimur,Bihar,BR,1,Hospitalized,,,https://twitter.com/BiharHealthDept/status/1266641965409542145?s=19,,,,,,
+38711,,30/05/2020,1,M,Jagdishpur,Bhagalpur,Bihar,BR,1,Hospitalized,,,https://twitter.com/BiharHealthDept/status/1266641965409542145?s=19,,,,,,
+38712,,30/05/2020,86,M,Hajipur,Vaishali,Bihar,BR,1,Hospitalized,,,https://twitter.com/BiharHealthDept/status/1266641965409542145?s=19,,,,,,
+38713,,30/05/2020,9,M,Chapra,Saran,Bihar,BR,1,Hospitalized,,,https://twitter.com/BiharHealthDept/status/1266641965409542145?s=19,,,,,,
+38714,,30/05/2020,15,M,Ara,Bhojpur,Bihar,BR,1,Hospitalized,,,https://twitter.com/BiharHealthDept/status/1266641965409542145?s=19,,,,,,
+38715,,30/05/2020,2,M,Ara,Bhojpur,Bihar,BR,1,Hospitalized,,,https://twitter.com/BiharHealthDept/status/1266641965409542145?s=19,,,,,,
+38716,,30/05/2020,4,M,Ara,Bhojpur,Bihar,BR,1,Hospitalized,,,https://twitter.com/BiharHealthDept/status/1266641965409542145?s=19,,,,,,
+38717,,30/05/2020,20,F,Ara,Bhojpur,Bihar,BR,1,Hospitalized,,,https://twitter.com/BiharHealthDept/status/1266641965409542145?s=19,,,,,,
+38718,,30/05/2020,28,M,Ara,Bhojpur,Bihar,BR,1,Hospitalized,,,https://twitter.com/BiharHealthDept/status/1266641965409542145?s=19,,,,,,
+38719,,30/05/2020,55,M,Ara,Bhojpur,Bihar,BR,1,Hospitalized,,,https://twitter.com/BiharHealthDept/status/1266641965409542145?s=19,,,,,,
+38720,,30/05/2020,28,M,Ara,Bhojpur,Bihar,BR,1,Hospitalized,,,https://twitter.com/BiharHealthDept/status/1266641965409542145?s=19,,,,,,
+38721,,30/05/2020,25,F,Mal'X>Ur,Gaya,Bihar,BR,1,Hospitalized,,,https://twitter.com/BiharHealthDept/status/1266641965409542145?s=19,,,,,,
+38722,,30/05/2020,27,F,Belaganj,Gaya,Bihar,BR,1,Hospitalized,,,https://twitter.com/BiharHealthDept/status/1266641965409542145?s=19,,,,,,
+38723,,30/05/2020,30,F,Belaganj,Gaya,Bihar,BR,1,Hospitalized,,,https://twitter.com/BiharHealthDept/status/1266641965409542145?s=19,,,,,,
+38724,,30/05/2020,32,F,Guraru,Gaya,Bihar,BR,1,Hospitalized,,,https://twitter.com/BiharHealthDept/status/1266641965409542145?s=19,,,,,,
+38725,,30/05/2020,30,F,Paraiya,Gaya,Bihar,BR,1,Hospitalized,,,https://twitter.com/BiharHealthDept/status/1266641965409542145?s=19,,,,,,
+38726,,30/05/2020,19,F,Hasanpura,Siwan,Bihar,BR,1,Hospitalized,,,https://twitter.com/BiharHealthDept/status/1266641965409542145?s=19,,,,,,
+38727,,30/05/2020,40,M,Chewara,Sheikhpura,Bihar,BR,1,Hospitalized,,,https://twitter.com/BiharHealthDept/status/1266641965409542145?s=19,,,,,,
+38728,,30/05/2020,25,M,Sanhaula,Bhagalpur,Bihar,BR,1,Hospitalized,,,https://twitter.com/BiharHealthDept/status/1266641965409542145?s=19,,,,,,
+38729,,30/05/2020,28,M,Sheikhpura,Sheikhpura,Bihar,BR,1,Hospitalized,,,https://twitter.com/BiharHealthDept/status/1266641965409542145?s=19,,,,,,
+38730,,30/05/2020,17,M,Ar Iyari,Sheikhpura,Bihar,BR,1,Hospitalized,,,https://twitter.com/BiharHealthDept/status/1266641965409542145?s=19,,,,,,
+38731,,30/05/2020,35,M,Ar Iyari,Sheikhpura,Bihar,BR,1,Hospitalized,,,https://twitter.com/BiharHealthDept/status/1266641965409542145?s=19,,,,,,
+38732,,30/05/2020,24,M,Ariyari,Sheikhpura,Bihar,BR,1,Hospitalized,,,https://twitter.com/BiharHealthDept/status/1266641965409542145?s=19,,,,,,
+38733,,30/05/2020,45,M,Ariyari,Sheikhpura,Bihar,BR,1,Hospitalized,,,https://twitter.com/BiharHealthDept/status/1266641965409542145?s=19,,,,,,
+38734,,30/05/2020,42,M,Ariyari,Sheikhpura,Bihar,BR,1,Hospitalized,,,https://twitter.com/BiharHealthDept/status/1266641965409542145?s=19,,,,,,
+38735,,30/05/2020,28,M,Ariyari,Sheikhpura,Bihar,BR,1,Hospitalized,,,https://twitter.com/BiharHealthDept/status/1266641965409542145?s=19,,,,,,
+38736,,30/05/2020,20,M,Ariyari,Sheikhpura,Bihar,BR,1,Hospitalized,,,https://twitter.com/BiharHealthDept/status/1266641965409542145?s=19,,,,,,
+38737,,30/05/2020,28,M,Ariyari,Sheikhpura,Bihar,BR,1,Hospitalized,,,https://twitter.com/BiharHealthDept/status/1266641965409542145?s=19,,,,,,
+38738,,30/05/2020,20,F,Sheikhpura,Sheikhpura,Bihar,BR,1,Hospitalized,,,https://twitter.com/BiharHealthDept/status/1266641965409542145?s=19,,,,,,
+38739,,30/05/2020,27,M,Sheikhpura,Sheikhpura,Bihar,BR,1,Hospitalized,,,https://twitter.com/BiharHealthDept/status/1266641965409542145?s=19,,,,,,
+38740,,30/05/2020,27,M,Sheikhpura,Sheikhpura,Bihar,BR,1,Hospitalized,,,https://twitter.com/BiharHealthDept/status/1266641965409542145?s=19,,,,,,
+38741,,30/05/2020,22,F,Barbigha,Sheikhpura,Bihar,BR,1,Hospitalized,,,https://twitter.com/BiharHealthDept/status/1266641965409542145?s=19,,,,,,
+38742,,30/05/2020,35,M,Chewara,Sheikhpura,Bihar,BR,1,Hospitalized,,,https://twitter.com/BiharHealthDept/status/1266641965409542145?s=19,,,,,,
+38743,,30/05/2020,35,F,Garhani,Bhojpur,Bihar,BR,1,Hospitalized,,,https://twitter.com/BiharHealthDept/status/1266641965409542145?s=19,,,,,,
+38744,,30/05/2020,36,M,Goreakothi,Siwan,Bihar,BR,1,Hospitalized,,,https://twitter.com/BiharHealthDept/status/1266641965409542145?s=19,,,,,,
+38745,,30/05/2020,42,M,Goreakothi,Siwan,Bihar,BR,1,Hospitalized,,,https://twitter.com/BiharHealthDept/status/1266641965409542145?s=19,,,,,,
+38746,,30/05/2020,44,M,Goreakothi,Siwan,Bihar,BR,1,Hospitalized,,,https://twitter.com/BiharHealthDept/status/1266641965409542145?s=19,,,,,,
+38747,,30/05/2020,22,M,Goreakothi,Siwan,Bihar,BR,1,Hospitalized,,,https://twitter.com/BiharHealthDept/status/1266641965409542145?s=19,,,,,,
+38748,,30/05/2020,63,M,Raghunathpur,Siwan,Bihar,BR,1,Hospitalized,,,https://twitter.com/BiharHealthDept/status/1266641965409542145?s=19,,,,,,
+38749,,30/05/2020,43,M,Raghunathpur,Siwan,Bihar,BR,1,Hospitalized,,,https://twitter.com/BiharHealthDept/status/1266641965409542145?s=19,,,,,,
+38750,,30/05/2020,19,M,Patna,Patna,Bihar,BR,1,Hospitalized,,,https://twitter.com/BiharHealthDept/status/1266641965409542145?s=19,,,,,,
+38751,,30/05/2020,6,M,Ara,Bhojpur,Bihar,BR,1,Hospitalized,,,https://twitter.com/BiharHealthDept/status/1266641965409542145?s=19,,,,,,
+38752,,30/05/2020,18,M,Ara,Bhojpur,Bihar,BR,1,Hospitalized,,,https://twitter.com/BiharHealthDept/status/1266641965409542145?s=19,,,,,,
+38753,,30/05/2020,24,M,Ara,Bhojpur,Bihar,BR,1,Hospitalized,,,https://twitter.com/BiharHealthDept/status/1266641965409542145?s=19,,,,,,
+38754,,30/05/2020,53,M,Ara,Bhojpur,Bihar,BR,1,Hospitalized,,,https://twitter.com/BiharHealthDept/status/1266641965409542145?s=19,,,,,,
+38755,,30/05/2020,8,M,Ara,Bhojpur,Bihar,BR,1,Hospitalized,,,https://twitter.com/BiharHealthDept/status/1266641965409542145?s=19,,,,,,
+38756,,30/05/2020,27,M,Dhanarua,Patna,Bihar,BR,1,Hospitalized,,,https://twitter.com/BiharHealthDept/status/1266641965409542145?s=19,,,,,,
+38757,,30/05/2020,27,M,Sattar Katiya,Saharsa,Bihar,BR,1,Hospitalized,,,https://twitter.com/BiharHealthDept/status/1266641965409542145?s=19,,,,,,
+38758,,30/05/2020,39,M,Jehanabad,Jehanabad,Bihar,BR,1,Hospitalized,,,https://twitter.com/BiharHealthDept/status/1266641965409542145?s=19,,,,,,
+38759,,30/05/2020,37,F,Jehanabad,Jehanabad,Bihar,BR,1,Hospitalized,,,https://twitter.com/BiharHealthDept/status/1266641965409542145?s=19,,,,,,
+38760,,30/05/2020,15,F,Jehanabad,Jehanabad,Bihar,BR,1,Hospitalized,,,https://twitter.com/BiharHealthDept/status/1266641965409542145?s=19,,,,,,
+38761,,30/05/2020,29,M,Sasaram,Rohtas,Bihar,BR,1,Hospitalized,,,https://twitter.com/BiharHealthDept/status/1266641965409542145?s=19,,,,,,
+38762,,30/05/2020,23,M,Ghoshi,Jehanabad,Bihar,BR,1,Hospitalized,,,https://twitter.com/BiharHealthDept/status/1266641965409542145?s=19,,,,,,
+38763,,30/05/2020,18,M,Ghoshi,Jehanabad,Bihar,BR,1,Hospitalized,,,https://twitter.com/BiharHealthDept/status/1266641965409542145?s=19,,,,,,
+38764,,30/05/2020,13,M,Jehanabad,Jehanabad,Bihar,BR,1,Hospitalized,,,https://twitter.com/BiharHealthDept/status/1266641965409542145?s=19,,,,,,
+38765,,30/05/2020,20,M,Nagarnausa,Nalanda,Bihar,BR,1,Hospitalized,,,https://twitter.com/BiharHealthDept/status/1266641965409542145?s=19,,,,,,
+38766,,30/05/2020,60,M,Nagarnausa,Nalanda,Bihar,BR,1,Hospitalized,,,https://twitter.com/BiharHealthDept/status/1266641965409542145?s=19,,,,,,
+38767,,30/05/2020,30,M,Sikti,Araria,Bihar,BR,1,Hospitalized,,,https://twitter.com/BiharHealthDept/status/1266641965409542145?s=19,,,,,,
+38768,,30/05/2020,55,M,Narpatganj,Araria,Bihar,BR,1,Hospitalized,,,https://twitter.com/BiharHealthDept/status/1266641965409542145?s=19,,,,,,
+38769,,30/05/2020,43,M,Forbesganj,Araria,Bihar,BR,1,Hospitalized,,,https://twitter.com/BiharHealthDept/status/1266641965409542145?s=19,,,,,,
+38770,,30/05/2020,52,M,Jokihat,Araria,Bihar,BR,1,Hospitalized,,,https://twitter.com/BiharHealthDept/status/1266641965409542145?s=19,,,,,,
+38771,,30/05/2020,18,M,Kiratpur,Darbhanga,Bihar,BR,1,Hospitalized,,,https://twitter.com/BiharHealthDept/status/1266641965409542145?s=19,,,,,,
+38772,,30/05/2020,25,M,Keoti Runway,Darbhanga,Bihar,BR,1,Hospitalized,,,https://twitter.com/BiharHealthDept/status/1266641965409542145?s=19,,,,,,
+38773,,30/05/2020,39,M,Kiratpur,Darbhanga,Bihar,BR,1,Hospitalized,,,https://twitter.com/BiharHealthDept/status/1266641965409542145?s=19,,,,,,
+38774,,30/05/2020,30,M,Keoti Runway,Darbhanga,Bihar,BR,1,Hospitalized,,,https://twitter.com/BiharHealthDept/status/1266641965409542145?s=19,,,,,,
+38775,,30/05/2020,19,M,Kiratp Ur,Darbhanga,Bihar,BR,1,Hospitalized,,,https://twitter.com/BiharHealthDept/status/1266641965409542145?s=19,,,,,,
+38776,,30/05/2020,40,M,Keoti Runway,Darbhanga,Bihar,BR,1,Hospitalized,,,https://twitter.com/BiharHealthDept/status/1266641965409542145?s=19,,,,,,
+38777,,30/05/2020,18,M,Lida Kishanganj,Madhepura,Bihar,BR,1,Hospitalized,,,https://twitter.com/BiharHealthDept/status/1266641965409542145?s=19,,,,,,
+38778,,30/05/2020,30,M,Lida Kishanganj,Madhepura,Bihar,BR,1,Hospitalized,,,https://twitter.com/BiharHealthDept/status/1266641965409542145?s=19,,,,,,
+38779,,30/05/2020,15,M,L\Da Kishanganj,Madhepura,Bihar,BR,1,Hospitalized,,,https://twitter.com/BiharHealthDept/status/1266641965409542145?s=19,,,,,,
+38780,,30/05/2020,18,M,Amarpur,Banka,Bihar,BR,1,Hospitalized,,,https://twitter.com/BiharHealthDept/status/1266641965409542145?s=19,,,,,,
+38781,,30/05/2020,52,M,Chausa,Madhepura,Bihar,BR,1,Hospitalized,,,https://twitter.com/BiharHealthDept/status/1266641965409542145?s=19,,,,,,
+38782,,30/05/2020,34,M,Singheswar,Madhepura,Bihar,BR,1,Hospitalized,,,https://twitter.com/BiharHealthDept/status/1266641965409542145?s=19,,,,,,
+38783,,30/05/2020,35,M,Patna,Patna,Bihar,BR,1,Hospitalized,,,https://twitter.com/BiharHealthDept/status/1266641965409542145?s=19,,,,,,
+38784,,30/05/2020,24,M,Pachrukhi,Siwan,Bihar,BR,1,Hospitalized,,,https://twitter.com/BiharHealthDept/status/1266641965409542145?s=19,,,,,,
+38785,,30/05/2020,32,M,Jale,Darbhanga,Bihar,BR,1,Hospitalized,,,https://twitter.com/BiharHealthDept/status/1266641965409542145?s=19,,,,,,
+38786,,30/05/2020,34,M,Jale,Darbhanga,Bihar,BR,1,Hospitalized,,,https://twitter.com/BiharHealthDept/status/1266641965409542145?s=19,,,,,,
+38787,,30/05/2020,27,M,Jale,Darbhanga,Bihar,BR,1,Hospitalized,,,https://twitter.com/BiharHealthDept/status/1266641965409542145?s=19,,,,,,
+38788,,30/05/2020,22,M,Kusheshwar Asthan,Darbhanga,Bihar,BR,1,Hospitalized,,,https://twitter.com/BiharHealthDept/status/1266641965409542145?s=19,,,,,,
+38789,,30/05/2020,17,M,Kusheshwar Asthan,Darbhanga,Bihar,BR,1,Hospitalized,,,https://twitter.com/BiharHealthDept/status/1266641965409542145?s=19,,,,,,
+38790,,30/05/2020,34,M,Kusheshwar  Asthan,Darbhanga,Bihar,BR,1,Hospitalized,,,https://twitter.com/BiharHealthDept/status/1266641965409542145?s=19,,,,,,
+38791,,30/05/2020,25,M,Bihariganj,Madhepura,Bihar,BR,1,Hospitalized,,,https://twitter.com/BiharHealthDept/status/1266641965409542145?s=19,,,,,,
+38792,,30/05/2020,18,M,Araria,Araria,Bihar,BR,1,Hospitalized,,,https://twitter.com/BiharHealthDept/status/1266641965409542145?s=19,,,,,,
+38793,,30/05/2020,24,M,Araria,Araria,Bihar,BR,1,Hospitalized,,,https://twitter.com/BiharHealthDept/status/1266641965409542145?s=19,,,,,,
+38794,,30/05/2020,15,M,Pothia,Kishanganj,Bihar,BR,1,Hospitalized,,,https://twitter.com/BiharHealthDept/status/1266641965409542145?s=19,,,,,,
+38795,,30/05/2020,22,M,K Ishanganj,Kishanganj,Bihar,BR,1,Hospitalized,,,https://twitter.com/BiharHealthDept/status/1266641965409542145?s=19,,,,,,
+38796,,30/05/2020,35,M,Thakurganj,Kishanganj,Bihar,BR,1,Hospitalized,,,https://twitter.com/BiharHealthDept/status/1266641965409542145?s=19,,,,,,
+38797,,30/05/2020,30,M,Bahadu Rganj,Kishanganj,Bihar,BR,1,Hospitalized,,,https://twitter.com/BiharHealthDept/status/1266641965409542145?s=19,,,,,,
+38798,,30/05/2020,18,M,Bahadu Rganj,Kishanganj,Bihar,BR,1,Hospitalized,,,https://twitter.com/BiharHealthDept/status/1266641965409542145?s=19,,,,,,
+38799,,30/05/2020,19,M,Ara,Bhojpur,Bihar,BR,1,Hospitalized,,,https://twitter.com/BiharHealthDept/status/1266641965409542145?s=19,,,,,,
+38800,,30/05/2020,29,F,Kaltv'.Or,Kaimur,Bihar,BR,1,Hospitalized,,,https://twitter.com/BiharHealthDept/status/1266641965409542145?s=19,,,,,,
+38801,,30/05/2020,53,M,Bahadu Rpur,Darbhanga,Bihar,BR,1,Hospitalized,,,https://twitter.com/BiharHealthDept/status/1266641965409542145?s=19,,,,,,
+38802,,30/05/2020,29,M,Bahadurpur,Darbhanga,Bihar,BR,1,Hospitalized,,,https://twitter.com/BiharHealthDept/status/1266641965409542145?s=19,,,,,,
+38803,,30/05/2020,57,M,Bahadu Rpur,Darbhanga,Bihar,BR,1,Hospitalized,,,https://twitter.com/BiharHealthDept/status/1266641965409542145?s=19,,,,,,
+38804,,30/05/2020,41,M,Jale,Darbhanga,Bihar,BR,1,Hospitalized,,,https://twitter.com/BiharHealthDept/status/1266641965409542145?s=19,,,,,,
+38805,,30/05/2020,24,M,Jale,Darbhanga,Bihar,BR,1,Hospitalized,,,https://twitter.com/BiharHealthDept/status/1266641965409542145?s=19,,,,,,
+38806,,30/05/2020,44,M,Ekangarsarai,Nalanda,Bihar,BR,1,Hospitalized,,,https://twitter.com/BiharHealthDept/status/1266641965409542145?s=19,,,,,,
+38807,,30/05/2020,15,M,Dumraon,Buxar,Bihar,BR,1,Hospitalized,,,https://twitter.com/BiharHealthDept/status/1266641965409542145?s=19,,,,,,
+38808,,30/05/2020,18,M,Sangrampu R,East Champaran,Bihar,BR,1,Hospitalized,,,https://twitter.com/BiharHealthDept/status/1266641965409542145?s=19,,,,,,
+38809,,30/05/2020,39,M,Sheohar,Sheohar,Bihar,BR,1,Hospitalized,,,https://twitter.com/BiharHealthDept/status/1266641965409542145?s=19,,,,,,
+38810,,30/05/2020,24,M,Sheohar,Sheohar,Bihar,BR,1,Hospitalized,,,https://twitter.com/BiharHealthDept/status/1266641965409542145?s=19,,,,,,
+38811,,30/05/2020,22,M,Murau L,Muzaffarpur,Bihar,BR,1,Hospitalized,,,https://twitter.com/BiharHealthDept/status/1266641965409542145?s=19,,,,,,
+38812,,30/05/2020,18,M,Murau L,Muzaffarpur,Bihar,BR,1,Hospitalized,,,https://twitter.com/BiharHealthDept/status/1266641965409542145?s=19,,,,,,
+38813,,30/05/2020,17,M,Murau L,Muzaffarpur,Bihar,BR,1,Hospitalized,,,https://twitter.com/BiharHealthDept/status/1266641965409542145?s=19,,,,,,
+38814,,30/05/2020,22,M,Parihar,Sitamarhi,Bihar,BR,1,Hospitalized,,,https://twitter.com/BiharHealthDept/status/1266641965409542145?s=19,,,,,,
+38815,,30/05/2020,40,M,Mushahar I,Muzaffarpur,Bihar,BR,1,Hospitalized,,,https://twitter.com/BiharHealthDept/status/1266641965409542145?s=19,,,,,,
+38816,,30/05/2020,18,M,Bochahan,Muzaffarpur,Bihar,BR,1,Hospitalized,,,https://twitter.com/BiharHealthDept/status/1266641965409542145?s=19,,,,,,
+38817,,30/05/2020,24,F,M Ushahar I,Muzaffarpur,Bihar,BR,1,Hospitalized,,,https://twitter.com/BiharHealthDept/status/1266641965409542145?s=19,,,,,,
+38818,,30/05/2020,24,M,Mushahar I,Muzaffarpur,Bihar,BR,1,Hospitalized,,,https://twitter.com/BiharHealthDept/status/1266641965409542145?s=19,,,,,,
+38819,,30/05/2020,53,M,M Ushahar I,Muzaffarpur,Bihar,BR,1,Hospitalized,,,https://twitter.com/BiharHealthDept/status/1266641965409542145?s=19,,,,,,
+38820,,30/05/2020,23,M,Jokihat,Araria,Bihar,BR,1,Hospitalized,,,https://twitter.com/BiharHealthDept/status/1266641965409542145?s=19,,,,,,
+38821,,30/05/2020,30,M,Asa Rganj,Munger,Bihar,BR,1,Hospitalized,,,https://twitter.com/BiharHealthDept/status/1266641965409542145?s=19,,,,,,
+38822,,30/05/2020,25,F,Asa Rga Nj,Munger,Bihar,BR,1,Hospitalized,,,https://twitter.com/BiharHealthDept/status/1266641965409542145?s=19,,,,,,
+38823,,30/05/2020,46,M,M Ung Er,Munger,Bihar,BR,1,Hospitalized,,,https://twitter.com/BiharHealthDept/status/1266641965409542145?s=19,,,,,,
+38824,,30/05/2020,30,M,M Ung Er,Munger,Bihar,BR,1,Hospitalized,,,https://twitter.com/BiharHealthDept/status/1266641965409542145?s=19,,,,,,
+38825,,30/05/2020,50,M,Jamalpur,Munger,Bihar,BR,1,Hospitalized,,,https://twitter.com/BiharHealthDept/status/1266641965409542145?s=19,,,,,,
+38826,,30/05/2020,32,M,M Ung Er,Munger,Bihar,BR,1,Hospitalized,,,https://twitter.com/BiharHealthDept/status/1266641965409542145?s=19,,,,,,
+38827,,30/05/2020,21,F,Beg Usara I,Begusarai,Bihar,BR,1,Hospitalized,,,https://twitter.com/BiharHealthDept/status/1266641965409542145?s=19,,,,,,
+38828,,30/05/2020,25,F,Beg Usarai,Begusarai,Bihar,BR,1,Hospitalized,,,https://twitter.com/BiharHealthDept/status/1266641965409542145?s=19,,,,,,
+38829,,30/05/2020,45,F,Beg Usarai,Begusarai,Bihar,BR,1,Hospitalized,,,https://twitter.com/BiharHealthDept/status/1266641965409542145?s=19,,,,,,
+38830,,30/05/2020,18,M,Beg Usara I,Begusarai,Bihar,BR,1,Hospitalized,,,https://twitter.com/BiharHealthDept/status/1266641965409542145?s=19,,,,,,
+38831,,30/05/2020,45,M,Barau N I,Begusarai,Bihar,BR,1,Hospitalized,,,https://twitter.com/BiharHealthDept/status/1266641965409542145?s=19,,,,,,
+38832,,30/05/2020,20,F,Matihani,Begusarai,Bihar,BR,1,Hospitalized,,,https://twitter.com/BiharHealthDept/status/1266641965409542145?s=19,,,,,,
+38833,,30/05/2020,55,M,Sahe Bpur Kama L,Begusarai,Bihar,BR,1,Hospitalized,,,https://twitter.com/BiharHealthDept/status/1266641965409542145?s=19,,,,,,
+38834,,30/05/2020,27,M,Bak Hri,Begusarai,Bihar,BR,1,Hospitalized,,,https://twitter.com/BiharHealthDept/status/1266641965409542145?s=19,,,,,,
+38835,,30/05/2020,24,M,Balia,Begusarai,Bihar,BR,1,Hospitalized,,,https://twitter.com/BiharHealthDept/status/1266641965409542145?s=19,,,,,,
+38836,,30/05/2020,40,M,Bak Hri,Begusarai,Bihar,BR,1,Hospitalized,,,https://twitter.com/BiharHealthDept/status/1266641965409542145?s=19,,,,,,
+38837,,30/05/2020,49,M,Bak Hri,Begusarai,Bihar,BR,1,Hospitalized,,,https://twitter.com/BiharHealthDept/status/1266641965409542145?s=19,,,,,,
+38838,,30/05/2020,48,M,Bakhri,Begusarai,Bihar,BR,1,Hospitalized,,,https://twitter.com/BiharHealthDept/status/1266641965409542145?s=19,,,,,,
+38839,,30/05/2020,43,M,Bakhri,Begusarai,Bihar,BR,1,Hospitalized,,,https://twitter.com/BiharHealthDept/status/1266641965409542145?s=19,,,,,,
+38840,,30/05/2020,32,M,Begusarai,Begusarai,Bihar,BR,1,Hospitalized,,,https://twitter.com/BiharHealthDept/status/1266641965409542145?s=19,,,,,,
+38841,,30/05/2020,30,M,Begusarai,Begusarai,Bihar,BR,1,Hospitalized,,,https://twitter.com/BiharHealthDept/status/1266641965409542145?s=19,,,,,,
+38842,,30/05/2020,24,F,Dandari,Begusarai,Bihar,BR,1,Hospitalized,,,https://twitter.com/BiharHealthDept/status/1266641965409542145?s=19,,,,,,
+38843,,30/05/2020,2,M,Barauni,Begusarai,Bihar,BR,1,Hospitalized,,,https://twitter.com/BiharHealthDept/status/1266641965409542145?s=19,,,,,,
+38844,,30/05/2020,40,F,Begusarai,Begusarai,Bihar,BR,1,Hospitalized,,,https://twitter.com/BiharHealthDept/status/1266641965409542145?s=19,,,,,,
+38845,,30/05/2020,15,M,Begusarai,Begusarai,Bihar,BR,1,Hospitalized,,,https://twitter.com/BiharHealthDept/status/1266641965409542145?s=19,,,,,,
+38846,,30/05/2020,38,M,Alaulibeldaur,Khagaria,Bihar,BR,1,Hospitalized,,,https://twitter.com/BiharHealthDept/status/1266641965409542145?s=19,,,,,,
+38847,,30/05/2020,58,M,Kursakanta,Araria,Bihar,BR,1,Hospitalized,,,https://twitter.com/BiharHealthDept/status/1266641965409542145?s=19,,,,,,
+38848,,30/05/2020,28,M,Kursakanta,Araria,Bihar,BR,1,Hospitalized,,,https://twitter.com/BiharHealthDept/status/1266641965409542145?s=19,,,,,,
+38849,,30/05/2020,18,F,Kumarkhand,Madhepura,Bihar,BR,1,Hospitalized,,,https://twitter.com/BiharHealthDept/status/1266641965409542145?s=19,,,,,,
+38850,,30/05/2020,16,F,Kumarkhand,Madhepura,Bihar,BR,1,Hospitalized,,,https://twitter.com/BiharHealthDept/status/1266641965409542145?s=19,,,,,,
+38851,,30/05/2020,31,M,Gamhariya,Madhepura,Bihar,BR,1,Hospitalized,,,https://twitter.com/BiharHealthDept/status/1266641965409542145?s=19,,,,,,
+38852,,30/05/2020,26,M,Kumarkhand,Madhepura,Bihar,BR,1,Hospitalized,,,https://twitter.com/BiharHealthDept/status/1266641965409542145?s=19,,,,,,
+38853,,30/05/2020,22,M,Patarghat,Saharsa,Bihar,BR,1,Hospitalized,,,https://twitter.com/BiharHealthDept/status/1266641965409542145?s=19,,,,,,
+38854,,30/05/2020,35,M,Patarghat,Saharsa,Bihar,BR,1,Hospitalized,,,https://twitter.com/BiharHealthDept/status/1266641965409542145?s=19,,,,,,
+38855,,30/05/2020,36,M,Samasti Pur,Samastipur,Bihar,BR,1,Hospitalized,,,https://twitter.com/BiharHealthDept/status/1266641965409542145?s=19,,,,,,
+38856,,30/05/2020,20,M,Jhajha,Jamui,Bihar,BR,1,Hospitalized,,,https://twitter.com/BiharHealthDept/status/1266641965409542145?s=19,,,,,,
+38857,,30/05/2020,,,,Chittoor,Andhra Pradesh,AP,7,Hospitalized,,,https://twitter.com/ANI/status/1266647622497865729,,,,,,
+38858,,30/05/2020,,,,East Godavari,Andhra Pradesh,AP,34,Hospitalized,,,https://twitter.com/ANI/status/1266647622497865729,,,,,,
+38859,,30/05/2020,,,,Guntur,Andhra Pradesh,AP,13,Hospitalized,,,https://twitter.com/ANI/status/1266647622497865729,,,,,,
+38860,,30/05/2020,,,,Y.S.R. Kadapa,Andhra Pradesh,AP,2,Hospitalized,,,https://twitter.com/ANI/status/1266647622497865729,,,,,,
+38861,,30/05/2020,,,,Krishna,Andhra Pradesh,AP,2,Hospitalized,,,https://twitter.com/ANI/status/1266647622497865729,,,,,,
+38862,,30/05/2020,,,,Kurnool,Andhra Pradesh,AP,9,Hospitalized,,,https://twitter.com/ANI/status/1266647622497865729,,,,,,
+38863,,30/05/2020,,,,S.P.S. Nellore,Andhra Pradesh,AP,1,Hospitalized,,,https://twitter.com/ANI/status/1266647622497865729,,,,,,
+38864,,30/05/2020,,,,Srikakulam,Andhra Pradesh,AP,2,Hospitalized,,,https://twitter.com/ANI/status/1266647622497865729,,,,,,
+38865,,30/05/2020,,,,Anantapur,Andhra Pradesh,AP,14,Recovered,,,https://twitter.com/ANI/status/1266647622497865729,,,,,,
+38866,,30/05/2020,,,,Chittoor,Andhra Pradesh,AP,5,Recovered,,,https://twitter.com/ANI/status/1266647622497865729,,,,,,
+38867,,30/05/2020,,,,East Godavari,Andhra Pradesh,AP,2,Recovered,,,https://twitter.com/ANI/status/1266647622497865729,,,,,,
+38868,,30/05/2020,,,,Guntur,Andhra Pradesh,AP,1,Recovered,,,https://twitter.com/ANI/status/1266647622497865729,,,,,,
+38869,,30/05/2020,,,,Krishna,Andhra Pradesh,AP,7,Recovered,,,https://twitter.com/ANI/status/1266647622497865729,,,,,,
+38870,,30/05/2020,,,,Kurnool,Andhra Pradesh,AP,4,Recovered,,,https://twitter.com/ANI/status/1266647622497865729,,,,,,
+38871,,30/05/2020,,,,S.P.S. Nellore,Andhra Pradesh,AP,20,Recovered,,,https://twitter.com/ANI/status/1266647622497865729,,,,,,
+38872,,30/05/2020,,,,Visakhapatnam,Andhra Pradesh,AP,2,Recovered,,,https://twitter.com/ANI/status/1266647622497865729,,,,,,
+38873,,30/05/2020,,,,Other State,Andhra Pradesh,AP,61,Hospitalized,,,https://twitter.com/ANI/status/1266647622497865729,,,,,,
 38874,,30/05/2020,,,,,,,,,,,,,,,,,
 38875,,30/05/2020,,,,,,,,,,,,,,,,,
 38876,,30/05/2020,,,,,,,,,,,,,,,,,

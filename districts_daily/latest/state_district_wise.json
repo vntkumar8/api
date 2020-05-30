@@ -73,84 +73,84 @@
       },
       "Anantapur": {
         "notes": "",
-        "active": 89,
+        "active": 75,
         "confirmed": 209,
         "deceased": 4,
-        "recovered": 116,
+        "recovered": 130,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 14
         }
       },
       "Chittoor": {
         "notes": "",
-        "active": 70,
-        "confirmed": 246,
+        "active": 72,
+        "confirmed": 253,
         "deceased": 1,
-        "recovered": 175,
+        "recovered": 180,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 7,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 5
         }
       },
       "East Godavari": {
         "notes": "",
-        "active": 105,
-        "confirmed": 156,
+        "active": 137,
+        "confirmed": 190,
         "deceased": 2,
-        "recovered": 49,
+        "recovered": 51,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 34,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 2
         }
       },
       "Guntur": {
         "notes": "",
-        "active": 80,
-        "confirmed": 465,
+        "active": 92,
+        "confirmed": 478,
         "deceased": 8,
-        "recovered": 377,
+        "recovered": 378,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 13,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 1
         }
       },
       "Krishna": {
         "notes": "",
-        "active": 122,
-        "confirmed": 454,
+        "active": 117,
+        "confirmed": 456,
         "deceased": 17,
-        "recovered": 315,
+        "recovered": 322,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 2,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 7
         }
       },
       "Kurnool": {
         "notes": "",
-        "active": 125,
-        "confirmed": 695,
+        "active": 130,
+        "confirmed": 704,
         "deceased": 23,
-        "recovered": 547,
+        "recovered": 551,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 9,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 4
         }
       },
       "Other State": {
         "notes": "",
-        "active": 156,
-        "confirmed": 345,
+        "active": 217,
+        "confirmed": 406,
         "deceased": 0,
         "recovered": 189,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 61,
           "deceased": 0,
           "recovered": 0
         }
@@ -169,38 +169,38 @@
       },
       "S.P.S. Nellore": {
         "notes": "",
-        "active": 80,
-        "confirmed": 238,
+        "active": 61,
+        "confirmed": 239,
         "deceased": 4,
-        "recovered": 154,
+        "recovered": 174,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 20
         }
       },
       "Srikakulam": {
         "notes": "",
-        "active": 12,
-        "confirmed": 21,
+        "active": 14,
+        "confirmed": 23,
         "deceased": 0,
         "recovered": 9,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 2,
           "deceased": 0,
           "recovered": 0
         }
       },
       "Visakhapatnam": {
         "notes": "",
-        "active": 32,
+        "active": 30,
         "confirmed": 99,
         "deceased": 1,
-        "recovered": 66,
+        "recovered": 68,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 2
         }
       },
       "Vizianagaram": {
@@ -229,12 +229,12 @@
       },
       "Y.S.R. Kadapa": {
         "notes": "",
-        "active": 9,
-        "confirmed": 111,
+        "active": 11,
+        "confirmed": 113,
         "deceased": 0,
         "recovered": 102,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 2,
           "deceased": 0,
           "recovered": 0
         }
@@ -815,8 +815,8 @@
       },
       "Karimganj": {
         "notes": "",
-        "active": 39,
-        "confirmed": 41,
+        "active": 41,
+        "confirmed": 43,
         "deceased": 0,
         "recovered": 2,
         "delta": {
@@ -973,6 +973,18 @@
         "notes": "",
         "active": 4,
         "confirmed": 4,
+        "deceased": 0,
+        "recovered": 0,
+        "delta": {
+          "confirmed": 0,
+          "deceased": 0,
+          "recovered": 0
+        }
+      },
+      "Unknown": {
+        "notes": "",
+        "active": -2,
+        "confirmed": -2,
         "deceased": 0,
         "recovered": 0,
         "delta": {
