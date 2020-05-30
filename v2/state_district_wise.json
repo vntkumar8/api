@@ -3210,12 +3210,12 @@
       {
         "district": "East Singhbhum",
         "notes": "",
-        "active": 78,
-        "confirmed": 79,
+        "active": 79,
+        "confirmed": 80,
         "deceased": 0,
         "recovered": 1,
         "delta": {
-          "confirmed": 27,
+          "confirmed": 28,
           "deceased": 0,
           "recovered": 0
         }
@@ -3223,14 +3223,14 @@
       {
         "district": "Garhwa",
         "notes": "",
-        "active": 24,
+        "active": 11,
         "confirmed": 59,
         "deceased": 0,
-        "recovered": 35,
+        "recovered": 48,
         "delta": {
           "confirmed": 2,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 13
         }
       },
       {
@@ -3314,14 +3314,14 @@
       {
         "district": "Koderma",
         "notes": "",
-        "active": 34,
+        "active": 15,
         "confirmed": 41,
         "deceased": 1,
-        "recovered": 6,
+        "recovered": 25,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 19
         }
       },
       {
@@ -3340,14 +3340,14 @@
       {
         "district": "Lohardaga",
         "notes": "",
-        "active": 3,
+        "active": 1,
         "confirmed": 3,
         "deceased": 0,
-        "recovered": 0,
+        "recovered": 2,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 2
         }
       },
       {
@@ -3392,14 +3392,14 @@
       {
         "district": "Ranchi",
         "notes": "",
-        "active": 26,
+        "active": 21,
         "confirmed": 129,
         "deceased": 2,
-        "recovered": 101,
+        "recovered": 106,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 5
         }
       },
       {
@@ -3444,27 +3444,14 @@
       {
         "district": "West Singhbhum",
         "notes": "",
-        "active": 15,
+        "active": 14,
         "confirmed": 15,
         "deceased": 0,
-        "recovered": 0,
+        "recovered": 1,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
-        }
-      },
-      {
-        "district": "Unknown",
-        "notes": "",
-        "active": 1,
-        "confirmed": 1,
-        "deceased": 0,
-        "recovered": 0,
-        "delta": {
-          "confirmed": 0,
-          "deceased": 0,
-          "recovered": 0
+          "recovered": 1
         }
       }
     ]
