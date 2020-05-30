@@ -2747,6 +2747,11 @@
         }
       },
       "Unassigned": {
+        "delta": {
+          "confirmed": 0,
+          "deceased": 0,
+          "recovered": 0
+        },
         "total": {
           "confirmed": 0,
           "deceased": 0,

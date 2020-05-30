@@ -1867,12 +1867,7 @@
         "total": {
           "confirmed": 180,
           "deceased": 1,
-          "recovered": 139
-        }
-      },
-      "Sonitpur": {
-        "total": {
-          "recovered": 7
+          "recovered": 146
         }
       },
       "Unassigned": {
@@ -3549,8 +3544,11 @@
         }
       },
       "Sehore": {
+        "delta": {
+          "confirmed": 1
+        },
         "total": {
-          "confirmed": 5,
+          "confirmed": 6,
           "deceased": 1,
           "recovered": 4
         }
@@ -3572,14 +3570,6 @@
           "confirmed": 9,
           "deceased": 1,
           "recovered": 7
-        }
-      },
-      "Sheohar": {
-        "delta": {
-          "confirmed": 1
-        },
-        "total": {
-          "confirmed": 1
         }
       },
       "Sheopur": {
