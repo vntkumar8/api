@@ -179,9 +179,6 @@
     }
   },
   "AS": {
-    "delta": {
-      "confirmed": 2
-    },
     "districts": {
       "Barpeta": {
         "total": {
@@ -216,9 +213,6 @@
         }
       },
       "Darrang": {
-        "delta": {
-          "confirmed": 2
-        },
         "total": {
           "confirmed": 10
         }
@@ -2453,7 +2447,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-05-29T18:03:08+05:30",
+      "last_updated": "2020-05-30T11:12:07+05:30",
       "tested": {
         "last_updated": "2020-05-27",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/206"
@@ -2904,15 +2898,24 @@
     }
   },
   "NL": {
+    "delta": {
+      "confirmed": 11
+    },
     "districts": {
       "Dimapur": {
+        "delta": {
+          "confirmed": 8
+        },
         "total": {
-          "confirmed": 14
+          "confirmed": 22
         }
       },
       "Kohima": {
+        "delta": {
+          "confirmed": 3
+        },
         "total": {
-          "confirmed": 9
+          "confirmed": 12
         }
       },
       "Tuensang": {
@@ -2922,14 +2925,14 @@
       }
     },
     "meta": {
-      "last_updated": "2020-05-29T13:24:06+05:30",
+      "last_updated": "2020-05-30T11:13:07+05:30",
       "tested": {
         "last_updated": "2020-05-29",
         "source": ""
       }
     },
     "total": {
-      "confirmed": 25,
+      "confirmed": 36,
       "tested": 1997
     }
   },
@@ -4236,17 +4239,17 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 372
+      "confirmed": 381
     },
     "meta": {
-      "last_updated": "2020-05-30T11:03:03+05:30",
+      "last_updated": "2020-05-30T11:13:03+05:30",
       "tested": {
         "last_updated": "2020-05-29",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/211"
       }
     },
     "total": {
-      "confirmed": 173858,
+      "confirmed": 173869,
       "deceased": 4980,
       "recovered": 82627,
       "tested": 3483838
@@ -4267,7 +4270,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-05-30T11:03:04+05:30",
+      "last_updated": "2020-05-30T11:13:04+05:30",
       "notes": "MoHFW website reports that these are the \"cases that are being reassigned to states\""
     },
     "total": {
