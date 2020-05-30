@@ -225,7 +225,7 @@
   },
   "AS": {
     "delta": {
-      "confirmed": 177,
+      "confirmed": 179,
       "recovered": 22,
       "tested": 19736
     },
@@ -456,11 +456,11 @@
       },
       "Unassigned": {
         "delta": {
-          "confirmed": -5,
+          "confirmed": -3,
           "recovered": -25
         },
         "total": {
-          "confirmed": -2,
+          "confirmed": 0,
           "deceased": 0,
           "recovered": 0
         }
@@ -481,7 +481,7 @@
       }
     },
     "total": {
-      "confirmed": 1058,
+      "confirmed": 1060,
       "deceased": 4,
       "recovered": 126,
       "tested": 92390
@@ -4365,24 +4365,17 @@
       },
       "Puducherry": {
         "delta": {
-          "confirmed": 4
+          "confirmed": 4,
+          "recovered": 4
         },
         "total": {
           "confirmed": 51,
-          "recovered": 13
+          "recovered": 17
         }
       },
       "Unassigned": {
         "total": {
           "confirmed": 0
-        }
-      },
-      "Yanam": {
-        "delta": {
-          "recovered": 4
-        },
-        "total": {
-          "recovered": 4
         }
       }
     },
@@ -5524,7 +5517,7 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 8138,
+      "confirmed": 8140,
       "deceased": 269,
       "recovered": 11735,
       "tested": 121702
@@ -5536,7 +5529,7 @@
       }
     },
     "total": {
-      "confirmed": 173495,
+      "confirmed": 173497,
       "deceased": 4980,
       "recovered": 82633,
       "tested": 3483838
