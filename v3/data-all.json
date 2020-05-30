@@ -196847,19 +196847,12 @@
       "districts": {
         "Airport Quarantine": {
           "delta": {
+            "confirmed": 6,
             "recovered": 6
           },
           "total": {
-            "confirmed": 90,
+            "confirmed": 96,
             "recovered": 14
-          }
-        },
-        "Airport Quarantine (Domestic)": {
-          "delta": {
-            "confirmed": 6
-          },
-          "total": {
-            "confirmed": 6
           }
         },
         "Ariyalur": {
@@ -197177,7 +197170,6 @@
         },
         "Unassigned": {
           "total": {
-            "confirmed": {},
             "recovered": -25
           }
         },
