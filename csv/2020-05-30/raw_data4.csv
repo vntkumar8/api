@@ -12944,7 +12944,7 @@ Entry_ID,State Patient Number,Date Announced,Age Bracket,Gender,Detected City,De
 22947,,20/05/2020,,,,Udhampur,Jammu and Kashmir,JK,2,Recovered,,,https://twitter.com/diprjk/status/1263120357734649862,,,,,,51889
 22948,,20/05/2020,,,,Anantnag,Jammu and Kashmir,JK,1,Deceased,,,https://twitter.com/diprjk/status/1263120357734649862,,,,,,51890
 22949,,20/05/2020,,,,Yavatmal,Maharashtra,MH,1,Hospitalized,,,https://twitter.com/ANI/status/1263120669929205763,,,,,,51891
-22950,,20/05/2020,,,,,Maharashtra,MH,,Recovered,,Expanded,https://twitter.com/ANI/status/1263120669929205763,,,,,,51892
+22950,,20/05/2020,,,,,Maharashtra,MH,0,Recovered,,Expanded,https://twitter.com/ANI/status/1263120669929205763,,,,,,51892
 22951,,20/05/2020,,,,Aurangabad,Maharashtra,MH,2,Deceased,,,https://twitter.com/ANI/status/1263120669929205763,,,,,,51893
 22952,,20/05/2020,,,,Mumbai,Maharashtra,MH,41,Deceased,,,https://twitter.com/ANI/status/1263120669929205763,,,,,,51894
 22953,,20/05/2020,,,,Pune,Maharashtra,MH,15,Deceased,,,https://twitter.com/ANI/status/1263120669929205763,,,,,,51895
@@ -13050,8 +13050,8 @@ Entry_ID,State Patient Number,Date Announced,Age Bracket,Gender,Detected City,De
 23053,,20/05/2020,,,Sarusajai Quarantine Centre,Kamrup Metropolitan,Assam,AS,14,Hospitalized,,Patients in quarantine center,https://twitter.com/himantabiswa/status/1263153018087727104,,,,,,51995
 23054,,20/05/2020,,,Tura,West Garo Hills,Meghalaya,ML,1,Hospitalized,,Travelled from Chennai,https://twitter.com/SangmaConrad/status/1262790916273651713,,,,,,51996
 23055,,20/05/2020,,F,,Churachandpur,Manipur,MN,1,Hospitalized,,Travelled from Chennai,https://twitter.com/ANI/status/1263154896829702144,,,,,,51997
-23056,,20/05/2020,28,F,Bapu Dham Colony,Chandigarh,Chandigarh,CH,,Hospitalized,,,,,,,,,51998
-23057,,20/05/2020,6,F,Bapu Dham Colony,Chandigarh,Chandigarh,CH,,Hospitalized,,,,,,,,,51999
+23056,,20/05/2020,28,F,Bapu Dham Colony,Chandigarh,Chandigarh,CH,0,Hospitalized,,Discarded row,,,,,,,51998
+23057,,20/05/2020,6,F,Bapu Dham Colony,Chandigarh,Chandigarh,CH,0,Hospitalized,,Discarded row,,,,,,,51999
 23058,,20/05/2020,,F,,Churachandpur,Manipur,MN,1,Hospitalized,,Travelled from Chennai,https://twitter.com/ANI/status/1263154896829702144,,,,,,52000
 23059,,20/05/2020,,F,,Churachandpur,Manipur,MN,1,Hospitalized,,Travelled from Chennai,https://twitter.com/ANI/status/1263154896829702144,,,,,,52001
 23060,,20/05/2020,,F,,Churachandpur,Manipur,MN,1,Hospitalized,,Travelled from Chennai,https://twitter.com/ANI/status/1263154896829702144,,,,,,52002
@@ -14450,7 +14450,9 @@ Entry_ID,State Patient Number,Date Announced,Age Bracket,Gender,Detected City,De
 24453,,21/05/2020,,,,Ranga Reddy,Telangana,TG,2,Hospitalized,,,https://twitter.com/ANI/status/1263490090463944704,,,,,,53395
 24454,,21/05/2020,,,,Other State,Telangana,TG,10,Hospitalized,,,https://twitter.com/ANI/status/1263490090463944704,,,,,,53396
 24455,,21/05/2020,,,Sarusajai Quarantine Centre,West Karbi Anglong,Assam,AS,1,Hospitalized,,,https://twitter.com/himantabiswa/status/1263475671331987458,,,,,,53397
-24456,,21/05/2020,,,Sarusajai Quarantine Centre,giri,Assam,AS,1,Hospitalized,,,https://twitter.com/himantabiswa/status/1263475671331987458,,,,,,53398
+24456,,21/05/2020,,,Sarusajai Quarantine Centre,,Assam,AS,1,Hospitalized,"
+
+",,https://twitter.com/himantabiswa/status/1263475671331987458,,,,,,53398
 24457,,21/05/2020,,,Sarusajai Quarantine Centre,Darrang,Assam,AS,1,Hospitalized,,,https://twitter.com/himantabiswa/status/1263475671331987458,,,,,,53399
 24458,,21/05/2020,,,Sarusajai Quarantine Centre,Udalguri,Assam,AS,1,Hospitalized,,,https://twitter.com/himantabiswa/status/1263475671331987458,,,,,,53400
 24459,,21/05/2020,,,,,Telangana,TG,23,Recovered,,,https://twitter.com/ANI/status/1263490090463944704,,,,,,53401
@@ -15018,7 +15020,7 @@ Haveri",https://twitter.com/DHFWKA/status/1263738060576940032,,,,,,53874
 25018,,21/05/2020,,,,Khagaria,Bihar,BR,20,Hospitalized,,For Adjust unknown Case,https://twitter.com/KhagariaDm/status/1263537264946114560?s=20,,,,,,53960
 25019,,22/05/2020,,,,Cachar,Assam,AS,1,Hospitalized,,,https://twitter.com/ANI/status/1263770247401619458?s=20,,,,,,53961
 25020,,22/05/2020,,,,Hailakandi,Assam,AS,1,Hospitalized,,,https://twitter.com/ANI/status/1263770247401619458?s=20,,,,,,53962
-25021,,22/05/2020,,,,,Uttarakhand,,,,,,,,,,,,53963
+25021,,22/05/2020,,,,,Uttarakhand,,0,Hospitalized,,Discarded row,,,,,,,53963
 25022,,22/05/2020,,,,Sivasagar,Assam,AS,2,Hospitalized,,,https://twitter.com/himantabiswa/status/1263705994250432512?s=19,,,,,,53964
 25023,,22/05/2020,,,,Sonitpur,Assam,AS,6,Hospitalized,,,https://twitter.com/himantabiswa/status/1263780997973196802?s=20,,,,,,53965
 25024,,22/05/2020,,,,Udalguri,Assam,AS,1,Hospitalized,,,https://twitter.com/himantabiswa/status/1263676436411375616?s=20,,,,,,53966
@@ -15052,7 +15054,9 @@ Haveri",https://twitter.com/DHFWKA/status/1263738060576940032,,,,,,53874
 25052,,22/05/2020,21,M,,Begusarai,Bihar,BR,1,Hospitalized,,,https://twitter.com/BiharHealthDept/status/1263799603352219648?s=20,,,,,,53994
 25053,,22/05/2020,35,M,,Madhepura,Bihar,BR,1,Hospitalized,,,https://twitter.com/BiharHealthDept/status/1263799603352219648?s=20,,,,,,53995
 25054,,22/05/2020,19,M,,Madhepura,Bihar,BR,1,Hospitalized,,,https://twitter.com/BiharHealthDept/status/1263799603352219648?s=20,,,,,,53996
-25055,,22/05/2020,23,M,,Arwal,Bihar,BR,1,Hospitalized,,,https://twitter.com/BiharHealthDept/status/1263799603352219648?s=20,,,,,,53997
+25055,,22/05/2020,23,M,,Arwal,Bihar,BR,1,Hospitalized,"
+
+",,https://twitter.com/BiharHealthDept/status/1263799603352219648?s=20,,,,,,53997
 25056,,22/05/2020,24,F,,Samastipur,Bihar,BR,1,Hospitalized,,,https://twitter.com/BiharHealthDept/status/1263799603352219648?s=20,,,,,,53998
 25057,,22/05/2020,38,M,,Samastipur,Bihar,BR,1,Hospitalized,,,https://twitter.com/BiharHealthDept/status/1263799603352219648?s=20,,,,,,53999
 25058,,22/05/2020,20,M,,Samastipur,Bihar,BR,1,Hospitalized,,,https://twitter.com/BiharHealthDept/status/1263799603352219648?s=20,,,,,,54000
@@ -16026,11 +16030,13 @@ Haveri",https://twitter.com/DHFWKA/status/1263738060576940032,,,,,,53874
 26026,,22/05/2020,,,,Uttarkashi,Uttarakhand,UT,1,Hospitalized,,,http://health.uk.gov.in/files/2020.05.22_Health_Bulletin.pdf,,,,,,54969
 26027,,22/05/2020,,,,Bageshwar,Uttarakhand,UT,-5,Hospitalized,,,http://health.uk.gov.in/files/2020.05.22_Health_Bulletin.pdf,,,,,,54970
 26028,,22/05/2020,,,,Dehradun,Uttarakhand,UT,7,Hospitalized,,,http://health.uk.gov.in/files/2020.05.22_Health_Bulletin.pdf,,,,,,54971
-26029,,22/05/2020,,,,,Uttarakhand,,,,,,,,,,,,54972
+26029,,22/05/2020,,,,,Uttarakhand,UT,0,Hospitalized,"
+
+",Discarded row,,,,,,,54972
 26030,,22/05/2020,20,M,,Haridwar,Uttarakhand,UT,1,Hospitalized,,,https://twitter.com/ANI/status/1263861116448342021,,,,,,54973
 26031,,22/05/2020,22,M,,Haridwar,Uttarakhand,UT,1,Hospitalized,,,https://twitter.com/ANI/status/1263861116448342021,,,,,,54974
-26032,,22/05/2020,,,,,Uttarakhand,UT,,,,,,,,,,,54975
-26033,,22/05/2020,,,,,Uttarakhand,UT,,,,,,,,,,,54976
+26032,,22/05/2020,,,,,Uttarakhand,UT,0,Hospitalized,,Discarded row,,,,,,,54975
+26033,,22/05/2020,,,,,Uttarakhand,UT,0,Hospitalized,,Discarded row,,,,,,,54976
 26034,,22/05/2020,,,,Anantnag,Jammu and Kashmir,JK,2,Hospitalized,,,https://twitter.com/diprjk/status/1263837548280860672,,,,,,54977
 26035,,22/05/2020,,,,Kulgam,Jammu and Kashmir,JK,1,Hospitalized,,,https://twitter.com/diprjk/status/1263837548280860672,,,,,,54978
 26036,,22/05/2020,,,,Srinagar,Jammu and Kashmir,JK,2,Hospitalized,,,https://twitter.com/diprjk/status/1263837548280860672,,,,,,54979

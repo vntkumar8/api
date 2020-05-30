@@ -399,7 +399,7 @@
       },
       "Unassigned": {
         "total": {
-          "confirmed": -1,
+          "confirmed": 0,
           "deceased": 0,
           "recovered": 0
         }
@@ -410,11 +410,6 @@
         },
         "total": {
           "confirmed": 2
-        }
-      },
-      "giri": {
-        "total": {
-          "confirmed": 1
         }
       }
     },
@@ -5929,6 +5924,7 @@
       },
       "Unassigned": {
         "total": {
+          "confirmed": 0,
           "recovered": 0
         }
       },

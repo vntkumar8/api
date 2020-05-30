@@ -356,17 +356,12 @@
           "confirmed": -6
         },
         "total": {
-          "confirmed": -1,
+          "confirmed": 0,
           "deceased": 0,
           "recovered": 0
         }
       },
       "West Karbi Anglong": {
-        "total": {
-          "confirmed": 1
-        }
-      },
-      "giri": {
         "total": {
           "confirmed": 1
         }
@@ -5849,7 +5844,11 @@
         }
       },
       "Unassigned": {
+        "delta": {
+          "confirmed": 0
+        },
         "total": {
+          "confirmed": 0,
           "recovered": 0
         }
       },
