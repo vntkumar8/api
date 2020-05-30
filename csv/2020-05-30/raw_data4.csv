@@ -5426,7 +5426,9 @@ Entry_ID,State Patient Number,Date Announced,Age Bracket,Gender,Detected City,De
 15433,,14/05/2020,,,,Haridwar,Uttarakhand,UT,1,Recovered,,,http://health.uk.gov.in/files/2020.05.14_Health_Bulletin.pdf,,,,,,44372
 15434,,14/05/2020,,,,Nainital,Uttarakhand,UT,1,Recovered,,,http://health.uk.gov.in/files/2020.05.14_Health_Bulletin.pdf,,,,,,44373
 15435,,14/05/2020,,,,Thane,Maharashtra,MH,222,Hospitalized,,,https://twitter.com/rajeshtope11/status/1260946158605815809,,,,,,44374
-15436,,14/05/2020,,,,,Maharashtra,MH,,Recovered,,Maharashtra - Expanded from Row 5463,https://twitter.com/rajeshtope11/status/1260946158605815809,,,,,,44375
+15436,,14/05/2020,,,,,Maharashtra,MH,0,Recovered,"
+
+",Maharashtra - Expanded from Row 5463,https://twitter.com/rajeshtope11/status/1260946158605815809,,,,,,44375
 15437,,14/05/2020,,,,Thane,Maharashtra,MH,11,Deceased,,,https://twitter.com/rajeshtope11/status/1260946158605815809,,,,,,44376
 15438,,14/05/2020,,,,Nadia,West Bengal,WB,2,Hospitalized,,,https://www.wbhealth.gov.in/uploaded_files/corona/WB_DHFW_Bulletin_14th_MAY_REPORT_FINAL.pdf,,,,,,44377
 15439,,14/05/2020,,,,Purba Medinipur,West Bengal,WB,2,Hospitalized,,,https://www.wbhealth.gov.in/uploaded_files/corona/WB_DHFW_Bulletin_14th_MAY_REPORT_FINAL.pdf,,,,,,44378
@@ -6842,7 +6844,9 @@ Entry_ID,State Patient Number,Date Announced,Age Bracket,Gender,Detected City,De
 16849,,16/05/2020,20,M,Biddupur,Vaishali,Bihar,BR,1,Hospitalized,,,https://twitter.com/sanjayjavin/status/1261631179419037696?s=20,,,,,,45788
 16850,,16/05/2020,22,M,Mahua,Vaishali,Bihar,BR,1,Hospitalized,,,https://twitter.com/sanjayjavin/status/1261631179419037696?s=20,,,,,,45789
 16851,,16/05/2020,25,M,Mahua,Vaishali,Bihar,BR,1,Hospitalized,,,https://twitter.com/sanjayjavin/status/1261631179419037696?s=20,,,,,,45790
-16852,,16/05/2020,38,M,"BMKA-P14,Khajpura",Patna,Bihar,BR,,Hospitalized,,Repeat,https://twitter.com/sanjayjavin/status/1261631179419037696?s=20,,,,,,45791
+16852,,16/05/2020,38,M,"BMKA-P14,Khajpura",Patna,Bihar,BR,0,Hospitalized,"
+
+",Repeat,https://twitter.com/sanjayjavin/status/1261631179419037696?s=20,,,,,,45791
 16853,,16/05/2020,18,M,Rahika,Madhubani,Bihar,BR,1,Hospitalized,,,https://twitter.com/sanjayjavin/status/1261631179419037696?s=20,,,,,,45792
 16854,,16/05/2020,45,F,Rahika,Madhubani,Bihar,BR,1,Hospitalized,,,https://twitter.com/sanjayjavin/status/1261631179419037696?s=20,,,,,,45793
 16855,,16/05/2020,33,M,Rahika,Madhubani,Bihar,BR,1,Hospitalized,,,https://twitter.com/sanjayjavin/status/1261631179419037696?s=20,,,,,,45794
@@ -16722,7 +16726,7 @@ Haveri",https://twitter.com/DHFWKA/status/1263738060576940032,,,,,,53874
 26716,KA-P1939,23/05/2020,17,M,,Bengaluru Urban,Karnataka,KA,1,Hospitalized,,Returnees for Maharashtra,https://twitter.com/DHFWKA/status/1264110139138859013,,,,,,55659
 26717,KA-P869,23/05/2020,,,,Mandya,Karnataka,KA,1,Recovered,,,https://twitter.com/DHFWKA/status/1264110139138859013,,,,,,55660
 26718,KA-P1270,23/05/2020,,,,Bengaluru Urban,Karnataka,KA,1,Deceased,,"KA-P1270 32 year old M resident of Bengaluru Urban admitted to Designated Hospital, on 19.05.2020 with complaint of Breathing difficulty, having comorbid conditions and emaciated. Died on 23.05.2020 due to cardiac arrest.",https://twitter.com/DHFWKA/status/1264110139138859013,,,,,,55661
-26719,KA-P1783,23/05/2020,,,,Dakshina Kannada,Karnataka,KA,,Deceased,,P-1783 Died due to non covid reasons,https://twitter.com/DHFWKA/status/1264110139138859013,,,,,,55662
+26719,KA-P1783,23/05/2020,,,,Dakshina Kannada,Karnataka,KA,0,Deceased,,P-1783 Died due to non covid reasons,https://twitter.com/DHFWKA/status/1264110139138859013,,,,,,55662
 26720,,23/05/2020,,,,Kargil,Ladakh,LA,1,Hospitalized,,Student who returned from Jammu,https://twitter.com/ladags/status/1264078265792131073?s=19,,,,,,55663
 26721,,23/05/2020,,,,Jaipur,Rajasthan,RJ,1,Deceased,,,https://twitter.com/airnews_jaipur/status/1264118193947242497,,,,,,55664
 26722,,23/05/2020,,,,Rajsamand,Rajasthan,RJ,14,Hospitalized,,,https://twitter.com/airnews_jaipur/status/1264118193947242497,,,,,,55665
@@ -16783,7 +16787,9 @@ Haveri",https://twitter.com/DHFWKA/status/1263738060576940032,,,,,,53874
 26777,,23/05/2020,,,,Solan,Himachal Pradesh,HP,5,Hospitalized,,,https://twitter.com/nhm_hp/status/1264170376042393601,,,,,,55720
 26778,,23/05/2020,,,,Hamirpur,Himachal Pradesh,HP,1,Recovered,,,https://twitter.com/nhm_hp/status/1264170376042393601,,,,,,55721
 26779,,23/05/2020,,,,Kangra,Himachal Pradesh,HP,1,Recovered,,,https://twitter.com/nhm_hp/status/1264170376042393601,,,,,,55722
-26780,,23/05/2020,,,,,Bihar,BR,,Hospitalized,,Expanded,https://twitter.com/UdaySinghKumawt/status/1264169556173611008,,,,,,55723
+26780,,23/05/2020,,,,,Bihar,BR,0,Hospitalized,"
+
+",Expanded,https://twitter.com/UdaySinghKumawt/status/1264169556173611008,,,,,,55723
 26781,,22/05/2020,,,,,Goa,GA,9,Recovered,,,https://twitter.com/DHS_Goa/status/1263826561528000514,,,,,,55724
 26782,,23/05/2020,29,M,,Airport Quarantine,Tamil Nadu,TN,1,Hospitalized,,,https://stopcorona.tn.gov.in/wp-content/uploads/2020/03/Media-Bulletin-23-05-20-COVID-19-6-PM.pdf,,,,,,55725
 26783,,23/05/2020,27,M,,Chengalpattu,Tamil Nadu,TN,1,Hospitalized,,,https://stopcorona.tn.gov.in/wp-content/uploads/2020/03/Media-Bulletin-23-05-20-COVID-19-6-PM.pdf,,,,,,55726
@@ -17725,7 +17731,9 @@ Haveri",https://twitter.com/DHFWKA/status/1263738060576940032,,,,,,53874
 27719,,23/05/2020,30,M,Trivenganj,Supaul,Bihar,BR,1,Hospitalized,,,https://twitter.com/BiharHealthDept/status/1264102669494280192?s=19,,,,,,56662
 27720,,23/05/2020,30,M,Naubatpur,Patna,Bihar,BR,1,Hospitalized,,,https://twitter.com/BiharHealthDept/status/1264102669494280192?s=19,,,,,,56663
 27721,,23/05/2020,37,M,Bikram,Patna,Bihar,BR,1,Hospitalized,,,https://twitter.com/BiharHealthDept/status/1264102669494280192?s=19,,,,,,56664
-27722,,23/05/2020,,,,,Bihar,BR,,Hospitalized,,,https://twitter.com/BiharHealthDept/status/1264102669494280192?s=19,,,,,,56665
+27722,,23/05/2020,,,,,Bihar,BR,0,Hospitalized,"
+
+",Discarded,https://twitter.com/BiharHealthDept/status/1264102669494280192?s=19,,,,,,56665
 27723,,23/05/2020,36,M,,Jamui,Bihar,BR,1,Hospitalized,,,https://twitter.com/BiharHealthDept/status/1264102669494280192?s=19,,,,,,56666
 27724,,23/05/2020,32,M,,Lakhisarai,Bihar,BR,1,Hospitalized,,,https://twitter.com/BiharHealthDept/status/1264102669494280192?s=19,,,,,,56667
 27725,,23/05/2020,50,M,,Lakhisarai,Bihar,BR,1,Hospitalized,,,https://twitter.com/BiharHealthDept/status/1264102669494280192?s=19,,,,,,56668
