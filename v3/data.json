@@ -1089,6 +1089,10 @@
     }
   },
   "GA": {
+    "delta": {
+      "confirmed": 1,
+      "recovered": 1
+    },
     "districts": {
       "North Goa": {
         "total": {
@@ -1103,9 +1107,13 @@
         }
       },
       "Unassigned": {
+        "delta": {
+          "confirmed": 1,
+          "recovered": 1
+        },
         "total": {
-          "confirmed": 45,
-          "recovered": 34
+          "confirmed": 46,
+          "recovered": 35
         }
       }
     },
@@ -1117,8 +1125,8 @@
       }
     },
     "total": {
-      "confirmed": 69,
-      "recovered": 41,
+      "confirmed": 70,
+      "recovered": 42,
       "tested": 16141
     }
   },
@@ -1466,7 +1474,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-05-30T19:34:07+05:30",
+      "last_updated": "2020-05-30T19:43:06+05:30",
       "notes": "HP has 4 Migrated cases which are reduced from Active #. Also, death of Tibetan refugee is included in deceased numbers, but not in confirmed",
       "tested": {
         "last_updated": "2020-05-30",
@@ -1483,6 +1491,7 @@
   "HR": {
     "delta": {
       "confirmed": 202,
+      "deceased": 1,
       "recovered": 31,
       "tested": 3743
     },
@@ -1512,11 +1521,12 @@
       "Faridabad": {
         "delta": {
           "confirmed": 32,
+          "deceased": 1,
           "recovered": 15
         },
         "total": {
           "confirmed": 339,
-          "deceased": 7,
+          "deceased": 8,
           "recovered": 153
         }
       },
@@ -1693,7 +1703,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-05-30T19:34:06+05:30",
+      "last_updated": "2020-05-30T19:43:05+05:30",
       "tested": {
         "last_updated": "2020-05-30",
         "source": "http://www.nhmharyana.gov.in/WriteReadData/userfiles/file/CoronaVirus/Bulletin%20of%20COVID%2019%20as%20on%2030-05-20%20Evening.pdf"
@@ -1701,7 +1711,7 @@
     },
     "total": {
       "confirmed": 1923,
-      "deceased": 19,
+      "deceased": 20,
       "recovered": 971,
       "tested": 114683
     }
@@ -4811,22 +4821,22 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 2466,
-      "deceased": 16,
-      "recovered": 1251,
+      "confirmed": 2467,
+      "deceased": 17,
+      "recovered": 1252,
       "tested": 127761
     },
     "meta": {
-      "last_updated": "2020-05-30T19:34:03+05:30",
+      "last_updated": "2020-05-30T19:43:03+05:30",
       "tested": {
         "last_updated": "2020-05-30",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/228"
       }
     },
     "total": {
-      "confirmed": 175954,
-      "deceased": 4996,
-      "recovered": 83878,
+      "confirmed": 175955,
+      "deceased": 4997,
+      "recovered": 83879,
       "tested": 3611599
     }
   },
