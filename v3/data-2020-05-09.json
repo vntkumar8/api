@@ -195,6 +195,7 @@
   "AS": {
     "delta": {
       "confirmed": 2,
+      "deceased": 0,
       "tested": 2725
     },
     "districts": {
@@ -249,7 +250,8 @@
       },
       "Kamrup Metropolitan": {
         "delta": {
-          "confirmed": -1
+          "confirmed": -1,
+          "deceased": 0
         },
         "total": {
           "confirmed": 5,
@@ -2347,6 +2349,8 @@
           "recovered": 330
         },
         "total": {
+          "confirmed": 0,
+          "deceased": 0,
           "recovered": 330
         }
       },
