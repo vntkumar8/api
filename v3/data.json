@@ -1134,7 +1134,8 @@
     "delta": {
       "confirmed": 412,
       "deceased": 27,
-      "recovered": 621
+      "recovered": 621,
+      "tested": 4299
     },
     "districts": {
       "Ahmedabad": {
@@ -1463,17 +1464,17 @@
       }
     },
     "meta": {
-      "last_updated": "2020-05-30T20:03:04+05:30",
+      "last_updated": "2020-05-30T20:13:07+05:30",
       "tested": {
-        "last_updated": "2020-05-29",
-        "source": "https://twitter.com/PIBAhmedabad/status/1266374536498262016"
+        "last_updated": "2020-05-30",
+        "source": "https://twitter.com/GujHFWDept/status/1266732895776931842?s=20"
       }
     },
     "total": {
       "confirmed": 16356,
       "deceased": 1007,
       "recovered": 9232,
-      "tested": 201481
+      "tested": 205780
     }
   },
   "HP": {
@@ -4927,7 +4928,7 @@
       "tested": 127761
     },
     "meta": {
-      "last_updated": "2020-05-30T20:03:03+05:30",
+      "last_updated": "2020-05-30T20:13:05+05:30",
       "tested": {
         "last_updated": "2020-05-30",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/228"
@@ -5832,7 +5833,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-05-30T20:03:05+05:30",
+      "last_updated": "2020-05-30T20:04:05+05:30",
       "notes": "- Cases updated as per WB bulletin.<br>\n- Deaths due to comorbidities added to total deceased<br>",
       "tested": {
         "last_updated": "2020-05-30",
