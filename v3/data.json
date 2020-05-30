@@ -2743,6 +2743,14 @@
           "recovered": 37
         }
       },
+      "Other State": {
+        "delta": {
+          "confirmed": 2
+        },
+        "total": {
+          "confirmed": 2
+        }
+      },
       "Palakkad": {
         "delta": {
           "confirmed": 14
@@ -2754,10 +2762,10 @@
       },
       "Pathanamthitta": {
         "delta": {
-          "confirmed": 6
+          "confirmed": 5
         },
         "total": {
-          "confirmed": 45,
+          "confirmed": 44,
           "recovered": 17
         }
       },
@@ -2782,11 +2790,8 @@
         }
       },
       "Unassigned": {
-        "delta": {
-          "confirmed": 1
-        },
         "total": {
-          "confirmed": 1
+          "confirmed": {}
         }
       },
       "Wayanad": {
