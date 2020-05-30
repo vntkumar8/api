@@ -692,6 +692,7 @@
     }
   },
   "DN": {
+    "districts": {},
     "meta": {
       "tested": {
         "last_updated": "2020-05-01",
@@ -1827,7 +1828,7 @@
       }
     },
     "total": {
-      "confirmed": 497,
+      "confirmed": 500,
       "deceased": 4,
       "recovered": 400,
       "tested": 33276
@@ -2574,6 +2575,7 @@
     "delta": {
       "tested": 10
     },
+    "districts": {},
     "meta": {
       "tested": {
         "last_updated": "2020-05-02",
@@ -3897,7 +3899,7 @@
       }
     },
     "total": {
-      "confirmed": 39824,
+      "confirmed": 39827,
       "deceased": 1323,
       "recovered": 10852,
       "tested": 976363
