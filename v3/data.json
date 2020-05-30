@@ -439,7 +439,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-05-30T18:01:04+05:30",
+      "last_updated": "2020-05-30T18:04:06+05:30",
       "notes": "Includes one case from Nagaland <br>\nTotal of three* patients who migrated to other states has been reduced from Active count",
       "tested": {
         "last_updated": "2020-05-29",
@@ -1948,6 +1948,7 @@
   },
   "KA": {
     "delta": {
+      "deceased": 1,
       "recovered": 103
     },
     "districts": {
@@ -1994,11 +1995,12 @@
       },
       "Bidar": {
         "delta": {
+          "deceased": 1,
           "recovered": 3
         },
         "total": {
           "confirmed": 121,
-          "deceased": 3,
+          "deceased": 4,
           "recovered": 27
         }
       },
@@ -2188,7 +2190,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-05-30T18:03:05+05:30",
+      "last_updated": "2020-05-30T18:13:06+05:30",
       "notes": "Two active cases in KA reduced as these confirmed patients died of non-CoViD19 related reasons",
       "tested": {
         "last_updated": "2020-05-29",
@@ -2197,7 +2199,7 @@
     },
     "total": {
       "confirmed": 2781,
-      "deceased": 48,
+      "deceased": 49,
       "recovered": 997,
       "tested": 264489
     }
@@ -4584,12 +4586,12 @@
   "TT": {
     "delta": {
       "confirmed": 864,
-      "deceased": 2,
+      "deceased": 3,
       "recovered": 318,
       "tested": 127761
     },
     "meta": {
-      "last_updated": "2020-05-30T18:03:03+05:30",
+      "last_updated": "2020-05-30T18:13:03+05:30",
       "tested": {
         "last_updated": "2020-05-30",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/228"
@@ -4597,7 +4599,7 @@
     },
     "total": {
       "confirmed": 174352,
-      "deceased": 4982,
+      "deceased": 4983,
       "recovered": 82945,
       "tested": 3611599
     }
