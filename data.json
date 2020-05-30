@@ -1081,24 +1081,24 @@
 			"totalrecovered": "70898"
 		},
 		{
-			"dailyconfirmed": "8134",
+			"dailyconfirmed": "8132",
 			"dailydeceased": "269",
 			"dailyrecovered": "11729",
 			"date": "29 May ",
-			"totalconfirmed": "173490",
+			"totalconfirmed": "173488",
 			"totaldeceased": "4979",
 			"totalrecovered": "82627"
 		}
 	],
 	"statewise": [
 		{
-			"active": "85873",
-			"confirmed": "173491",
+			"active": "86243",
+			"confirmed": "173861",
 			"deaths": "4980",
-			"deltaconfirmed": "0",
+			"deltaconfirmed": "372",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
-			"lastupdatedtime": "30/05/2020 00:46:03",
+			"lastupdatedtime": "30/05/2020 11:03:03",
 			"recovered": "82627",
 			"state": "Total",
 			"statecode": "TT",
@@ -1209,13 +1209,13 @@
 			"statenotes": "- Cases updated as per WB bulletin.<br>\n- Deaths due to comorbidities added to total deceased<br>\n- Zones updated as per WB bulletin<br>"
 		},
 		{
-			"active": "4673",
-			"confirmed": "4673",
+			"active": "5043",
+			"confirmed": "5043",
 			"deaths": "0",
-			"deltaconfirmed": "0",
+			"deltaconfirmed": "370",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
-			"lastupdatedtime": "29/05/2020 10:13:05",
+			"lastupdatedtime": "30/05/2020 11:03:04",
 			"recovered": "0",
 			"state": "State Unassigned",
 			"statecode": "UN",
@@ -1342,7 +1342,7 @@
 			"active": "925",
 			"confirmed": "1058",
 			"deaths": "4",
-			"deltaconfirmed": "0",
+			"deltaconfirmed": "2",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
 			"lastupdatedtime": "30/05/2020 00:46:06",
