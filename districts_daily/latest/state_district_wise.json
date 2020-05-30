@@ -1502,12 +1502,12 @@
       },
       "Balrampur": {
         "notes": "",
-        "active": 10,
-        "confirmed": 10,
+        "active": 16,
+        "confirmed": 16,
         "deceased": 0,
         "recovered": 0,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 6,
           "deceased": 0,
           "recovered": 0
         }
@@ -1670,12 +1670,12 @@
       },
       "Koriya": {
         "notes": "",
-        "active": 8,
-        "confirmed": 9,
+        "active": 28,
+        "confirmed": 29,
         "deceased": 0,
         "recovered": 1,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 20,
           "deceased": 0,
           "recovered": 0
         }
@@ -1730,12 +1730,12 @@
       },
       "Raipur": {
         "notes": "",
-        "active": 3,
-        "confirmed": 11,
+        "active": 5,
+        "confirmed": 13,
         "deceased": 1,
         "recovered": 7,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 2,
           "deceased": 0,
           "recovered": 0
         }
@@ -1790,12 +1790,12 @@
       },
       "Uttar Bastar Kanker": {
         "notes": "",
-        "active": 15,
-        "confirmed": 15,
+        "active": 19,
+        "confirmed": 19,
         "deceased": 0,
         "recovered": 0,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 4,
           "deceased": 0,
           "recovered": 0
         }
@@ -1806,6 +1806,18 @@
         "confirmed": 3,
         "deceased": 0,
         "recovered": 0,
+        "delta": {
+          "confirmed": 0,
+          "deceased": 0,
+          "recovered": 0
+        }
+      },
+      "Unknown": {
+        "notes": "",
+        "active": -2,
+        "confirmed": 0,
+        "deceased": 0,
+        "recovered": 2,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
@@ -9010,36 +9022,36 @@
       },
       "Dehradun": {
         "notes": "",
-        "active": 129,
-        "confirmed": 171,
+        "active": 143,
+        "confirmed": 185,
         "deceased": 4,
         "recovered": 38,
         "delta": {
-          "confirmed": 7,
+          "confirmed": 21,
           "deceased": 0,
           "recovered": 0
         }
       },
       "Haridwar": {
         "notes": "",
-        "active": 41,
-        "confirmed": 48,
+        "active": 44,
+        "confirmed": 51,
         "deceased": 0,
         "recovered": 7,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 3,
           "deceased": 0,
           "recovered": 0
         }
       },
       "Nainital": {
         "notes": "",
-        "active": 201,
-        "confirmed": 224,
+        "active": 206,
+        "confirmed": 229,
         "deceased": 0,
         "recovered": 23,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 5,
           "deceased": 0,
           "recovered": 0
         }
