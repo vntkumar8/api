@@ -3830,6 +3830,18 @@
   },
   "Kerala": {
     "districtData": {
+      "Other State": {
+        "notes": "",
+        "active": 2,
+        "confirmed": 2,
+        "deceased": 0,
+        "recovered": 0,
+        "delta": {
+          "confirmed": 0,
+          "deceased": 0,
+          "recovered": 0
+        }
+      },
       "Alappuzha": {
         "notes": "",
         "active": 32,
@@ -3992,18 +4004,6 @@
         "confirmed": 28,
         "deceased": 1,
         "recovered": 20,
-        "delta": {
-          "confirmed": 0,
-          "deceased": 0,
-          "recovered": 0
-        }
-      },
-      "Unknown": {
-        "notes": "",
-        "active": 2,
-        "confirmed": 2,
-        "deceased": 0,
-        "recovered": 0,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
