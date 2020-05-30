@@ -851,14 +851,18 @@
   },
   "CH": {
     "delta": {
+      "recovered": 10,
       "tested": 111
     },
     "districts": {
       "Chandigarh": {
+        "delta": {
+          "recovered": 10
+        },
         "total": {
           "confirmed": 289,
           "deceased": 4,
-          "recovered": 189
+          "recovered": 199
         }
       }
     },
@@ -872,7 +876,7 @@
     "total": {
       "confirmed": 289,
       "deceased": 4,
-      "recovered": 189,
+      "recovered": 199,
       "tested": 4654
     }
   },
@@ -4356,12 +4360,12 @@
       "Mahe": {
         "total": {
           "confirmed": 4,
-          "recovered": 2
+          "recovered": 4
         }
       },
       "Puducherry": {
         "total": {
-          "confirmed": 47,
+          "confirmed": 51,
           "recovered": 13
         }
       },
@@ -4369,18 +4373,23 @@
         "total": {
           "confirmed": 0
         }
+      },
+      "Yanam": {
+        "total": {
+          "recovered": 4
+        }
       }
     },
     "meta": {
-      "last_updated": "2020-05-30T22:43:07+05:30",
+      "last_updated": "2020-05-30T22:52:06+05:30",
       "tested": {
         "last_updated": "2020-05-30",
         "source": "http://chdcovid19.in/"
       }
     },
     "total": {
-      "confirmed": 53,
-      "recovered": 17,
+      "confirmed": 57,
+      "recovered": 23,
       "tested": 7164
     }
   },
@@ -5590,20 +5599,20 @@
     "delta": {
       "confirmed": 8301,
       "deceased": 205,
-      "recovered": 4253,
+      "recovered": 4263,
       "tested": 127761
     },
     "meta": {
-      "last_updated": "2020-05-30T22:43:03+05:30",
+      "last_updated": "2020-05-30T22:52:03+05:30",
       "tested": {
         "last_updated": "2020-05-30",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/228"
       }
     },
     "total": {
-      "confirmed": 181792,
+      "confirmed": 181796,
       "deceased": 5185,
-      "recovered": 86880,
+      "recovered": 86896,
       "tested": 3611599
     }
   },

@@ -4343,6 +4343,8 @@
   },
   "PY": {
     "delta": {
+      "confirmed": 4,
+      "recovered": 6,
       "tested": 126
     },
     "districts": {
@@ -4353,20 +4355,34 @@
         }
       },
       "Mahe": {
+        "delta": {
+          "recovered": 2
+        },
         "total": {
           "confirmed": 4,
-          "recovered": 2
+          "recovered": 4
         }
       },
       "Puducherry": {
+        "delta": {
+          "confirmed": 4
+        },
         "total": {
-          "confirmed": 47,
+          "confirmed": 51,
           "recovered": 13
         }
       },
       "Unassigned": {
         "total": {
           "confirmed": 0
+        }
+      },
+      "Yanam": {
+        "delta": {
+          "recovered": 4
+        },
+        "total": {
+          "recovered": 4
         }
       }
     },
@@ -4377,8 +4393,8 @@
       }
     },
     "total": {
-      "confirmed": 53,
-      "recovered": 17,
+      "confirmed": 57,
+      "recovered": 23,
       "tested": 7043
     }
   },
@@ -5508,9 +5524,9 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 8134,
+      "confirmed": 8138,
       "deceased": 269,
-      "recovered": 11729,
+      "recovered": 11735,
       "tested": 121702
     },
     "meta": {
@@ -5520,9 +5536,9 @@
       }
     },
     "total": {
-      "confirmed": 173491,
+      "confirmed": 173495,
       "deceased": 4980,
-      "recovered": 82627,
+      "recovered": 82633,
       "tested": 3483838
     }
   },

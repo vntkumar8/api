@@ -1973,18 +1973,18 @@
 			"statecode": "BR"
 		},
 		{
-			"active": "96",
+			"active": "86",
 			"confirmed": "289",
 			"deceased": "4",
-			"deltaactive": "0",
+			"deltaactive": "-10",
 			"deltaconfirmed": "0",
 			"deltadeceased": "0",
-			"deltarecovered": "0",
+			"deltarecovered": "10",
 			"district": "Chandigarh",
 			"districtkey": "CH_Chandigarh",
 			"districtnotes": "",
 			"lastupdated": "",
-			"recovered": "189",
+			"recovered": "199",
 			"slno": "113",
 			"state": "Chandigarh",
 			"statecode": "CH"
@@ -8807,7 +8807,7 @@
 			"statecode": "PY"
 		},
 		{
-			"active": "2",
+			"active": "0",
 			"confirmed": "4",
 			"deceased": "0",
 			"deltaactive": "0",
@@ -8818,7 +8818,7 @@
 			"districtkey": "PY_Mahe",
 			"districtnotes": "",
 			"lastupdated": "",
-			"recovered": "2",
+			"recovered": "4",
 			"slno": "482",
 			"state": "Puducherry",
 			"statecode": "PY"
@@ -8827,8 +8827,8 @@
 			"active": "38",
 			"confirmed": "51",
 			"deceased": "0",
-			"deltaactive": "4",
-			"deltaconfirmed": "4",
+			"deltaactive": "0",
+			"deltaconfirmed": "0",
 			"deltadeceased": "0",
 			"deltarecovered": "0",
 			"district": "Puducherry",
@@ -8841,7 +8841,7 @@
 			"statecode": "PY"
 		},
 		{
-			"active": "0",
+			"active": "-4",
 			"confirmed": "0",
 			"deceased": "0",
 			"deltaactive": "0",
@@ -8852,7 +8852,7 @@
 			"districtkey": "PY_Yanam",
 			"districtnotes": "",
 			"lastupdated": "",
-			"recovered": "0",
+			"recovered": "4",
 			"slno": "484",
 			"state": "Puducherry",
 			"statecode": "PY"
