@@ -1,0 +1,101 @@
+{
+  "AP": {
+    "total": {
+      "confirmed": 1
+    }
+  },
+  "DL": {
+    "total": {
+      "confirmed": 7
+    }
+  },
+  "HR": {
+    "total": {
+      "confirmed": 14
+    }
+  },
+  "JK": {
+    "total": {
+      "confirmed": 2
+    }
+  },
+  "KA": {
+    "total": {
+      "confirmed": 6,
+      "deceased": 1
+    }
+  },
+  "KL": {
+    "delta": {
+      "confirmed": 2
+    },
+    "total": {
+      "confirmed": 21
+    }
+  },
+  "LA": {
+    "total": {
+      "confirmed": 3
+    }
+  },
+  "MH": {
+    "delta": {
+      "confirmed": 6
+    },
+    "total": {
+      "confirmed": 32
+    }
+  },
+  "PB": {
+    "total": {
+      "confirmed": 1
+    }
+  },
+  "RJ": {
+    "total": {
+      "confirmed": 4
+    }
+  },
+  "TG": {
+    "delta": {
+      "confirmed": 1
+    },
+    "total": {
+      "confirmed": 3
+    }
+  },
+  "TN": {
+    "total": {
+      "confirmed": 1
+    }
+  },
+  "TT": {
+    "delta": {
+      "confirmed": 10
+    },
+    "meta": {
+      "tested": {
+        "last_updated": "2020-03-13",
+        "source": "Press_Release_ICMR_13March2020.pdf"
+      }
+    },
+    "total": {
+      "confirmed": 109,
+      "deceased": 1,
+      "tested": 6500
+    }
+  },
+  "UP": {
+    "total": {
+      "confirmed": 13
+    }
+  },
+  "UT": {
+    "delta": {
+      "confirmed": 1
+    },
+    "total": {
+      "confirmed": 1
+    }
+  }
+}
