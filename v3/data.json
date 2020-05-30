@@ -224,7 +224,7 @@
   },
   "AS": {
     "delta": {
-      "confirmed": 43,
+      "confirmed": 128,
       "recovered": 38
     },
     "districts": {
@@ -254,10 +254,11 @@
       },
       "Cachar": {
         "delta": {
+          "confirmed": 2,
           "recovered": 14
         },
         "total": {
-          "confirmed": 57,
+          "confirmed": 59,
           "recovered": 30
         }
       },
@@ -291,8 +292,11 @@
         }
       },
       "Dibrugarh": {
+        "delta": {
+          "confirmed": 13
+        },
         "total": {
-          "confirmed": 5
+          "confirmed": 18
         }
       },
       "Dima Hasao": {
@@ -308,16 +312,19 @@
       },
       "Golaghat": {
         "delta": {
-          "confirmed": 5
+          "confirmed": 7
         },
         "total": {
-          "confirmed": 175,
+          "confirmed": 177,
           "recovered": 9
         }
       },
       "Hailakandi": {
+        "delta": {
+          "confirmed": 20
+        },
         "total": {
-          "confirmed": 14,
+          "confirmed": 34,
           "deceased": 1
         }
       },
@@ -328,16 +335,20 @@
       },
       "Jorhat": {
         "delta": {
+          "confirmed": 9,
           "recovered": 3
         },
         "total": {
-          "confirmed": 12,
+          "confirmed": 21,
           "recovered": 9
         }
       },
       "Kamrup": {
+        "delta": {
+          "confirmed": 13
+        },
         "total": {
-          "confirmed": 54,
+          "confirmed": 67,
           "recovered": 1
         }
       },
@@ -363,8 +374,11 @@
         }
       },
       "Kokrajhar": {
+        "delta": {
+          "confirmed": 26
+        },
         "total": {
-          "confirmed": 15
+          "confirmed": 41
         }
       },
       "Lakhimpur": {
@@ -439,7 +453,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-05-30T18:04:06+05:30",
+      "last_updated": "2020-05-30T21:12:07+05:30",
       "notes": "Includes one case from Nagaland <br>\nTotal of three* patients who migrated to other states has been reduced from Active count",
       "tested": {
         "last_updated": "2020-05-29",
@@ -447,7 +461,7 @@
       }
     },
     "total": {
-      "confirmed": 1101,
+      "confirmed": 1186,
       "deceased": 4,
       "recovered": 164,
       "tested": 92390
@@ -800,7 +814,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-05-30T21:01:05+05:30",
+      "last_updated": "2020-05-30T21:12:05+05:30",
       "tested": {
         "last_updated": "2020-05-30",
         "source": "https://twitter.com/PIB_Patna/status/1266698915262476288"
@@ -1678,15 +1692,11 @@
         }
       },
       "Foreign Evacuees": {
-        "total": {
-          "confirmed": 21
-        }
-      },
-      "Foreign Returnee": {
         "delta": {
           "recovered": 2
         },
         "total": {
+          "confirmed": 21,
           "recovered": 2
         }
       },
@@ -2210,7 +2220,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-05-30T21:01:07+05:30",
+      "last_updated": "2020-05-30T21:02:06+05:30",
       "tested": {
         "last_updated": "2020-05-29",
         "source": "https://twitter.com/diprjk/status/1266383145676550144?s=19"
@@ -5132,20 +5142,20 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 7363,
+      "confirmed": 7448,
       "deceased": 164,
       "recovered": 2165,
       "tested": 127761
     },
     "meta": {
-      "last_updated": "2020-05-30T21:01:03+05:30",
+      "last_updated": "2020-05-30T21:12:03+05:30",
       "tested": {
         "last_updated": "2020-05-30",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/228"
       }
     },
     "total": {
-      "confirmed": 180854,
+      "confirmed": 180939,
       "deceased": 5144,
       "recovered": 84792,
       "tested": 3611599
