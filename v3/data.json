@@ -1373,8 +1373,8 @@
   },
   "HP": {
     "delta": {
-      "confirmed": 2,
-      "recovered": 3,
+      "confirmed": 6,
+      "recovered": 23,
       "tested": 1635
     },
     "districts": {
@@ -1391,20 +1391,24 @@
         }
       },
       "Hamirpur": {
+        "delta": {
+          "recovered": 15
+        },
         "total": {
           "confirmed": 101,
           "deceased": 1,
-          "recovered": 13
+          "recovered": 28
         }
       },
       "Kangra": {
         "delta": {
-          "confirmed": 1
+          "confirmed": 5,
+          "recovered": 4
         },
         "total": {
-          "confirmed": 75,
+          "confirmed": 79,
           "deceased": 1,
-          "recovered": 24
+          "recovered": 28
         }
       },
       "Kullu": {
@@ -1418,12 +1422,12 @@
       },
       "Mandi": {
         "delta": {
-          "recovered": 2
+          "recovered": 3
         },
         "total": {
           "confirmed": 12,
           "deceased": 2,
-          "recovered": 3
+          "recovered": 4
         }
       },
       "Shimla": {
@@ -1462,7 +1466,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-05-30T13:04:06+05:30",
+      "last_updated": "2020-05-30T19:34:07+05:30",
       "notes": "HP has 4 Migrated cases which are reduced from Active #. Also, death of Tibetan refugee is included in deceased numbers, but not in confirmed",
       "tested": {
         "last_updated": "2020-05-30",
@@ -1470,20 +1474,25 @@
       }
     },
     "total": {
-      "confirmed": 297,
+      "confirmed": 301,
       "deceased": 6,
-      "recovered": 86,
+      "recovered": 106,
       "tested": 35614
     }
   },
   "HR": {
     "delta": {
+      "confirmed": 202,
+      "recovered": 31,
       "tested": 3743
     },
     "districts": {
       "Ambala": {
+        "delta": {
+          "confirmed": 3
+        },
         "total": {
-          "confirmed": 47,
+          "confirmed": 50,
           "deceased": 2,
           "recovered": 40
         }
@@ -1501,15 +1510,22 @@
         }
       },
       "Faridabad": {
+        "delta": {
+          "confirmed": 32,
+          "recovered": 15
+        },
         "total": {
-          "confirmed": 307,
+          "confirmed": 339,
           "deceased": 7,
-          "recovered": 138
+          "recovered": 153
         }
       },
       "Fatehabad": {
+        "delta": {
+          "confirmed": 3
+        },
         "total": {
-          "confirmed": 12,
+          "confirmed": 15,
           "recovered": 7
         }
       },
@@ -1518,9 +1534,20 @@
           "confirmed": 21
         }
       },
-      "Gurugram": {
+      "Foreign Returnee": {
+        "delta": {
+          "recovered": 2
+        },
         "total": {
-          "confirmed": 520,
+          "recovered": 2
+        }
+      },
+      "Gurugram": {
+        "delta": {
+          "confirmed": 157
+        },
+        "total": {
+          "confirmed": 677,
           "deceased": 3,
           "recovered": 224
         }
@@ -1538,27 +1565,40 @@
         }
       },
       "Jhajjar": {
+        "delta": {
+          "recovered": 2
+        },
         "total": {
           "confirmed": 97,
-          "recovered": 90
+          "recovered": 92
         }
       },
       "Jind": {
+        "delta": {
+          "recovered": 6
+        },
         "total": {
           "confirmed": 27,
           "deceased": 1,
-          "recovered": 18
+          "recovered": 24
         }
       },
       "Kaithal": {
+        "delta": {
+          "confirmed": 1,
+          "recovered": 1
+        },
         "total": {
-          "confirmed": 17,
-          "recovered": 4
+          "confirmed": 18,
+          "recovered": 5
         }
       },
       "Karnal": {
+        "delta": {
+          "confirmed": 2
+        },
         "total": {
-          "confirmed": 48,
+          "confirmed": 50,
           "deceased": 1,
           "recovered": 20
         }
@@ -1576,8 +1616,11 @@
         }
       },
       "Nuh": {
+        "delta": {
+          "confirmed": 2
+        },
         "total": {
-          "confirmed": 68,
+          "confirmed": 70,
           "recovered": 65
         }
       },
@@ -1594,10 +1637,14 @@
         }
       },
       "Panipat": {
+        "delta": {
+          "confirmed": 1,
+          "recovered": 1
+        },
         "total": {
-          "confirmed": 60,
+          "confirmed": 61,
           "deceased": 3,
-          "recovered": 36
+          "recovered": 37
         }
       },
       "Rewari": {
@@ -1607,8 +1654,11 @@
         }
       },
       "Rohtak": {
+        "delta": {
+          "confirmed": 1
+        },
         "total": {
-          "confirmed": 30,
+          "confirmed": 31,
           "deceased": 1,
           "recovered": 11
         }
@@ -1620,10 +1670,13 @@
         }
       },
       "Sonipat": {
+        "delta": {
+          "recovered": 4
+        },
         "total": {
           "confirmed": 199,
           "deceased": 1,
-          "recovered": 149
+          "recovered": 153
         }
       },
       "Unassigned": {
@@ -1640,16 +1693,16 @@
       }
     },
     "meta": {
-      "last_updated": "2020-05-29T21:34:09+05:30",
+      "last_updated": "2020-05-30T19:34:06+05:30",
       "tested": {
         "last_updated": "2020-05-30",
         "source": "http://www.nhmharyana.gov.in/WriteReadData/userfiles/file/CoronaVirus/Bulletin%20of%20COVID%2019%20as%20on%2030-05-20%20Evening.pdf"
       }
     },
     "total": {
-      "confirmed": 1721,
+      "confirmed": 1923,
       "deceased": 19,
-      "recovered": 940,
+      "recovered": 971,
       "tested": 114683
     }
   },
@@ -4758,22 +4811,22 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 2260,
+      "confirmed": 2466,
       "deceased": 16,
-      "recovered": 1200,
+      "recovered": 1251,
       "tested": 127761
     },
     "meta": {
-      "last_updated": "2020-05-30T19:23:03+05:30",
+      "last_updated": "2020-05-30T19:34:03+05:30",
       "tested": {
         "last_updated": "2020-05-30",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/228"
       }
     },
     "total": {
-      "confirmed": 175748,
+      "confirmed": 175954,
       "deceased": 4996,
-      "recovered": 83827,
+      "recovered": 83878,
       "tested": 3611599
     }
   },
@@ -5669,7 +5722,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-05-30T19:23:12+05:30",
+      "last_updated": "2020-05-30T19:34:04+05:30",
       "notes": "- Cases updated as per WB bulletin.<br>\n- Deaths due to comorbidities added to total deceased<br>",
       "tested": {
         "last_updated": "2020-05-30",
