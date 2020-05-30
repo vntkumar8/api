@@ -2157,6 +2157,9 @@
     }
   },
   "MH": {
+    "delta": {
+      "tested": 14096
+    },
     "districts": {
       "Ahmednagar": {
         "total": {
@@ -2417,15 +2420,15 @@
     "meta": {
       "last_updated": "2020-05-30T00:21:05+05:30",
       "tested": {
-        "last_updated": "2020-05-29",
-        "source": "https://twitter.com/Maha_MEDD/status/1266249494670176258?s=19"
+        "last_updated": "2020-05-30",
+        "source": "https://twitter.com/Maha_MEDD/status/1266611646514049030?s=19"
       }
     },
     "total": {
       "confirmed": 62228,
       "deceased": 2098,
       "recovered": 26997,
-      "tested": 434565
+      "tested": 448661
     }
   },
   "ML": {
@@ -4373,20 +4376,21 @@
     "delta": {
       "confirmed": 529,
       "deceased": 1,
-      "recovered": 49
+      "recovered": 49,
+      "tested": 127761
     },
     "meta": {
       "last_updated": "2020-05-30T13:04:03+05:30",
       "tested": {
-        "last_updated": "2020-05-29",
-        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/211"
+        "last_updated": "2020-05-30",
+        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/228"
       }
     },
     "total": {
       "confirmed": 174017,
       "deceased": 4981,
       "recovered": 82676,
-      "tested": 3483838
+      "tested": 3611599
     }
   },
   "UN": {
