@@ -224,15 +224,18 @@
   },
   "AS": {
     "delta": {
-      "confirmed": 43
+      "confirmed": 43,
+      "recovered": 38
     },
     "districts": {
       "Barpeta": {
         "delta": {
-          "confirmed": 3
+          "confirmed": 3,
+          "recovered": 8
         },
         "total": {
-          "confirmed": 19
+          "confirmed": 19,
+          "recovered": 8
         }
       },
       "Biswanath": {
@@ -250,9 +253,12 @@
         }
       },
       "Cachar": {
+        "delta": {
+          "recovered": 14
+        },
         "total": {
           "confirmed": 57,
-          "recovered": 16
+          "recovered": 30
         }
       },
       "Charaideo": {
@@ -321,9 +327,12 @@
         }
       },
       "Jorhat": {
+        "delta": {
+          "recovered": 3
+        },
         "total": {
           "confirmed": 12,
-          "recovered": 6
+          "recovered": 9
         }
       },
       "Kamrup": {
@@ -333,10 +342,13 @@
         }
       },
       "Kamrup Metropolitan": {
+        "delta": {
+          "recovered": 13
+        },
         "total": {
           "confirmed": 313,
           "deceased": 3,
-          "recovered": 65
+          "recovered": 78
         }
       },
       "Karbi Anglong": {
@@ -427,7 +439,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-05-30T16:24:10+05:30",
+      "last_updated": "2020-05-30T17:52:05+05:30",
       "notes": "Includes one case from Nagaland <br>\nTotal of three* patients who migrated to other states has been reduced from Active count",
       "tested": {
         "last_updated": "2020-05-29",
@@ -437,7 +449,7 @@
     "total": {
       "confirmed": 1101,
       "deceased": 4,
-      "recovered": 126,
+      "recovered": 164,
       "tested": 92390
     }
   },
@@ -4531,11 +4543,11 @@
     "delta": {
       "confirmed": 864,
       "deceased": 2,
-      "recovered": 177,
+      "recovered": 215,
       "tested": 127761
     },
     "meta": {
-      "last_updated": "2020-05-30T16:24:03+05:30",
+      "last_updated": "2020-05-30T17:53:03+05:30",
       "tested": {
         "last_updated": "2020-05-30",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/228"
@@ -4544,7 +4556,7 @@
     "total": {
       "confirmed": 174352,
       "deceased": 4982,
-      "recovered": 82804,
+      "recovered": 82842,
       "tested": 3611599
     }
   },
