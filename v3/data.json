@@ -457,7 +457,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-05-31T14:29:06+05:30",
+      "last_updated": "2020-05-31T19:34:10+05:30",
       "notes": "Includes one case from Nagaland <br>\nTotal of three* patients who migrated to other states has been reduced from Active count",
       "tested": {
         "last_updated": "2020-05-30",
@@ -796,29 +796,29 @@
   },
   "CH": {
     "delta": {
-      "confirmed": 2
+      "confirmed": 4
     },
     "districts": {
       "Chandigarh": {
         "delta": {
-          "confirmed": 2
+          "confirmed": 4
         },
         "total": {
-          "confirmed": 291,
+          "confirmed": 293,
           "deceased": 4,
           "recovered": 199
         }
       }
     },
     "meta": {
-      "last_updated": "2020-05-31T13:13:05+05:30",
+      "last_updated": "2020-05-31T19:34:12+05:30",
       "tested": {
         "last_updated": "2020-05-30",
         "source": "https://t.me/indiacovid/5905?single"
       }
     },
     "total": {
-      "confirmed": 291,
+      "confirmed": 293,
       "deceased": 4,
       "recovered": 199,
       "tested": 4654
@@ -1090,6 +1090,10 @@
     }
   },
   "GA": {
+    "delta": {
+      "confirmed": 1,
+      "recovered": 2
+    },
     "districts": {
       "North Goa": {
         "total": {
@@ -1104,22 +1108,26 @@
         }
       },
       "Unassigned": {
+        "delta": {
+          "confirmed": 1,
+          "recovered": 2
+        },
         "total": {
-          "confirmed": 46,
-          "recovered": 35
+          "confirmed": 47,
+          "recovered": 37
         }
       }
     },
     "meta": {
-      "last_updated": "2020-05-29T20:24:09+05:30",
+      "last_updated": "2020-05-31T19:34:13+05:30",
       "tested": {
         "last_updated": "2020-05-30",
         "source": "https://twitter.com/DHS_Goa/status/1266732955411472385?s=19"
       }
     },
     "total": {
-      "confirmed": 70,
-      "recovered": 42,
+      "confirmed": 71,
+      "recovered": 44,
       "tested": 17871
     }
   },
@@ -2275,7 +2283,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-05-31T19:23:04+05:30",
+      "last_updated": "2020-05-31T19:34:09+05:30",
       "notes": "Two active cases in KA reduced as these confirmed patients died of non-CoViD19 related reasons",
       "tested": {
         "last_updated": "2020-05-30",
@@ -4920,22 +4928,22 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 4324,
+      "confirmed": 4327,
       "deceased": 83,
-      "recovered": 1831,
+      "recovered": 1833,
       "tested": 125428
     },
     "meta": {
-      "last_updated": "2020-05-31T19:23:03+05:30",
+      "last_updated": "2020-05-31T19:34:03+05:30",
       "tested": {
         "last_updated": "2020-05-31",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/236"
       }
     },
     "total": {
-      "confirmed": 186183,
+      "confirmed": 186186,
       "deceased": 5268,
-      "recovered": 88767,
+      "recovered": 88769,
       "tested": 3737027
     }
   },
