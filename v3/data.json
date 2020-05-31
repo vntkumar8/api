@@ -3043,6 +3043,9 @@
     }
   },
   "ML": {
+    "delta": {
+      "tested": 1096
+    },
     "districts": {
       "East Khasi Hills": {
         "total": {
@@ -3080,15 +3083,15 @@
     "meta": {
       "last_updated": "2020-05-30T11:12:07+05:30",
       "tested": {
-        "last_updated": "2020-05-27",
-        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/206"
+        "last_updated": "2020-05-31",
+        "source": ""
       }
     },
     "total": {
       "confirmed": 27,
       "deceased": 1,
       "recovered": 12,
-      "tested": 6685
+      "tested": 7781
     }
   },
   "MN": {
@@ -3544,6 +3547,9 @@
     }
   },
   "MZ": {
+    "delta": {
+      "tested": 91
+    },
     "districts": {
       "Aizawl": {
         "total": {
@@ -3555,14 +3561,14 @@
     "meta": {
       "last_updated": "2020-05-05T22:32:47+05:30",
       "tested": {
-        "last_updated": "2020-05-30",
-        "source": "https://dipr.mizoram.gov.in/post/status-of-state-surveillance-of-covid-19-time-2952020-500pm-3052020-500-pm"
+        "last_updated": "2020-05-31",
+        "source": "https://dipr.mizoram.gov.in/post/status-of-state-surveillance-of-covid-19-time-3052020-500pm-3152020-500-pm"
       }
     },
     "total": {
       "confirmed": 1,
       "recovered": 1,
-      "tested": 686
+      "tested": 777
     }
   },
   "NL": {
@@ -4141,7 +4147,8 @@
     "delta": {
       "confirmed": 214,
       "deceased": 2,
-      "recovered": 293
+      "recovered": 293,
+      "tested": 14287
     },
     "districts": {
       "Ajmer": {
@@ -4445,15 +4452,15 @@
     "meta": {
       "last_updated": "2020-05-31T21:23:06+05:30",
       "tested": {
-        "last_updated": "2020-05-30",
-        "source": "https://t.me/indiacovid/5942?single"
+        "last_updated": "2020-05-31",
+        "source": "https://t.me/indiacovid/6015"
       }
     },
     "total": {
       "confirmed": 8831,
       "deceased": 195,
       "recovered": 6032,
-      "tested": 395490
+      "tested": 409777
     }
   },
   "SK": {
