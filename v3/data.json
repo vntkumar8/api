@@ -236,16 +236,16 @@
   },
   "AS": {
     "delta": {
-      "confirmed": 56,
+      "confirmed": 123,
       "tested": 7840
     },
     "districts": {
       "Baksa": {
         "delta": {
-          "confirmed": 5
+          "confirmed": 7
         },
         "total": {
-          "confirmed": 5
+          "confirmed": 7
         }
       },
       "Barpeta": {
@@ -317,14 +317,20 @@
         }
       },
       "Goalpara": {
+        "delta": {
+          "confirmed": 10
+        },
         "total": {
-          "confirmed": 27,
+          "confirmed": 37,
           "recovered": 4
         }
       },
       "Golaghat": {
+        "delta": {
+          "confirmed": 2
+        },
         "total": {
-          "confirmed": 177,
+          "confirmed": 179,
           "recovered": 9
         }
       },
@@ -347,10 +353,10 @@
       },
       "Kamrup": {
         "delta": {
-          "confirmed": 3
+          "confirmed": 5
         },
         "total": {
-          "confirmed": 70,
+          "confirmed": 72,
           "recovered": 1
         }
       },
@@ -367,14 +373,20 @@
         }
       },
       "Karimganj": {
+        "delta": {
+          "confirmed": 3
+        },
         "total": {
-          "confirmed": 41,
+          "confirmed": 44,
           "recovered": 2
         }
       },
       "Kokrajhar": {
+        "delta": {
+          "confirmed": 9
+        },
         "total": {
-          "confirmed": 41
+          "confirmed": 50
         }
       },
       "Lakhimpur": {
@@ -393,8 +405,11 @@
         }
       },
       "Nagaon": {
+        "delta": {
+          "confirmed": 7
+        },
         "total": {
-          "confirmed": 34
+          "confirmed": 41
         }
       },
       "Nalbari": {
@@ -413,13 +428,19 @@
         }
       },
       "Sivasagar": {
+        "delta": {
+          "confirmed": 7
+        },
         "total": {
-          "confirmed": 13
+          "confirmed": 20
         }
       },
       "Sonitpur": {
+        "delta": {
+          "confirmed": 5
+        },
         "total": {
-          "confirmed": 14
+          "confirmed": 19
         }
       },
       "South Salmara Mankachar": {
@@ -429,8 +450,11 @@
         }
       },
       "Tinsukia": {
+        "delta": {
+          "confirmed": 16
+        },
         "total": {
-          "confirmed": 26
+          "confirmed": 42
         }
       },
       "Udalguri": {
@@ -443,10 +467,10 @@
       },
       "Unassigned": {
         "delta": {
-          "confirmed": 3
+          "confirmed": 7
         },
         "total": {
-          "confirmed": 23,
+          "confirmed": 27,
           "deceased": 0,
           "migrated": 3,
           "recovered": 0
@@ -459,7 +483,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-05-31T21:29:06+05:30",
+      "last_updated": "2020-06-01T00:12:05+05:30",
       "notes": "Includes one case from Nagaland <br>\nTotal of three* patients who migrated to other states has been reduced from Active count",
       "tested": {
         "last_updated": "2020-05-31",
@@ -467,7 +491,7 @@
       }
     },
     "total": {
-      "confirmed": 1273,
+      "confirmed": 1340,
       "deceased": 4,
       "migrated": 3,
       "recovered": 164,
@@ -5454,20 +5478,20 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 8677,
+      "confirmed": 8744,
       "deceased": 221,
       "recovered": 4687,
       "tested": 125428
     },
     "meta": {
-      "last_updated": "2020-05-31T22:25:03+05:30",
+      "last_updated": "2020-06-01T00:12:03+05:30",
       "tested": {
         "last_updated": "2020-05-31",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/236"
       }
     },
     "total": {
-      "confirmed": 190538,
+      "confirmed": 190605,
       "deceased": 5405,
       "migrated": 11,
       "recovered": 91614,
