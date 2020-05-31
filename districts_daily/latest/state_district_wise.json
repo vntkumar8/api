@@ -9243,13 +9243,13 @@
       },
       "Kolkata": {
         "notes": "",
-        "active": 1021,
+        "active": 1014,
         "confirmed": 2125,
-        "deceased": 202,
+        "deceased": 209,
         "recovered": 902,
         "delta": {
           "confirmed": 72,
-          "deceased": 0,
+          "deceased": 7,
           "recovered": 31
         }
       },
@@ -9291,25 +9291,25 @@
       },
       "North 24 Parganas": {
         "notes": "",
-        "active": 419,
+        "active": 418,
         "confirmed": 735,
-        "deceased": 42,
+        "deceased": 43,
         "recovered": 274,
         "delta": {
           "confirmed": 60,
-          "deceased": 0,
+          "deceased": 1,
           "recovered": 21
         }
       },
       "Other State": {
         "notes": "",
-        "active": 43,
+        "active": 44,
         "confirmed": 58,
-        "deceased": 3,
+        "deceased": 2,
         "recovered": 12,
         "delta": {
           "confirmed": 1,
-          "deceased": 1,
+          "deceased": 0,
           "recovered": 0
         }
       },
@@ -9395,18 +9395,6 @@
           "confirmed": 0,
           "deceased": 0,
           "recovered": 1
-        }
-      },
-      "Unknown": {
-        "notes": "",
-        "active": -7,
-        "confirmed": 0,
-        "deceased": 7,
-        "recovered": 0,
-        "delta": {
-          "confirmed": 0,
-          "deceased": 0,
-          "recovered": 0
         }
       }
     },

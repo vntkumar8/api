@@ -4745,7 +4745,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-05-31T18:53:04+05:30",
+      "last_updated": "2020-05-31T19:03:06+05:30",
       "notes": "2 deaths cross notified to other states from Chennai and Coimbatore.<br>1 patient died after turning negative for infection in Chengalpattu",
       "tested": {
         "last_updated": "2020-05-30",
@@ -4841,7 +4841,7 @@
       "tested": 125428
     },
     "meta": {
-      "last_updated": "2020-05-31T18:53:03+05:30",
+      "last_updated": "2020-05-31T19:03:02+05:30",
       "tested": {
         "last_updated": "2020-05-31",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/236"
@@ -5610,11 +5610,12 @@
       "Kolkata": {
         "delta": {
           "confirmed": 72,
+          "deceased": 7,
           "recovered": 31
         },
         "total": {
           "confirmed": 2125,
-          "deceased": 202,
+          "deceased": 209,
           "recovered": 902
         }
       },
@@ -5652,22 +5653,22 @@
       "North 24 Parganas": {
         "delta": {
           "confirmed": 60,
+          "deceased": 1,
           "recovered": 21
         },
         "total": {
           "confirmed": 735,
-          "deceased": 42,
+          "deceased": 43,
           "recovered": 274
         }
       },
       "Other State": {
         "delta": {
-          "confirmed": 1,
-          "deceased": 1
+          "confirmed": 1
         },
         "total": {
           "confirmed": 58,
-          "deceased": 3,
+          "deceased": 2,
           "recovered": 12
         }
       },
@@ -5733,12 +5734,9 @@
         }
       },
       "Unassigned": {
-        "delta": {
-          "deceased": 7
-        },
         "total": {
           "confirmed": -223,
-          "deceased": -13,
+          "deceased": -20,
           "recovered": -105
         }
       },
@@ -5753,7 +5751,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-05-31T18:48:06+05:30",
+      "last_updated": "2020-05-31T18:54:06+05:30",
       "notes": "- Cases updated as per WB bulletin.<br>\n- Deaths due to comorbidities added to total deceased<br>",
       "tested": {
         "last_updated": "2020-05-30",
