@@ -1897,7 +1897,7 @@
   "JH": {
     "delta": {
       "confirmed": 42,
-      "recovered": 40,
+      "recovered": 41,
       "tested": 3464
     },
     "districts": {
@@ -1966,10 +1966,12 @@
       },
       "Gumla": {
         "delta": {
-          "confirmed": 1
+          "confirmed": 1,
+          "recovered": 1
         },
         "total": {
-          "confirmed": 21
+          "confirmed": 21,
+          "recovered": 1
         }
       },
       "Hazaribagh": {
@@ -2091,7 +2093,7 @@
     "total": {
       "confirmed": 563,
       "deceased": 5,
-      "recovered": 256,
+      "recovered": 257,
       "tested": 62916
     }
   },
@@ -5593,7 +5595,7 @@
     "delta": {
       "confirmed": 8335,
       "deceased": 205,
-      "recovered": 4303,
+      "recovered": 4304,
       "tested": 127761
     },
     "meta": {
@@ -5605,7 +5607,7 @@
     "total": {
       "confirmed": 181830,
       "deceased": 5185,
-      "recovered": 86936,
+      "recovered": 86937,
       "tested": 3611599
     }
   },

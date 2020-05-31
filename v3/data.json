@@ -1531,7 +1531,8 @@
       },
       "Gumla": {
         "total": {
-          "confirmed": 21
+          "confirmed": 21,
+          "recovered": 1
         }
       },
       "Hazaribagh": {
@@ -1618,7 +1619,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-05-31T00:04:05+05:30",
+      "last_updated": "2020-05-31T11:22:05+05:30",
       "tested": {
         "last_updated": "2020-05-30",
         "source": "https://twitter.com/RanchiPIB/status/1266783771140988933?s=19"
@@ -1627,7 +1628,7 @@
     "total": {
       "confirmed": 563,
       "deceased": 5,
-      "recovered": 256,
+      "recovered": 257,
       "tested": 62916
     }
   },
@@ -3702,7 +3703,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-05-31T11:13:04+05:30",
+      "last_updated": "2020-05-31T11:21:04+05:30",
       "tested": {
         "last_updated": "2020-05-30",
         "source": "https://t.me/indiacovid/5942?single"
@@ -4358,7 +4359,7 @@
       "recovered": 33
     },
     "meta": {
-      "last_updated": "2020-05-31T11:13:03+05:30",
+      "last_updated": "2020-05-31T11:22:03+05:30",
       "tested": {
         "last_updated": "2020-05-30",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/228"
@@ -4367,7 +4368,7 @@
     "total": {
       "confirmed": 182490,
       "deceased": 5186,
-      "recovered": 86969,
+      "recovered": 86970,
       "tested": 3611599
     }
   },
