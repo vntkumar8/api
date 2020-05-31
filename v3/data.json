@@ -401,7 +401,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-05-31T14:22:05+05:30",
+      "last_updated": "2020-05-31T14:29:06+05:30",
       "notes": "Includes one case from Nagaland <br>\nTotal of three* patients who migrated to other states has been reduced from Active count",
       "tested": {
         "last_updated": "2020-05-30",
@@ -1531,7 +1531,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-05-31T14:22:04+05:30",
+      "last_updated": "2020-05-31T14:29:05+05:30",
       "tested": {
         "last_updated": "2020-05-30",
         "source": "http://www.nhmharyana.gov.in/WriteReadData/userfiles/file/CoronaVirus/Bulletin%20of%20COVID%2019%20as%20on%2030-05-20%20Evening.pdf"
@@ -2542,6 +2542,9 @@
     }
   },
   "MN": {
+    "delta": {
+      "confirmed": 4
+    },
     "districts": {
       "Chandel": {
         "total": {
@@ -2554,14 +2557,20 @@
         }
       },
       "Imphal East": {
+        "delta": {
+          "confirmed": 3
+        },
         "total": {
-          "confirmed": 3,
+          "confirmed": 6,
           "recovered": 1
         }
       },
       "Imphal West": {
+        "delta": {
+          "confirmed": 1
+        },
         "total": {
-          "confirmed": 14,
+          "confirmed": 15,
           "recovered": 1
         }
       },
@@ -2583,14 +2592,14 @@
       }
     },
     "meta": {
-      "last_updated": "2020-05-31T10:44:04+05:30",
+      "last_updated": "2020-05-31T14:34:07+05:30",
       "tested": {
         "last_updated": "2020-05-29",
         "source": "https://twitter.com/DiprManipur/status/1266385249669222400?s=19"
       }
     },
     "total": {
-      "confirmed": 62,
+      "confirmed": 66,
       "recovered": 6,
       "tested": 8596
     }
@@ -4434,20 +4443,20 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 851,
+      "confirmed": 855,
       "deceased": 1,
       "recovered": 112,
       "tested": 125428
     },
     "meta": {
-      "last_updated": "2020-05-31T14:22:03+05:30",
+      "last_updated": "2020-05-31T14:34:04+05:30",
       "tested": {
         "last_updated": "2020-05-31",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/236"
       }
     },
     "total": {
-      "confirmed": 182681,
+      "confirmed": 182685,
       "deceased": 5186,
       "recovered": 87049,
       "tested": 3737027
