@@ -805,7 +805,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-05-31T20:52:05+05:30",
+      "last_updated": "2020-05-31T20:53:06+05:30",
       "tested": {
         "last_updated": "2020-05-30",
         "source": "https://twitter.com/PIB_Patna/status/1266698915262476288"
@@ -2866,7 +2866,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-05-31T20:52:04+05:30",
+      "last_updated": "2020-05-31T20:53:04+05:30",
       "tested": {
         "last_updated": "2020-05-30",
         "source": "https://twitter.com/Maha_MEDD/status/1266611646514049030?s=19"
@@ -5052,20 +5052,20 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 7130,
+      "confirmed": 7235,
       "deceased": 173,
       "recovered": 3120,
       "tested": 125428
     },
     "meta": {
-      "last_updated": "2020-05-31T20:52:03+05:30",
+      "last_updated": "2020-05-31T21:02:03+05:30",
       "tested": {
         "last_updated": "2020-05-31",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/236"
       }
     },
     "total": {
-      "confirmed": 188991,
+      "confirmed": 189096,
       "deceased": 5357,
       "recovered": 90049,
       "tested": 3737027
@@ -5612,12 +5612,15 @@
   },
   "UT": {
     "delta": {
-      "confirmed": 53
+      "confirmed": 158
     },
     "districts": {
       "Almora": {
+        "delta": {
+          "confirmed": 18
+        },
         "total": {
-          "confirmed": 45,
+          "confirmed": 63,
           "recovered": 3
         }
       },
@@ -5627,37 +5630,46 @@
         }
       },
       "Chamoli": {
+        "delta": {
+          "confirmed": 2
+        },
         "total": {
-          "confirmed": 11
+          "confirmed": 13
         }
       },
       "Champawat": {
+        "delta": {
+          "confirmed": 4
+        },
         "total": {
-          "confirmed": 8
+          "confirmed": 12
         }
       },
       "Dehradun": {
         "delta": {
-          "confirmed": 25
+          "confirmed": 49
         },
         "total": {
-          "confirmed": 210,
+          "confirmed": 234,
           "deceased": 3,
           "recovered": 38
         }
       },
       "Haridwar": {
         "delta": {
-          "confirmed": 15
+          "confirmed": 17
         },
         "total": {
-          "confirmed": 66,
+          "confirmed": 68,
           "recovered": 7
         }
       },
       "Nainital": {
+        "delta": {
+          "confirmed": 31
+        },
         "total": {
-          "confirmed": 229,
+          "confirmed": 260,
           "deceased": 1,
           "recovered": 23
         }
@@ -5686,13 +5698,19 @@
         }
       },
       "Tehri Garhwal": {
+        "delta": {
+          "confirmed": 3
+        },
         "total": {
-          "confirmed": 74
+          "confirmed": 77
         }
       },
       "Udham Singh Nagar": {
+        "delta": {
+          "confirmed": 20
+        },
         "total": {
-          "confirmed": 62,
+          "confirmed": 82,
           "recovered": 27
         }
       },
@@ -5704,16 +5722,16 @@
       },
       "Uttarkashi": {
         "delta": {
-          "confirmed": 6
+          "confirmed": 7
         },
         "total": {
-          "confirmed": 20,
+          "confirmed": 21,
           "recovered": 1
         }
       }
     },
     "meta": {
-      "last_updated": "2020-05-31T14:52:05+05:30",
+      "last_updated": "2020-05-31T21:02:05+05:30",
       "notes": "Three migrated cases reduced from Active count",
       "tested": {
         "last_updated": "2020-05-30",
@@ -5721,7 +5739,7 @@
       }
     },
     "total": {
-      "confirmed": 802,
+      "confirmed": 907,
       "deceased": 5,
       "recovered": 102,
       "tested": 28433
