@@ -3402,10 +3402,18 @@
     }
   },
   "RJ": {
+    "delta": {
+      "confirmed": 76,
+      "deceased": 1,
+      "recovered": 33
+    },
     "districts": {
       "Ajmer": {
+        "delta": {
+          "confirmed": 3
+        },
         "total": {
-          "confirmed": 336,
+          "confirmed": 339,
           "deceased": 7,
           "recovered": 291
         }
@@ -3424,10 +3432,13 @@
         }
       },
       "Banswara": {
+        "delta": {
+          "recovered": 7
+        },
         "total": {
           "confirmed": 85,
           "deceased": 2,
-          "recovered": 74
+          "recovered": 81
         }
       },
       "Baran": {
@@ -3437,14 +3448,20 @@
         }
       },
       "Barmer": {
+        "delta": {
+          "recovered": 5
+        },
         "total": {
           "confirmed": 99,
-          "recovered": 57
+          "recovered": 62
         }
       },
       "Bharatpur": {
+        "delta": {
+          "confirmed": 12
+        },
         "total": {
-          "confirmed": 235,
+          "confirmed": 247,
           "deceased": 4,
           "recovered": 129
         }
@@ -3490,8 +3507,11 @@
         }
       },
       "Dholpur": {
+        "delta": {
+          "confirmed": 5
+        },
         "total": {
-          "confirmed": 53,
+          "confirmed": 58,
           "recovered": 37
         }
       },
@@ -3525,9 +3545,13 @@
         }
       },
       "Jaipur": {
+        "delta": {
+          "confirmed": 21,
+          "deceased": 1
+        },
         "total": {
-          "confirmed": 1961,
-          "deceased": 90,
+          "confirmed": 1982,
+          "deceased": 91,
           "recovered": 1583
         }
       },
@@ -3545,16 +3569,23 @@
         }
       },
       "Jhalawar": {
+        "delta": {
+          "confirmed": 14
+        },
         "total": {
-          "confirmed": 249,
+          "confirmed": 263,
           "recovered": 51
         }
       },
       "Jhunjhunu": {
+        "delta": {
+          "confirmed": 7,
+          "recovered": 1
+        },
         "total": {
-          "confirmed": 124,
+          "confirmed": 131,
           "deceased": 1,
-          "recovered": 81
+          "recovered": 82
         }
       },
       "Jodhpur": {
@@ -3572,8 +3603,11 @@
         }
       },
       "Kota": {
+        "delta": {
+          "confirmed": 6
+        },
         "total": {
-          "confirmed": 452,
+          "confirmed": 458,
           "deceased": 16,
           "recovered": 353
         }
@@ -3607,10 +3641,14 @@
         }
       },
       "Rajsamand": {
+        "delta": {
+          "confirmed": 5,
+          "recovered": 5
+        },
         "total": {
-          "confirmed": 135,
+          "confirmed": 140,
           "deceased": 1,
-          "recovered": 50
+          "recovered": 55
         }
       },
       "Sawai Madhopur": {
@@ -3628,22 +3666,31 @@
         }
       },
       "Sirohi": {
+        "delta": {
+          "recovered": 15
+        },
         "total": {
           "confirmed": 157,
           "deceased": 3,
-          "recovered": 18
+          "recovered": 33
         }
       },
       "Tonk": {
+        "delta": {
+          "confirmed": 1
+        },
         "total": {
-          "confirmed": 163,
+          "confirmed": 164,
           "deceased": 1,
           "recovered": 158
         }
       },
       "Udaipur": {
+        "delta": {
+          "confirmed": 2
+        },
         "total": {
-          "confirmed": 541,
+          "confirmed": 543,
           "deceased": 1,
           "recovered": 359
         }
@@ -3655,16 +3702,16 @@
       }
     },
     "meta": {
-      "last_updated": "2020-05-30T21:41:05+05:30",
+      "last_updated": "2020-05-31T11:13:04+05:30",
       "tested": {
         "last_updated": "2020-05-30",
         "source": "https://t.me/indiacovid/5942?single"
       }
     },
     "total": {
-      "confirmed": 8617,
-      "deceased": 193,
-      "recovered": 5739,
+      "confirmed": 8693,
+      "deceased": 194,
+      "recovered": 5772,
       "tested": 395490
     }
   },
@@ -4306,19 +4353,21 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 584
+      "confirmed": 660,
+      "deceased": 1,
+      "recovered": 33
     },
     "meta": {
-      "last_updated": "2020-05-31T10:44:03+05:30",
+      "last_updated": "2020-05-31T11:13:03+05:30",
       "tested": {
         "last_updated": "2020-05-30",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/228"
       }
     },
     "total": {
-      "confirmed": 182414,
-      "deceased": 5185,
-      "recovered": 86936,
+      "confirmed": 182490,
+      "deceased": 5186,
+      "recovered": 86969,
       "tested": 3611599
     }
   },
