@@ -977,6 +977,11 @@
     }
   },
   "DL": {
+    "delta": {
+      "confirmed": 1295,
+      "deceased": 57,
+      "recovered": 403
+    },
     "districts": {
       "Central Delhi": {
         "total": {
@@ -1030,10 +1035,15 @@
         }
       },
       "Unassigned": {
+        "delta": {
+          "confirmed": 1295,
+          "deceased": 57,
+          "recovered": 403
+        },
         "total": {
-          "confirmed": 15631,
-          "deceased": 361,
-          "recovered": 7198
+          "confirmed": 16926,
+          "deceased": 418,
+          "recovered": 7601
         }
       },
       "West Delhi": {
@@ -1043,7 +1053,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-05-31T18:11:04+05:30",
+      "last_updated": "2020-05-31T18:32:04+05:30",
       "notes": "[10-May]<br>\n\nDelhi bulletins in the morning, containing data of the previous day. We will add that data to the date on which the report is released, rather than the previous day.",
       "tested": {
         "last_updated": "2020-05-30",
@@ -1051,9 +1061,9 @@
       }
     },
     "total": {
-      "confirmed": 18549,
-      "deceased": 416,
-      "recovered": 8075,
+      "confirmed": 19844,
+      "deceased": 473,
+      "recovered": 8478,
       "tested": 206739
     }
   },
@@ -2196,7 +2206,8 @@
   },
   "KL": {
     "delta": {
-      "confirmed": 61
+      "confirmed": 61,
+      "recovered": 15
     },
     "districts": {
       "Alappuzha": {
@@ -2211,12 +2222,13 @@
       },
       "Ernakulam": {
         "delta": {
-          "confirmed": 1
+          "confirmed": 1,
+          "recovered": 1
         },
         "total": {
           "confirmed": 50,
           "deceased": 1,
-          "recovered": 27
+          "recovered": 28
         }
       },
       "Idukki": {
@@ -2227,12 +2239,13 @@
       },
       "Kannur": {
         "delta": {
-          "confirmed": 7
+          "confirmed": 7,
+          "recovered": 5
         },
         "total": {
           "confirmed": 227,
           "deceased": 2,
-          "recovered": 119
+          "recovered": 124
         }
       },
       "Kasaragod": {
@@ -2262,21 +2275,23 @@
       },
       "Kozhikode": {
         "delta": {
-          "confirmed": 2
+          "confirmed": 2,
+          "recovered": 4
         },
         "total": {
           "confirmed": 66,
-          "recovered": 28
+          "recovered": 32
         }
       },
       "Malappuram": {
         "delta": {
-          "confirmed": 3
+          "confirmed": 3,
+          "recovered": 2
         },
         "total": {
           "confirmed": 98,
           "deceased": 1,
-          "recovered": 40
+          "recovered": 42
         }
       },
       "Other State": {
@@ -2295,21 +2310,23 @@
       },
       "Pathanamthitta": {
         "delta": {
-          "confirmed": 4
+          "confirmed": 4,
+          "recovered": 2
         },
         "total": {
           "confirmed": 48,
-          "recovered": 17
+          "recovered": 19
         }
       },
       "Thiruvananthapuram": {
         "delta": {
-          "confirmed": 4
+          "confirmed": 4,
+          "recovered": 1
         },
         "total": {
           "confirmed": 61,
           "deceased": 2,
-          "recovered": 17
+          "recovered": 18
         }
       },
       "Thrissur": {
@@ -2339,7 +2356,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-05-31T18:22:05+05:30",
+      "last_updated": "2020-05-31T18:34:04+05:30",
       "notes": "Mahe native who expired in Kannur included in Kerala's tally",
       "tested": {
         "last_updated": "2020-05-30",
@@ -2349,16 +2366,22 @@
     "total": {
       "confirmed": 1270,
       "deceased": 10,
-      "recovered": 575,
+      "recovered": 590,
       "tested": 77257
     }
   },
   "LA": {
+    "delta": {
+      "recovered": 4
+    },
     "districts": {
       "Kargil": {
+        "delta": {
+          "recovered": 4
+        },
         "total": {
           "confirmed": 36,
-          "recovered": 9
+          "recovered": 13
         }
       },
       "Leh": {
@@ -2369,7 +2392,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-05-30T21:34:08+05:30",
+      "last_updated": "2020-05-31T18:34:06+05:30",
       "tested": {
         "last_updated": "2020-05-30",
         "source": "https://t.me/indiacovid/5907"
@@ -2377,7 +2400,7 @@
     },
     "total": {
       "confirmed": 77,
-      "recovered": 43,
+      "recovered": 47,
       "tested": 7354
     }
   },
@@ -2789,7 +2812,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-05-31T18:22:06+05:30",
+      "last_updated": "2020-05-31T18:32:08+05:30",
       "tested": {
         "last_updated": "2020-05-29",
         "source": "https://twitter.com/DiprManipur/status/1266385249669222400?s=19"
@@ -4665,22 +4688,22 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 1210,
-      "deceased": 3,
-      "recovered": 244,
+      "confirmed": 2505,
+      "deceased": 60,
+      "recovered": 666,
       "tested": 125428
     },
     "meta": {
-      "last_updated": "2020-05-31T18:22:03+05:30",
+      "last_updated": "2020-05-31T18:34:03+05:30",
       "tested": {
         "last_updated": "2020-05-31",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/236"
       }
     },
     "total": {
-      "confirmed": 183069,
-      "deceased": 5188,
-      "recovered": 87180,
+      "confirmed": 184364,
+      "deceased": 5245,
+      "recovered": 87602,
       "tested": 3737027
     }
   },
