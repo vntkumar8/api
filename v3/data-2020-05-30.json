@@ -1896,8 +1896,8 @@
   },
   "JH": {
     "delta": {
-      "confirmed": 42,
-      "recovered": 41,
+      "confirmed": 82,
+      "recovered": 40,
       "tested": 3464
     },
     "districts": {
@@ -1921,8 +1921,11 @@
         }
       },
       "Dhanbad": {
+        "delta": {
+          "confirmed": 4
+        },
         "total": {
-          "confirmed": 17,
+          "confirmed": 21,
           "recovered": 4
         }
       },
@@ -1934,20 +1937,20 @@
       },
       "East Singhbhum": {
         "delta": {
-          "confirmed": 28
+          "confirmed": 55
         },
         "total": {
-          "confirmed": 80,
+          "confirmed": 107,
           "recovered": 1
         }
       },
       "Garhwa": {
         "delta": {
-          "confirmed": 2,
+          "confirmed": 4,
           "recovered": 13
         },
         "total": {
-          "confirmed": 59,
+          "confirmed": 61,
           "recovered": 48
         }
       },
@@ -1966,20 +1969,20 @@
       },
       "Gumla": {
         "delta": {
-          "confirmed": 1,
-          "recovered": 1
+          "confirmed": 2,
+          "recovered": 0
         },
         "total": {
-          "confirmed": 21,
-          "recovered": 1
+          "confirmed": 22,
+          "recovered": 0
         }
       },
       "Hazaribagh": {
         "delta": {
-          "confirmed": 4
+          "confirmed": 8
         },
         "total": {
-          "confirmed": 69,
+          "confirmed": 73,
           "recovered": 20
         }
       },
@@ -1991,10 +1994,10 @@
       },
       "Khunti": {
         "delta": {
-          "confirmed": 2
+          "confirmed": 4
         },
         "total": {
-          "confirmed": 5
+          "confirmed": 7
         }
       },
       "Koderma": {
@@ -2091,9 +2094,9 @@
       }
     },
     "total": {
-      "confirmed": 563,
+      "confirmed": 603,
       "deceased": 5,
-      "recovered": 257,
+      "recovered": 256,
       "tested": 62916
     }
   },
@@ -5593,9 +5596,9 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 8335,
+      "confirmed": 8375,
       "deceased": 205,
-      "recovered": 4304,
+      "recovered": 4303,
       "tested": 127761
     },
     "meta": {
@@ -5605,9 +5608,9 @@
       }
     },
     "total": {
-      "confirmed": 181830,
+      "confirmed": 181870,
       "deceased": 5185,
-      "recovered": 86937,
+      "recovered": 86936,
       "tested": 3611599
     }
   },
