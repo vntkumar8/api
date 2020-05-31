@@ -193,6 +193,9 @@
     }
   },
   "AR": {
+    "delta": {
+      "confirmed": 1
+    },
     "districts": {
       "Lohit": {
         "total": {
@@ -201,8 +204,11 @@
         }
       },
       "Unassigned": {
+        "delta": {
+          "confirmed": 1
+        },
         "total": {
-          "confirmed": 2
+          "confirmed": 3
         }
       }
     },
@@ -213,7 +219,7 @@
       }
     },
     "total": {
-      "confirmed": 3,
+      "confirmed": 4,
       "recovered": 1,
       "tested": 7488
     }
@@ -5574,7 +5580,7 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 8332,
+      "confirmed": 8333,
       "deceased": 205,
       "recovered": 4303,
       "tested": 127761
@@ -5586,7 +5592,7 @@
       }
     },
     "total": {
-      "confirmed": 181827,
+      "confirmed": 181828,
       "deceased": 5185,
       "recovered": 86936,
       "tested": 3611599
