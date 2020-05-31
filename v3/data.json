@@ -28,6 +28,11 @@
     }
   },
   "AP": {
+    "delta": {
+      "confirmed": 110,
+      "deceased": 2,
+      "recovered": 43
+    },
     "districts": {
       "Anantapur": {
         "total": {
@@ -77,8 +82,11 @@
         }
       },
       "Other State": {
+        "delta": {
+          "confirmed": 12
+        },
         "total": {
-          "confirmed": 406,
+          "confirmed": 418,
           "recovered": 189
         }
       },
@@ -103,10 +111,15 @@
         }
       },
       "Unassigned": {
+        "delta": {
+          "confirmed": 98,
+          "deceased": 2,
+          "recovered": 43
+        },
         "total": {
-          "confirmed": 0,
-          "deceased": 0,
-          "recovered": 8
+          "confirmed": 98,
+          "deceased": 2,
+          "recovered": 51
         }
       },
       "Visakhapatnam": {
@@ -137,7 +150,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-05-30T15:13:04+05:30",
+      "last_updated": "2020-05-31T15:12:04+05:30",
       "notes": "Total includes patients from other states and a new category \"Foreign Evacuees\" which is now reported in AP bulletin. <br>\nAP district data updated to match state dashboard as of 27th May.",
       "tested": {
         "last_updated": "2020-05-30",
@@ -145,9 +158,9 @@
       }
     },
     "total": {
-      "confirmed": 3461,
-      "deceased": 60,
-      "recovered": 2289,
+      "confirmed": 3571,
+      "deceased": 62,
+      "recovered": 2332,
       "tested": 363378
     }
   },
@@ -725,7 +738,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-05-31T15:03:06+05:30",
+      "last_updated": "2020-05-31T15:05:05+05:30",
       "tested": {
         "last_updated": "2020-05-30",
         "source": "https://twitter.com/PIB_Patna/status/1266698915262476288"
@@ -1624,7 +1637,7 @@
       },
       "Dhanbad": {
         "total": {
-          "confirmed": 21,
+          "confirmed": 17,
           "recovered": 4
         }
       },
@@ -1636,13 +1649,13 @@
       },
       "East Singhbhum": {
         "total": {
-          "confirmed": 107,
+          "confirmed": 80,
           "recovered": 1
         }
       },
       "Garhwa": {
         "total": {
-          "confirmed": 61,
+          "confirmed": 59,
           "recovered": 48
         }
       },
@@ -1661,13 +1674,13 @@
       },
       "Gumla": {
         "total": {
-          "confirmed": 22,
+          "confirmed": 21,
           "recovered": 0
         }
       },
       "Hazaribagh": {
         "total": {
-          "confirmed": 73,
+          "confirmed": 69,
           "recovered": 20
         }
       },
@@ -1679,7 +1692,7 @@
       },
       "Khunti": {
         "total": {
-          "confirmed": 7
+          "confirmed": 5
         }
       },
       "Koderma": {
@@ -1749,14 +1762,14 @@
       }
     },
     "meta": {
-      "last_updated": "2020-05-31T15:03:08+05:30",
+      "last_updated": "2020-05-31T15:05:07+05:30",
       "tested": {
         "last_updated": "2020-05-30",
         "source": "https://twitter.com/RanchiPIB/status/1266783771140988933?s=19"
       }
     },
     "total": {
-      "confirmed": 603,
+      "confirmed": 563,
       "deceased": 5,
       "recovered": 256,
       "tested": 62916
@@ -4500,22 +4513,22 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 1019,
-      "deceased": 1,
-      "recovered": 112,
+      "confirmed": 1129,
+      "deceased": 3,
+      "recovered": 155,
       "tested": 125428
     },
     "meta": {
-      "last_updated": "2020-05-31T15:03:03+05:30",
+      "last_updated": "2020-05-31T15:12:03+05:30",
       "tested": {
         "last_updated": "2020-05-31",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/236"
       }
     },
     "total": {
-      "confirmed": 182889,
-      "deceased": 5186,
-      "recovered": 87048,
+      "confirmed": 182959,
+      "deceased": 5188,
+      "recovered": 87091,
       "tested": 3737027
     }
   },
