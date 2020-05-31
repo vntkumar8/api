@@ -194,7 +194,8 @@
   },
   "AR": {
     "delta": {
-      "confirmed": 1
+      "confirmed": 1,
+      "tested": 529
     },
     "districts": {
       "Lohit": {
@@ -214,14 +215,14 @@
     },
     "meta": {
       "tested": {
-        "last_updated": "2020-05-29",
-        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/222"
+        "last_updated": "2020-05-30",
+        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/242"
       }
     },
     "total": {
       "confirmed": 4,
       "recovered": 1,
-      "tested": 7488
+      "tested": 8017
     }
   },
   "AS": {
@@ -4402,7 +4403,7 @@
     "meta": {
       "tested": {
         "last_updated": "2020-05-30",
-        "source": "http://chdcovid19.in/"
+        "source": "https://t.me/indiacovid/5897"
       }
     },
     "total": {

@@ -161,7 +161,7 @@
       "notes": "Total includes patients from other states and a new category \"Foreign Evacuees\" which is now reported in AP bulletin. <br>\nAP district data updated to match state dashboard as of 27th May.",
       "tested": {
         "last_updated": "2020-05-31",
-        "source": ""
+        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/241"
       }
     },
     "total": {
@@ -188,14 +188,14 @@
     "meta": {
       "last_updated": "2020-05-31T10:35:08+05:30",
       "tested": {
-        "last_updated": "2020-05-29",
-        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/222"
+        "last_updated": "2020-05-30",
+        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/242"
       }
     },
     "total": {
       "confirmed": 4,
       "recovered": 1,
-      "tested": 7488
+      "tested": 8017
     }
   },
   "AS": {
@@ -3529,6 +3529,9 @@
     }
   },
   "PY": {
+    "delta": {
+      "tested": 91
+    },
     "districts": {
       "Karaikal": {
         "total": {
@@ -3557,14 +3560,14 @@
     "meta": {
       "last_updated": "2020-05-30T23:04:08+05:30",
       "tested": {
-        "last_updated": "2020-05-30",
-        "source": "http://chdcovid19.in/"
+        "last_updated": "2020-05-31",
+        "source": "https://t.me/indiacovid/5972"
       }
     },
     "total": {
       "confirmed": 57,
       "recovered": 23,
-      "tested": 7164
+      "tested": 7255
     }
   },
   "RJ": {

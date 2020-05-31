@@ -1985,19 +1985,20 @@
     },
     "2020-05-30": {
       "delta": {
-        "confirmed": 1
+        "confirmed": 1,
+        "tested": 529
       },
       "total": {
         "confirmed": 4,
         "recovered": 1,
-        "tested": 7488
+        "tested": 8017
       }
     },
     "2020-05-31": {
       "total": {
         "confirmed": 4,
         "recovered": 1,
-        "tested": 7488
+        "tested": 8017
       }
     }
   },
@@ -20744,10 +20745,13 @@
       }
     },
     "2020-05-31": {
+      "delta": {
+        "tested": 91
+      },
       "total": {
         "confirmed": 57,
         "recovered": 23,
-        "tested": 7164
+        "tested": 7255
       }
     }
   },
