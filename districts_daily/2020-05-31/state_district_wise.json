@@ -7447,12 +7447,12 @@
       },
       "Airport Quarantine": {
         "notes": "",
-        "active": 76,
-        "confirmed": 99,
+        "active": 81,
+        "confirmed": 104,
         "deceased": 0,
         "recovered": 23,
         "delta": {
-          "confirmed": 3,
+          "confirmed": 8,
           "deceased": 0,
           "recovered": 9
         }
@@ -7819,12 +7819,12 @@
       },
       "Tiruchirappalli": {
         "notes": "",
-        "active": 17,
-        "confirmed": 87,
+        "active": 20,
+        "confirmed": 90,
         "deceased": 0,
         "recovered": 70,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 3,
           "deceased": 0,
           "recovered": 0
         }
@@ -7909,18 +7909,6 @@
         "recovered": 58,
         "delta": {
           "confirmed": 2,
-          "deceased": 0,
-          "recovered": 0
-        }
-      },
-      "Unknown": {
-        "notes": "",
-        "active": 8,
-        "confirmed": 8,
-        "deceased": 0,
-        "recovered": 0,
-        "delta": {
-          "confirmed": 0,
           "deceased": 0,
           "recovered": 0
         }

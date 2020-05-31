@@ -1686,7 +1686,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-05-31T20:02:05+05:30",
+      "last_updated": "2020-05-31T20:12:05+05:30",
       "tested": {
         "last_updated": "2020-05-30",
         "source": "http://www.nhmharyana.gov.in/WriteReadData/userfiles/file/CoronaVirus/Bulletin%20of%20COVID%2019%20as%20on%2030-05-20%20Evening.pdf"
@@ -2047,7 +2047,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-05-31T20:02:04+05:30",
+      "last_updated": "2020-05-31T20:04:04+05:30",
       "tested": {
         "last_updated": "2020-05-30",
         "source": "https://twitter.com/diprjk/status/1266738335583698945?s=19"
@@ -4544,20 +4544,12 @@
     "districts": {
       "Airport Quarantine": {
         "delta": {
-          "confirmed": 3,
+          "confirmed": 8,
           "recovered": 9
         },
         "total": {
-          "confirmed": 99,
+          "confirmed": 104,
           "recovered": 23
-        }
-      },
-      "Airport Quarantine (Domestic)": {
-        "delta": {
-          "confirmed": 5
-        },
-        "total": {
-          "confirmed": 5
         }
       },
       "Ariyalur": {
@@ -4850,8 +4842,11 @@
         }
       },
       "Tiruchirappalli": {
+        "delta": {
+          "confirmed": 3
+        },
         "total": {
-          "confirmed": 87,
+          "confirmed": 90,
           "recovered": 70
         }
       },
@@ -4886,14 +4881,6 @@
           "confirmed": 416,
           "deceased": 2,
           "recovered": 144
-        }
-      },
-      "Trichy": {
-        "delta": {
-          "confirmed": 3
-        },
-        "total": {
-          "confirmed": 3
         }
       },
       "Unassigned": {
@@ -5030,7 +5017,7 @@
       "tested": 125428
     },
     "meta": {
-      "last_updated": "2020-05-31T20:02:03+05:30",
+      "last_updated": "2020-05-31T20:12:03+05:30",
       "tested": {
         "last_updated": "2020-05-31",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/236"
