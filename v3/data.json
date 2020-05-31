@@ -1364,7 +1364,7 @@
   },
   "HP": {
     "delta": {
-      "confirmed": 4,
+      "confirmed": 17,
       "recovered": 2
     },
     "districts": {
@@ -1381,22 +1381,31 @@
         }
       },
       "Hamirpur": {
+        "delta": {
+          "confirmed": 4
+        },
         "total": {
-          "confirmed": 107,
+          "confirmed": 111,
           "deceased": 1,
           "recovered": 28
         }
       },
       "Kangra": {
+        "delta": {
+          "confirmed": 8
+        },
         "total": {
-          "confirmed": 79,
+          "confirmed": 87,
           "deceased": 1,
           "recovered": 28
         }
       },
       "Kullu": {
+        "delta": {
+          "confirmed": 1
+        },
         "total": {
-          "confirmed": 1,
+          "confirmed": 2,
           "recovered": 1
         }
       },
@@ -1444,7 +1453,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-05-31T14:22:07+05:30",
+      "last_updated": "2020-05-31T18:03:06+05:30",
       "notes": "HP has 4 Migrated cases which are reduced from Active #. Also, death of Tibetan refugee is included in deceased numbers, but not in confirmed",
       "tested": {
         "last_updated": "2020-05-30",
@@ -1452,7 +1461,7 @@
       }
     },
     "total": {
-      "confirmed": 317,
+      "confirmed": 330,
       "deceased": 6,
       "recovered": 109,
       "tested": 35668
@@ -2661,7 +2670,8 @@
   },
   "MN": {
     "delta": {
-      "confirmed": 4
+      "confirmed": 9,
+      "recovered": 4
     },
     "districts": {
       "Chandel": {
@@ -2670,8 +2680,12 @@
         }
       },
       "Churachandpur": {
+        "delta": {
+          "recovered": 2
+        },
         "total": {
-          "confirmed": 18
+          "confirmed": 18,
+          "recovered": 2
         }
       },
       "Imphal East": {
@@ -2698,8 +2712,27 @@
         }
       },
       "Noney": {
+        "delta": {
+          "confirmed": 2
+        },
         "total": {
-          "confirmed": 1
+          "confirmed": 3
+        }
+      },
+      "Thoubal": {
+        "delta": {
+          "recovered": 2
+        },
+        "total": {
+          "recovered": 2
+        }
+      },
+      "Ukhrul": {
+        "delta": {
+          "confirmed": 3
+        },
+        "total": {
+          "confirmed": 3
         }
       },
       "Unassigned": {
@@ -2710,15 +2743,15 @@
       }
     },
     "meta": {
-      "last_updated": "2020-05-31T17:42:05+05:30",
+      "last_updated": "2020-05-31T18:03:07+05:30",
       "tested": {
         "last_updated": "2020-05-29",
         "source": "https://twitter.com/DiprManipur/status/1266385249669222400?s=19"
       }
     },
     "total": {
-      "confirmed": 66,
-      "recovered": 6,
+      "confirmed": 71,
+      "recovered": 10,
       "tested": 8596
     }
   },
@@ -3401,7 +3434,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-05-31T17:53:04+05:30",
+      "last_updated": "2020-05-31T18:03:04+05:30",
       "tested": {
         "last_updated": "2020-05-31",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/240?single"
@@ -4586,22 +4619,22 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 1129,
+      "confirmed": 1147,
       "deceased": 3,
-      "recovered": 239,
+      "recovered": 243,
       "tested": 125428
     },
     "meta": {
-      "last_updated": "2020-05-31T17:53:03+05:30",
+      "last_updated": "2020-05-31T18:03:03+05:30",
       "tested": {
         "last_updated": "2020-05-31",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/236"
       }
     },
     "total": {
-      "confirmed": 182990,
+      "confirmed": 183008,
       "deceased": 5188,
-      "recovered": 87175,
+      "recovered": 87179,
       "tested": 3737027
     }
   },
