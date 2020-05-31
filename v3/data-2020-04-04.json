@@ -375,10 +375,20 @@
     }
   },
   "WB": {
+    "delta": {
+      "tested": 383
+    },
+    "meta": {
+      "tested": {
+        "last_updated": "2020-04-04",
+        "source": ""
+      }
+    },
     "total": {
       "confirmed": 53,
       "deceased": 3,
-      "recovered": 3
+      "recovered": 3,
+      "tested": 1042
     }
   }
 }

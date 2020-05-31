@@ -425,10 +425,17 @@
       "confirmed": 27,
       "recovered": 7
     },
+    "meta": {
+      "tested": {
+        "last_updated": "2020-04-04",
+        "source": ""
+      }
+    },
     "total": {
       "confirmed": 80,
       "deceased": 3,
-      "recovered": 10
+      "recovered": 10,
+      "tested": 1042
     }
   }
 }

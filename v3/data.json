@@ -458,7 +458,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-05-31T21:26:06+05:30",
+      "last_updated": "2020-05-31T21:29:06+05:30",
       "notes": "Includes one case from Nagaland <br>\nTotal of three* patients who migrated to other states has been reduced from Active count",
       "tested": {
         "last_updated": "2020-05-30",
@@ -1032,7 +1032,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-05-31T21:26:09+05:30",
+      "last_updated": "2020-05-31T21:29:09+05:30",
       "tested": {
         "last_updated": "2020-05-30",
         "source": "https://twitter.com/HealthCgGov/status/1266724300859596800?s=20"
@@ -1535,7 +1535,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-05-31T21:26:05+05:30",
+      "last_updated": "2020-05-31T21:29:04+05:30",
       "tested": {
         "last_updated": "2020-05-30",
         "source": "https://twitter.com/GujHFWDept/status/1266732895776931842?s=20"
@@ -2041,7 +2041,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-05-31T21:26:08+05:30",
+      "last_updated": "2020-05-31T21:29:07+05:30",
       "tested": {
         "last_updated": "2020-05-30",
         "source": "https://twitter.com/RanchiPIB/status/1266783771140988933?s=19"
@@ -4457,6 +4457,9 @@
     }
   },
   "SK": {
+    "delta": {
+      "tested": 96
+    },
     "districts": {
       "South Sikkim": {
         "total": {
@@ -4467,13 +4470,13 @@
     "meta": {
       "last_updated": "2020-05-23T19:42:35+05:30",
       "tested": {
-        "last_updated": "2020-05-30",
-        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/232"
+        "last_updated": "2020-05-31",
+        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/243"
       }
     },
     "total": {
       "confirmed": 1,
-      "tested": 2829
+      "tested": 2925
     }
   },
   "TG": {
@@ -5208,7 +5211,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-05-31T21:26:11+05:30",
+      "last_updated": "2020-05-31T21:29:10+05:30",
       "notes": "Two cases have migrated out of Tripura.",
       "tested": {
         "last_updated": "2020-05-30",
@@ -5230,7 +5233,7 @@
       "tested": 125428
     },
     "meta": {
-      "last_updated": "2020-05-31T21:26:03+05:30",
+      "last_updated": "2020-05-31T21:29:03+05:30",
       "tested": {
         "last_updated": "2020-05-31",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/236"
@@ -5267,6 +5270,9 @@
     }
   },
   "UP": {
+    "delta": {
+      "tested": 10604
+    },
     "districts": {
       "Agra": {
         "total": {
@@ -5772,20 +5778,21 @@
     "meta": {
       "last_updated": "2020-05-30T22:05:06+05:30",
       "tested": {
-        "last_updated": "2020-05-30",
-        "source": "https://t.me/indiacovid/5933?single"
+        "last_updated": "2020-05-31",
+        "source": "https://t.me/indiacovid/6025?single"
       }
     },
     "total": {
       "confirmed": 7701,
       "deceased": 213,
       "recovered": 4651,
-      "tested": 279288
+      "tested": 289892
     }
   },
   "UT": {
     "delta": {
-      "confirmed": 158
+      "confirmed": 158,
+      "tested": 2005
     },
     "districts": {
       "Almora": {
@@ -5908,8 +5915,8 @@
       "last_updated": "2020-05-31T21:14:38+05:30",
       "notes": "Three migrated cases reduced from Active count",
       "tested": {
-        "last_updated": "2020-05-30",
-        "source": "https://t.me/indiacovid/5902?single"
+        "last_updated": "2020-05-31",
+        "source": "https://health.uk.gov.in/files/2020.05.31_Health_Bulletin.pdf"
       }
     },
     "total": {
@@ -5917,14 +5924,15 @@
       "deceased": 5,
       "migrated": 3,
       "recovered": 102,
-      "tested": 28433
+      "tested": 30438
     }
   },
   "WB": {
     "delta": {
       "confirmed": 371,
       "deceased": 8,
-      "recovered": 187
+      "recovered": 187,
+      "tested": 9354
     },
     "districts": {
       "Alipurduar": {
@@ -6162,12 +6170,17 @@
     },
     "meta": {
       "last_updated": "2020-05-31T18:54:06+05:30",
-      "notes": "- Cases updated as per WB bulletin.<br>\n- Deaths due to comorbidities added to total deceased<br>"
+      "notes": "- Cases updated as per WB bulletin.<br>\n- Deaths due to comorbidities added to total deceased<br>",
+      "tested": {
+        "last_updated": "2020-05-31",
+        "source": "https://www.wbhealth.gov.in/uploaded_files/corona/WB_DHFW_Bulletin_31st_MAY_REPORT_FINAL.pdf"
+      }
     },
     "total": {
       "confirmed": 5501,
       "deceased": 317,
-      "recovered": 2157
+      "recovered": 2157,
+      "tested": 203751
     }
   }
 }

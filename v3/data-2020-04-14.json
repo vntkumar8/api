@@ -564,12 +564,20 @@
   "WB": {
     "delta": {
       "confirmed": 38,
-      "recovered": 7
+      "recovered": 7,
+      "tested": 288
+    },
+    "meta": {
+      "tested": {
+        "last_updated": "2020-04-14",
+        "source": "https://www.wbhealth.gov.in/uploaded_files/corona/Bulletin_West_Bengal_14.04_.2020_.pdf"
+      }
     },
     "total": {
       "confirmed": 190,
       "deceased": 7,
-      "recovered": 36
+      "recovered": 36,
+      "tested": 3081
     }
   }
 }
