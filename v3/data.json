@@ -457,7 +457,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-05-31T19:44:06+05:30",
+      "last_updated": "2020-05-31T21:23:08+05:30",
       "notes": "Includes one case from Nagaland <br>\nTotal of three* patients who migrated to other states has been reduced from Active count",
       "tested": {
         "last_updated": "2020-05-30",
@@ -851,8 +851,8 @@
   },
   "CT": {
     "delta": {
-      "confirmed": 47,
-      "recovered": 11
+      "confirmed": 45,
+      "recovered": 12
     },
     "districts": {
       "Balod": {
@@ -894,10 +894,10 @@
       },
       "Bilaspur": {
         "delta": {
-          "confirmed": 2
+          "confirmed": 1
         },
         "total": {
-          "confirmed": 51,
+          "confirmed": 50,
           "recovered": 3
         }
       },
@@ -925,11 +925,11 @@
       },
       "Janjgir Champa": {
         "delta": {
-          "recovered": 1
+          "recovered": 2
         },
         "total": {
           "confirmed": 15,
-          "recovered": 11
+          "recovered": 12
         }
       },
       "Jashpur": {
@@ -983,11 +983,11 @@
       },
       "Raipur": {
         "delta": {
-          "confirmed": 3,
+          "confirmed": 2,
           "recovered": 1
         },
         "total": {
-          "confirmed": 16,
+          "confirmed": 15,
           "deceased": 1,
           "recovered": 8
         }
@@ -1030,16 +1030,16 @@
       }
     },
     "meta": {
-      "last_updated": "2020-05-31T21:12:42+05:30",
+      "last_updated": "2020-05-31T21:23:11+05:30",
       "tested": {
         "last_updated": "2020-05-30",
         "source": "https://twitter.com/HealthCgGov/status/1266724300859596800?s=20"
       }
     },
     "total": {
-      "confirmed": 494,
+      "confirmed": 492,
       "deceased": 1,
-      "recovered": 113,
+      "recovered": 114,
       "tested": 66417
     }
   },
@@ -1476,7 +1476,7 @@
         "total": {
           "confirmed": 103,
           "deceased": 3,
-          "recovered": 51
+          "recovered": 49
         }
       },
       "Surat": {
@@ -1533,7 +1533,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-05-31T21:12:37+05:30",
+      "last_updated": "2020-05-31T21:23:05+05:30",
       "tested": {
         "last_updated": "2020-05-30",
         "source": "https://twitter.com/GujHFWDept/status/1266732895776931842?s=20"
@@ -1542,7 +1542,7 @@
     "total": {
       "confirmed": 16794,
       "deceased": 1038,
-      "recovered": 9921,
+      "recovered": 9919,
       "tested": 205780
     }
   },
@@ -1868,6 +1868,9 @@
     }
   },
   "JH": {
+    "delta": {
+      "confirmed": 16
+    },
     "districts": {
       "Bokaro": {
         "total": {
@@ -1901,8 +1904,11 @@
         }
       },
       "East Singhbhum": {
+        "delta": {
+          "confirmed": 10
+        },
         "total": {
-          "confirmed": 96,
+          "confirmed": 106,
           "recovered": 1
         }
       },
@@ -1932,8 +1938,11 @@
         }
       },
       "Hazaribagh": {
+        "delta": {
+          "confirmed": 3
+        },
         "total": {
-          "confirmed": 69,
+          "confirmed": 72,
           "recovered": 20
         }
       },
@@ -1962,8 +1971,11 @@
         }
       },
       "Lohardaga": {
+        "delta": {
+          "confirmed": 1
+        },
         "total": {
-          "confirmed": 3,
+          "confirmed": 4,
           "recovered": 2
         }
       },
@@ -1979,13 +1991,19 @@
         }
       },
       "Ramgarh": {
+        "delta": {
+          "confirmed": 1
+        },
         "total": {
-          "confirmed": 24
+          "confirmed": 25
         }
       },
       "Ranchi": {
+        "delta": {
+          "confirmed": 1
+        },
         "total": {
-          "confirmed": 129,
+          "confirmed": 130,
           "deceased": 2,
           "recovered": 106
         }
@@ -2020,14 +2038,14 @@
       }
     },
     "meta": {
-      "last_updated": "2020-05-31T15:44:04+05:30",
+      "last_updated": "2020-05-31T21:23:10+05:30",
       "tested": {
         "last_updated": "2020-05-30",
         "source": "https://twitter.com/RanchiPIB/status/1266783771140988933?s=19"
       }
     },
     "total": {
-      "confirmed": 594,
+      "confirmed": 610,
       "deceased": 5,
       "recovered": 256,
       "tested": 62916
@@ -4420,7 +4438,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-05-31T21:12:39+05:30",
+      "last_updated": "2020-05-31T21:23:06+05:30",
       "tested": {
         "last_updated": "2020-05-30",
         "source": "https://t.me/indiacovid/5942?single"
@@ -5124,7 +5142,7 @@
   },
   "TR": {
     "delta": {
-      "confirmed": 11
+      "confirmed": 45
     },
     "districts": {
       "Dhalai": {
@@ -5164,10 +5182,10 @@
       },
       "Unassigned": {
         "delta": {
-          "confirmed": 11
+          "confirmed": 45
         },
         "total": {
-          "confirmed": 11
+          "confirmed": 45
         }
       },
       "Unokoti": {
@@ -5183,7 +5201,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-05-31T13:13:08+05:30",
+      "last_updated": "2020-05-31T21:23:13+05:30",
       "notes": "Two cases have migrated out of Tripura.",
       "tested": {
         "last_updated": "2020-05-30",
@@ -5191,29 +5209,29 @@
       }
     },
     "total": {
-      "confirmed": 282,
+      "confirmed": 316,
       "recovered": 172,
       "tested": 26376
     }
   },
   "TT": {
     "delta": {
-      "confirmed": 7858,
+      "confirmed": 7906,
       "deceased": 205,
-      "recovered": 4080,
+      "recovered": 4081,
       "tested": 125428
     },
     "meta": {
-      "last_updated": "2020-05-31T21:12:35+05:30",
+      "last_updated": "2020-05-31T21:23:03+05:30",
       "tested": {
         "last_updated": "2020-05-31",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/236"
       }
     },
     "total": {
-      "confirmed": 189719,
+      "confirmed": 189767,
       "deceased": 5389,
-      "recovered": 91009,
+      "recovered": 91008,
       "tested": 3737027
     }
   },
@@ -5877,7 +5895,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-05-31T21:12:41+05:30",
+      "last_updated": "2020-05-31T21:14:38+05:30",
       "notes": "Three migrated cases reduced from Active count",
       "tested": {
         "last_updated": "2020-05-30",

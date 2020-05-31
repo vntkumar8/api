@@ -1056,11 +1056,11 @@
 		{
 			"dailyconfirmed": "5907",
 			"dailydeceased": "173",
-			"dailyrecovered": "3587",
+			"dailyrecovered": "3585",
 			"date": "26 May ",
 			"totalconfirmed": "150858",
 			"totaldeceased": "4346",
-			"totalrecovered": "64293"
+			"totalrecovered": "64291"
 		},
 		{
 			"dailyconfirmed": "7246",
@@ -1069,7 +1069,7 @@
 			"date": "27 May ",
 			"totalconfirmed": "158104",
 			"totaldeceased": "4534",
-			"totalrecovered": "67727"
+			"totalrecovered": "67725"
 		},
 		{
 			"dailyconfirmed": "7254",
@@ -1078,7 +1078,7 @@
 			"date": "28 May ",
 			"totalconfirmed": "165358",
 			"totaldeceased": "4710",
-			"totalrecovered": "70898"
+			"totalrecovered": "70896"
 		},
 		{
 			"dailyconfirmed": "8138",
@@ -1087,7 +1087,7 @@
 			"date": "29 May ",
 			"totalconfirmed": "173496",
 			"totaldeceased": "4979",
-			"totalrecovered": "82633"
+			"totalrecovered": "82631"
 		},
 		{
 			"dailyconfirmed": "8364",
@@ -1096,20 +1096,20 @@
 			"date": "30 May ",
 			"totalconfirmed": "181860",
 			"totaldeceased": "5184",
-			"totalrecovered": "86936"
+			"totalrecovered": "86934"
 		}
 	],
 	"statewise": [
 		{
-			"active": "93303",
-			"confirmed": "189717",
+			"active": "93349",
+			"confirmed": "189765",
 			"deaths": "5390",
-			"deltaconfirmed": "7858",
+			"deltaconfirmed": "7906",
 			"deltadeaths": "205",
-			"deltarecovered": "4080",
-			"lastupdatedtime": "31/05/2020 21:12:35",
+			"deltarecovered": "4081",
+			"lastupdatedtime": "31/05/2020 21:23:03",
 			"migratedother": "",
-			"recovered": "91016",
+			"recovered": "91015",
 			"state": "Total",
 			"statecode": "TT",
 			"statenotes": ""
@@ -1157,15 +1157,15 @@
 			"statenotes": "[10-May]<br>\n\nDelhi bulletins in the morning, containing data of the previous day. We will add that data to the date on which the report is released, rather than the previous day."
 		},
 		{
-			"active": "5835",
+			"active": "5837",
 			"confirmed": "16794",
 			"deaths": "1038",
 			"deltaconfirmed": "438",
 			"deltadeaths": "31",
 			"deltarecovered": "689",
-			"lastupdatedtime": "31/05/2020 21:12:37",
+			"lastupdatedtime": "31/05/2020 21:23:05",
 			"migratedother": "",
-			"recovered": "9921",
+			"recovered": "9919",
 			"state": "Gujarat",
 			"statecode": "GJ",
 			"statenotes": ""
@@ -1177,7 +1177,7 @@
 			"deltaconfirmed": "214",
 			"deltadeaths": "2",
 			"deltarecovered": "293",
-			"lastupdatedtime": "31/05/2020 21:12:39",
+			"lastupdatedtime": "31/05/2020 21:23:06",
 			"migratedother": "",
 			"recovered": "6032",
 			"state": "Rajasthan",
@@ -1367,14 +1367,14 @@
 			"statenotes": "Mahe native who expired in Kannur included in Kerala's tally"
 		},
 		{
-			"active": "1105",
+			"active": "1102",
 			"confirmed": "1273",
 			"deaths": "4",
 			"deltaconfirmed": "56",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
-			"lastupdatedtime": "31/05/2020 19:44:06",
-			"migratedother": "",
+			"lastupdatedtime": "31/05/2020 21:23:08",
+			"migratedother": "3",
 			"recovered": "164",
 			"state": "Assam",
 			"statecode": "AS",
@@ -1387,7 +1387,7 @@
 			"deltaconfirmed": "158",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
-			"lastupdatedtime": "31/05/2020 21:12:41",
+			"lastupdatedtime": "31/05/2020 21:14:38",
 			"migratedother": "3",
 			"recovered": "102",
 			"state": "Uttarakhand",
@@ -1395,13 +1395,13 @@
 			"statenotes": "Three migrated cases reduced from Active count"
 		},
 		{
-			"active": "333",
-			"confirmed": "594",
+			"active": "349",
+			"confirmed": "610",
 			"deaths": "5",
-			"deltaconfirmed": "0",
+			"deltaconfirmed": "16",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
-			"lastupdatedtime": "31/05/2020 15:44:04",
+			"lastupdatedtime": "31/05/2020 21:23:10",
 			"migratedother": "",
 			"recovered": "256",
 			"state": "Jharkhand",
@@ -1409,15 +1409,15 @@
 			"statenotes": ""
 		},
 		{
-			"active": "380",
-			"confirmed": "494",
+			"active": "377",
+			"confirmed": "492",
 			"deaths": "1",
-			"deltaconfirmed": "47",
+			"deltaconfirmed": "45",
 			"deltadeaths": "0",
-			"deltarecovered": "11",
-			"lastupdatedtime": "31/05/2020 21:12:42",
+			"deltarecovered": "12",
+			"lastupdatedtime": "31/05/2020 21:23:11",
 			"migratedother": "",
-			"recovered": "113",
+			"recovered": "114",
 			"state": "Chhattisgarh",
 			"statecode": "CT",
 			"statenotes": ""
@@ -1451,13 +1451,13 @@
 			"statenotes": ""
 		},
 		{
-			"active": "110",
-			"confirmed": "282",
+			"active": "144",
+			"confirmed": "316",
 			"deaths": "0",
-			"deltaconfirmed": "11",
+			"deltaconfirmed": "45",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
-			"lastupdatedtime": "31/05/2020 13:13:08",
+			"lastupdatedtime": "31/05/2020 21:23:13",
 			"migratedother": "",
 			"recovered": "172",
 			"state": "Tripura",
