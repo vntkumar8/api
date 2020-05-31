@@ -174,36 +174,21 @@
     "delta": {
       "confirmed": 16
     },
-    "meta": {
-      "tested": {
-        "last_updated": "2020-04-03",
-        "source": "https://karunadu.karnataka.gov.in/hfw/kannada/nCovDocs/03-04-2020(English).pdf"
-      }
-    },
     "total": {
       "confirmed": 144,
       "deceased": 4,
-      "recovered": 11,
-      "tested": 4587
+      "recovered": 11
     }
   },
   "KL": {
     "delta": {
       "confirmed": 11,
-      "recovered": 8,
-      "tested": 605
-    },
-    "meta": {
-      "tested": {
-        "last_updated": "2020-04-04",
-        "source": "https://dashboard.kerala.gov.in/testing-view-public.php"
-      }
+      "recovered": 8
     },
     "total": {
       "confirmed": 306,
       "deceased": 2,
-      "recovered": 50,
-      "tested": 9744
+      "recovered": 50
     }
   },
   "LA": {
@@ -248,16 +233,9 @@
     "delta": {
       "confirmed": 1
     },
-    "meta": {
-      "tested": {
-        "last_updated": "2020-04-03",
-        "source": "https://twitter.com/HFWOdisha/status/1246135145230303232"
-      }
-    },
     "total": {
       "confirmed": 21,
-      "recovered": 2,
-      "tested": 1395
+      "recovered": 2
     }
   },
   "PB": {
@@ -265,17 +243,10 @@
       "confirmed": 12,
       "recovered": 2
     },
-    "meta": {
-      "tested": {
-        "last_updated": "2020-04-02",
-        "source": "https://twitter.com/kbssidhu1961/status/1245680244658339841/photo/1"
-      }
-    },
     "total": {
       "confirmed": 65,
       "deceased": 5,
-      "recovered": 3,
-      "tested": 1434
+      "recovered": 3
     }
   },
   "PY": {
@@ -312,17 +283,10 @@
       "deceased": 2,
       "recovered": 2
     },
-    "meta": {
-      "tested": {
-        "last_updated": "2020-04-03",
-        "source": "https://stopcorona.tn.gov.in/wp-content/uploads/2020/03/Media-Bulletin-03-04-20-COVID-19-6-PM.pdf"
-      }
-    },
     "total": {
       "confirmed": 485,
       "deceased": 3,
-      "recovered": 8,
-      "tested": 3684
+      "recovered": 8
     }
   },
   "TT": {
@@ -360,33 +324,16 @@
     "delta": {
       "confirmed": 6
     },
-    "meta": {
-      "tested": {
-        "last_updated": "2020-04-02",
-        "source": "https://www.facebook.com/UKMedicalHealth/photos/a.1666257713623931/2556543367928690/?type=3&theater"
-      }
-    },
     "total": {
       "confirmed": 22,
-      "recovered": 2,
-      "tested": 678
+      "recovered": 2
     }
   },
   "WB": {
-    "delta": {
-      "tested": 383
-    },
-    "meta": {
-      "tested": {
-        "last_updated": "2020-04-04",
-        "source": ""
-      }
-    },
     "total": {
       "confirmed": 53,
       "deceased": 3,
-      "recovered": 3,
-      "tested": 1042
+      "recovered": 3
     }
   }
 }
