@@ -25658,13 +25658,13 @@
     },
     "2020-05-31": {
       "delta": {
-        "confirmed": 855,
+        "confirmed": 908,
         "deceased": 1,
         "recovered": 112,
         "tested": 125428
       },
       "total": {
-        "confirmed": 182685,
+        "confirmed": 182738,
         "deceased": 5186,
         "recovered": 87049,
         "tested": 3737027
@@ -27603,8 +27603,11 @@
       }
     },
     "2020-05-31": {
+      "delta": {
+        "confirmed": 53
+      },
       "total": {
-        "confirmed": 749,
+        "confirmed": 802,
         "deceased": 5,
         "recovered": 102,
         "tested": 28433

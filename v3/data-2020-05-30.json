@@ -6439,10 +6439,12 @@
       },
       "Nainital": {
         "delta": {
-          "confirmed": 5
+          "confirmed": 5,
+          "deceased": 1
         },
         "total": {
           "confirmed": 229,
+          "deceased": 1,
           "recovered": 23
         }
       },
@@ -6478,12 +6480,10 @@
       },
       "Unassigned": {
         "delta": {
-          "confirmed": 0,
-          "deceased": 1
+          "confirmed": 0
         },
         "total": {
           "confirmed": 0,
-          "deceased": 1,
           "recovered": 0
         }
       },
