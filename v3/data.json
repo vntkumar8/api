@@ -31,7 +31,8 @@
     "delta": {
       "confirmed": 110,
       "deceased": 2,
-      "recovered": 51
+      "recovered": 51,
+      "tested": 9370
     },
     "districts": {
       "Anantapur": {
@@ -159,15 +160,15 @@
       "last_updated": "2020-05-31T15:24:04+05:30",
       "notes": "Total includes patients from other states and a new category \"Foreign Evacuees\" which is now reported in AP bulletin. <br>\nAP district data updated to match state dashboard as of 27th May.",
       "tested": {
-        "last_updated": "2020-05-30",
-        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/231"
+        "last_updated": "2020-05-31",
+        "source": ""
       }
     },
     "total": {
       "confirmed": 3571,
       "deceased": 62,
       "recovered": 2340,
-      "tested": 363378
+      "tested": 372748
     }
   },
   "AR": {
