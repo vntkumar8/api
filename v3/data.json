@@ -647,24 +647,30 @@
     }
   },
   "CH": {
+    "delta": {
+      "confirmed": 2
+    },
     "districts": {
       "Chandigarh": {
+        "delta": {
+          "confirmed": 2
+        },
         "total": {
-          "confirmed": 289,
+          "confirmed": 291,
           "deceased": 4,
           "recovered": 199
         }
       }
     },
     "meta": {
-      "last_updated": "2020-05-30T23:04:06+05:30",
+      "last_updated": "2020-05-31T13:02:05+05:30",
       "tested": {
         "last_updated": "2020-05-30",
         "source": "https://t.me/indiacovid/5905?single"
       }
     },
     "total": {
-      "confirmed": 289,
+      "confirmed": 291,
       "deceased": 4,
       "recovered": 199,
       "tested": 4654
@@ -4286,6 +4292,9 @@
     }
   },
   "TR": {
+    "delta": {
+      "confirmed": 11
+    },
     "districts": {
       "Dhalai": {
         "total": {
@@ -4323,8 +4332,11 @@
         }
       },
       "Unassigned": {
+        "delta": {
+          "confirmed": 11
+        },
         "total": {
-          "confirmed": 0
+          "confirmed": 11
         }
       },
       "Unokoti": {
@@ -4340,7 +4352,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-05-30T22:43:05+05:30",
+      "last_updated": "2020-05-31T13:02:06+05:30",
       "notes": "Two cases have migrated out of Tripura.",
       "tested": {
         "last_updated": "2020-05-30",
@@ -4348,27 +4360,27 @@
       }
     },
     "total": {
-      "confirmed": 271,
+      "confirmed": 282,
       "recovered": 172,
       "tested": 26376
     }
   },
   "TT": {
     "delta": {
-      "confirmed": 660,
+      "confirmed": 673,
       "deceased": 1,
       "recovered": 33,
       "tested": 125428
     },
     "meta": {
-      "last_updated": "2020-05-31T11:31:03+05:30",
+      "last_updated": "2020-05-31T13:02:03+05:30",
       "tested": {
         "last_updated": "2020-05-31",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/236"
       }
     },
     "total": {
-      "confirmed": 182490,
+      "confirmed": 182503,
       "deceased": 5186,
       "recovered": 86970,
       "tested": 3737027
