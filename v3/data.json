@@ -483,7 +483,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-01T00:23:15+05:30",
+      "last_updated": "2020-06-01T00:25:08+05:30",
       "notes": "Includes one case from Nagaland <br>\nTotal of three* patients who migrated to other states has been reduced from Active count",
       "tested": {
         "last_updated": "2020-05-31",
@@ -501,6 +501,7 @@
   "BR": {
     "delta": {
       "confirmed": 242,
+      "deceased": 2,
       "recovered": 209,
       "tested": 1808
     },
@@ -541,20 +542,23 @@
       "Begusarai": {
         "delta": {
           "confirmed": 47,
+          "deceased": 1,
           "recovered": 26
         },
         "total": {
           "confirmed": 246,
-          "deceased": 1,
+          "deceased": 2,
           "recovered": 78
         }
       },
       "Bhagalpur": {
         "delta": {
-          "confirmed": 34
+          "confirmed": 34,
+          "deceased": 1
         },
         "total": {
           "confirmed": 175,
+          "deceased": 1,
           "recovered": 53
         }
       },
@@ -862,7 +866,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-01T00:23:05+05:30",
+      "last_updated": "2020-06-01T00:34:06+05:30",
       "tested": {
         "last_updated": "2020-05-31",
         "source": "https://twitter.com/PIB_Patna/status/1267055745993867264"
@@ -870,7 +874,7 @@
     },
     "total": {
       "confirmed": 3807,
-      "deceased": 21,
+      "deceased": 23,
       "recovered": 1520,
       "tested": 75737
     }
@@ -5508,12 +5512,12 @@
   "TT": {
     "delta": {
       "confirmed": 8744,
-      "deceased": 221,
+      "deceased": 223,
       "recovered": 4896,
       "tested": 125428
     },
     "meta": {
-      "last_updated": "2020-06-01T00:23:03+05:30",
+      "last_updated": "2020-06-01T00:34:03+05:30",
       "tested": {
         "last_updated": "2020-05-31",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/236"
@@ -5521,7 +5525,7 @@
     },
     "total": {
       "confirmed": 190605,
-      "deceased": 5405,
+      "deceased": 5407,
       "migrated": 11,
       "recovered": 91823,
       "tested": 3737027
