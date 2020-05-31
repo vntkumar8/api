@@ -1053,7 +1053,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-05-31T18:32:04+05:30",
+      "last_updated": "2020-05-31T18:35:04+05:30",
       "notes": "[10-May]<br>\n\nDelhi bulletins in the morning, containing data of the previous day. We will add that data to the date on which the report is released, rather than the previous day.",
       "tested": {
         "last_updated": "2020-05-30",
@@ -2356,7 +2356,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-05-31T18:34:04+05:30",
+      "last_updated": "2020-05-31T18:42:05+05:30",
       "notes": "Mahe native who expired in Kannur included in Kerala's tally",
       "tested": {
         "last_updated": "2020-05-30",
@@ -2392,7 +2392,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-05-31T18:34:06+05:30",
+      "last_updated": "2020-05-31T18:42:07+05:30",
       "tested": {
         "last_updated": "2020-05-30",
         "source": "https://t.me/indiacovid/5907"
@@ -2812,7 +2812,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-05-31T18:32:08+05:30",
+      "last_updated": "2020-05-31T18:35:08+05:30",
       "tested": {
         "last_updated": "2020-05-29",
         "source": "https://twitter.com/DiprManipur/status/1266385249669222400?s=19"
@@ -4688,22 +4688,22 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 2505,
-      "deceased": 60,
-      "recovered": 666,
+      "confirmed": 2876,
+      "deceased": 68,
+      "recovered": 853,
       "tested": 125428
     },
     "meta": {
-      "last_updated": "2020-05-31T18:34:03+05:30",
+      "last_updated": "2020-05-31T18:43:03+05:30",
       "tested": {
         "last_updated": "2020-05-31",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/236"
       }
     },
     "total": {
-      "confirmed": 184364,
-      "deceased": 5245,
-      "recovered": 87602,
+      "confirmed": 184735,
+      "deceased": 5253,
+      "recovered": 87789,
       "tested": 3737027
     }
   },
@@ -5364,6 +5364,11 @@
     }
   },
   "WB": {
+    "delta": {
+      "confirmed": 371,
+      "deceased": 8,
+      "recovered": 187
+    },
     "districts": {
       "Alipurduar": {
         "total": {
@@ -5383,13 +5388,19 @@
         }
       },
       "Cooch Behar": {
+        "delta": {
+          "confirmed": 36
+        },
         "total": {
-          "confirmed": 32
+          "confirmed": 68
         }
       },
       "Dakshin Dinajpur": {
+        "delta": {
+          "confirmed": 9
+        },
         "total": {
-          "confirmed": 6,
+          "confirmed": 15,
           "recovered": 6
         }
       },
@@ -5513,10 +5524,15 @@
         }
       },
       "Unassigned": {
+        "delta": {
+          "confirmed": 326,
+          "deceased": 8,
+          "recovered": 187
+        },
         "total": {
-          "confirmed": -223,
-          "deceased": -20,
-          "recovered": -105
+          "confirmed": 103,
+          "deceased": -12,
+          "recovered": 82
         }
       },
       "Uttar Dinajpur": {
@@ -5527,7 +5543,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-05-30T20:04:05+05:30",
+      "last_updated": "2020-05-31T18:43:04+05:30",
       "notes": "- Cases updated as per WB bulletin.<br>\n- Deaths due to comorbidities added to total deceased<br>",
       "tested": {
         "last_updated": "2020-05-30",
@@ -5535,9 +5551,9 @@
       }
     },
     "total": {
-      "confirmed": 5130,
-      "deceased": 309,
-      "recovered": 1970,
+      "confirmed": 5501,
+      "deceased": 317,
+      "recovered": 2157,
       "tested": 194397
     }
   }
