@@ -31,7 +31,7 @@
     "delta": {
       "confirmed": 110,
       "deceased": 2,
-      "recovered": 43
+      "recovered": 51
     },
     "districts": {
       "Anantapur": {
@@ -83,11 +83,12 @@
       },
       "Other State": {
         "delta": {
-          "confirmed": 12
+          "confirmed": 12,
+          "recovered": 8
         },
         "total": {
           "confirmed": 418,
-          "recovered": 189
+          "recovered": 197
         }
       },
       "Prakasam": {
@@ -150,7 +151,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-05-31T15:12:04+05:30",
+      "last_updated": "2020-05-31T15:21:04+05:30",
       "notes": "Total includes patients from other states and a new category \"Foreign Evacuees\" which is now reported in AP bulletin. <br>\nAP district data updated to match state dashboard as of 27th May.",
       "tested": {
         "last_updated": "2020-05-30",
@@ -160,7 +161,7 @@
     "total": {
       "confirmed": 3571,
       "deceased": 62,
-      "recovered": 2332,
+      "recovered": 2340,
       "tested": 363378
     }
   },
@@ -738,7 +739,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-05-31T15:05:05+05:30",
+      "last_updated": "2020-05-31T15:14:04+05:30",
       "tested": {
         "last_updated": "2020-05-30",
         "source": "https://twitter.com/PIB_Patna/status/1266698915262476288"
@@ -1762,7 +1763,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-05-31T15:05:07+05:30",
+      "last_updated": "2020-05-31T15:23:05+05:30",
       "tested": {
         "last_updated": "2020-05-30",
         "source": "https://twitter.com/RanchiPIB/status/1266783771140988933?s=19"
@@ -4515,11 +4516,11 @@
     "delta": {
       "confirmed": 1129,
       "deceased": 3,
-      "recovered": 155,
+      "recovered": 163,
       "tested": 125428
     },
     "meta": {
-      "last_updated": "2020-05-31T15:12:03+05:30",
+      "last_updated": "2020-05-31T15:23:03+05:30",
       "tested": {
         "last_updated": "2020-05-31",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/236"
@@ -4528,7 +4529,7 @@
     "total": {
       "confirmed": 182959,
       "deceased": 5188,
-      "recovered": 87091,
+      "recovered": 87099,
       "tested": 3737027
     }
   },
