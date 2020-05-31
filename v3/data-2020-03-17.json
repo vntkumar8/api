@@ -12,6 +12,11 @@
       "confirmed": 10
     }
   },
+  "HP": {
+    "total": {
+      "migrated": 3
+    }
+  },
   "HR": {
     "delta": {
       "confirmed": 1
@@ -104,6 +109,7 @@
     "total": {
       "confirmed": 146,
       "deceased": 1,
+      "migrated": 3,
       "tested": 6500
     }
   },

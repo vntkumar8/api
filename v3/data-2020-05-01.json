@@ -1090,6 +1090,7 @@
     "total": {
       "confirmed": 40,
       "deceased": 2,
+      "migrated": 3,
       "recovered": 30,
       "tested": 6472
     }
@@ -1531,6 +1532,7 @@
   "KA": {
     "delta": {
       "confirmed": 24,
+      "migrated": 1,
       "recovered": 22,
       "tested": 4742
     },
@@ -1691,6 +1693,14 @@
           "recovered": 3
         }
       },
+      "Unassigned": {
+        "delta": {
+          "migrated": 1
+        },
+        "total": {
+          "migrated": 1
+        }
+      },
       "Uttara Kannada": {
         "delta": {
           "recovered": 1
@@ -1721,6 +1731,7 @@
     "total": {
       "confirmed": 589,
       "deceased": 22,
+      "migrated": 1,
       "recovered": 251,
       "tested": 64898
     }
@@ -3846,6 +3857,7 @@
     "delta": {
       "confirmed": 2396,
       "deceased": 77,
+      "migrated": 1,
       "recovered": 962,
       "tested": 72453
     },
@@ -3858,6 +3870,7 @@
     "total": {
       "confirmed": 37265,
       "deceased": 1230,
+      "migrated": 4,
       "recovered": 10014,
       "tested": 902654
     }
@@ -4422,8 +4435,7 @@
     "delta": {
       "confirmed": 37,
       "deceased": 8,
-      "recovered": 15,
-      "tested": 2041
+      "recovered": 15
     },
     "districts": {
       "Darjeeling": {
@@ -4504,17 +4516,10 @@
         }
       }
     },
-    "meta": {
-      "tested": {
-        "last_updated": "2020-05-01",
-        "source": "https://www.wbhealth.gov.in/uploaded_files/corona/Bulletin_West_Bengal_01.05_.2020_.pdf"
-      }
-    },
     "total": {
       "confirmed": 795,
       "deceased": 41,
-      "recovered": 139,
-      "tested": 18566
+      "recovered": 139
     }
   }
 }

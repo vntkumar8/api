@@ -1286,6 +1286,7 @@
     "total": {
       "confirmed": 58,
       "deceased": 3,
+      "migrated": 3,
       "recovered": 35,
       "tested": 10791
     }
@@ -1926,6 +1927,11 @@
           "recovered": 3
         }
       },
+      "Unassigned": {
+        "total": {
+          "migrated": 1
+        }
+      },
       "Uttara Kannada": {
         "delta": {
           "confirmed": 7
@@ -1955,6 +1961,7 @@
     "total": {
       "confirmed": 848,
       "deceased": 31,
+      "migrated": 1,
       "recovered": 422,
       "tested": 107311
     }
@@ -4269,6 +4276,7 @@
   "TR": {
     "delta": {
       "confirmed": 16,
+      "migrated": 0,
       "tested": 751
     },
     "districts": {
@@ -4281,14 +4289,22 @@
         }
       },
       "Gomati": {
+        "delta": {
+          "migrated": 0
+        },
         "total": {
           "confirmed": 2,
+          "migrated": 0,
           "recovered": 1
         }
       },
       "North Tripura": {
+        "delta": {
+          "migrated": 0
+        },
         "total": {
           "confirmed": 2,
+          "migrated": 0,
           "recovered": 1
         }
       }
@@ -4301,6 +4317,7 @@
     },
     "total": {
       "confirmed": 152,
+      "migrated": 0,
       "recovered": 2,
       "tested": 9091
     }
@@ -4309,6 +4326,7 @@
     "delta": {
       "confirmed": 4311,
       "deceased": 112,
+      "migrated": 0,
       "recovered": 1669,
       "tested": 85824
     },
@@ -4321,6 +4339,7 @@
     "total": {
       "confirmed": 67179,
       "deceased": 2213,
+      "migrated": 4,
       "recovered": 20963,
       "tested": 1609037
     }
@@ -4995,8 +5014,7 @@
     "delta": {
       "confirmed": 153,
       "deceased": 14,
-      "recovered": 45,
-      "tested": 4046
+      "recovered": 45
     },
     "districts": {
       "Birbhum": {
@@ -5168,17 +5186,10 @@
         }
       }
     },
-    "meta": {
-      "tested": {
-        "last_updated": "2020-05-10",
-        "source": "https://www.wbhealth.gov.in/uploaded_files/corona/WB_DHFW_Bulletin_10th_MAY_REPORT_FINAL.pdf"
-      }
-    },
     "total": {
       "confirmed": 1939,
       "deceased": 185,
-      "recovered": 417,
-      "tested": 43414
+      "recovered": 417
     }
   }
 }

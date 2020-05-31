@@ -59,7 +59,8 @@
   },
   "HP": {
     "total": {
-      "confirmed": 3
+      "confirmed": 3,
+      "migrated": 3
     }
   },
   "HR": {
@@ -187,6 +188,7 @@
     "total": {
       "confirmed": 883,
       "deceased": 3,
+      "migrated": 3,
       "recovered": 5,
       "tested": 27688
     }

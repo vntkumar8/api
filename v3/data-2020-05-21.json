@@ -358,6 +358,7 @@
         "total": {
           "confirmed": 6,
           "deceased": 0,
+          "migrated": 3,
           "recovered": 0
         }
       },
@@ -379,6 +380,7 @@
     "total": {
       "confirmed": 211,
       "deceased": 4,
+      "migrated": 3,
       "recovered": 55,
       "tested": 51730
     }
@@ -1461,6 +1463,7 @@
     "total": {
       "confirmed": 152,
       "deceased": 4,
+      "migrated": 3,
       "recovered": 55,
       "tested": 22641
     }
@@ -2245,6 +2248,11 @@
           "recovered": 3
         }
       },
+      "Unassigned": {
+        "total": {
+          "migrated": 1
+        }
+      },
       "Uttara Kannada": {
         "delta": {
           "confirmed": 9
@@ -2279,6 +2287,7 @@
     "total": {
       "confirmed": 1605,
       "deceased": 41,
+      "migrated": 1,
       "recovered": 571,
       "tested": 174297
     }
@@ -4885,6 +4894,7 @@
       "Gomati": {
         "total": {
           "confirmed": 2,
+          "migrated": 0,
           "recovered": 1
         }
       },
@@ -4896,6 +4906,7 @@
       "North Tripura": {
         "total": {
           "confirmed": 4,
+          "migrated": 0,
           "recovered": 1
         }
       },
@@ -4921,6 +4932,7 @@
     },
     "total": {
       "confirmed": 175,
+      "migrated": 0,
       "recovered": 148,
       "tested": 16873
     }
@@ -4941,6 +4953,7 @@
     "total": {
       "confirmed": 118226,
       "deceased": 3583,
+      "migrated": 7,
       "recovered": 48546,
       "tested": 2615920
     }
@@ -5761,8 +5774,7 @@
     "delta": {
       "confirmed": 94,
       "deceased": 6,
-      "recovered": 57,
-      "tested": 4242
+      "recovered": 57
     },
     "districts": {
       "Birbhum": {
@@ -5944,17 +5956,10 @@
         }
       }
     },
-    "meta": {
-      "tested": {
-        "last_updated": "2020-05-21",
-        "source": "https://twitter.com/wbdhfw/status/1263497291618570246?s=09"
-      }
-    },
     "total": {
       "confirmed": 3197,
       "deceased": 259,
-      "recovered": 1193,
-      "tested": 115244
+      "recovered": 1193
     }
   }
 }

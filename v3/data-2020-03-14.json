@@ -9,6 +9,21 @@
       "confirmed": 7
     }
   },
+  "HP": {
+    "delta": {
+      "migrated": 3
+    },
+    "districts": {
+      "Unassigned": {
+        "delta": {
+          "migrated": 3
+        }
+      }
+    },
+    "total": {
+      "migrated": 3
+    }
+  },
   "HR": {
     "total": {
       "confirmed": 14
@@ -71,7 +86,8 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 11
+      "confirmed": 11,
+      "migrated": 3
     },
     "meta": {
       "tested": {
@@ -82,6 +98,7 @@
     "total": {
       "confirmed": 102,
       "deceased": 1,
+      "migrated": 3,
       "tested": 6500
     }
   },

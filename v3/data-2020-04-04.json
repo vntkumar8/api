@@ -135,6 +135,7 @@
     "total": {
       "confirmed": 13,
       "deceased": 2,
+      "migrated": 3,
       "recovered": 1
     }
   },
@@ -341,6 +342,7 @@
     "total": {
       "confirmed": 3684,
       "deceased": 96,
+      "migrated": 3,
       "recovered": 286,
       "tested": 79950
     }
@@ -373,20 +375,10 @@
     }
   },
   "WB": {
-    "delta": {
-      "tested": 383
-    },
-    "meta": {
-      "tested": {
-        "last_updated": "2020-04-04",
-        "source": ""
-      }
-    },
     "total": {
       "confirmed": 53,
       "deceased": 3,
-      "recovered": 3,
-      "tested": 1042
+      "recovered": 3
     }
   }
 }

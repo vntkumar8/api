@@ -232,6 +232,7 @@
   "AS": {
     "delta": {
       "confirmed": 31,
+      "migrated": 3,
       "recovered": 7,
       "tested": 5968
     },
@@ -384,11 +385,13 @@
       },
       "Unassigned": {
         "delta": {
-          "confirmed": 3
+          "confirmed": 3,
+          "migrated": 3
         },
         "total": {
           "confirmed": 3,
           "deceased": 0,
+          "migrated": 3,
           "recovered": 0
         }
       }
@@ -402,6 +405,7 @@
     "total": {
       "confirmed": 189,
       "deceased": 4,
+      "migrated": 3,
       "recovered": 49,
       "tested": 47084
     }
@@ -1449,6 +1453,7 @@
     "total": {
       "confirmed": 110,
       "deceased": 4,
+      "migrated": 3,
       "recovered": 50,
       "tested": 21147
     }
@@ -2227,6 +2232,11 @@
           "recovered": 3
         }
       },
+      "Unassigned": {
+        "total": {
+          "migrated": 1
+        }
+      },
       "Uttara Kannada": {
         "delta": {
           "confirmed": 1
@@ -2261,6 +2271,7 @@
     "total": {
       "confirmed": 1462,
       "deceased": 41,
+      "migrated": 1,
       "recovered": 556,
       "tested": 166781
     }
@@ -4830,6 +4841,7 @@
       "Gomati": {
         "total": {
           "confirmed": 2,
+          "migrated": 0,
           "recovered": 1
         }
       },
@@ -4841,6 +4853,7 @@
       "North Tripura": {
         "total": {
           "confirmed": 4,
+          "migrated": 0,
           "recovered": 1
         }
       },
@@ -4858,6 +4871,7 @@
     },
     "total": {
       "confirmed": 173,
+      "migrated": 0,
       "recovered": 116,
       "tested": 15822
     }
@@ -4866,6 +4880,7 @@
     "delta": {
       "confirmed": 5720,
       "deceased": 134,
+      "migrated": 3,
       "recovered": 3113,
       "tested": 108121
     },
@@ -4878,6 +4893,7 @@
     "total": {
       "confirmed": 112203,
       "deceased": 3435,
+      "migrated": 7,
       "recovered": 45415,
       "tested": 2512388
     }
@@ -5688,8 +5704,7 @@
     "delta": {
       "confirmed": 142,
       "deceased": 3,
-      "recovered": 62,
-      "tested": 8720
+      "recovered": 62
     },
     "districts": {
       "Birbhum": {
@@ -5874,17 +5889,10 @@
         }
       }
     },
-    "meta": {
-      "tested": {
-        "last_updated": "2020-05-20",
-        "source": "https://www.wbhealth.gov.in/uploaded_files/corona/WB_DHFW_Bulletin_20th_MAY_REPORT_FINAL.pdf"
-      }
-    },
     "total": {
       "confirmed": 3103,
       "deceased": 253,
-      "recovered": 1136,
-      "tested": 111002
+      "recovered": 1136
     }
   }
 }

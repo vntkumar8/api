@@ -1268,6 +1268,7 @@
     "total": {
       "confirmed": 74,
       "deceased": 3,
+      "migrated": 3,
       "recovered": 35,
       "tested": 14256
     }
@@ -1941,6 +1942,11 @@
           "recovered": 3
         }
       },
+      "Unassigned": {
+        "total": {
+          "migrated": 1
+        }
+      },
       "Uttara Kannada": {
         "total": {
           "confirmed": 41,
@@ -1972,6 +1978,7 @@
     "total": {
       "confirmed": 987,
       "deceased": 35,
+      "migrated": 1,
       "recovered": 460,
       "tested": 128373
     }
@@ -4363,12 +4370,14 @@
       "Gomati": {
         "total": {
           "confirmed": 2,
+          "migrated": 0,
           "recovered": 1
         }
       },
       "North Tripura": {
         "total": {
           "confirmed": 2,
+          "migrated": 0,
           "recovered": 1
         }
       }
@@ -4381,6 +4390,7 @@
     },
     "total": {
       "confirmed": 156,
+      "migrated": 0,
       "recovered": 29,
       "tested": 11804
     }
@@ -4401,6 +4411,7 @@
     "total": {
       "confirmed": 82050,
       "deceased": 2648,
+      "migrated": 4,
       "recovered": 28004,
       "tested": 1947041
     }
@@ -5128,8 +5139,7 @@
     "delta": {
       "confirmed": 87,
       "deceased": 8,
-      "recovered": 66,
-      "tested": 5205
+      "recovered": 66
     },
     "districts": {
       "Birbhum": {
@@ -5300,17 +5310,10 @@
         }
       }
     },
-    "meta": {
-      "tested": {
-        "last_updated": "2020-05-14",
-        "source": "https://www.wbhealth.gov.in/uploaded_files/corona/WB_DHFW_Bulletin_14th_MAY_REPORT_FINAL.pdf"
-      }
-    },
     "total": {
       "confirmed": 2377,
       "deceased": 215,
-      "recovered": 768,
-      "tested": 62837
+      "recovered": 768
     }
   }
 }

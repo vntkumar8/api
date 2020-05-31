@@ -1237,6 +1237,7 @@
     "total": {
       "confirmed": 50,
       "deceased": 3,
+      "migrated": 3,
       "recovered": 34,
       "tested": 9522
     }
@@ -1846,6 +1847,11 @@
           "recovered": 3
         }
       },
+      "Unassigned": {
+        "total": {
+          "migrated": 1
+        }
+      },
       "Uttara Kannada": {
         "delta": {
           "confirmed": 12
@@ -1872,6 +1878,7 @@
     "total": {
       "confirmed": 753,
       "deceased": 30,
+      "migrated": 1,
       "recovered": 376,
       "tested": 98081
     }
@@ -4177,6 +4184,7 @@
     "total": {
       "confirmed": 59693,
       "deceased": 1985,
+      "migrated": 4,
       "recovered": 17880,
       "tested": 1437788
     }
@@ -4831,8 +4839,7 @@
     "delta": {
       "confirmed": 130,
       "deceased": 9,
-      "recovered": 27,
-      "tested": 3015
+      "recovered": 27
     },
     "districts": {
       "Birbhum": {
@@ -4990,17 +4997,10 @@
         }
       }
     },
-    "meta": {
-      "tested": {
-        "last_updated": "2020-05-08",
-        "source": "https://www.wbhealth.gov.in/uploaded_files/corona/WB_DHFW_Bulletin_8th_MAY_FINAL.pdf"
-      }
-    },
     "total": {
       "confirmed": 1678,
       "deceased": 160,
-      "recovered": 323,
-      "tested": 35767
+      "recovered": 323
     }
   }
 }

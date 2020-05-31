@@ -467,6 +467,7 @@
         "total": {
           "confirmed": 0,
           "deceased": 0,
+          "migrated": 3,
           "recovered": 25
         }
       },
@@ -485,6 +486,7 @@
     "total": {
       "confirmed": 784,
       "deceased": 4,
+      "migrated": 3,
       "recovered": 88,
       "tested": 72654
     }
@@ -1669,6 +1671,7 @@
     "total": {
       "confirmed": 273,
       "deceased": 6,
+      "migrated": 3,
       "recovered": 66,
       "tested": 30852
     }
@@ -2516,6 +2519,7 @@
       },
       "Unassigned": {
         "total": {
+          "migrated": 2,
           "recovered": 0
         }
       },
@@ -2559,6 +2563,7 @@
     "total": {
       "confirmed": 2418,
       "deceased": 47,
+      "migrated": 2,
       "recovered": 781,
       "tested": 241608
     }
@@ -5295,6 +5300,7 @@
         },
         "total": {
           "confirmed": 28,
+          "migrated": 0,
           "recovered": 1
         }
       },
@@ -5313,6 +5319,7 @@
         },
         "total": {
           "confirmed": 8,
+          "migrated": 0,
           "recovered": 3
         }
       },
@@ -5353,6 +5360,7 @@
     },
     "total": {
       "confirmed": 242,
+      "migrated": 0,
       "recovered": 165,
       "tested": 23264
     }
@@ -5373,6 +5381,7 @@
     "total": {
       "confirmed": 158105,
       "deceased": 4534,
+      "migrated": 11,
       "recovered": 67718,
       "tested": 3242160
     }
@@ -6229,6 +6238,7 @@
         },
         "total": {
           "confirmed": 0,
+          "migrated": 3,
           "recovered": 0
         }
       },
@@ -6248,6 +6258,7 @@
     "total": {
       "confirmed": 469,
       "deceased": 4,
+      "migrated": 3,
       "recovered": 79,
       "tested": 23975
     }
@@ -6256,8 +6267,7 @@
     "delta": {
       "confirmed": 183,
       "deceased": 6,
-      "recovered": 92,
-      "tested": 9236
+      "recovered": 92
     },
     "districts": {
       "Bankura": {
@@ -6472,17 +6482,10 @@
         }
       }
     },
-    "meta": {
-      "tested": {
-        "last_updated": "2020-05-27",
-        "source": "https://www.wbhealth.gov.in/uploaded_files/corona/WB_DHFW_Bulletin_27th_MAY_REPORT_FINAL.pdf"
-      }
-    },
     "total": {
       "confirmed": 4192,
       "deceased": 289,
-      "recovered": 1578,
-      "tested": 166513
+      "recovered": 1578
     }
   }
 }

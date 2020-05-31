@@ -474,6 +474,7 @@
         "total": {
           "confirmed": 3,
           "deceased": 0,
+          "migrated": 3,
           "recovered": 25
         }
       },
@@ -492,6 +493,7 @@
     "total": {
       "confirmed": 881,
       "deceased": 4,
+      "migrated": 3,
       "recovered": 104,
       "tested": 72654
     }
@@ -1660,6 +1662,7 @@
     "total": {
       "confirmed": 281,
       "deceased": 6,
+      "migrated": 3,
       "recovered": 73,
       "tested": 32449
     }
@@ -2474,6 +2477,7 @@
       },
       "Unassigned": {
         "total": {
+          "migrated": 2,
           "recovered": 0
         }
       },
@@ -2515,6 +2519,7 @@
     "total": {
       "confirmed": 2533,
       "deceased": 47,
+      "migrated": 2,
       "recovered": 834,
       "tested": 252078
     }
@@ -5277,6 +5282,7 @@
       "Gomati": {
         "total": {
           "confirmed": 28,
+          "migrated": 0,
           "recovered": 1
         }
       },
@@ -5289,6 +5295,7 @@
       "North Tripura": {
         "total": {
           "confirmed": 8,
+          "migrated": 0,
           "recovered": 3
         }
       },
@@ -5329,6 +5336,7 @@
     },
     "total": {
       "confirmed": 244,
+      "migrated": 0,
       "recovered": 167,
       "tested": 24126
     }
@@ -5349,6 +5357,7 @@
     "total": {
       "confirmed": 165359,
       "deceased": 4710,
+      "migrated": 11,
       "recovered": 70889,
       "tested": 3362136
     }
@@ -6205,6 +6214,7 @@
       "Unassigned": {
         "total": {
           "confirmed": 0,
+          "migrated": 3,
           "recovered": 0
         }
       },
@@ -6224,6 +6234,7 @@
     "total": {
       "confirmed": 500,
       "deceased": 4,
+      "migrated": 3,
       "recovered": 79,
       "tested": 25380
     }
@@ -6232,8 +6243,7 @@
     "delta": {
       "confirmed": 344,
       "deceased": 6,
-      "recovered": 90,
-      "tested": 9256
+      "recovered": 90
     },
     "districts": {
       "Bankura": {
@@ -6459,17 +6469,10 @@
         }
       }
     },
-    "meta": {
-      "tested": {
-        "last_updated": "2020-05-28",
-        "source": "https://www.wbhealth.gov.in/uploaded_files/corona/WB_DHFW_Bulletin_28th_MAY_REPORT_DRAFT.pdf"
-      }
-    },
     "total": {
       "confirmed": 4536,
       "deceased": 295,
-      "recovered": 1668,
-      "tested": 175769
+      "recovered": 1668
     }
   }
 }

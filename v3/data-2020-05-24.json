@@ -376,6 +376,7 @@
         "total": {
           "confirmed": 0,
           "deceased": 0,
+          "migrated": 3,
           "recovered": 0
         }
       },
@@ -397,6 +398,7 @@
     "total": {
       "confirmed": 393,
       "deceased": 4,
+      "migrated": 3,
       "recovered": 58,
       "tested": 66444
     }
@@ -1522,6 +1524,7 @@
     "total": {
       "confirmed": 203,
       "deceased": 4,
+      "migrated": 3,
       "recovered": 59,
       "tested": 27288
     }
@@ -2330,6 +2333,11 @@
           "recovered": 3
         }
       },
+      "Unassigned": {
+        "total": {
+          "migrated": 2
+        }
+      },
       "Uttara Kannada": {
         "delta": {
           "confirmed": 2,
@@ -2368,6 +2376,7 @@
     "total": {
       "confirmed": 2089,
       "deceased": 42,
+      "migrated": 2,
       "recovered": 654,
       "tested": 206313
     }
@@ -5067,6 +5076,7 @@
       "Gomati": {
         "total": {
           "confirmed": 6,
+          "migrated": 0,
           "recovered": 1
         }
       },
@@ -5085,6 +5095,7 @@
         },
         "total": {
           "confirmed": 5,
+          "migrated": 0,
           "recovered": 3
         }
       },
@@ -5125,6 +5136,7 @@
     },
     "total": {
       "confirmed": 194,
+      "migrated": 0,
       "recovered": 165,
       "tested": 19278
     }
@@ -5133,6 +5145,7 @@
     "delta": {
       "confirmed": 7111,
       "deceased": 156,
+      "migrated": 1,
       "recovered": 3285,
       "tested": 108623
     },
@@ -5145,6 +5158,7 @@
     "total": {
       "confirmed": 138538,
       "deceased": 4023,
+      "migrated": 9,
       "recovered": 57687,
       "tested": 2943421
     }
@@ -5898,6 +5912,7 @@
     "delta": {
       "confirmed": 73,
       "deceased": 2,
+      "migrated": 1,
       "recovered": 3,
       "tested": 1721
     },
@@ -6000,10 +6015,12 @@
       },
       "Unassigned": {
         "delta": {
-          "confirmed": 0
+          "confirmed": 0,
+          "migrated": 1
         },
         "total": {
           "confirmed": 0,
+          "migrated": 1,
           "recovered": 0
         }
       },
@@ -6026,6 +6043,7 @@
     "total": {
       "confirmed": 317,
       "deceased": 3,
+      "migrated": 1,
       "recovered": 58,
       "tested": 20969
     }
@@ -6034,8 +6052,7 @@
     "delta": {
       "confirmed": 208,
       "deceased": 3,
-      "recovered": 58,
-      "tested": 9216
+      "recovered": 58
     },
     "districts": {
       "Bankura": {
@@ -6231,17 +6248,10 @@
         }
       }
     },
-    "meta": {
-      "tested": {
-        "last_updated": "2020-05-24",
-        "source": "https://www.wbhealth.gov.in/uploaded_files/corona/WB_DHFW_Bulletin_24th_MAY_REPORT_FINAL.pdf"
-      }
-    },
     "total": {
       "confirmed": 3667,
       "deceased": 272,
-      "recovered": 1339,
-      "tested": 138824
+      "recovered": 1339
     }
   }
 }

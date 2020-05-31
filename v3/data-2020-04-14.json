@@ -190,6 +190,7 @@
     "total": {
       "confirmed": 33,
       "deceased": 2,
+      "migrated": 3,
       "recovered": 13,
       "tested": 1311
     }
@@ -517,6 +518,7 @@
     "total": {
       "confirmed": 11485,
       "deceased": 396,
+      "migrated": 3,
       "recovered": 1365,
       "tested": 244893
     }
@@ -562,20 +564,12 @@
   "WB": {
     "delta": {
       "confirmed": 38,
-      "recovered": 7,
-      "tested": 288
-    },
-    "meta": {
-      "tested": {
-        "last_updated": "2020-04-14",
-        "source": "https://www.wbhealth.gov.in/uploaded_files/corona/Bulletin_West_Bengal_14.04_.2020_.pdf"
-      }
+      "recovered": 7
     },
     "total": {
       "confirmed": 190,
       "deceased": 7,
-      "recovered": 36,
-      "tested": 3081
+      "recovered": 36
     }
   }
 }

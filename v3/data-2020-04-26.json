@@ -875,6 +875,7 @@
     "total": {
       "confirmed": 40,
       "deceased": 2,
+      "migrated": 3,
       "recovered": 22,
       "tested": 4901
     }
@@ -3079,6 +3080,7 @@
     "total": {
       "confirmed": 27890,
       "deceased": 881,
+      "migrated": 3,
       "recovered": 6523,
       "tested": 625309
     }
@@ -3495,8 +3497,7 @@
     "delta": {
       "confirmed": 40,
       "deceased": 2,
-      "recovered": 2,
-      "tested": 1013
+      "recovered": 2
     },
     "districts": {
       "Darjeeling": {
@@ -3565,17 +3566,10 @@
         }
       }
     },
-    "meta": {
-      "tested": {
-        "last_updated": "2020-04-26",
-        "source": "https://www.wbhealth.gov.in/uploaded_files/corona/Bulletin_West_Bengal_26.04_.2020_.pdf"
-      }
-    },
     "total": {
       "confirmed": 611,
       "deceased": 20,
-      "recovered": 105,
-      "tested": 10893
+      "recovered": 105
     }
   }
 }

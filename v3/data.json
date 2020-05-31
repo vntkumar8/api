@@ -447,6 +447,7 @@
         "total": {
           "confirmed": 23,
           "deceased": 0,
+          "migrated": 3,
           "recovered": 0
         }
       },
@@ -457,7 +458,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-05-31T21:23:08+05:30",
+      "last_updated": "2020-05-31T21:26:06+05:30",
       "notes": "Includes one case from Nagaland <br>\nTotal of three* patients who migrated to other states has been reduced from Active count",
       "tested": {
         "last_updated": "2020-05-30",
@@ -467,6 +468,7 @@
     "total": {
       "confirmed": 1273,
       "deceased": 4,
+      "migrated": 3,
       "recovered": 164,
       "tested": 101257
     }
@@ -1030,7 +1032,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-05-31T21:23:11+05:30",
+      "last_updated": "2020-05-31T21:26:09+05:30",
       "tested": {
         "last_updated": "2020-05-30",
         "source": "https://twitter.com/HealthCgGov/status/1266724300859596800?s=20"
@@ -1533,7 +1535,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-05-31T21:23:05+05:30",
+      "last_updated": "2020-05-31T21:26:05+05:30",
       "tested": {
         "last_updated": "2020-05-30",
         "source": "https://twitter.com/GujHFWDept/status/1266732895776931842?s=20"
@@ -1648,6 +1650,7 @@
     "total": {
       "confirmed": 330,
       "deceased": 6,
+      "migrated": 3,
       "recovered": 109,
       "tested": 37159
     }
@@ -2038,7 +2041,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-05-31T21:23:10+05:30",
+      "last_updated": "2020-05-31T21:26:08+05:30",
       "tested": {
         "last_updated": "2020-05-30",
         "source": "https://twitter.com/RanchiPIB/status/1266783771140988933?s=19"
@@ -2500,6 +2503,7 @@
       },
       "Unassigned": {
         "total": {
+          "migrated": 2,
           "recovered": 0
         }
       },
@@ -2545,6 +2549,7 @@
     "total": {
       "confirmed": 3221,
       "deceased": 51,
+      "migrated": 2,
       "recovered": 1218,
       "tested": 280217
     }
@@ -5154,6 +5159,7 @@
       "Gomati": {
         "total": {
           "confirmed": 31,
+          "migrated": 0,
           "recovered": 2
         }
       },
@@ -5166,6 +5172,7 @@
       "North Tripura": {
         "total": {
           "confirmed": 8,
+          "migrated": 0,
           "recovered": 3
         }
       },
@@ -5201,7 +5208,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-05-31T21:23:13+05:30",
+      "last_updated": "2020-05-31T21:26:11+05:30",
       "notes": "Two cases have migrated out of Tripura.",
       "tested": {
         "last_updated": "2020-05-30",
@@ -5210,6 +5217,7 @@
     },
     "total": {
       "confirmed": 316,
+      "migrated": 0,
       "recovered": 172,
       "tested": 26376
     }
@@ -5222,7 +5230,7 @@
       "tested": 125428
     },
     "meta": {
-      "last_updated": "2020-05-31T21:23:03+05:30",
+      "last_updated": "2020-05-31T21:26:03+05:30",
       "tested": {
         "last_updated": "2020-05-31",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/236"
@@ -5231,6 +5239,7 @@
     "total": {
       "confirmed": 189767,
       "deceased": 5389,
+      "migrated": 11,
       "recovered": 91008,
       "tested": 3737027
     }
@@ -5881,6 +5890,7 @@
       "Unassigned": {
         "total": {
           "confirmed": 0,
+          "migrated": 3,
           "recovered": 0
         }
       },
@@ -5905,6 +5915,7 @@
     "total": {
       "confirmed": 907,
       "deceased": 5,
+      "migrated": 3,
       "recovered": 102,
       "tested": 28433
     }
@@ -6151,17 +6162,12 @@
     },
     "meta": {
       "last_updated": "2020-05-31T18:54:06+05:30",
-      "notes": "- Cases updated as per WB bulletin.<br>\n- Deaths due to comorbidities added to total deceased<br>",
-      "tested": {
-        "last_updated": "2020-05-30",
-        "source": "https://www.wbhealth.gov.in/uploaded_files/corona/WB_DHFW_Bulletin_30th_MAY_REPORT_FINAL.pdf"
-      }
+      "notes": "- Cases updated as per WB bulletin.<br>\n- Deaths due to comorbidities added to total deceased<br>"
     },
     "total": {
       "confirmed": 5501,
       "deceased": 317,
-      "recovered": 2157,
-      "tested": 194397
+      "recovered": 2157
     }
   }
 }
