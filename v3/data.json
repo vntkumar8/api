@@ -166,7 +166,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-05-31T10:23:07+05:30",
+      "last_updated": "2020-05-31T10:35:08+05:30",
       "tested": {
         "last_updated": "2020-05-29",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/222"
@@ -2469,9 +2469,14 @@
   },
   "MN": {
     "districts": {
+      "Chandel": {
+        "total": {
+          "confirmed": 1
+        }
+      },
       "Churachandpur": {
         "total": {
-          "confirmed": 17
+          "confirmed": 18
         }
       },
       "Imphal East": {
@@ -2504,14 +2509,14 @@
       }
     },
     "meta": {
-      "last_updated": "2020-05-30T13:04:08+05:30",
+      "last_updated": "2020-05-31T10:35:06+05:30",
       "tested": {
         "last_updated": "2020-05-29",
         "source": "https://twitter.com/DiprManipur/status/1266385249669222400?s=19"
       }
     },
     "total": {
-      "confirmed": 60,
+      "confirmed": 62,
       "recovered": 6,
       "tested": 8596
     }
@@ -2897,15 +2902,24 @@
     }
   },
   "NL": {
+    "delta": {
+      "confirmed": 7
+    },
     "districts": {
       "Dimapur": {
+        "delta": {
+          "confirmed": 3
+        },
         "total": {
-          "confirmed": 22
+          "confirmed": 25
         }
       },
       "Kohima": {
+        "delta": {
+          "confirmed": 4
+        },
         "total": {
-          "confirmed": 12
+          "confirmed": 16
         }
       },
       "Tuensang": {
@@ -2915,14 +2929,14 @@
       }
     },
     "meta": {
-      "last_updated": "2020-05-30T11:21:05+05:30",
+      "last_updated": "2020-05-31T10:35:07+05:30",
       "tested": {
         "last_updated": "2020-05-30",
         "source": "https://twitter.com/MyGovNagaland/status/1266757589951340546/photo/1"
       }
     },
     "total": {
-      "confirmed": 36,
+      "confirmed": 43,
       "tested": 2210
     }
   },
@@ -3163,7 +3177,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-05-31T10:23:05+05:30",
+      "last_updated": "2020-05-31T10:35:04+05:30",
       "tested": {
         "last_updated": "2020-05-30",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/230?single"
@@ -4292,17 +4306,17 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 577
+      "confirmed": 584
     },
     "meta": {
-      "last_updated": "2020-05-31T10:23:03+05:30",
+      "last_updated": "2020-05-31T10:35:03+05:30",
       "tested": {
         "last_updated": "2020-05-30",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/228"
       }
     },
     "total": {
-      "confirmed": 182405,
+      "confirmed": 182414,
       "deceased": 5185,
       "recovered": 86936,
       "tested": 3611599
