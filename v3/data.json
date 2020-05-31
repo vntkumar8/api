@@ -2562,7 +2562,8 @@
   "KL": {
     "delta": {
       "confirmed": 61,
-      "recovered": 15
+      "recovered": 15,
+      "tested": 251
     },
     "districts": {
       "Alappuzha": {
@@ -2714,15 +2715,15 @@
       "last_updated": "2020-05-31T18:43:06+05:30",
       "notes": "Mahe native who expired in Kannur included in Kerala's tally",
       "tested": {
-        "last_updated": "2020-05-30",
-        "source": "https://dhs.kerala.gov.in/wp-content/uploads/2020/05/Daily-Bulletin-HFWD-English-May-30.pdf"
+        "last_updated": "2020-05-31",
+        "source": ""
       }
     },
     "total": {
       "confirmed": 1270,
       "deceased": 10,
       "recovered": 590,
-      "tested": 77257
+      "tested": 77508
     }
   },
   "LA": {
