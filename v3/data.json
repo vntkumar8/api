@@ -1920,7 +1920,7 @@
       "Unassigned": {
         "total": {
           "confirmed": 0,
-          "recovered": -7
+          "recovered": 0
         }
       },
       "Yamunanagar": {
@@ -1940,7 +1940,7 @@
     "total": {
       "confirmed": 2091,
       "deceased": 20,
-      "recovered": 1041,
+      "recovered": 1048,
       "tested": 118138
     }
   },
@@ -4395,7 +4395,7 @@
       },
       "Unassigned": {
         "total": {
-          "confirmed": -10
+          "confirmed": -8
         }
       }
     },
@@ -4407,7 +4407,7 @@
       }
     },
     "total": {
-      "confirmed": 2265,
+      "confirmed": 2267,
       "deceased": 45,
       "recovered": 1987,
       "tested": 87852
@@ -5516,6 +5516,7 @@
       },
       "Unassigned": {
         "total": {
+          "deceased": 1,
           "recovered": -25
         }
       },
@@ -5561,7 +5562,7 @@
     },
     "total": {
       "confirmed": 22333,
-      "deceased": 175,
+      "deceased": 176,
       "recovered": 12757,
       "tested": 491962
     }
@@ -5659,10 +5660,10 @@
       }
     },
     "total": {
-      "confirmed": 190611,
-      "deceased": 5407,
+      "confirmed": 190613,
+      "deceased": 5408,
       "migrated": 11,
-      "recovered": 91845,
+      "recovered": 91852,
       "tested": 3737027
     }
   },

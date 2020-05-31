@@ -1025,7 +1025,7 @@
   "HR": {
     "delta": {
       "confirmed": 5,
-      "recovered": 7,
+      "recovered": 14,
       "tested": 1526
     },
     "districts": {
@@ -1170,6 +1170,14 @@
           "recovered": -3
         }
       },
+      "Unassigned": {
+        "delta": {
+          "recovered": 7
+        },
+        "total": {
+          "recovered": 7
+        }
+      },
       "Yamunanagar": {
         "total": {
           "confirmed": 3,
@@ -1186,7 +1194,7 @@
     "total": {
       "confirmed": 301,
       "deceased": 3,
-      "recovered": 206,
+      "recovered": 213,
       "tested": 22993
     }
   },
@@ -2556,7 +2564,7 @@
   },
   "PB": {
     "delta": {
-      "confirmed": 10,
+      "confirmed": 12,
       "deceased": 1,
       "recovered": 14,
       "tested": 1199
@@ -2721,10 +2729,10 @@
       },
       "Unassigned": {
         "delta": {
-          "confirmed": -10
+          "confirmed": -8
         },
         "total": {
-          "confirmed": -10
+          "confirmed": -8
         }
       }
     },
@@ -2735,7 +2743,7 @@
       }
     },
     "total": {
-      "confirmed": 332,
+      "confirmed": 334,
       "deceased": 19,
       "recovered": 98,
       "tested": 15516
@@ -3324,7 +3332,7 @@
   "TN": {
     "delta": {
       "confirmed": 52,
-      "deceased": -1,
+      "deceased": 0,
       "recovered": 54,
       "tested": 7176
     },
@@ -3565,9 +3573,11 @@
       },
       "Unassigned": {
         "delta": {
+          "deceased": 1,
           "recovered": -25
         },
         "total": {
+          "deceased": 1,
           "recovered": -25
         }
       },
@@ -3603,7 +3613,7 @@
     },
     "total": {
       "confirmed": 1937,
-      "deceased": 23,
+      "deceased": 24,
       "recovered": 1074,
       "tested": 94781
     }
@@ -3637,9 +3647,9 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 1570,
-      "deceased": 57,
-      "recovered": 573,
+      "confirmed": 1572,
+      "deceased": 58,
+      "recovered": 580,
       "tested": 40510
     },
     "meta": {
@@ -3649,10 +3659,10 @@
       }
     },
     "total": {
-      "confirmed": 29460,
-      "deceased": 938,
+      "confirmed": 29462,
+      "deceased": 939,
       "migrated": 3,
-      "recovered": 7096,
+      "recovered": 7103,
       "tested": 665819
     }
   },
