@@ -6286,6 +6286,7 @@
   "UT": {
     "delta": {
       "confirmed": 216,
+      "deceased": 0,
       "recovered": 23,
       "tested": 1571
     },
@@ -6320,11 +6321,12 @@
       "Dehradun": {
         "delta": {
           "confirmed": 72,
+          "deceased": -1,
           "recovered": 3
         },
         "total": {
           "confirmed": 164,
-          "deceased": 4,
+          "deceased": 3,
           "recovered": 38
         }
       },
@@ -6350,10 +6352,12 @@
       "Pauri Garhwal": {
         "delta": {
           "confirmed": 5,
+          "deceased": 1,
           "recovered": 2
         },
         "total": {
           "confirmed": 28,
+          "deceased": 1,
           "recovered": 3
         }
       },
