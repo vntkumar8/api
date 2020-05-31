@@ -237,6 +237,7 @@
   "AS": {
     "delta": {
       "confirmed": 123,
+      "recovered": 22,
       "tested": 7840
     },
     "districts": {
@@ -269,9 +270,12 @@
         }
       },
       "Cachar": {
+        "delta": {
+          "recovered": 4
+        },
         "total": {
           "confirmed": 59,
-          "recovered": 30
+          "recovered": 34
         }
       },
       "Charaideo": {
@@ -346,9 +350,12 @@
         }
       },
       "Jorhat": {
+        "delta": {
+          "recovered": 2
+        },
         "total": {
           "confirmed": 21,
-          "recovered": 9
+          "recovered": 11
         }
       },
       "Kamrup": {
@@ -362,12 +369,13 @@
       },
       "Kamrup Metropolitan": {
         "delta": {
-          "confirmed": 7
+          "confirmed": 7,
+          "recovered": 16
         },
         "total": {
           "confirmed": 343,
           "deceased": 3,
-          "recovered": 78
+          "recovered": 94
         }
       },
       "Karbi Anglong": {
@@ -483,7 +491,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-01T00:25:08+05:30",
+      "last_updated": "2020-06-01T01:13:05+05:30",
       "notes": "Includes one case from Nagaland <br>\nTotal of three* patients who migrated to other states has been reduced from Active count",
       "tested": {
         "last_updated": "2020-05-31",
@@ -494,7 +502,7 @@
       "confirmed": 1340,
       "deceased": 4,
       "migrated": 3,
-      "recovered": 164,
+      "recovered": 186,
       "tested": 109097
     }
   },
@@ -912,17 +920,17 @@
   },
   "CT": {
     "delta": {
-      "confirmed": 45,
+      "confirmed": 51,
       "recovered": 12,
       "tested": 2735
     },
     "districts": {
       "Balod": {
         "delta": {
-          "confirmed": 1
+          "confirmed": 3
         },
         "total": {
-          "confirmed": 25,
+          "confirmed": 27,
           "recovered": 11
         }
       },
@@ -1070,13 +1078,19 @@
         }
       },
       "Surguja": {
+        "delta": {
+          "confirmed": 2
+        },
         "total": {
-          "confirmed": 7
+          "confirmed": 9
         }
       },
       "Unassigned": {
+        "delta": {
+          "confirmed": 2
+        },
         "total": {
-          "confirmed": 0,
+          "confirmed": 2,
           "recovered": 0
         }
       },
@@ -1092,14 +1106,14 @@
       }
     },
     "meta": {
-      "last_updated": "2020-05-31T21:29:09+05:30",
+      "last_updated": "2020-06-01T01:13:07+05:30",
       "tested": {
         "last_updated": "2020-05-31",
         "source": "https://twitter.com/HealthCgGov/status/1267113754824634370"
       }
     },
     "total": {
-      "confirmed": 492,
+      "confirmed": 498,
       "deceased": 1,
       "recovered": 114,
       "tested": 69152
@@ -5632,23 +5646,23 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 8744,
+      "confirmed": 8750,
       "deceased": 223,
-      "recovered": 4896,
+      "recovered": 4918,
       "tested": 125428
     },
     "meta": {
-      "last_updated": "2020-06-01T00:42:03+05:30",
+      "last_updated": "2020-06-01T01:13:03+05:30",
       "tested": {
         "last_updated": "2020-05-31",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/236"
       }
     },
     "total": {
-      "confirmed": 190605,
+      "confirmed": 190611,
       "deceased": 5407,
       "migrated": 11,
-      "recovered": 91823,
+      "recovered": 91845,
       "tested": 3737027
     }
   },

@@ -680,14 +680,14 @@
       {
         "district": "Cachar",
         "notes": "",
-        "active": 29,
+        "active": 25,
         "confirmed": 59,
         "deceased": 0,
-        "recovered": 30,
+        "recovered": 34,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 4
         }
       },
       {
@@ -836,14 +836,14 @@
       {
         "district": "Jorhat",
         "notes": "",
-        "active": 12,
+        "active": 10,
         "confirmed": 21,
         "deceased": 0,
-        "recovered": 9,
+        "recovered": 11,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 2
         }
       },
       {
@@ -862,14 +862,14 @@
       {
         "district": "Kamrup Metropolitan",
         "notes": "",
-        "active": 262,
+        "active": 246,
         "confirmed": 343,
         "deceased": 3,
-        "recovered": 78,
+        "recovered": 94,
         "delta": {
           "confirmed": 7,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 16
         }
       },
       {
@@ -1595,12 +1595,12 @@
       {
         "district": "Balod",
         "notes": "",
-        "active": 14,
-        "confirmed": 25,
+        "active": 16,
+        "confirmed": 27,
         "deceased": 0,
         "recovered": 11,
         "delta": {
-          "confirmed": 1,
+          "confirmed": 3,
           "deceased": 0,
           "recovered": 0
         }
@@ -1920,12 +1920,12 @@
       {
         "district": "Surguja",
         "notes": "",
-        "active": 7,
-        "confirmed": 7,
+        "active": 9,
+        "confirmed": 9,
         "deceased": 0,
         "recovered": 0,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 2,
           "deceased": 0,
           "recovered": 0
         }
@@ -1948,6 +1948,19 @@
         "notes": "",
         "active": 3,
         "confirmed": 3,
+        "deceased": 0,
+        "recovered": 0,
+        "delta": {
+          "confirmed": 0,
+          "deceased": 0,
+          "recovered": 0
+        }
+      },
+      {
+        "district": "Unknown",
+        "notes": "",
+        "active": 2,
+        "confirmed": 2,
         "deceased": 0,
         "recovered": 0,
         "delta": {
