@@ -1453,7 +1453,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-05-31T18:10:08+05:30",
+      "last_updated": "2020-05-31T18:13:05+05:30",
       "notes": "HP has 4 Migrated cases which are reduced from Active #. Also, death of Tibetan refugee is included in deceased numbers, but not in confirmed",
       "tested": {
         "last_updated": "2020-05-30",
@@ -2339,7 +2339,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-05-31T18:12:04+05:30",
+      "last_updated": "2020-05-31T18:22:05+05:30",
       "notes": "Mahe native who expired in Kannur included in Kerala's tally",
       "tested": {
         "last_updated": "2020-05-30",
@@ -2709,17 +2709,21 @@
   },
   "MN": {
     "delta": {
-      "confirmed": 9,
-      "recovered": 4
+      "confirmed": 11,
+      "recovered": 5
     },
     "districts": {
       "Chandel": {
+        "delta": {
+          "confirmed": 1
+        },
         "total": {
           "confirmed": 1
         }
       },
       "Churachandpur": {
         "delta": {
+          "confirmed": 1,
           "recovered": 2
         },
         "total": {
@@ -2775,14 +2779,17 @@
         }
       },
       "Unassigned": {
+        "delta": {
+          "recovered": 1
+        },
         "total": {
           "confirmed": 25,
-          "recovered": 2
+          "recovered": 3
         }
       }
     },
     "meta": {
-      "last_updated": "2020-05-31T18:10:09+05:30",
+      "last_updated": "2020-05-31T18:22:06+05:30",
       "tested": {
         "last_updated": "2020-05-29",
         "source": "https://twitter.com/DiprManipur/status/1266385249669222400?s=19"
@@ -2790,7 +2797,7 @@
     },
     "total": {
       "confirmed": 71,
-      "recovered": 10,
+      "recovered": 11,
       "tested": 8596
     }
   },
@@ -4658,13 +4665,13 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 1208,
+      "confirmed": 1210,
       "deceased": 3,
-      "recovered": 243,
+      "recovered": 244,
       "tested": 125428
     },
     "meta": {
-      "last_updated": "2020-05-31T18:12:03+05:30",
+      "last_updated": "2020-05-31T18:22:03+05:30",
       "tested": {
         "last_updated": "2020-05-31",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/236"
@@ -4673,7 +4680,7 @@
     "total": {
       "confirmed": 183069,
       "deceased": 5188,
-      "recovered": 87179,
+      "recovered": 87180,
       "tested": 3737027
     }
   },

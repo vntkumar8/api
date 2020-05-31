@@ -6379,8 +6379,8 @@
 			"active": "1",
 			"confirmed": "1",
 			"deceased": "0",
-			"deltaactive": "0",
-			"deltaconfirmed": "0",
+			"deltaactive": "1",
+			"deltaconfirmed": "1",
 			"deltadeceased": "0",
 			"deltarecovered": "0",
 			"district": "Chandel",
@@ -6396,8 +6396,8 @@
 			"active": "16",
 			"confirmed": "18",
 			"deceased": "0",
-			"deltaactive": "-2",
-			"deltaconfirmed": "0",
+			"deltaactive": "-1",
+			"deltaconfirmed": "1",
 			"deltadeceased": "0",
 			"deltarecovered": "2",
 			"district": "Churachandpur",
@@ -13006,9 +13006,9 @@
 			"statecode": "DN"
 		},
 		{
-			"active": "9271",
-			"confirmed": "17761",
-			"deceased": "415",
+			"active": "10509",
+			"confirmed": "19056",
+			"deceased": "472",
 			"deltaactive": "0",
 			"deltaconfirmed": "0",
 			"deltadeceased": "0",
@@ -13227,7 +13227,7 @@
 			"statecode": "MH"
 		},
 		{
-			"active": "23",
+			"active": "22",
 			"confirmed": "25",
 			"deceased": "0",
 			"deltaactive": "0",
@@ -13238,7 +13238,7 @@
 			"districtkey": "MN_Unknown",
 			"districtnotes": "",
 			"lastupdated": "",
-			"recovered": "2",
+			"recovered": "3",
 			"slno": "750",
 			"state": "Manipur",
 			"statecode": "MN"
