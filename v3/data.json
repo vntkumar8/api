@@ -231,7 +231,7 @@
   },
   "AS": {
     "delta": {
-      "confirmed": 45
+      "confirmed": 51
     },
     "districts": {
       "Baksa": {
@@ -267,10 +267,10 @@
       },
       "Charaideo": {
         "delta": {
-          "confirmed": 1
+          "confirmed": 5
         },
         "total": {
-          "confirmed": 10
+          "confirmed": 14
         }
       },
       "Chirang": {
@@ -387,8 +387,11 @@
         }
       },
       "Nagaon": {
+        "delta": {
+          "confirmed": 1
+        },
         "total": {
-          "confirmed": 41
+          "confirmed": 42
         }
       },
       "Nalbari": {
@@ -404,8 +407,11 @@
         }
       },
       "Sivasagar": {
+        "delta": {
+          "confirmed": 1
+        },
         "total": {
-          "confirmed": 20
+          "confirmed": 21
         }
       },
       "Sonitpur": {
@@ -450,7 +456,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-01T14:35:08+05:30",
+      "last_updated": "2020-06-01T17:03:07+05:30",
       "notes": "Includes one case from Nagaland <br>\nTotal of three* patients who migrated to other states has been reduced from Active count",
       "tested": {
         "last_updated": "2020-05-31",
@@ -458,7 +464,7 @@
       }
     },
     "total": {
-      "confirmed": 1385,
+      "confirmed": 1391,
       "deceased": 4,
       "migrated": 3,
       "recovered": 186,
@@ -4430,20 +4436,20 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 679,
+      "confirmed": 685,
       "deceased": 6,
       "recovered": 165,
       "tested": 100180
     },
     "meta": {
-      "last_updated": "2020-06-01T15:56:03+05:30",
+      "last_updated": "2020-06-01T17:03:03+05:30",
       "tested": {
         "last_updated": "2020-06-01",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/253"
       }
     },
     "total": {
-      "confirmed": 191327,
+      "confirmed": 191333,
       "deceased": 5413,
       "migrated": 11,
       "recovered": 92027,
