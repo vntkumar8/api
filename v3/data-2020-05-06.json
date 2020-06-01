@@ -685,9 +685,9 @@
           "recovered": 74
         },
         "total": {
-          "confirmed": 2614,
-          "deceased": 10,
-          "recovered": 665
+          "confirmed": 4744,
+          "deceased": 64,
+          "recovered": 1542
         }
       },
       "West Delhi": {
@@ -3867,12 +3867,6 @@
           "recovered": 10
         }
       },
-      "Unknown": {
-        "total": {
-          "deceased": 1,
-          "recovered": -25
-        }
-      },
       "Vellore": {
         "delta": {
           "confirmed": 6
@@ -4703,13 +4697,6 @@
           "confirmed": 49,
           "deceased": 1,
           "recovered": 10
-        }
-      },
-      "Unknown": {
-        "total": {
-          "confirmed": -223,
-          "deceased": -20,
-          "recovered": -105
         }
       }
     },

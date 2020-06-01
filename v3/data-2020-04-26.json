@@ -520,6 +520,13 @@
           "confirmed": 42
         }
       },
+      "Unknown": {
+        "total": {
+          "confirmed": 2130,
+          "deceased": 54,
+          "recovered": 877
+        }
+      },
       "West Delhi": {
         "total": {
           "confirmed": 122
@@ -2858,6 +2865,12 @@
           "recovered": 10
         }
       },
+      "Unknown": {
+        "total": {
+          "deceased": -1,
+          "recovered": 25
+        }
+      },
       "Vellore": {
         "total": {
           "confirmed": 23,
@@ -3419,6 +3432,13 @@
       "South 24 Parganas": {
         "total": {
           "confirmed": 12
+        }
+      },
+      "Unknown": {
+        "total": {
+          "confirmed": 223,
+          "deceased": 20,
+          "recovered": 105
         }
       }
     },

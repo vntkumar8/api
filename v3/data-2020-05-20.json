@@ -929,9 +929,9 @@
           "recovered": 442
         },
         "total": {
-          "confirmed": 8170,
-          "deceased": 121,
-          "recovered": 4315
+          "confirmed": 10300,
+          "deceased": 175,
+          "recovered": 5192
         }
       },
       "West Delhi": {
@@ -4662,12 +4662,6 @@
           "recovered": 50
         }
       },
-      "Unknown": {
-        "total": {
-          "deceased": 1,
-          "recovered": -25
-        }
-      },
       "Vellore": {
         "total": {
           "confirmed": 35,
@@ -4779,16 +4773,6 @@
   "UN": {
     "delta": {
       "confirmed": 282
-    },
-    "districts": {
-      "Unassigned": {
-        "delta": {
-          "confirmed": 282
-        },
-        "total": {
-          "confirmed": 1096
-        }
-      }
     },
     "total": {
       "confirmed": 1096
@@ -5738,13 +5722,6 @@
           "confirmed": 108,
           "deceased": 5,
           "recovered": 37
-        }
-      },
-      "Unknown": {
-        "total": {
-          "confirmed": -223,
-          "deceased": -20,
-          "recovered": -105
         }
       },
       "Uttar Dinajpur": {
