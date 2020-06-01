@@ -904,7 +904,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-01T23:13:06+05:30",
+      "last_updated": "2020-06-01T23:23:05+05:30",
       "tested": {
         "last_updated": "2020-06-01",
         "source": "https://twitter.com/PIB_Patna/status/1267426736121110528"
@@ -1307,7 +1307,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-01T23:13:09+05:30",
+      "last_updated": "2020-06-01T23:23:07+05:30",
       "tested": {
         "last_updated": "2020-05-31",
         "source": "https://twitter.com/DHS_Goa/status/1267090834458984448/photo/1"
@@ -3276,7 +3276,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-01T23:13:11+05:30",
+      "last_updated": "2020-06-01T23:23:11+05:30",
       "tested": {
         "last_updated": "2020-06-01",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/259"
@@ -4378,7 +4378,7 @@
   },
   "PY": {
     "delta": {
-      "confirmed": 3
+      "confirmed": 9
     },
     "districts": {
       "Karaikal": {
@@ -4401,17 +4401,25 @@
           "confirmed": 67,
           "recovered": 19
         }
+      },
+      "Unassigned": {
+        "delta": {
+          "confirmed": 6
+        },
+        "total": {
+          "confirmed": 6
+        }
       }
     },
     "meta": {
-      "last_updated": "2020-06-01T20:14:13+05:30",
+      "last_updated": "2020-06-01T23:23:09+05:30",
       "tested": {
         "last_updated": "2020-05-31",
         "source": "https://t.me/indiacovid/5972"
       }
     },
     "total": {
-      "confirmed": 73,
+      "confirmed": 79,
       "recovered": 25,
       "tested": 7255
     }
@@ -5539,20 +5547,20 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 7566,
+      "confirmed": 7572,
       "deceased": 201,
       "recovered": 3753,
       "tested": 100180
     },
     "meta": {
-      "last_updated": "2020-06-01T23:13:03+05:30",
+      "last_updated": "2020-06-01T23:23:03+05:30",
       "tested": {
         "last_updated": "2020-06-01",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/253"
       }
     },
     "total": {
-      "confirmed": 198214,
+      "confirmed": 198220,
       "deceased": 5608,
       "migrated": 11,
       "recovered": 95615,
