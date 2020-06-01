@@ -1923,17 +1923,27 @@
     }
   },
   "KA": {
+    "delta": {
+      "confirmed": 187,
+      "deceased": 1
+    },
     "districts": {
       "Bagalkote": {
+        "delta": {
+          "confirmed": 2
+        },
         "total": {
-          "confirmed": 78,
+          "confirmed": 80,
           "deceased": 1,
           "recovered": 66
         }
       },
       "Ballari": {
+        "delta": {
+          "confirmed": 3
+        },
         "total": {
-          "confirmed": 48,
+          "confirmed": 51,
           "deceased": 1,
           "recovered": 14
         }
@@ -1953,22 +1963,32 @@
         }
       },
       "Bengaluru Urban": {
+        "delta": {
+          "confirmed": 28,
+          "deceased": 1
+        },
         "total": {
-          "confirmed": 359,
-          "deceased": 10,
+          "confirmed": 387,
+          "deceased": 11,
           "recovered": 231
         }
       },
       "Bidar": {
+        "delta": {
+          "confirmed": 2
+        },
         "total": {
-          "confirmed": 164,
+          "confirmed": 166,
           "deceased": 5,
           "recovered": 27
         }
       },
       "Chikkaballapura": {
+        "delta": {
+          "confirmed": 5
+        },
         "total": {
-          "confirmed": 136,
+          "confirmed": 141,
           "deceased": 3,
           "recovered": 38
         }
@@ -1986,8 +2006,11 @@
         }
       },
       "Dakshina Kannada": {
+        "delta": {
+          "confirmed": 4
+        },
         "total": {
-          "confirmed": 130,
+          "confirmed": 134,
           "deceased": 6,
           "recovered": 38
         }
@@ -2005,6 +2028,14 @@
           "recovered": 11
         }
       },
+      "Dharwada": {
+        "delta": {
+          "confirmed": 2
+        },
+        "total": {
+          "confirmed": 2
+        }
+      },
       "Gadag": {
         "total": {
           "confirmed": 35,
@@ -2013,20 +2044,29 @@
         }
       },
       "Hassan": {
+        "delta": {
+          "confirmed": 16
+        },
         "total": {
-          "confirmed": 158,
+          "confirmed": 174,
           "recovered": 30
         }
       },
       "Haveri": {
+        "delta": {
+          "confirmed": 1
+        },
         "total": {
-          "confirmed": 14,
+          "confirmed": 15,
           "recovered": 3
         }
       },
       "Kalaburagi": {
+        "delta": {
+          "confirmed": 24
+        },
         "total": {
-          "confirmed": 282,
+          "confirmed": 306,
           "deceased": 7,
           "recovered": 128
         }
@@ -2038,8 +2078,11 @@
         }
       },
       "Kolar": {
+        "delta": {
+          "confirmed": 1
+        },
         "total": {
-          "confirmed": 23,
+          "confirmed": 24,
           "recovered": 5
         }
       },
@@ -2050,8 +2093,11 @@
         }
       },
       "Mandya": {
+        "delta": {
+          "confirmed": 15
+        },
         "total": {
-          "confirmed": 270,
+          "confirmed": 285,
           "recovered": 61
         }
       },
@@ -2076,13 +2122,19 @@
         }
       },
       "Ramanagara": {
-        "total": {
+        "delta": {
           "confirmed": 1
+        },
+        "total": {
+          "confirmed": 2
         }
       },
       "Shivamogga": {
+        "delta": {
+          "confirmed": 9
+        },
         "total": {
-          "confirmed": 44,
+          "confirmed": 53,
           "recovered": 24
         }
       },
@@ -2094,8 +2146,11 @@
         }
       },
       "Udupi": {
+        "delta": {
+          "confirmed": 73
+        },
         "total": {
-          "confirmed": 187,
+          "confirmed": 260,
           "deceased": 1,
           "recovered": 63
         }
@@ -2112,8 +2167,11 @@
         }
       },
       "Vijayapura": {
+        "delta": {
+          "confirmed": 1
+        },
         "total": {
-          "confirmed": 122,
+          "confirmed": 123,
           "deceased": 5,
           "recovered": 55
         }
@@ -2135,8 +2193,8 @@
       }
     },
     "total": {
-      "confirmed": 3221,
-      "deceased": 51,
+      "confirmed": 3408,
+      "deceased": 52,
       "migrated": 2,
       "recovered": 1218,
       "tested": 293575
@@ -2301,7 +2359,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-01T18:13:06+05:30",
+      "last_updated": "2020-06-01T18:14:08+05:30",
       "notes": "Mahe native who expired in Kannur included in Kerala's tally",
       "tested": {
         "last_updated": "2020-05-31",
@@ -4526,21 +4584,21 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 765,
-      "deceased": 7,
+      "confirmed": 952,
+      "deceased": 8,
       "recovered": 183,
       "tested": 100180
     },
     "meta": {
-      "last_updated": "2020-06-01T18:13:03+05:30",
+      "last_updated": "2020-06-01T18:14:05+05:30",
       "tested": {
         "last_updated": "2020-06-01",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/253"
       }
     },
     "total": {
-      "confirmed": 191413,
-      "deceased": 5414,
+      "confirmed": 191600,
+      "deceased": 5415,
       "migrated": 11,
       "recovered": 92045,
       "tested": 3837207
