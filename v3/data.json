@@ -205,7 +205,8 @@
   },
   "AR": {
     "delta": {
-      "confirmed": 16
+      "confirmed": 16,
+      "tested": 485
     },
     "districts": {
       "Changlang": {
@@ -250,14 +251,14 @@
     "meta": {
       "last_updated": "2020-06-01T22:14:10+05:30",
       "tested": {
-        "last_updated": "2020-05-31",
-        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/254"
+        "last_updated": "2020-06-01",
+        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/261"
       }
     },
     "total": {
       "confirmed": 20,
       "recovered": 1,
-      "tested": 8283
+      "tested": 8768
     }
   },
   "AS": {
@@ -1656,7 +1657,7 @@
     "delta": {
       "confirmed": 9,
       "recovered": 2,
-      "tested": 633
+      "tested": 729
     },
     "districts": {
       "Bilaspur": {
@@ -1746,7 +1747,7 @@
       "notes": "HP has 4 Migrated cases which are reduced from Active #. Also, death of Tibetan refugee is included in deceased numbers, but not in confirmed",
       "tested": {
         "last_updated": "2020-06-01",
-        "source": "https://twitter.com/nhm_hp/status/1267434868134121478/photo/1"
+        "source": "https://twitter.com/nhm_hp/status/1267488143298748418?s=19"
       }
     },
     "total": {
@@ -1754,7 +1755,7 @@
       "deceased": 6,
       "migrated": 3,
       "recovered": 118,
-      "tested": 37801
+      "tested": 37897
     }
   },
   "HR": {
@@ -4437,7 +4438,8 @@
     "delta": {
       "confirmed": 269,
       "deceased": 5,
-      "recovered": 181
+      "recovered": 181,
+      "tested": 15407
     },
     "districts": {
       "Ajmer": {
@@ -4777,15 +4779,15 @@
     "meta": {
       "last_updated": "2020-06-01T22:14:07+05:30",
       "tested": {
-        "last_updated": "2020-05-31",
-        "source": "https://t.me/indiacovid/6015"
+        "last_updated": "2020-06-01",
+        "source": "https://t.me/indiacovid/6090"
       }
     },
     "total": {
       "confirmed": 9100,
       "deceased": 199,
       "recovered": 6213,
-      "tested": 409777
+      "tested": 425184
     }
   },
   "SK": {
@@ -5602,7 +5604,8 @@
     "delta": {
       "confirmed": 286,
       "deceased": 5,
-      "recovered": 187
+      "recovered": 187,
+      "tested": 8011
     },
     "districts": {
       "Agra": {
@@ -6347,15 +6350,15 @@
     "meta": {
       "last_updated": "2020-06-01T23:04:07+05:30",
       "tested": {
-        "last_updated": "2020-05-31",
-        "source": "https://t.me/indiacovid/6025?single"
+        "last_updated": "2020-06-01",
+        "source": "https://t.me/indiacovid/6095?single"
       }
     },
     "total": {
       "confirmed": 8361,
       "deceased": 222,
       "recovered": 5030,
-      "tested": 289892
+      "tested": 297903
     }
   },
   "UT": {
