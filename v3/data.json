@@ -1742,7 +1742,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-01T19:46:13+05:30",
+      "last_updated": "2020-06-01T19:47:07+05:30",
       "tested": {
         "last_updated": "2020-05-31",
         "source": "http://www.nhmharyana.gov.in/WriteReadData/userfiles/file/CoronaVirus/Daily%20Bulletin%20of%20COVID%2019%20as%20on%2031-05-2020%20Evening.pdf"
@@ -3698,10 +3698,17 @@
     }
   },
   "PB": {
+    "delta": {
+      "confirmed": 38,
+      "tested": 3261
+    },
     "districts": {
       "Amritsar": {
+        "delta": {
+          "confirmed": 9
+        },
         "total": {
-          "confirmed": 377,
+          "confirmed": 386,
           "deceased": 7,
           "recovered": 310
         }
@@ -3714,8 +3721,11 @@
         }
       },
       "Bathinda": {
+        "delta": {
+          "confirmed": 2
+        },
         "total": {
-          "confirmed": 47,
+          "confirmed": 49,
           "recovered": 43
         }
       },
@@ -3726,41 +3736,59 @@
         }
       },
       "Fatehgarh Sahib": {
+        "delta": {
+          "confirmed": 5
+        },
         "total": {
-          "confirmed": 58,
+          "confirmed": 63,
           "recovered": 57
         }
       },
       "Fazilka": {
+        "delta": {
+          "confirmed": -2
+        },
         "total": {
-          "confirmed": 46,
+          "confirmed": 44,
           "recovered": 44
         }
       },
       "Ferozepur": {
+        "delta": {
+          "confirmed": 2
+        },
         "total": {
-          "confirmed": 44,
+          "confirmed": 46,
           "deceased": 1,
           "recovered": 43
         }
       },
       "Gurdaspur": {
+        "delta": {
+          "confirmed": 1
+        },
         "total": {
-          "confirmed": 137,
+          "confirmed": 138,
           "deceased": 3,
           "recovered": 126
         }
       },
       "Hoshiarpur": {
+        "delta": {
+          "confirmed": 8
+        },
         "total": {
-          "confirmed": 120,
+          "confirmed": 128,
           "deceased": 5,
           "recovered": 93
         }
       },
       "Jalandhar": {
+        "delta": {
+          "confirmed": 1
+        },
         "total": {
-          "confirmed": 245,
+          "confirmed": 246,
           "deceased": 7,
           "recovered": 209
         }
@@ -3773,8 +3801,11 @@
         }
       },
       "Ludhiana": {
+        "delta": {
+          "confirmed": 8
+        },
         "total": {
-          "confirmed": 189,
+          "confirmed": 197,
           "deceased": 9,
           "recovered": 151
         }
@@ -3792,15 +3823,21 @@
         }
       },
       "Pathankot": {
+        "delta": {
+          "confirmed": 1
+        },
         "total": {
-          "confirmed": 60,
+          "confirmed": 61,
           "deceased": 2,
           "recovered": 31
         }
       },
       "Patiala": {
+        "delta": {
+          "confirmed": 4
+        },
         "total": {
-          "confirmed": 118,
+          "confirmed": 122,
           "deceased": 2,
           "recovered": 105
         }
@@ -3813,8 +3850,11 @@
         }
       },
       "S.A.S. Nagar": {
+        "delta": {
+          "confirmed": 2
+        },
         "total": {
-          "confirmed": 111,
+          "confirmed": 113,
           "deceased": 3,
           "recovered": 99
         }
@@ -3826,8 +3866,11 @@
         }
       },
       "Shahid Bhagat Singh Nagar": {
+        "delta": {
+          "confirmed": -3
+        },
         "total": {
-          "confirmed": 106,
+          "confirmed": 103,
           "deceased": 1,
           "recovered": 102
         }
@@ -3846,17 +3889,17 @@
       }
     },
     "meta": {
-      "last_updated": "2020-05-31T19:54:04+05:30",
+      "last_updated": "2020-06-01T19:53:07+05:30",
       "tested": {
-        "last_updated": "2020-05-31",
-        "source": "http://pbhealth.gov.in/Media%20Bulletin%20COVID-19%2031-05-2020.pdf"
+        "last_updated": "2020-06-01",
+        "source": "https://twitter.com/kbssidhu1961/status/1267457625488125952"
       }
     },
     "total": {
-      "confirmed": 2263,
+      "confirmed": 2301,
       "deceased": 45,
       "recovered": 1987,
-      "tested": 87852
+      "tested": 91113
     }
   },
   "PY": {
@@ -4925,20 +4968,20 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 2825,
+      "confirmed": 2863,
       "deceased": 30,
       "recovered": 1200,
       "tested": 100180
     },
     "meta": {
-      "last_updated": "2020-06-01T19:46:04+05:30",
+      "last_updated": "2020-06-01T19:53:03+05:30",
       "tested": {
         "last_updated": "2020-06-01",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/253"
       }
     },
     "total": {
-      "confirmed": 193473,
+      "confirmed": 193511,
       "deceased": 5437,
       "migrated": 11,
       "recovered": 93062,
@@ -5609,7 +5652,8 @@
     "delta": {
       "confirmed": 271,
       "deceased": 8,
-      "recovered": 149
+      "recovered": 149,
+      "tested": 9480
     },
     "districts": {
       "Alipurduar": {
@@ -5857,15 +5901,14 @@
       "last_updated": "2020-06-01T19:46:09+05:30",
       "notes": "- Cases updated as per WB bulletin.<br>\n- Deaths due to comorbidities added to total deceased<br>",
       "tested": {
-        "last_updated": "2020-05-31",
-        "source": "https://www.wbhealth.gov.in/uploaded_files/corona/WB_DHFW_Bulletin_31st_MAY_REPORT_FINAL.pdf"
+        "last_updated": "2020-06-01"
       }
     },
     "total": {
       "confirmed": 5772,
       "deceased": 325,
       "recovered": 2306,
-      "tested": 203751
+      "tested": 213231
     }
   }
 }
