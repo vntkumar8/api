@@ -262,7 +262,8 @@
   },
   "AS": {
     "delta": {
-      "confirmed": 124
+      "confirmed": 124,
+      "recovered": 99
     },
     "districts": {
       "Baksa": {
@@ -495,11 +496,13 @@
       },
       "Unassigned": {
         "delta": {
-          "confirmed": 30
+          "confirmed": 30,
+          "recovered": 99
         },
         "total": {
           "confirmed": 30,
-          "migrated": 3
+          "migrated": 3,
+          "recovered": 99
         }
       },
       "West Karbi Anglong": {
@@ -509,7 +512,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-01T21:34:07+05:30",
+      "last_updated": "2020-06-01T23:35:14+05:30",
       "notes": "Includes one case from Nagaland <br>\nTotal of three* patients who migrated to other states has been reduced from Active count",
       "tested": {
         "last_updated": "2020-05-31",
@@ -520,7 +523,7 @@
       "confirmed": 1464,
       "deceased": 4,
       "migrated": 3,
-      "recovered": 186,
+      "recovered": 285,
       "tested": 109097
     }
   },
@@ -904,7 +907,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-01T23:23:05+05:30",
+      "last_updated": "2020-06-01T23:26:05+05:30",
       "tested": {
         "last_updated": "2020-06-01",
         "source": "https://twitter.com/PIB_Patna/status/1267426736121110528"
@@ -953,7 +956,8 @@
   "CT": {
     "delta": {
       "confirmed": 50,
-      "recovered": 7
+      "recovered": 7,
+      "tested": 5544
     },
     "districts": {
       "Balod": {
@@ -1146,15 +1150,15 @@
     "meta": {
       "last_updated": "2020-06-01T22:43:06+05:30",
       "tested": {
-        "last_updated": "2020-05-31",
-        "source": "https://twitter.com/HealthCgGov/status/1267113754824634370"
+        "last_updated": "2020-06-01",
+        "source": "https://t.me/indiacovid/6107?single"
       }
     },
     "total": {
       "confirmed": 548,
       "deceased": 1,
       "recovered": 121,
-      "tested": 69152
+      "tested": 74696
     }
   },
   "DL": {
@@ -1251,7 +1255,8 @@
   },
   "DN": {
     "delta": {
-      "confirmed": 1
+      "confirmed": 1,
+      "tested": 216
     },
     "districts": {
       "Dadra and Nagar Haveli": {
@@ -1267,14 +1272,14 @@
     "meta": {
       "last_updated": "2020-06-01T22:43:09+05:30",
       "tested": {
-        "last_updated": "2020-05-29",
-        "source": "https://twitter.com/DnhPublicity/status/1266433661370617856?s=19"
+        "last_updated": "2020-06-01",
+        "source": "https://twitter.com/DnhPublicity/status/1267485602360016896/photo/1"
       }
     },
     "total": {
       "confirmed": 3,
       "recovered": 1,
-      "tested": 11477
+      "tested": 11693
     }
   },
   "GA": {
@@ -1307,7 +1312,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-01T23:23:07+05:30",
+      "last_updated": "2020-06-01T23:26:14+05:30",
       "tested": {
         "last_updated": "2020-05-31",
         "source": "https://twitter.com/DHS_Goa/status/1267090834458984448/photo/1"
@@ -2648,7 +2653,8 @@
     "delta": {
       "confirmed": 57,
       "deceased": 1,
-      "recovered": 18
+      "recovered": 18,
+      "tested": 4941
     },
     "districts": {
       "Alappuzha": {
@@ -2806,15 +2812,14 @@
       "last_updated": "2020-06-01T18:25:49+05:30",
       "notes": "Mahe native who expired in Kannur included in Kerala's tally",
       "tested": {
-        "last_updated": "2020-05-31",
-        "source": "https://dhs.kerala.gov.in/wp-content/uploads/2020/05/Daily-Bulletin-HFWD-English-May-31-1.pdf"
+        "last_updated": "2020-06-01"
       }
     },
     "total": {
       "confirmed": 1327,
       "deceased": 11,
       "recovered": 608,
-      "tested": 77508
+      "tested": 82449
     }
   },
   "LA": {
@@ -3276,7 +3281,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-01T23:23:11+05:30",
+      "last_updated": "2020-06-01T23:26:18+05:30",
       "tested": {
         "last_updated": "2020-06-01",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/259"
@@ -4412,7 +4417,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-01T23:23:09+05:30",
+      "last_updated": "2020-06-01T23:35:17+05:30",
       "tested": {
         "last_updated": "2020-05-31",
         "source": "https://t.me/indiacovid/5972"
@@ -5473,7 +5478,7 @@
   },
   "TR": {
     "delta": {
-      "confirmed": 5
+      "confirmed": 102
     },
     "districts": {
       "Dhalai": {
@@ -5513,10 +5518,10 @@
       },
       "Unassigned": {
         "delta": {
-          "confirmed": 5
+          "confirmed": 102
         },
         "total": {
-          "confirmed": 5
+          "confirmed": 102
         }
       },
       "Unokoti": {
@@ -5532,7 +5537,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-01T14:35:11+05:30",
+      "last_updated": "2020-06-01T23:35:16+05:30",
       "notes": "Two cases have migrated out of Tripura.",
       "tested": {
         "last_updated": "2020-05-31",
@@ -5540,30 +5545,30 @@
       }
     },
     "total": {
-      "confirmed": 321,
+      "confirmed": 418,
       "recovered": 173,
       "tested": 27475
     }
   },
   "TT": {
     "delta": {
-      "confirmed": 7572,
+      "confirmed": 7669,
       "deceased": 201,
-      "recovered": 3753,
+      "recovered": 3852,
       "tested": 100180
     },
     "meta": {
-      "last_updated": "2020-06-01T23:23:03+05:30",
+      "last_updated": "2020-06-01T23:35:08+05:30",
       "tested": {
         "last_updated": "2020-06-01",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/253"
       }
     },
     "total": {
-      "confirmed": 198220,
+      "confirmed": 198317,
       "deceased": 5608,
       "migrated": 11,
-      "recovered": 95615,
+      "recovered": 95714,
       "tested": 3837207
     }
   },

@@ -2738,13 +2738,14 @@
     },
     "2020-06-01": {
       "delta": {
-        "confirmed": 124
+        "confirmed": 124,
+        "recovered": 99
       },
       "total": {
         "confirmed": 1464,
         "deceased": 4,
         "migrated": 3,
-        "recovered": 186,
+        "recovered": 285,
         "tested": 109097
       }
     }
@@ -5136,13 +5137,14 @@
     "2020-06-01": {
       "delta": {
         "confirmed": 50,
-        "recovered": 7
+        "recovered": 7,
+        "tested": 5544
       },
       "total": {
         "confirmed": 548,
         "deceased": 1,
         "recovered": 121,
-        "tested": 69152
+        "tested": 74696
       }
     }
   },
@@ -6643,12 +6645,13 @@
     },
     "2020-06-01": {
       "delta": {
-        "confirmed": 1
+        "confirmed": 1,
+        "tested": 216
       },
       "total": {
         "confirmed": 3,
         "recovered": 1,
-        "tested": 11477
+        "tested": 11693
       }
     }
   },
@@ -13967,13 +13970,14 @@
       "delta": {
         "confirmed": 57,
         "deceased": 1,
-        "recovered": 18
+        "recovered": 18,
+        "tested": 4941
       },
       "total": {
         "confirmed": 1327,
         "deceased": 11,
         "recovered": 608,
-        "tested": 77508
+        "tested": 82449
       }
     }
   },
@@ -25040,10 +25044,10 @@
     },
     "2020-06-01": {
       "delta": {
-        "confirmed": 5
+        "confirmed": 102
       },
       "total": {
-        "confirmed": 321,
+        "confirmed": 418,
         "recovered": 173,
         "tested": 27475
       }
@@ -26327,16 +26331,16 @@
     },
     "2020-06-01": {
       "delta": {
-        "confirmed": 7572,
+        "confirmed": 7669,
         "deceased": 201,
-        "recovered": 3753,
+        "recovered": 3852,
         "tested": 100180
       },
       "total": {
-        "confirmed": 198220,
+        "confirmed": 198317,
         "deceased": 5608,
         "migrated": 11,
-        "recovered": 95615,
+        "recovered": 95714,
         "tested": 3837207
       }
     }
