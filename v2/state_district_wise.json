@@ -2704,12 +2704,12 @@
       {
         "district": "Chamba",
         "notes": "",
-        "active": 12,
-        "confirmed": 23,
+        "active": 13,
+        "confirmed": 24,
         "deceased": 0,
         "recovered": 11,
         "delta": {
-          "confirmed": 3,
+          "confirmed": 4,
           "deceased": 0,
           "recovered": 0
         }
@@ -2821,38 +2821,25 @@
       {
         "district": "Solan",
         "notes": "",
-        "active": 23,
+        "active": 21,
         "confirmed": 32,
         "deceased": 1,
-        "recovered": 8,
+        "recovered": 10,
         "delta": {
           "confirmed": 2,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 2
         }
       },
       {
         "district": "Una",
         "notes": "",
-        "active": 18,
-        "confirmed": 38,
+        "active": 19,
+        "confirmed": 39,
         "deceased": 0,
         "recovered": 20,
         "delta": {
-          "confirmed": 0,
-          "deceased": 0,
-          "recovered": 0
-        }
-      },
-      {
-        "district": "Unknown",
-        "notes": "",
-        "active": 0,
-        "confirmed": 2,
-        "deceased": 0,
-        "recovered": 2,
-        "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }

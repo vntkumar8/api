@@ -899,7 +899,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-01T21:41:14+05:30",
+      "last_updated": "2020-06-01T21:47:27+05:30",
       "tested": {
         "last_updated": "2020-06-01",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/260"
@@ -1492,10 +1492,10 @@
       },
       "Chamba": {
         "delta": {
-          "confirmed": 3
+          "confirmed": 4
         },
         "total": {
-          "confirmed": 23,
+          "confirmed": 24,
           "recovered": 11
         }
       },
@@ -1547,28 +1547,22 @@
       },
       "Solan": {
         "delta": {
-          "confirmed": 2
+          "confirmed": 2,
+          "recovered": 2
         },
         "total": {
           "confirmed": 32,
           "deceased": 1,
-          "recovered": 8
+          "recovered": 10
         }
       },
       "Una": {
-        "total": {
-          "confirmed": 38,
-          "recovered": 20
-        }
-      },
-      "Unassigned": {
         "delta": {
-          "confirmed": 2,
-          "recovered": 2
+          "confirmed": 1
         },
         "total": {
-          "confirmed": 2,
-          "recovered": 2
+          "confirmed": 39,
+          "recovered": 20
         }
       }
     },
@@ -3056,7 +3050,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-01T21:46:42+05:30",
+      "last_updated": "2020-06-01T21:47:24+05:30",
       "tested": {
         "last_updated": "2020-06-01",
         "source": "https://twitter.com/Maha_MEDD/status/1267354947173007362?s=19"
@@ -5326,7 +5320,7 @@
       "tested": 100180
     },
     "meta": {
-      "last_updated": "2020-06-01T21:46:32+05:30",
+      "last_updated": "2020-06-01T21:47:19+05:30",
       "tested": {
         "last_updated": "2020-06-01",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/253"
