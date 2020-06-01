@@ -679,6 +679,9 @@
     }
   },
   "CT": {
+    "delta": {
+      "confirmed": 5
+    },
     "districts": {
       "Balod": {
         "total": {
@@ -720,8 +723,11 @@
         }
       },
       "Durg": {
+        "delta": {
+          "confirmed": 1
+        },
         "total": {
-          "confirmed": 11,
+          "confirmed": 12,
           "recovered": 10
         }
       },
@@ -766,8 +772,11 @@
         }
       },
       "Mahasamund": {
+        "delta": {
+          "confirmed": 1
+        },
         "total": {
-          "confirmed": 19
+          "confirmed": 20
         }
       },
       "Mungeli": {
@@ -777,8 +786,11 @@
         }
       },
       "Raigarh": {
+        "delta": {
+          "confirmed": 2
+        },
         "total": {
-          "confirmed": 13
+          "confirmed": 15
         }
       },
       "Raipur": {
@@ -789,8 +801,11 @@
         }
       },
       "Rajnandgaon": {
+        "delta": {
+          "confirmed": 1
+        },
         "total": {
-          "confirmed": 36,
+          "confirmed": 37,
           "recovered": 1
         }
       },
@@ -819,14 +834,14 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-01T01:25:07+05:30",
+      "last_updated": "2020-06-01T09:34:08+05:30",
       "tested": {
         "last_updated": "2020-05-31",
         "source": "https://twitter.com/HealthCgGov/status/1267113754824634370"
       }
     },
     "total": {
-      "confirmed": 498,
+      "confirmed": 503,
       "deceased": 1,
       "recovered": 114,
       "tested": 69152
@@ -4277,17 +4292,17 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 139
+      "confirmed": 144
     },
     "meta": {
-      "last_updated": "2020-06-01T09:24:03+05:30",
+      "last_updated": "2020-06-01T09:34:03+05:30",
       "tested": {
         "last_updated": "2020-05-31",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/236"
       }
     },
     "total": {
-      "confirmed": 190761,
+      "confirmed": 190766,
       "deceased": 5408,
       "migrated": 11,
       "recovered": 91855,
@@ -4309,7 +4324,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-01T09:24:05+05:30",
+      "last_updated": "2020-06-01T09:34:05+05:30",
       "notes": "MoHFW website reports that these are the \"cases that are being reassigned to states\""
     },
     "total": {
