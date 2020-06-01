@@ -473,6 +473,9 @@
     }
   },
   "BR": {
+    "delta": {
+      "confirmed": 65
+    },
     "districts": {
       "Araria": {
         "total": {
@@ -706,8 +709,11 @@
         }
       },
       "Unassigned": {
+        "delta": {
+          "confirmed": 65
+        },
         "total": {
-          "confirmed": 0,
+          "confirmed": 65,
           "recovered": 0
         }
       },
@@ -726,40 +732,48 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-01T00:42:06+05:30",
+      "last_updated": "2020-06-01T15:13:05+05:30",
       "tested": {
         "last_updated": "2020-05-31",
         "source": "https://twitter.com/PIB_Patna/status/1267055745993867264"
       }
     },
     "total": {
-      "confirmed": 3807,
+      "confirmed": 3872,
       "deceased": 23,
       "recovered": 1520,
       "tested": 75737
     }
   },
   "CH": {
+    "delta": {
+      "confirmed": 1,
+      "recovered": 1
+    },
     "districts": {
       "Chandigarh": {
+        "delta": {
+          "confirmed": 1,
+          "recovered": 1
+        },
         "total": {
-          "confirmed": 293,
+          "confirmed": 294,
           "deceased": 4,
-          "recovered": 199
+          "recovered": 200
         }
       }
     },
     "meta": {
-      "last_updated": "2020-05-31T19:44:12+05:30",
+      "last_updated": "2020-06-01T15:08:05+05:30",
       "tested": {
         "last_updated": "2020-05-31",
         "source": "https://t.me/indiacovid/5993"
       }
     },
     "total": {
-      "confirmed": 293,
+      "confirmed": 294,
       "deceased": 4,
-      "recovered": 199,
+      "recovered": 200,
       "tested": 4785
     }
   },
@@ -4461,23 +4475,23 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 457,
+      "confirmed": 523,
       "deceased": 6,
-      "recovered": 45,
+      "recovered": 46,
       "tested": 100180
     },
     "meta": {
-      "last_updated": "2020-06-01T14:35:03+05:30",
+      "last_updated": "2020-06-01T15:13:03+05:30",
       "tested": {
         "last_updated": "2020-06-01",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/253"
       }
     },
     "total": {
-      "confirmed": 191105,
+      "confirmed": 191171,
       "deceased": 5413,
       "migrated": 11,
-      "recovered": 91907,
+      "recovered": 91908,
       "tested": 3837207
     }
   },

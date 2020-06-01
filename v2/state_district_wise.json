@@ -1566,6 +1566,19 @@
           "deceased": 0,
           "recovered": 0
         }
+      },
+      {
+        "district": "Unknown",
+        "notes": "",
+        "active": 65,
+        "confirmed": 65,
+        "deceased": 0,
+        "recovered": 0,
+        "delta": {
+          "confirmed": 0,
+          "deceased": 0,
+          "recovered": 0
+        }
       }
     ]
   },
@@ -1577,13 +1590,13 @@
         "district": "Chandigarh",
         "notes": "",
         "active": 90,
-        "confirmed": 293,
+        "confirmed": 294,
         "deceased": 4,
-        "recovered": 199,
+        "recovered": 200,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 1
         }
       }
     ]
