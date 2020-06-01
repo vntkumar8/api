@@ -1614,8 +1614,8 @@
   },
   "HP": {
     "delta": {
-      "confirmed": 17,
-      "recovered": 2,
+      "confirmed": 18,
+      "recovered": 9,
       "tested": 1500
     },
     "districts": {
@@ -1633,22 +1633,24 @@
       },
       "Hamirpur": {
         "delta": {
-          "confirmed": 4
+          "confirmed": 4,
+          "recovered": 2
         },
         "total": {
           "confirmed": 111,
           "deceased": 1,
-          "recovered": 28
+          "recovered": 30
         }
       },
       "Kangra": {
         "delta": {
-          "confirmed": 8
+          "confirmed": 8,
+          "recovered": 4
         },
         "total": {
           "confirmed": 87,
           "deceased": 1,
-          "recovered": 28
+          "recovered": 32
         }
       },
       "Kullu": {
@@ -1686,15 +1688,19 @@
           "recovered": 2
         },
         "total": {
-          "confirmed": 30,
+          "confirmed": 32,
           "deceased": 1,
           "recovered": 8
         }
       },
       "Una": {
+        "delta": {
+          "confirmed": 1,
+          "recovered": 1
+        },
         "total": {
-          "confirmed": 37,
-          "recovered": 19
+          "confirmed": 38,
+          "recovered": 20
         }
       },
       "Unassigned": {
@@ -1710,10 +1716,10 @@
       }
     },
     "total": {
-      "confirmed": 330,
+      "confirmed": 333,
       "deceased": 6,
       "migrated": 3,
-      "recovered": 109,
+      "recovered": 116,
       "tested": 37168
     }
   },
@@ -5638,9 +5644,9 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 8788,
+      "confirmed": 8789,
       "deceased": 222,
-      "recovered": 4921,
+      "recovered": 4928,
       "tested": 125428
     },
     "meta": {
@@ -5650,10 +5656,10 @@
       }
     },
     "total": {
-      "confirmed": 190647,
+      "confirmed": 190650,
       "deceased": 5407,
       "migrated": 11,
-      "recovered": 91855,
+      "recovered": 91862,
       "tested": 3737027
     }
   },

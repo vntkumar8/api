@@ -1267,14 +1267,14 @@
         "total": {
           "confirmed": 111,
           "deceased": 1,
-          "recovered": 28
+          "recovered": 30
         }
       },
       "Kangra": {
         "total": {
           "confirmed": 87,
           "deceased": 1,
-          "recovered": 28
+          "recovered": 32
         }
       },
       "Kullu": {
@@ -1305,15 +1305,15 @@
       },
       "Solan": {
         "total": {
-          "confirmed": 30,
+          "confirmed": 32,
           "deceased": 1,
           "recovered": 8
         }
       },
       "Una": {
         "total": {
-          "confirmed": 37,
-          "recovered": 19
+          "confirmed": 38,
+          "recovered": 20
         }
       },
       "Unassigned": {
@@ -1323,7 +1323,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-05-31T18:13:05+05:30",
+      "last_updated": "2020-06-01T13:03:06+05:30",
       "notes": "HP has 4 Migrated cases which are reduced from Active #. Also, death of Tibetan refugee is included in deceased numbers, but not in confirmed",
       "tested": {
         "last_updated": "2020-05-31",
@@ -1331,10 +1331,10 @@
       }
     },
     "total": {
-      "confirmed": 330,
+      "confirmed": 333,
       "deceased": 6,
       "migrated": 3,
-      "recovered": 109,
+      "recovered": 116,
       "tested": 37168
     }
   },
@@ -4359,17 +4359,17 @@
       "tested": 100180
     },
     "meta": {
-      "last_updated": "2020-06-01T12:52:12+05:30",
+      "last_updated": "2020-06-01T13:03:03+05:30",
       "tested": {
         "last_updated": "2020-06-01",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/253"
       }
     },
     "total": {
-      "confirmed": 190962,
+      "confirmed": 190965,
       "deceased": 5411,
       "migrated": 11,
-      "recovered": 91866,
+      "recovered": 91873,
       "tested": 3837207
     }
   },

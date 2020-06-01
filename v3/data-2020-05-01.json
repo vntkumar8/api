@@ -1030,6 +1030,7 @@
   },
   "HP": {
     "delta": {
+      "confirmed": 2,
       "recovered": 2,
       "tested": 339
     },
@@ -1068,8 +1069,11 @@
         }
       },
       "Solan": {
+        "delta": {
+          "confirmed": 2
+        },
         "total": {
-          "confirmed": 9,
+          "confirmed": 11,
           "deceased": 1,
           "recovered": 5
         }
@@ -1088,7 +1092,7 @@
       }
     },
     "total": {
-      "confirmed": 40,
+      "confirmed": 42,
       "deceased": 2,
       "migrated": 3,
       "recovered": 30,
@@ -3861,7 +3865,7 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 2396,
+      "confirmed": 2398,
       "deceased": 77,
       "migrated": 1,
       "recovered": 962,
@@ -3874,7 +3878,7 @@
       }
     },
     "total": {
-      "confirmed": 37263,
+      "confirmed": 37265,
       "deceased": 1231,
       "migrated": 4,
       "recovered": 10021,
