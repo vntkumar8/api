@@ -40,9 +40,9 @@
           "recovered": 3
         },
         "total": {
-          "confirmed": 103,
+          "confirmed": 99,
           "deceased": 4,
-          "recovered": 51
+          "recovered": 42
         }
       },
       "Chittoor": {
@@ -51,19 +51,14 @@
           "recovered": 6
         },
         "total": {
-          "confirmed": 90,
-          "recovered": 78
+          "confirmed": 85,
+          "recovered": 74
         }
       },
       "East Godavari": {
         "total": {
-          "confirmed": 64,
-          "recovered": 27
-        }
-      },
-      "Foreign Evacuees": {
-        "total": {
-          "confirmed": 1
+          "confirmed": 46,
+          "recovered": 26
         }
       },
       "Guntur": {
@@ -72,9 +67,9 @@
           "recovered": 14
         },
         "total": {
-          "confirmed": 381,
+          "confirmed": 374,
           "deceased": 8,
-          "recovered": 171
+          "recovered": 164
         }
       },
       "Krishna": {
@@ -83,9 +78,9 @@
           "recovered": 3
         },
         "total": {
-          "confirmed": 329,
+          "confirmed": 322,
           "deceased": 11,
-          "recovered": 130
+          "recovered": 126
         }
       },
       "Kurnool": {
@@ -95,14 +90,14 @@
           "recovered": 23
         },
         "total": {
-          "confirmed": 548,
-          "deceased": 16,
-          "recovered": 197
+          "confirmed": 547,
+          "deceased": 14,
+          "recovered": 191
         }
       },
       "Other State": {
         "total": {
-          "confirmed": 55
+          "confirmed": 27
         }
       },
       "Prakasam": {
@@ -110,7 +105,7 @@
           "recovered": 8
         },
         "total": {
-          "confirmed": 62,
+          "confirmed": 61,
           "recovered": 60
         }
       },
@@ -119,7 +114,7 @@
           "recovered": 1
         },
         "total": {
-          "confirmed": 112,
+          "confirmed": 96,
           "deceased": 3,
           "recovered": 60
         }
@@ -138,7 +133,7 @@
           "recovered": 1
         },
         "total": {
-          "confirmed": 61,
+          "confirmed": 57,
           "deceased": 1,
           "recovered": 23
         }
@@ -148,7 +143,7 @@
           "confirmed": 1
         },
         "total": {
-          "confirmed": 6
+          "confirmed": 4
         }
       },
       "West Godavari": {
@@ -156,7 +151,7 @@
           "confirmed": 9
         },
         "total": {
-          "confirmed": 76,
+          "confirmed": 68,
           "deceased": 0,
           "recovered": 33
         }
@@ -166,8 +161,8 @@
           "recovered": 3
         },
         "total": {
-          "confirmed": 99,
-          "recovered": 46
+          "confirmed": 96,
+          "recovered": 43
         }
       }
     },
@@ -178,9 +173,9 @@
       }
     },
     "total": {
-      "confirmed": 1992,
-      "deceased": 43,
-      "recovered": 876,
+      "confirmed": 1887,
+      "deceased": 41,
+      "recovered": 842,
       "tested": 156681
     }
   },
@@ -214,11 +209,6 @@
       "deceased": 1
     },
     "districts": {
-      "Barpeta": {
-        "total": {
-          "confirmed": 11
-        }
-      },
       "Bongaigaon": {
         "total": {
           "confirmed": 5
@@ -233,14 +223,9 @@
           "recovered": 1
         }
       },
-      "Darrang": {
-        "total": {
-          "confirmed": 3
-        }
-      },
       "Dhubri": {
         "total": {
-          "confirmed": 8,
+          "confirmed": 5,
           "recovered": 5
         }
       },
@@ -314,20 +299,10 @@
           "recovered": 1
         }
       },
-      "Sonitpur": {
-        "total": {
-          "confirmed": 1
-        }
-      },
       "South Salmara Mankachar": {
         "total": {
           "confirmed": 1,
           "recovered": 1
-        }
-      },
-      "Udalguri": {
-        "total": {
-          "confirmed": 5
         }
       }
     },
@@ -338,7 +313,7 @@
       }
     },
     "total": {
-      "confirmed": 83,
+      "confirmed": 60,
       "deceased": 2,
       "recovered": 35,
       "tested": 13442
@@ -1238,7 +1213,7 @@
       },
       "Solan": {
         "total": {
-          "confirmed": 11,
+          "confirmed": 9,
           "deceased": 1,
           "recovered": 5
         }
@@ -1260,7 +1235,7 @@
       }
     },
     "total": {
-      "confirmed": 52,
+      "confirmed": 50,
       "deceased": 3,
       "migrated": 3,
       "recovered": 34,
@@ -2429,11 +2404,6 @@
       "tested": 72
     },
     "districts": {
-      "Bishnupur": {
-        "total": {
-          "confirmed": 2
-        }
-      },
       "Imphal East": {
         "total": {
           "confirmed": 1,
@@ -2445,16 +2415,6 @@
           "confirmed": 1,
           "recovered": 1
         }
-      },
-      "Senapati": {
-        "total": {
-          "confirmed": 2
-        }
-      },
-      "Thoubal": {
-        "total": {
-          "confirmed": 3
-        }
       }
     },
     "meta": {
@@ -2464,7 +2424,7 @@
       }
     },
     "total": {
-      "confirmed": 9,
+      "confirmed": 2,
       "recovered": 2,
       "tested": 756
     }
@@ -4200,11 +4160,6 @@
           "confirmed": 1,
           "recovered": 1
         }
-      },
-      "Unassigned": {
-        "total": {
-          "confirmed": 5
-        }
       }
     },
     "meta": {
@@ -4214,7 +4169,7 @@
       }
     },
     "total": {
-      "confirmed": 124,
+      "confirmed": 119,
       "recovered": 2,
       "tested": 7448
     }
@@ -4233,10 +4188,10 @@
       }
     },
     "total": {
-      "confirmed": 59833,
-      "deceased": 1988,
+      "confirmed": 59691,
+      "deceased": 1986,
       "migrated": 4,
-      "recovered": 17921,
+      "recovered": 17887,
       "tested": 1437788
     }
   },

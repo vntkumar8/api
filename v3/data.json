@@ -28,8 +28,17 @@
     }
   },
   "AP": {
+    "delta": {
+      "confirmed": 105,
+      "deceased": 2,
+      "recovered": 34
+    },
     "districts": {
       "Anantapur": {
+        "delta": {
+          "confirmed": 4,
+          "recovered": 9
+        },
         "total": {
           "confirmed": 220,
           "deceased": 4,
@@ -37,6 +46,10 @@
         }
       },
       "Chittoor": {
+        "delta": {
+          "confirmed": 5,
+          "recovered": 4
+        },
         "total": {
           "confirmed": 262,
           "deceased": 2,
@@ -44,6 +57,10 @@
         }
       },
       "East Godavari": {
+        "delta": {
+          "confirmed": 18,
+          "recovered": 1
+        },
         "total": {
           "confirmed": 224,
           "deceased": 2,
@@ -51,11 +68,18 @@
         }
       },
       "Foreign Evacuees": {
+        "delta": {
+          "confirmed": 1
+        },
         "total": {
           "confirmed": 112
         }
       },
       "Guntur": {
+        "delta": {
+          "confirmed": 7,
+          "recovered": 7
+        },
         "total": {
           "confirmed": 496,
           "deceased": 8,
@@ -63,6 +87,10 @@
         }
       },
       "Krishna": {
+        "delta": {
+          "confirmed": 7,
+          "recovered": 4
+        },
         "total": {
           "confirmed": 477,
           "deceased": 18,
@@ -70,6 +98,11 @@
         }
       },
       "Kurnool": {
+        "delta": {
+          "confirmed": 1,
+          "deceased": 2,
+          "recovered": 6
+        },
         "total": {
           "confirmed": 724,
           "deceased": 25,
@@ -77,18 +110,27 @@
         }
       },
       "Other State": {
+        "delta": {
+          "confirmed": 28
+        },
         "total": {
           "confirmed": 446,
           "recovered": 197
         }
       },
       "Prakasam": {
+        "delta": {
+          "confirmed": 1
+        },
         "total": {
           "confirmed": 80,
           "recovered": 66
         }
       },
       "S.P.S. Nellore": {
+        "delta": {
+          "confirmed": 16
+        },
         "total": {
           "confirmed": 255,
           "deceased": 4,
@@ -110,6 +152,9 @@
         }
       },
       "Visakhapatnam": {
+        "delta": {
+          "confirmed": 4
+        },
         "total": {
           "confirmed": 105,
           "deceased": 1,
@@ -117,12 +162,18 @@
         }
       },
       "Vizianagaram": {
+        "delta": {
+          "confirmed": 2
+        },
         "total": {
           "confirmed": 26,
           "recovered": 4
         }
       },
       "West Godavari": {
+        "delta": {
+          "confirmed": 8
+        },
         "total": {
           "confirmed": 107,
           "deceased": 0,
@@ -130,6 +181,10 @@
         }
       },
       "Y.S.R. Kadapa": {
+        "delta": {
+          "confirmed": 3,
+          "recovered": 3
+        },
         "total": {
           "confirmed": 119,
           "recovered": 108
@@ -137,7 +192,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-01T14:23:12+05:30",
+      "last_updated": "2020-06-01T14:35:06+05:30",
       "notes": "Total includes patients from other states and a new category \"Foreign Evacuees\" which is now reported in AP bulletin. <br>\nAP district data updated to match state dashboard as of 27th May.",
       "tested": {
         "last_updated": "2020-05-31",
@@ -180,7 +235,7 @@
   },
   "AS": {
     "delta": {
-      "confirmed": 22
+      "confirmed": 45
     },
     "districts": {
       "Baksa": {
@@ -189,6 +244,9 @@
         }
       },
       "Barpeta": {
+        "delta": {
+          "confirmed": 11
+        },
         "total": {
           "confirmed": 42,
           "recovered": 8
@@ -225,6 +283,9 @@
         }
       },
       "Darrang": {
+        "delta": {
+          "confirmed": 3
+        },
         "total": {
           "confirmed": 13
         }
@@ -238,6 +299,9 @@
         }
       },
       "Dhubri": {
+        "delta": {
+          "confirmed": 3
+        },
         "total": {
           "confirmed": 37,
           "recovered": 5
@@ -349,6 +413,9 @@
         }
       },
       "Sonitpur": {
+        "delta": {
+          "confirmed": 1
+        },
         "total": {
           "confirmed": 20
         }
@@ -368,6 +435,9 @@
         }
       },
       "Udalguri": {
+        "delta": {
+          "confirmed": 5
+        },
         "total": {
           "confirmed": 24
         }
@@ -387,7 +457,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-01T14:23:15+05:30",
+      "last_updated": "2020-06-01T14:35:08+05:30",
       "notes": "Includes one case from Nagaland <br>\nTotal of three* patients who migrated to other states has been reduced from Active count",
       "tested": {
         "last_updated": "2020-05-31",
@@ -1250,6 +1320,9 @@
     }
   },
   "HP": {
+    "delta": {
+      "confirmed": 2
+    },
     "districts": {
       "Bilaspur": {
         "total": {
@@ -1304,6 +1377,9 @@
         }
       },
       "Solan": {
+        "delta": {
+          "confirmed": 2
+        },
         "total": {
           "confirmed": 32,
           "deceased": 1,
@@ -2524,8 +2600,14 @@
     }
   },
   "MN": {
+    "delta": {
+      "confirmed": 7
+    },
     "districts": {
       "Bishnupur": {
+        "delta": {
+          "confirmed": 2
+        },
         "total": {
           "confirmed": 2
         }
@@ -2564,11 +2646,17 @@
         }
       },
       "Senapati": {
+        "delta": {
+          "confirmed": 2
+        },
         "total": {
           "confirmed": 2
         }
       },
       "Thoubal": {
+        "delta": {
+          "confirmed": 3
+        },
         "total": {
           "confirmed": 3,
           "recovered": 2
@@ -2587,7 +2675,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-01T14:22:51+05:30",
+      "last_updated": "2020-06-01T14:35:13+05:30",
       "tested": {
         "last_updated": "2020-05-29",
         "source": "https://twitter.com/DiprManipur/status/1266385249669222400?s=19"
@@ -4295,6 +4383,9 @@
     }
   },
   "TR": {
+    "delta": {
+      "confirmed": 5
+    },
     "districts": {
       "Dhalai": {
         "total": {
@@ -4334,6 +4425,9 @@
         }
       },
       "Unassigned": {
+        "delta": {
+          "confirmed": 5
+        },
         "total": {
           "confirmed": 5
         }
@@ -4351,7 +4445,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-01T14:23:17+05:30",
+      "last_updated": "2020-06-01T14:35:11+05:30",
       "notes": "Two cases have migrated out of Tripura.",
       "tested": {
         "last_updated": "2020-05-31",
@@ -4367,13 +4461,13 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 315,
-      "deceased": 4,
-      "recovered": 11,
+      "confirmed": 457,
+      "deceased": 6,
+      "recovered": 45,
       "tested": 100180
     },
     "meta": {
-      "last_updated": "2020-06-01T14:23:09+05:30",
+      "last_updated": "2020-06-01T14:35:03+05:30",
       "tested": {
         "last_updated": "2020-06-01",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/253"

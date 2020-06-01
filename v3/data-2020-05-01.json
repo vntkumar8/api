@@ -31,110 +31,87 @@
   },
   "AP": {
     "delta": {
-      "confirmed": 165,
-      "deceased": 4,
-      "recovered": 116,
+      "confirmed": 60,
+      "deceased": 2,
+      "recovered": 82,
       "tested": 7902
     },
     "districts": {
       "Anantapur": {
         "delta": {
-          "confirmed": 10,
-          "recovered": 11
+          "confirmed": 6,
+          "recovered": 2
         },
         "total": {
-          "confirmed": 71,
+          "confirmed": 67,
           "deceased": 4,
-          "recovered": 31
+          "recovered": 22
         }
       },
       "Chittoor": {
         "delta": {
-          "confirmed": 5,
-          "recovered": 10
+          "recovered": 6
         },
         "total": {
-          "confirmed": 85,
-          "recovered": 26
+          "confirmed": 80,
+          "recovered": 22
         }
       },
       "East Godavari": {
         "delta": {
-          "confirmed": 18,
-          "recovered": 4
+          "recovered": 3
         },
         "total": {
-          "confirmed": 60,
-          "recovered": 18
-        }
-      },
-      "Foreign Evacuees": {
-        "delta": {
-          "confirmed": 1
-        },
-        "total": {
-          "confirmed": 1
+          "confirmed": 42,
+          "recovered": 17
         }
       },
       "Guntur": {
         "delta": {
-          "confirmed": 26,
-          "recovered": 17
+          "confirmed": 19,
+          "recovered": 10
         },
         "total": {
-          "confirmed": 313,
+          "confirmed": 306,
           "deceased": 8,
-          "recovered": 104
+          "recovered": 97
         }
       },
       "Krishna": {
         "delta": {
-          "confirmed": 7,
-          "recovered": 9
+          "recovered": 5
         },
         "total": {
-          "confirmed": 253,
+          "confirmed": 246,
           "deceased": 8,
-          "recovered": 41
+          "recovered": 37
         }
       },
       "Kurnool": {
         "delta": {
-          "confirmed": 26,
-          "deceased": 3,
-          "recovered": 29
+          "confirmed": 25,
+          "deceased": 1,
+          "recovered": 23
         },
         "total": {
-          "confirmed": 412,
-          "deceased": 12,
-          "recovered": 72
-        }
-      },
-      "Other State": {
-        "delta": {
-          "confirmed": 28
-        },
-        "total": {
-          "confirmed": 28
+          "confirmed": 411,
+          "deceased": 10,
+          "recovered": 66
         }
       },
       "Prakasam": {
-        "delta": {
-          "confirmed": 1
-        },
         "total": {
-          "confirmed": 61,
+          "confirmed": 60,
           "recovered": 23
         }
       },
       "S.P.S. Nellore": {
         "delta": {
-          "confirmed": 16,
           "deceased": 1,
           "recovered": 16
         },
         "total": {
-          "confirmed": 100,
+          "confirmed": 84,
           "deceased": 3,
           "recovered": 43
         }
@@ -148,41 +125,33 @@
       },
       "Visakhapatnam": {
         "delta": {
-          "confirmed": 6
+          "confirmed": 2
         },
         "total": {
-          "confirmed": 29,
+          "confirmed": 25,
           "deceased": 0,
           "recovered": 20
         }
       },
-      "Vizianagaram": {
-        "delta": {
-          "confirmed": 2
-        },
-        "total": {
-          "confirmed": 2
-        }
-      },
       "West Godavari": {
         "delta": {
-          "confirmed": 10,
+          "confirmed": 2,
           "recovered": 8
         },
         "total": {
-          "confirmed": 66,
+          "confirmed": 58,
           "deceased": 0,
           "recovered": 19
         }
       },
       "Y.S.R. Kadapa": {
         "delta": {
-          "confirmed": 9,
-          "recovered": 12
+          "confirmed": 6,
+          "recovered": 9
         },
         "total": {
-          "confirmed": 82,
-          "recovered": 40
+          "confirmed": 79,
+          "recovered": 37
         }
       }
     },
@@ -193,9 +162,9 @@
       }
     },
     "total": {
-      "confirmed": 1568,
-      "deceased": 35,
-      "recovered": 437,
+      "confirmed": 1463,
+      "deceased": 33,
+      "recovered": 403,
       "tested": 102460
     }
   },
@@ -225,18 +194,9 @@
   },
   "AS": {
     "delta": {
-      "confirmed": 23,
       "recovered": 4
     },
     "districts": {
-      "Barpeta": {
-        "delta": {
-          "confirmed": 11
-        },
-        "total": {
-          "confirmed": 11
-        }
-      },
       "Bongaigaon": {
         "total": {
           "confirmed": 5
@@ -248,20 +208,9 @@
           "recovered": 1
         }
       },
-      "Darrang": {
-        "delta": {
-          "confirmed": 3
-        },
-        "total": {
-          "confirmed": 3
-        }
-      },
       "Dhubri": {
-        "delta": {
-          "confirmed": 3
-        },
         "total": {
-          "confirmed": 8,
+          "confirmed": 5,
           "recovered": 4
         }
       },
@@ -333,26 +282,10 @@
           "recovered": 1
         }
       },
-      "Sonitpur": {
-        "delta": {
-          "confirmed": 1
-        },
-        "total": {
-          "confirmed": 1
-        }
-      },
       "South Salmara Mankachar": {
         "total": {
           "confirmed": 1,
           "recovered": 1
-        }
-      },
-      "Udalguri": {
-        "delta": {
-          "confirmed": 5
-        },
-        "total": {
-          "confirmed": 5
         }
       }
     },
@@ -363,7 +296,7 @@
       }
     },
     "total": {
-      "confirmed": 66,
+      "confirmed": 43,
       "deceased": 1,
       "recovered": 33,
       "tested": 9520
@@ -1097,7 +1030,6 @@
   },
   "HP": {
     "delta": {
-      "confirmed": 2,
       "recovered": 2,
       "tested": 339
     },
@@ -1136,11 +1068,8 @@
         }
       },
       "Solan": {
-        "delta": {
-          "confirmed": 2
-        },
         "total": {
-          "confirmed": 11,
+          "confirmed": 9,
           "deceased": 1,
           "recovered": 5
         }
@@ -1159,7 +1088,7 @@
       }
     },
     "total": {
-      "confirmed": 42,
+      "confirmed": 40,
       "deceased": 2,
       "migrated": 3,
       "recovered": 30,
@@ -2321,18 +2250,9 @@
   },
   "MN": {
     "delta": {
-      "confirmed": 7,
       "tested": 2
     },
     "districts": {
-      "Bishnupur": {
-        "delta": {
-          "confirmed": 2
-        },
-        "total": {
-          "confirmed": 2
-        }
-      },
       "Imphal East": {
         "total": {
           "confirmed": 1,
@@ -2344,22 +2264,6 @@
           "confirmed": 1,
           "recovered": 1
         }
-      },
-      "Senapati": {
-        "delta": {
-          "confirmed": 2
-        },
-        "total": {
-          "confirmed": 2
-        }
-      },
-      "Thoubal": {
-        "delta": {
-          "confirmed": 3
-        },
-        "total": {
-          "confirmed": 3
-        }
       }
     },
     "meta": {
@@ -2369,7 +2273,7 @@
       }
     },
     "total": {
-      "confirmed": 9,
+      "confirmed": 2,
       "recovered": 2,
       "tested": 461
     }
@@ -3927,7 +3831,6 @@
   },
   "TR": {
     "delta": {
-      "confirmed": 5,
       "tested": 1613
     },
     "districts": {
@@ -3942,14 +3845,6 @@
           "confirmed": 1,
           "recovered": 1
         }
-      },
-      "Unassigned": {
-        "delta": {
-          "confirmed": 5
-        },
-        "total": {
-          "confirmed": 5
-        }
       }
     },
     "meta": {
@@ -3959,17 +3854,17 @@
       }
     },
     "total": {
-      "confirmed": 8,
+      "confirmed": 3,
       "recovered": 2,
       "tested": 4828
     }
   },
   "TT": {
     "delta": {
-      "confirmed": 2538,
-      "deceased": 79,
+      "confirmed": 2396,
+      "deceased": 77,
       "migrated": 1,
-      "recovered": 996,
+      "recovered": 962,
       "tested": 72453
     },
     "meta": {
@@ -3979,10 +3874,10 @@
       }
     },
     "total": {
-      "confirmed": 37405,
-      "deceased": 1233,
+      "confirmed": 37263,
+      "deceased": 1231,
       "migrated": 4,
-      "recovered": 10055,
+      "recovered": 10021,
       "tested": 902654
     }
   },
