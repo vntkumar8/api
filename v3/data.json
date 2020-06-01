@@ -860,7 +860,8 @@
   "CH": {
     "delta": {
       "confirmed": 1,
-      "recovered": 1
+      "recovered": 1,
+      "tested": 31
     },
     "districts": {
       "Chandigarh": {
@@ -878,15 +879,15 @@
     "meta": {
       "last_updated": "2020-06-01T15:08:05+05:30",
       "tested": {
-        "last_updated": "2020-05-31",
-        "source": "https://t.me/indiacovid/5993"
+        "last_updated": "2020-06-01",
+        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/260"
       }
     },
     "total": {
       "confirmed": 294,
       "deceased": 4,
       "recovered": 200,
-      "tested": 4785
+      "tested": 4816
     }
   },
   "CT": {
@@ -1060,7 +1061,7 @@
   "DL": {
     "delta": {
       "confirmed": 990,
-      "deceased": 12,
+      "deceased": 50,
       "recovered": 268,
       "tested": 4753
     },
@@ -1119,12 +1120,12 @@
       "Unassigned": {
         "delta": {
           "confirmed": 990,
-          "deceased": 12,
+          "deceased": 50,
           "recovered": 268
         },
         "total": {
           "confirmed": 17916,
-          "deceased": 430,
+          "deceased": 468,
           "recovered": 7869
         }
       },
@@ -1135,7 +1136,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-01T20:14:05+05:30",
+      "last_updated": "2020-06-01T20:34:05+05:30",
       "notes": "[10-May]<br>\n\nDelhi bulletins in the morning, containing data of the previous day. We will add that data to the date on which the report is released, rather than the previous day.",
       "tested": {
         "last_updated": "2020-06-01",
@@ -1144,7 +1145,7 @@
     },
     "total": {
       "confirmed": 20834,
-      "deceased": 485,
+      "deceased": 523,
       "recovered": 8746,
       "tested": 217537
     }
@@ -1199,7 +1200,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-01T20:23:26+05:30",
+      "last_updated": "2020-06-01T20:34:10+05:30",
       "tested": {
         "last_updated": "2020-05-31",
         "source": "https://twitter.com/DHS_Goa/status/1267090834458984448/photo/1"
@@ -1764,7 +1765,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-01T20:23:24+05:30",
+      "last_updated": "2020-06-01T20:34:07+05:30",
       "tested": {
         "last_updated": "2020-06-01",
         "source": "http://www.nhmharyana.gov.in/WriteReadData/userfiles/file/CoronaVirus/Media%20Bulleitin%2001-06-2020%20Evening.pdf"
@@ -5119,12 +5120,12 @@
   "TT": {
     "delta": {
       "confirmed": 4052,
-      "deceased": 50,
+      "deceased": 88,
       "recovered": 1642,
       "tested": 100180
     },
     "meta": {
-      "last_updated": "2020-06-01T20:23:05+05:30",
+      "last_updated": "2020-06-01T20:34:03+05:30",
       "tested": {
         "last_updated": "2020-06-01",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/253"
@@ -5132,7 +5133,7 @@
     },
     "total": {
       "confirmed": 194700,
-      "deceased": 5457,
+      "deceased": 5495,
       "migrated": 11,
       "recovered": 93504,
       "tested": 3837207
