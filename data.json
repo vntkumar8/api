@@ -1099,26 +1099,26 @@
 			"totalrecovered": "86934"
 		},
 		{
-			"dailyconfirmed": "8750",
+			"dailyconfirmed": "8763",
 			"dailydeceased": "223",
-			"dailyrecovered": "4918",
+			"dailyrecovered": "4921",
 			"date": "31 May ",
-			"totalconfirmed": "190610",
+			"totalconfirmed": "190623",
 			"totaldeceased": "5407",
-			"totalrecovered": "91852"
+			"totalrecovered": "91855"
 		}
 	],
 	"statewise": [
 		{
-			"active": "93338",
-			"confirmed": "190609",
+			"active": "93348",
+			"confirmed": "190622",
 			"deaths": "5408",
-			"deltaconfirmed": "8750",
+			"deltaconfirmed": "8763",
 			"deltadeaths": "223",
-			"deltarecovered": "4918",
-			"lastupdatedtime": "01/06/2020 01:25:03",
+			"deltarecovered": "4921",
+			"lastupdatedtime": "01/06/2020 06:07:54",
 			"migratedother": "",
-			"recovered": "91852",
+			"recovered": "91855",
 			"state": "Total",
 			"statecode": "TT",
 			"statenotes": ""
@@ -1460,15 +1460,15 @@
 			"statenotes": ""
 		},
 		{
-			"active": "144",
+			"active": "143",
 			"confirmed": "316",
 			"deaths": "0",
 			"deltaconfirmed": "45",
 			"deltadeaths": "0",
-			"deltarecovered": "0",
-			"lastupdatedtime": "31/05/2020 21:29:10",
+			"deltarecovered": "1",
+			"lastupdatedtime": "01/06/2020 06:07:57",
 			"migratedother": "",
-			"recovered": "172",
+			"recovered": "173",
 			"state": "Tripura",
 			"statecode": "TR",
 			"statenotes": "Two cases have migrated out of Tripura."
@@ -1516,15 +1516,15 @@
 			"statenotes": ""
 		},
 		{
-			"active": "34",
-			"confirmed": "57",
+			"active": "45",
+			"confirmed": "70",
 			"deaths": "0",
-			"deltaconfirmed": "0",
+			"deltaconfirmed": "13",
 			"deltadeaths": "0",
-			"deltarecovered": "0",
-			"lastupdatedtime": "30/05/2020 23:04:08",
+			"deltarecovered": "2",
+			"lastupdatedtime": "01/06/2020 06:07:58",
 			"migratedother": "",
-			"recovered": "23",
+			"recovered": "25",
 			"state": "Puducherry",
 			"statecode": "PY",
 			"statenotes": ""
