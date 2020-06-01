@@ -121,9 +121,7 @@
       },
       "Srikakulam": {
         "total": {
-          "confirmed": 5,
-          "deceased": 0,
-          "recovered": 0
+          "confirmed": 5
         }
       },
       "Visakhapatnam": {
@@ -152,7 +150,6 @@
         },
         "total": {
           "confirmed": 68,
-          "deceased": 0,
           "recovered": 33
         }
       },
@@ -656,11 +653,6 @@
           "recovered": 28
         }
       },
-      "Raigarh": {
-        "total": {
-          "confirmed": 0
-        }
-      },
       "Raipur": {
         "delta": {
           "recovered": 1
@@ -928,14 +920,12 @@
         },
         "total": {
           "confirmed": 14,
-          "deceased": 0,
           "recovered": 13
         }
       },
       "Dahod": {
         "total": {
           "confirmed": 19,
-          "deceased": 0,
           "recovered": 2
         }
       },
@@ -966,7 +956,6 @@
         },
         "total": {
           "confirmed": 4,
-          "deceased": 0,
           "recovered": 3
         }
       },
@@ -976,8 +965,7 @@
         },
         "total": {
           "confirmed": 16,
-          "deceased": 1,
-          "recovered": 0
+          "deceased": 1
         }
       },
       "Junagadh": {
@@ -1022,14 +1010,12 @@
       "Morbi": {
         "total": {
           "confirmed": 1,
-          "deceased": 0,
           "recovered": 1
         }
       },
       "Narmada": {
         "total": {
           "confirmed": 12,
-          "deceased": 0,
           "recovered": 12
         }
       },
@@ -1039,7 +1025,6 @@
         },
         "total": {
           "confirmed": 8,
-          "deceased": 0,
           "recovered": 5
         }
       },
@@ -1071,7 +1056,6 @@
       "Porbandar": {
         "total": {
           "confirmed": 3,
-          "deceased": 0,
           "recovered": 3
         }
       },
@@ -1116,7 +1100,6 @@
         },
         "total": {
           "confirmed": 2,
-          "deceased": 0,
           "recovered": 2
         }
       },
@@ -1161,11 +1144,6 @@
       "tested": 517
     },
     "districts": {
-      "Bilaspur": {
-        "total": {
-          "confirmed": 0
-        }
-      },
       "Chamba": {
         "delta": {
           "confirmed": 1
@@ -1452,9 +1430,6 @@
         }
       },
       "Dhanbad": {
-        "delta": {
-          "confirmed": 0
-        },
         "total": {
           "confirmed": 2,
           "recovered": 2
@@ -2085,7 +2060,6 @@
       "Beed": {
         "total": {
           "confirmed": 1,
-          "deceased": 0,
           "recovered": 1
         }
       },
@@ -2107,7 +2081,6 @@
       "Chandrapur": {
         "total": {
           "confirmed": 4,
-          "deceased": 0,
           "recovered": 2
         }
       },
@@ -2124,14 +2097,12 @@
       "Gondia": {
         "total": {
           "confirmed": 1,
-          "deceased": 0,
           "recovered": 1
         }
       },
       "Hingoli": {
         "total": {
           "confirmed": 58,
-          "deceased": 0,
           "recovered": 1
         }
       },
@@ -2152,7 +2123,6 @@
         },
         "total": {
           "confirmed": 12,
-          "deceased": 0,
           "recovered": 1
         }
       },
@@ -2195,8 +2165,7 @@
       "Nanded": {
         "total": {
           "confirmed": 32,
-          "deceased": 2,
-          "recovered": 0
+          "deceased": 2
         }
       },
       "Nandurbar": {
@@ -2226,8 +2195,7 @@
       "Other State": {
         "total": {
           "confirmed": 34,
-          "deceased": 8,
-          "recovered": 0
+          "deceased": 8
         }
       },
       "Palghar": {
@@ -2306,7 +2274,6 @@
         },
         "total": {
           "confirmed": 5,
-          "deceased": 0,
           "recovered": 1
         }
       },
@@ -2332,23 +2299,12 @@
           "recovered": 359
         }
       },
-      "Unassigned": {
-        "delta": {
-          "confirmed": 0,
-          "deceased": 0
-        },
-        "total": {
-          "confirmed": 0,
-          "deceased": 0
-        }
-      },
       "Washim": {
         "delta": {
           "recovered": -1
         },
         "total": {
           "confirmed": 1,
-          "deceased": 0,
           "recovered": 1
         }
       },
@@ -2358,7 +2314,6 @@
         },
         "total": {
           "confirmed": 95,
-          "deceased": 0,
           "recovered": 19
         }
       }
@@ -2464,7 +2419,6 @@
       "Barwani": {
         "total": {
           "confirmed": 26,
-          "deceased": 0,
           "recovered": 23
         }
       },
@@ -2592,11 +2546,6 @@
           "confirmed": 1
         }
       },
-      "Katni": {
-        "total": {
-          "confirmed": 0
-        }
-      },
       "Khandwa": {
         "delta": {
           "confirmed": 2
@@ -2638,16 +2587,6 @@
           "confirmed": 5
         }
       },
-      "Niwari": {
-        "total": {
-          "confirmed": 0
-        }
-      },
-      "Other Region": {
-        "total": {
-          "confirmed": 0
-        }
-      },
       "Panna": {
         "total": {
           "confirmed": 1
@@ -2661,11 +2600,6 @@
           "confirmed": 64,
           "deceased": 3,
           "recovered": 24
-        }
-      },
-      "Rajgarh": {
-        "total": {
-          "confirmed": 0
         }
       },
       "Ratlam": {
@@ -2791,7 +2725,6 @@
     "delta": {
       "tested": 19
     },
-    "districts": {},
     "meta": {
       "tested": {
         "last_updated": "2020-05-08",
@@ -2975,7 +2908,6 @@
       "Faridkot": {
         "total": {
           "confirmed": 45,
-          "deceased": 0,
           "recovered": 3
         }
       },
@@ -2985,7 +2917,6 @@
         },
         "total": {
           "confirmed": 24,
-          "deceased": 0,
           "recovered": 2
         }
       },
@@ -3007,8 +2938,7 @@
         },
         "total": {
           "confirmed": 115,
-          "deceased": 1,
-          "recovered": 0
+          "deceased": 1
         }
       },
       "Hoshiarpur": {
@@ -3051,14 +2981,12 @@
         },
         "total": {
           "confirmed": 20,
-          "deceased": 0,
           "recovered": 5
         }
       },
       "Moga": {
         "total": {
           "confirmed": 56,
-          "deceased": 0,
           "recovered": 4
         }
       },
@@ -3097,7 +3025,6 @@
       "Sangrur": {
         "total": {
           "confirmed": 88,
-          "deceased": 0,
           "recovered": 3
         }
       },
@@ -3123,11 +3050,6 @@
         },
         "total": {
           "confirmed": 157
-        }
-      },
-      "Unassigned": {
-        "total": {
-          "confirmed": 0
         }
       }
     },
@@ -3396,8 +3318,7 @@
       "Other State": {
         "total": {
           "confirmed": 2,
-          "deceased": 2,
-          "recovered": 0
+          "deceased": 2
         }
       },
       "Pali": {
@@ -3485,10 +3406,6 @@
     }
   },
   "SK": {
-    "delta": {
-      "tested": 0
-    },
-    "districts": {},
     "meta": {
       "tested": {
         "last_updated": "2020-05-08",
@@ -3511,14 +3428,12 @@
         },
         "total": {
           "confirmed": 21,
-          "deceased": 0,
           "recovered": 13
         }
       },
       "Bhadradri Kothagudem": {
         "total": {
           "confirmed": 4,
-          "deceased": 0,
           "recovered": 4
         }
       },
@@ -3536,22 +3451,18 @@
       "Jagtial": {
         "total": {
           "confirmed": 4,
-          "deceased": 0,
           "recovered": 2
         }
       },
       "Jangaon": {
         "total": {
           "confirmed": 3,
-          "deceased": 0,
           "recovered": 1
         }
       },
       "Jayashankar Bhupalapally": {
         "total": {
-          "confirmed": 3,
-          "deceased": 0,
-          "recovered": 0
+          "confirmed": 3
         }
       },
       "Jogulamba Gadwal": {
@@ -3567,50 +3478,42 @@
       "Kamareddy": {
         "total": {
           "confirmed": 12,
-          "deceased": 0,
           "recovered": 8
         }
       },
       "Karimnagar": {
         "total": {
           "confirmed": 19,
-          "deceased": 0,
           "recovered": 15
         }
       },
       "Khammam": {
         "total": {
           "confirmed": 8,
-          "deceased": 0,
           "recovered": 3
         }
       },
       "Komaram Bheem": {
         "total": {
-          "confirmed": 7,
-          "deceased": 0,
-          "recovered": 0
+          "confirmed": 7
         }
       },
       "Mahabubabad": {
         "total": {
           "confirmed": 1,
-          "deceased": 0,
           "recovered": 1
         }
       },
       "Mahabubnagar": {
         "total": {
           "confirmed": 11,
-          "deceased": 0,
           "recovered": 8
         }
       },
       "Mancherial": {
         "total": {
           "confirmed": 1,
-          "deceased": 1,
-          "recovered": 0
+          "deceased": 1
         }
       },
       "Medak": {
@@ -3619,7 +3522,6 @@
         },
         "total": {
           "confirmed": 5,
-          "deceased": 0,
           "recovered": 4
         }
       },
@@ -3636,35 +3538,30 @@
       "Mulugu": {
         "total": {
           "confirmed": 2,
-          "deceased": 0,
           "recovered": 2
         }
       },
       "Nagarkurnool": {
         "total": {
           "confirmed": 2,
-          "deceased": 0,
           "recovered": 2
         }
       },
       "Nalgonda": {
         "total": {
           "confirmed": 17,
-          "deceased": 0,
           "recovered": 12
         }
       },
       "Narayanpet": {
         "total": {
           "confirmed": 1,
-          "deceased": 1,
-          "recovered": 0
+          "deceased": 1
         }
       },
       "Nirmal": {
         "total": {
           "confirmed": 20,
-          "deceased": 0,
           "recovered": 12
         }
       },
@@ -3674,7 +3571,6 @@
         },
         "total": {
           "confirmed": 61,
-          "deceased": 0,
           "recovered": 30
         }
       },
@@ -3686,7 +3582,6 @@
       "Peddapalli": {
         "total": {
           "confirmed": 2,
-          "deceased": 0,
           "recovered": 1
         }
       },
@@ -3696,7 +3591,6 @@
         },
         "total": {
           "confirmed": 3,
-          "deceased": 0,
           "recovered": 1
         }
       },
@@ -3713,14 +3607,12 @@
       "Sangareddy": {
         "total": {
           "confirmed": 7,
-          "deceased": 0,
           "recovered": 6
         }
       },
       "Siddipet": {
         "total": {
           "confirmed": 1,
-          "deceased": 0,
           "recovered": 1
         }
       },
@@ -3730,7 +3622,6 @@
         },
         "total": {
           "confirmed": 83,
-          "deceased": 0,
           "recovered": 15
         }
       },
@@ -3751,32 +3642,10 @@
           "recovered": 13
         }
       },
-      "Wanaparthy": {
-        "total": {
-          "confirmed": 0,
-          "deceased": 0,
-          "recovered": 0
-        }
-      },
-      "Warangal Rural": {
-        "total": {
-          "confirmed": 0,
-          "deceased": 0,
-          "recovered": 0
-        }
-      },
       "Warangal Urban": {
         "total": {
           "confirmed": 27,
-          "deceased": 0,
           "recovered": 22
-        }
-      },
-      "Yadadri Bhuvanagiri": {
-        "total": {
-          "confirmed": 0,
-          "deceased": 0,
-          "recovered": 0
         }
       }
     },
@@ -3909,8 +3778,7 @@
           "confirmed": 2
         },
         "total": {
-          "confirmed": 10,
-          "recovered": 0
+          "confirmed": 10
         }
       },
       "Madurai": {

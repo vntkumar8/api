@@ -305,9 +305,6 @@
     }
   },
   "OR": {
-    "delta": {
-      "tested": 0
-    },
     "meta": {
       "tested": {
         "last_updated": "2020-04-08",
@@ -350,8 +347,7 @@
     "delta": {
       "confirmed": 40,
       "deceased": 1,
-      "recovered": 20,
-      "tested": 0
+      "recovered": 20
     },
     "meta": {
       "tested": {
@@ -430,8 +426,7 @@
     },
     "meta": {
       "tested": {
-        "last_updated": "2020-04-05",
-        "source": ""
+        "last_updated": "2020-04-05"
       }
     },
     "total": {
@@ -448,8 +443,7 @@
     },
     "meta": {
       "tested": {
-        "last_updated": "2020-04-07",
-        "source": ""
+        "last_updated": "2020-04-07"
       }
     },
     "total": {

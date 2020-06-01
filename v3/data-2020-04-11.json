@@ -174,8 +174,7 @@
   "HP": {
     "delta": {
       "confirmed": 4,
-      "recovered": 6,
-      "tested": 0
+      "recovered": 6
     },
     "meta": {
       "tested": {
@@ -348,9 +347,6 @@
     }
   },
   "NL": {
-    "delta": {
-      "tested": 0
-    },
     "meta": {
       "tested": {
         "last_updated": "2020-04-11",
