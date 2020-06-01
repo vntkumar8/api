@@ -36,43 +36,43 @@
     "districts": {
       "Anantapur": {
         "total": {
-          "confirmed": 136,
+          "confirmed": 140,
           "deceased": 4,
-          "recovered": 92
+          "recovered": 101
         }
       },
       "Chittoor": {
         "total": {
-          "confirmed": 208,
+          "confirmed": 213,
           "deceased": 1,
-          "recovered": 97
+          "recovered": 101
         }
       },
       "East Godavari": {
         "total": {
-          "confirmed": 59,
-          "recovered": 43
+          "confirmed": 77,
+          "recovered": 44
         }
       },
       "Guntur": {
         "total": {
-          "confirmed": 426,
+          "confirmed": 433,
           "deceased": 8,
-          "recovered": 328
+          "recovered": 335
         }
       },
       "Krishna": {
         "total": {
-          "confirmed": 396,
+          "confirmed": 403,
           "deceased": 15,
-          "recovered": 280
+          "recovered": 284
         }
       },
       "Kurnool": {
         "total": {
-          "confirmed": 638,
-          "deceased": 21,
-          "recovered": 447
+          "confirmed": 639,
+          "deceased": 23,
+          "recovered": 453
         }
       },
       "Other State": {
@@ -83,7 +83,7 @@
       },
       "Prakasam": {
         "total": {
-          "confirmed": 67,
+          "confirmed": 68,
           "recovered": 63
         }
       },
@@ -92,7 +92,7 @@
           "deceased": 1
         },
         "total": {
-          "confirmed": 182,
+          "confirmed": 198,
           "deceased": 4,
           "recovered": 103
         }
@@ -116,28 +116,28 @@
       },
       "Visakhapatnam": {
         "total": {
-          "confirmed": 81,
+          "confirmed": 85,
           "deceased": 1,
           "recovered": 47
         }
       },
       "Vizianagaram": {
         "total": {
-          "confirmed": 16,
+          "confirmed": 18,
           "recovered": 4
         }
       },
       "West Godavari": {
         "total": {
-          "confirmed": 75,
+          "confirmed": 83,
           "deceased": 0,
           "recovered": 54
         }
       },
       "Y.S.R. Kadapa": {
         "total": {
-          "confirmed": 107,
-          "recovered": 76
+          "confirmed": 110,
+          "recovered": 79
         }
       }
     },
@@ -148,9 +148,9 @@
       }
     },
     "total": {
-      "confirmed": 2605,
-      "deceased": 54,
-      "recovered": 1705,
+      "confirmed": 2681,
+      "deceased": 56,
+      "recovered": 1739,
       "tested": 275704
     }
   },
@@ -4952,10 +4952,10 @@
       }
     },
     "total": {
-      "confirmed": 118226,
-      "deceased": 3584,
+      "confirmed": 118302,
+      "deceased": 3586,
       "migrated": 7,
-      "recovered": 48553,
+      "recovered": 48587,
       "tested": 2615920
     }
   },

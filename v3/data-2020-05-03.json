@@ -44,9 +44,9 @@
           "confirmed": 7
         },
         "total": {
-          "confirmed": 78,
+          "confirmed": 82,
           "deceased": 4,
-          "recovered": 24
+          "recovered": 33
         }
       },
       "Chittoor": {
@@ -55,8 +55,8 @@
           "recovered": 13
         },
         "total": {
-          "confirmed": 81,
-          "recovered": 37
+          "confirmed": 86,
+          "recovered": 41
         }
       },
       "East Godavari": {
@@ -64,8 +64,8 @@
           "recovered": 3
         },
         "total": {
-          "confirmed": 45,
-          "recovered": 20
+          "confirmed": 63,
+          "recovered": 21
         }
       },
       "Guntur": {
@@ -74,9 +74,9 @@
           "recovered": 18
         },
         "total": {
-          "confirmed": 319,
+          "confirmed": 326,
           "deceased": 8,
-          "recovered": 115
+          "recovered": 122
         }
       },
       "Krishna": {
@@ -85,9 +85,9 @@
           "recovered": 2
         },
         "total": {
-          "confirmed": 266,
+          "confirmed": 273,
           "deceased": 8,
-          "recovered": 46
+          "recovered": 50
         }
       },
       "Kurnool": {
@@ -96,14 +96,14 @@
           "recovered": 11
         },
         "total": {
-          "confirmed": 466,
-          "deceased": 10,
-          "recovered": 77
+          "confirmed": 467,
+          "deceased": 12,
+          "recovered": 83
         }
       },
       "Prakasam": {
         "total": {
-          "confirmed": 61,
+          "confirmed": 62,
           "recovered": 42
         }
       },
@@ -112,7 +112,7 @@
           "confirmed": 1
         },
         "total": {
-          "confirmed": 91,
+          "confirmed": 107,
           "deceased": 3,
           "recovered": 44
         }
@@ -126,22 +126,27 @@
       },
       "Visakhapatnam": {
         "total": {
-          "confirmed": 29,
+          "confirmed": 33,
           "deceased": 0,
           "recovered": 20
         }
       },
+      "Vizianagaram": {
+        "total": {
+          "confirmed": 2
+        }
+      },
       "West Godavari": {
         "total": {
-          "confirmed": 59,
+          "confirmed": 67,
           "deceased": 0,
           "recovered": 26
         }
       },
       "Y.S.R. Kadapa": {
         "total": {
-          "confirmed": 83,
-          "recovered": 37
+          "confirmed": 86,
+          "recovered": 40
         }
       }
     },
@@ -152,9 +157,9 @@
       }
     },
     "total": {
-      "confirmed": 1583,
-      "deceased": 33,
-      "recovered": 488,
+      "confirmed": 1659,
+      "deceased": 35,
+      "recovered": 522,
       "tested": 114937
     }
   },
@@ -3908,10 +3913,10 @@
       }
     },
     "total": {
-      "confirmed": 42781,
-      "deceased": 1463,
+      "confirmed": 42857,
+      "deceased": 1465,
       "migrated": 4,
-      "recovered": 11763,
+      "recovered": 11797,
       "tested": 1046450
     }
   },

@@ -31,23 +31,23 @@
     "districts": {
       "Anantapur": {
         "total": {
-          "confirmed": 216,
+          "confirmed": 220,
           "deceased": 4,
-          "recovered": 141
+          "recovered": 150
         }
       },
       "Chittoor": {
         "total": {
-          "confirmed": 257,
+          "confirmed": 262,
           "deceased": 2,
-          "recovered": 187
+          "recovered": 191
         }
       },
       "East Godavari": {
         "total": {
-          "confirmed": 206,
+          "confirmed": 224,
           "deceased": 2,
-          "recovered": 52
+          "recovered": 53
         }
       },
       "Foreign Evacuees": {
@@ -57,23 +57,23 @@
       },
       "Guntur": {
         "total": {
-          "confirmed": 489,
+          "confirmed": 496,
           "deceased": 8,
-          "recovered": 383
+          "recovered": 390
         }
       },
       "Krishna": {
         "total": {
-          "confirmed": 470,
+          "confirmed": 477,
           "deceased": 18,
-          "recovered": 323
+          "recovered": 327
         }
       },
       "Kurnool": {
         "total": {
-          "confirmed": 723,
-          "deceased": 23,
-          "recovered": 559
+          "confirmed": 724,
+          "deceased": 25,
+          "recovered": 565
         }
       },
       "Other State": {
@@ -84,13 +84,13 @@
       },
       "Prakasam": {
         "total": {
-          "confirmed": 79,
+          "confirmed": 80,
           "recovered": 66
         }
       },
       "S.P.S. Nellore": {
         "total": {
-          "confirmed": 239,
+          "confirmed": 255,
           "deceased": 4,
           "recovered": 179
         }
@@ -111,33 +111,33 @@
       },
       "Visakhapatnam": {
         "total": {
-          "confirmed": 101,
+          "confirmed": 105,
           "deceased": 1,
           "recovered": 70
         }
       },
       "Vizianagaram": {
         "total": {
-          "confirmed": 24,
+          "confirmed": 26,
           "recovered": 4
         }
       },
       "West Godavari": {
         "total": {
-          "confirmed": 99,
+          "confirmed": 107,
           "deceased": 0,
           "recovered": 57
         }
       },
       "Y.S.R. Kadapa": {
         "total": {
-          "confirmed": 116,
-          "recovered": 105
+          "confirmed": 119,
+          "recovered": 108
         }
       }
     },
     "meta": {
-      "last_updated": "2020-05-31T17:47:05+05:30",
+      "last_updated": "2020-06-01T14:13:06+05:30",
       "notes": "Total includes patients from other states and a new category \"Foreign Evacuees\" which is now reported in AP bulletin. <br>\nAP district data updated to match state dashboard as of 27th May.",
       "tested": {
         "last_updated": "2020-05-31",
@@ -145,9 +145,9 @@
       }
     },
     "total": {
-      "confirmed": 3571,
-      "deceased": 62,
-      "recovered": 2340,
+      "confirmed": 3647,
+      "deceased": 64,
+      "recovered": 2374,
       "tested": 372748
     }
   },
@@ -4362,17 +4362,17 @@
       "tested": 100180
     },
     "meta": {
-      "last_updated": "2020-06-01T13:06:04+05:30",
+      "last_updated": "2020-06-01T14:13:03+05:30",
       "tested": {
         "last_updated": "2020-06-01",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/253"
       }
     },
     "total": {
-      "confirmed": 190965,
-      "deceased": 5411,
+      "confirmed": 191041,
+      "deceased": 5413,
       "migrated": 11,
-      "recovered": 91873,
+      "recovered": 91907,
       "tested": 3837207
     }
   },
