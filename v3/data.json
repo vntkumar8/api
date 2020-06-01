@@ -179,6 +179,9 @@
     }
   },
   "AS": {
+    "delta": {
+      "confirmed": 22
+    },
     "districts": {
       "Baksa": {
         "total": {
@@ -209,8 +212,11 @@
         }
       },
       "Charaideo": {
+        "delta": {
+          "confirmed": 1
+        },
         "total": {
-          "confirmed": 9
+          "confirmed": 10
         }
       },
       "Chirang": {
@@ -224,8 +230,11 @@
         }
       },
       "Dhemaji": {
+        "delta": {
+          "confirmed": 4
+        },
         "total": {
-          "confirmed": 14
+          "confirmed": 18
         }
       },
       "Dhubri": {
@@ -235,8 +244,11 @@
         }
       },
       "Dibrugarh": {
+        "delta": {
+          "confirmed": 14
+        },
         "total": {
-          "confirmed": 18
+          "confirmed": 32
         }
       },
       "Dima Hasao": {
@@ -348,8 +360,11 @@
         }
       },
       "Tinsukia": {
+        "delta": {
+          "confirmed": 3
+        },
         "total": {
-          "confirmed": 42
+          "confirmed": 45
         }
       },
       "Udalguri": {
@@ -372,7 +387,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-01T01:25:05+05:30",
+      "last_updated": "2020-06-01T12:12:06+05:30",
       "notes": "Includes one case from Nagaland <br>\nTotal of three* patients who migrated to other states has been reduced from Active count",
       "tested": {
         "last_updated": "2020-05-31",
@@ -380,7 +395,7 @@
       }
     },
     "total": {
-      "confirmed": 1340,
+      "confirmed": 1362,
       "deceased": 4,
       "migrated": 3,
       "recovered": 186,
@@ -4292,18 +4307,18 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 144,
+      "confirmed": 166,
       "tested": 100180
     },
     "meta": {
-      "last_updated": "2020-06-01T09:55:03+05:30",
+      "last_updated": "2020-06-01T12:12:03+05:30",
       "tested": {
         "last_updated": "2020-06-01",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/253"
       }
     },
     "total": {
-      "confirmed": 190791,
+      "confirmed": 190813,
       "deceased": 5408,
       "migrated": 11,
       "recovered": 91855,
