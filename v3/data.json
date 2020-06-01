@@ -526,7 +526,7 @@
   },
   "BR": {
     "delta": {
-      "confirmed": 65,
+      "confirmed": 138,
       "recovered": 221,
       "tested": 2353
     },
@@ -580,11 +580,11 @@
       },
       "Bhagalpur": {
         "delta": {
-          "confirmed": 6,
+          "confirmed": 8,
           "recovered": 14
         },
         "total": {
-          "confirmed": 181,
+          "confirmed": 183,
           "deceased": 1,
           "recovered": 67
         }
@@ -611,19 +611,20 @@
       },
       "Darbhanga": {
         "delta": {
-          "confirmed": 14
+          "confirmed": 16
         },
         "total": {
-          "confirmed": 102,
+          "confirmed": 104,
           "recovered": 15
         }
       },
       "East Champaran": {
         "delta": {
+          "confirmed": 9,
           "recovered": 6
         },
         "total": {
-          "confirmed": 97,
+          "confirmed": 106,
           "deceased": 1,
           "recovered": 35
         }
@@ -640,10 +641,11 @@
       },
       "Gopalganj": {
         "delta": {
+          "confirmed": 3,
           "recovered": 7
         },
         "total": {
-          "confirmed": 109,
+          "confirmed": 112,
           "recovered": 74
         }
       },
@@ -658,76 +660,81 @@
       },
       "Jehanabad": {
         "delta": {
-          "confirmed": 2,
+          "confirmed": 4,
           "recovered": 32
         },
         "total": {
-          "confirmed": 159,
+          "confirmed": 161,
           "deceased": 1,
           "recovered": 83
         }
       },
       "Kaimur": {
         "delta": {
-          "confirmed": -3
+          "confirmed": -2
         },
         "total": {
-          "confirmed": 77,
+          "confirmed": 78,
           "recovered": 35
         }
       },
       "Katihar": {
         "delta": {
-          "confirmed": 4,
+          "confirmed": 14,
           "recovered": 17
         },
         "total": {
-          "confirmed": 140,
+          "confirmed": 150,
           "recovered": 47
         }
       },
       "Khagaria": {
         "delta": {
-          "confirmed": -1,
+          "confirmed": 12,
           "recovered": 1
         },
         "total": {
-          "confirmed": 156,
+          "confirmed": 169,
           "deceased": 3,
           "recovered": 72
         }
       },
       "Kishanganj": {
         "delta": {
-          "confirmed": 5
+          "confirmed": 7
         },
         "total": {
-          "confirmed": 70,
+          "confirmed": 72,
           "recovered": 13
         }
       },
       "Lakhisarai": {
+        "delta": {
+          "confirmed": 1
+        },
         "total": {
-          "confirmed": 37,
+          "confirmed": 38,
           "recovered": 15
         }
       },
       "Madhepura": {
         "delta": {
+          "confirmed": 3,
           "recovered": 1
         },
         "total": {
-          "confirmed": 80,
+          "confirmed": 83,
           "deceased": 1,
           "recovered": 35
         }
       },
       "Madhubani": {
         "delta": {
+          "confirmed": 5,
           "recovered": 2
         },
         "total": {
-          "confirmed": 190,
+          "confirmed": 195,
           "recovered": 63
         }
       },
@@ -770,11 +777,11 @@
       },
       "Patna": {
         "delta": {
-          "confirmed": 1,
+          "confirmed": 3,
           "recovered": 35
         },
         "total": {
-          "confirmed": 252,
+          "confirmed": 254,
           "deceased": 2,
           "recovered": 137
         }
@@ -790,18 +797,22 @@
         }
       },
       "Rohtas": {
+        "delta": {
+          "confirmed": 2
+        },
         "total": {
-          "confirmed": 206,
+          "confirmed": 208,
           "deceased": 1,
           "recovered": 121
         }
       },
       "Saharsa": {
         "delta": {
+          "confirmed": 2,
           "recovered": 22
         },
         "total": {
-          "confirmed": 65,
+          "confirmed": 67,
           "recovered": 46
         }
       },
@@ -817,8 +828,11 @@
         }
       },
       "Saran": {
+        "delta": {
+          "confirmed": 3
+        },
         "total": {
-          "confirmed": 76,
+          "confirmed": 79,
           "deceased": 1,
           "recovered": 19
         }
@@ -850,31 +864,31 @@
       },
       "Siwan": {
         "delta": {
-          "confirmed": 8,
+          "confirmed": 9,
           "recovered": 7
         },
         "total": {
-          "confirmed": 88,
+          "confirmed": 89,
           "deceased": 2,
           "recovered": 48
         }
       },
       "Supaul": {
         "delta": {
-          "confirmed": -1
+          "confirmed": 8
         },
         "total": {
-          "confirmed": 72,
+          "confirmed": 81,
           "recovered": 24
         }
       },
       "Vaishali": {
         "delta": {
-          "confirmed": 2,
+          "confirmed": 3,
           "recovered": 1
         },
         "total": {
-          "confirmed": 68,
+          "confirmed": 69,
           "deceased": 2,
           "recovered": 28
         }
@@ -890,14 +904,14 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-01T19:05:06+05:30",
+      "last_updated": "2020-06-01T23:13:06+05:30",
       "tested": {
         "last_updated": "2020-06-01",
         "source": "https://twitter.com/PIB_Patna/status/1267426736121110528"
       }
     },
     "total": {
-      "confirmed": 3872,
+      "confirmed": 3945,
       "deceased": 23,
       "recovered": 1741,
       "tested": 78090
@@ -1265,7 +1279,8 @@
   },
   "GA": {
     "delta": {
-      "confirmed": 2
+      "confirmed": 2,
+      "recovered": 6
     },
     "districts": {
       "North Goa": {
@@ -1282,16 +1297,17 @@
       },
       "Unassigned": {
         "delta": {
-          "confirmed": 2
+          "confirmed": 2,
+          "recovered": 6
         },
         "total": {
           "confirmed": 49,
-          "recovered": 37
+          "recovered": 43
         }
       }
     },
     "meta": {
-      "last_updated": "2020-06-01T20:35:11+05:30",
+      "last_updated": "2020-06-01T23:13:09+05:30",
       "tested": {
         "last_updated": "2020-05-31",
         "source": "https://twitter.com/DHS_Goa/status/1267090834458984448/photo/1"
@@ -1299,7 +1315,7 @@
     },
     "total": {
       "confirmed": 73,
-      "recovered": 44,
+      "recovered": 50,
       "tested": 19491
     }
   },
@@ -3219,6 +3235,7 @@
   },
   "ML": {
     "delta": {
+      "confirmed": 1,
       "tested": 346
     },
     "districts": {
@@ -3235,8 +3252,11 @@
         }
       },
       "South West Garo Hills": {
+        "delta": {
+          "confirmed": 1
+        },
         "total": {
-          "confirmed": 3
+          "confirmed": 4
         }
       },
       "Unassigned": {
@@ -3256,14 +3276,14 @@
       }
     },
     "meta": {
-      "last_updated": "2020-05-30T11:12:07+05:30",
+      "last_updated": "2020-06-01T23:13:11+05:30",
       "tested": {
         "last_updated": "2020-06-01",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/259"
       }
     },
     "total": {
-      "confirmed": 27,
+      "confirmed": 28,
       "deceased": 1,
       "recovered": 12,
       "tested": 8127
@@ -5519,23 +5539,23 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 7492,
+      "confirmed": 7566,
       "deceased": 201,
-      "recovered": 3747,
+      "recovered": 3753,
       "tested": 100180
     },
     "meta": {
-      "last_updated": "2020-06-01T23:03:03+05:30",
+      "last_updated": "2020-06-01T23:13:03+05:30",
       "tested": {
         "last_updated": "2020-06-01",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/253"
       }
     },
     "total": {
-      "confirmed": 198140,
+      "confirmed": 198214,
       "deceased": 5608,
       "migrated": 11,
-      "recovered": 95609,
+      "recovered": 95615,
       "tested": 3837207
     }
   },
@@ -6308,7 +6328,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-01T23:03:06+05:30",
+      "last_updated": "2020-06-01T23:04:07+05:30",
       "tested": {
         "last_updated": "2020-05-31",
         "source": "https://t.me/indiacovid/6025?single"
