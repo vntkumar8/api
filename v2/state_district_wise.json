@@ -453,12 +453,12 @@
       {
         "district": "Namsai",
         "notes": "",
-        "active": 1,
-        "confirmed": 1,
+        "active": 2,
+        "confirmed": 2,
         "deceased": 0,
         "recovered": 0,
         "delta": {
-          "confirmed": 1,
+          "confirmed": 2,
           "deceased": 0,
           "recovered": 0
         }
@@ -609,8 +609,8 @@
       {
         "district": "Unknown",
         "notes": "",
-        "active": 3,
-        "confirmed": 3,
+        "active": 2,
+        "confirmed": 2,
         "deceased": 0,
         "recovered": 0,
         "delta": {
@@ -1608,12 +1608,12 @@
       {
         "district": "Balod",
         "notes": "",
-        "active": 16,
-        "confirmed": 27,
+        "active": 17,
+        "confirmed": 28,
         "deceased": 0,
         "recovered": 11,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
@@ -1647,12 +1647,12 @@
       {
         "district": "Bametara",
         "notes": "",
-        "active": 13,
-        "confirmed": 15,
+        "active": 18,
+        "confirmed": 20,
         "deceased": 0,
         "recovered": 2,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 5,
           "deceased": 0,
           "recovered": 0
         }
@@ -1686,14 +1686,14 @@
       {
         "district": "Bilaspur",
         "notes": "",
-        "active": 47,
-        "confirmed": 50,
+        "active": 55,
+        "confirmed": 61,
         "deceased": 0,
-        "recovered": 3,
+        "recovered": 6,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 11,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 3
         }
       },
       {
@@ -1712,14 +1712,14 @@
       {
         "district": "Dhamtari",
         "notes": "",
-        "active": 3,
-        "confirmed": 3,
+        "active": 5,
+        "confirmed": 6,
         "deceased": 0,
-        "recovered": 0,
+        "recovered": 1,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 3,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 1
         }
       },
       {
@@ -1738,12 +1738,12 @@
       {
         "district": "Gariaband",
         "notes": "",
-        "active": 1,
-        "confirmed": 5,
+        "active": 2,
+        "confirmed": 6,
         "deceased": 0,
         "recovered": 4,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
@@ -1764,12 +1764,12 @@
       {
         "district": "Jashpur",
         "notes": "",
-        "active": 32,
-        "confirmed": 32,
+        "active": 41,
+        "confirmed": 41,
         "deceased": 0,
         "recovered": 0,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 9,
           "deceased": 0,
           "recovered": 0
         }
@@ -1803,12 +1803,12 @@
       {
         "district": "Korba",
         "notes": "",
-        "active": 15,
-        "confirmed": 47,
+        "active": 19,
+        "confirmed": 51,
         "deceased": 0,
         "recovered": 32,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 4,
           "deceased": 0,
           "recovered": 0
         }
@@ -1843,13 +1843,13 @@
         "district": "Mungeli",
         "notes": "",
         "active": 81,
-        "confirmed": 82,
+        "confirmed": 84,
         "deceased": 0,
-        "recovered": 1,
+        "recovered": 3,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 2,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 2
         }
       },
       {
@@ -1868,12 +1868,12 @@
       {
         "district": "Raigarh",
         "notes": "",
-        "active": 15,
-        "confirmed": 15,
+        "active": 20,
+        "confirmed": 20,
         "deceased": 0,
         "recovered": 0,
         "delta": {
-          "confirmed": 2,
+          "confirmed": 7,
           "deceased": 0,
           "recovered": 0
         }
@@ -1881,12 +1881,12 @@
       {
         "district": "Raipur",
         "notes": "",
-        "active": 6,
-        "confirmed": 15,
+        "active": 9,
+        "confirmed": 18,
         "deceased": 1,
         "recovered": 8,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 3,
           "deceased": 0,
           "recovered": 0
         }
@@ -1933,25 +1933,25 @@
       {
         "district": "Surguja",
         "notes": "",
-        "active": 9,
+        "active": 8,
         "confirmed": 9,
         "deceased": 0,
-        "recovered": 0,
+        "recovered": 1,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 1
         }
       },
       {
         "district": "Uttar Bastar Kanker",
         "notes": "",
-        "active": 17,
-        "confirmed": 20,
+        "active": 18,
+        "confirmed": 21,
         "deceased": 0,
         "recovered": 3,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
@@ -2153,12 +2153,12 @@
       {
         "district": "Dadra and Nagar Haveli",
         "notes": "",
-        "active": 1,
-        "confirmed": 2,
+        "active": 2,
+        "confirmed": 3,
         "deceased": 0,
         "recovered": 1,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }

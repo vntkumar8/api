@@ -224,10 +224,10 @@
       },
       "Namsai": {
         "delta": {
-          "confirmed": 1
+          "confirmed": 2
         },
         "total": {
-          "confirmed": 1
+          "confirmed": 2
         }
       },
       "Tawang": {
@@ -239,8 +239,11 @@
         }
       },
       "Unassigned": {
+        "delta": {
+          "confirmed": -1
+        },
         "total": {
-          "confirmed": 3
+          "confirmed": 2
         }
       }
     },
@@ -935,12 +938,16 @@
   },
   "CT": {
     "delta": {
-      "confirmed": 5
+      "confirmed": 50,
+      "recovered": 7
     },
     "districts": {
       "Balod": {
+        "delta": {
+          "confirmed": 1
+        },
         "total": {
-          "confirmed": 27,
+          "confirmed": 28,
           "recovered": 11
         }
       },
@@ -956,8 +963,11 @@
         }
       },
       "Bametara": {
+        "delta": {
+          "confirmed": 5
+        },
         "total": {
-          "confirmed": 15,
+          "confirmed": 20,
           "recovered": 2
         }
       },
@@ -967,14 +977,23 @@
         }
       },
       "Bilaspur": {
-        "total": {
-          "confirmed": 50,
+        "delta": {
+          "confirmed": 11,
           "recovered": 3
+        },
+        "total": {
+          "confirmed": 61,
+          "recovered": 6
         }
       },
       "Dhamtari": {
+        "delta": {
+          "confirmed": 3,
+          "recovered": 1
+        },
         "total": {
-          "confirmed": 3
+          "confirmed": 6,
+          "recovered": 1
         }
       },
       "Durg": {
@@ -987,8 +1006,11 @@
         }
       },
       "Gariaband": {
+        "delta": {
+          "confirmed": 1
+        },
         "total": {
-          "confirmed": 5,
+          "confirmed": 6,
           "recovered": 4
         }
       },
@@ -1004,8 +1026,11 @@
         }
       },
       "Jashpur": {
+        "delta": {
+          "confirmed": 9
+        },
         "total": {
-          "confirmed": 32
+          "confirmed": 41
         }
       },
       "Kabeerdham": {
@@ -1015,8 +1040,11 @@
         }
       },
       "Korba": {
+        "delta": {
+          "confirmed": 4
+        },
         "total": {
-          "confirmed": 47,
+          "confirmed": 51,
           "recovered": 32
         }
       },
@@ -1035,22 +1063,29 @@
         }
       },
       "Mungeli": {
+        "delta": {
+          "confirmed": 2,
+          "recovered": 2
+        },
         "total": {
-          "confirmed": 82,
-          "recovered": 1
+          "confirmed": 84,
+          "recovered": 3
         }
       },
       "Raigarh": {
         "delta": {
-          "confirmed": 2
+          "confirmed": 7
         },
         "total": {
-          "confirmed": 15
+          "confirmed": 20
         }
       },
       "Raipur": {
+        "delta": {
+          "confirmed": 3
+        },
         "total": {
-          "confirmed": 15,
+          "confirmed": 18,
           "deceased": 1,
           "recovered": 8
         }
@@ -1071,8 +1106,12 @@
         }
       },
       "Surguja": {
+        "delta": {
+          "recovered": 1
+        },
         "total": {
-          "confirmed": 9
+          "confirmed": 9,
+          "recovered": 1
         }
       },
       "Unassigned": {
@@ -1081,23 +1120,26 @@
         }
       },
       "Uttar Bastar Kanker": {
+        "delta": {
+          "confirmed": 1
+        },
         "total": {
-          "confirmed": 20,
+          "confirmed": 21,
           "recovered": 3
         }
       }
     },
     "meta": {
-      "last_updated": "2020-06-01T09:45:06+05:30",
+      "last_updated": "2020-06-01T22:37:07+05:30",
       "tested": {
         "last_updated": "2020-05-31",
         "source": "https://twitter.com/HealthCgGov/status/1267113754824634370"
       }
     },
     "total": {
-      "confirmed": 503,
+      "confirmed": 548,
       "deceased": 1,
-      "recovered": 114,
+      "recovered": 121,
       "tested": 69152
     }
   },
@@ -1194,23 +1236,29 @@
     }
   },
   "DN": {
+    "delta": {
+      "confirmed": 1
+    },
     "districts": {
       "Dadra and Nagar Haveli": {
+        "delta": {
+          "confirmed": 1
+        },
         "total": {
-          "confirmed": 2,
+          "confirmed": 3,
           "recovered": 1
         }
       }
     },
     "meta": {
-      "last_updated": "2020-05-23T23:47:25+05:30",
+      "last_updated": "2020-06-01T22:37:10+05:30",
       "tested": {
         "last_updated": "2020-05-29",
         "source": "https://twitter.com/DnhPublicity/status/1266433661370617856?s=19"
       }
     },
     "total": {
-      "confirmed": 2,
+      "confirmed": 3,
       "recovered": 1,
       "tested": 11477
     }
@@ -5471,23 +5519,23 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 7160,
+      "confirmed": 7206,
       "deceased": 196,
-      "recovered": 3553,
+      "recovered": 3560,
       "tested": 100180
     },
     "meta": {
-      "last_updated": "2020-06-01T22:14:03+05:30",
+      "last_updated": "2020-06-01T22:38:03+05:30",
       "tested": {
         "last_updated": "2020-06-01",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/253"
       }
     },
     "total": {
-      "confirmed": 197808,
+      "confirmed": 197854,
       "deceased": 5603,
       "migrated": 11,
-      "recovered": 95415,
+      "recovered": 95422,
       "tested": 3837207
     }
   },
