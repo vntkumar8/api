@@ -1106,19 +1106,28 @@
 			"totalconfirmed": "190649",
 			"totaldeceased": "5406",
 			"totalrecovered": "91862"
+		},
+		{
+			"dailyconfirmed": "7695",
+			"dailydeceased": "201",
+			"dailyrecovered": "3892",
+			"date": "01 June ",
+			"totalconfirmed": "198344",
+			"totaldeceased": "5607",
+			"totalrecovered": "95754"
 		}
 	],
 	"statewise": [
 		{
-			"active": "96984",
-			"confirmed": "198317",
+			"active": "96970",
+			"confirmed": "198343",
 			"deaths": "5608",
-			"deltaconfirmed": "7669",
+			"deltaconfirmed": "7695",
 			"deltadeaths": "201",
-			"deltarecovered": "3852",
-			"lastupdatedtime": "01/06/2020 23:43:03",
+			"deltarecovered": "3892",
+			"lastupdatedtime": "02/06/2020 00:23:03",
 			"migratedother": "",
-			"recovered": "95714",
+			"recovered": "95754",
 			"state": "Total",
 			"statecode": "TT",
 			"statenotes": ""
@@ -1404,15 +1413,15 @@
 			"statenotes": "Three migrated cases reduced from Active count"
 		},
 		{
-			"active": "374",
-			"confirmed": "635",
+			"active": "360",
+			"confirmed": "661",
 			"deaths": "5",
-			"deltaconfirmed": "0",
+			"deltaconfirmed": "26",
 			"deltadeaths": "0",
-			"deltarecovered": "0",
-			"lastupdatedtime": "01/06/2020 09:55:07",
+			"deltarecovered": "40",
+			"lastupdatedtime": "02/06/2020 00:23:08",
 			"migratedother": "",
-			"recovered": "256",
+			"recovered": "296",
 			"state": "Jharkhand",
 			"statecode": "JH",
 			"statenotes": ""
