@@ -1361,7 +1361,7 @@
   },
   "HP": {
     "delta": {
-      "confirmed": 2
+      "confirmed": 7
     },
     "districts": {
       "Bilaspur": {
@@ -1371,14 +1371,20 @@
         }
       },
       "Chamba": {
+        "delta": {
+          "confirmed": 3
+        },
         "total": {
-          "confirmed": 20,
+          "confirmed": 23,
           "recovered": 11
         }
       },
       "Hamirpur": {
+        "delta": {
+          "confirmed": 1
+        },
         "total": {
-          "confirmed": 111,
+          "confirmed": 112,
           "deceased": 1,
           "recovered": 30
         }
@@ -1397,8 +1403,11 @@
         }
       },
       "Mandi": {
+        "delta": {
+          "confirmed": 1
+        },
         "total": {
-          "confirmed": 12,
+          "confirmed": 13,
           "deceased": 2,
           "recovered": 4
         }
@@ -1434,7 +1443,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-01T13:06:08+05:30",
+      "last_updated": "2020-06-01T18:36:19+05:30",
       "notes": "HP has 4 Migrated cases which are reduced from Active #. Also, death of Tibetan refugee is included in deceased numbers, but not in confirmed",
       "tested": {
         "last_updated": "2020-05-31",
@@ -1442,7 +1451,7 @@
       }
     },
     "total": {
-      "confirmed": 333,
+      "confirmed": 338,
       "deceased": 6,
       "migrated": 3,
       "recovered": 116,
@@ -2023,17 +2032,12 @@
         }
       },
       "Dharwad": {
-        "total": {
-          "confirmed": 46,
-          "recovered": 11
-        }
-      },
-      "Dharwada": {
         "delta": {
           "confirmed": 2
         },
         "total": {
-          "confirmed": 2
+          "confirmed": 48,
+          "recovered": 11
         }
       },
       "Gadag": {
@@ -2185,7 +2189,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-05-31T19:35:04+05:30",
+      "last_updated": "2020-06-01T18:37:00+05:30",
       "notes": "Two active cases in KA reduced as these confirmed patients died of non-CoViD19 related reasons",
       "tested": {
         "last_updated": "2020-05-31",
@@ -2359,7 +2363,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-01T18:14:08+05:30",
+      "last_updated": "2020-06-01T18:25:49+05:30",
       "notes": "Mahe native who expired in Kannur included in Kerala's tally",
       "tested": {
         "last_updated": "2020-05-31",
@@ -4584,20 +4588,20 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 952,
+      "confirmed": 957,
       "deceased": 8,
       "recovered": 183,
       "tested": 100180
     },
     "meta": {
-      "last_updated": "2020-06-01T18:14:05+05:30",
+      "last_updated": "2020-06-01T18:36:38+05:30",
       "tested": {
         "last_updated": "2020-06-01",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/253"
       }
     },
     "total": {
-      "confirmed": 191600,
+      "confirmed": 191605,
       "deceased": 5415,
       "migrated": 11,
       "recovered": 92045,
