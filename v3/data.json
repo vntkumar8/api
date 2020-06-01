@@ -144,7 +144,7 @@
           "recovered": 9
         }
       },
-      "Unassigned": {
+      "Unknown": {
         "total": {
           "recovered": 8
         }
@@ -238,7 +238,7 @@
           "confirmed": 1
         }
       },
-      "Unassigned": {
+      "Unknown": {
         "delta": {
           "confirmed": -1
         },
@@ -494,7 +494,7 @@
           "confirmed": 24
         }
       },
-      "Unassigned": {
+      "Unknown": {
         "delta": {
           "confirmed": 30,
           "recovered": 99
@@ -1132,7 +1132,7 @@
           "recovered": 1
         }
       },
-      "Unassigned": {
+      "Unknown": {
         "total": {
           "confirmed": 2
         }
@@ -1220,7 +1220,7 @@
           "confirmed": 42
         }
       },
-      "Unassigned": {
+      "Unknown": {
         "delta": {
           "confirmed": 990,
           "deceased": 50,
@@ -1300,7 +1300,7 @@
           "recovered": 1
         }
       },
-      "Unassigned": {
+      "Unknown": {
         "delta": {
           "confirmed": 2,
           "recovered": 6
@@ -2601,7 +2601,7 @@
           "recovered": 63
         }
       },
-      "Unassigned": {
+      "Unknown": {
         "total": {
           "migrated": 2
         }
@@ -2792,7 +2792,7 @@
           "recovered": 18
         }
       },
-      "Unassigned": {
+      "Unknown": {
         "total": {
           "confirmed": 7
         }
@@ -3265,7 +3265,7 @@
           "confirmed": 4
         }
       },
-      "Unassigned": {
+      "Unknown": {
         "total": {
           "confirmed": 5
         }
@@ -3370,7 +3370,7 @@
           "confirmed": 3
         }
       },
-      "Unassigned": {
+      "Unknown": {
         "delta": {
           "confirmed": 3
         },
@@ -3869,6 +3869,9 @@
     }
   },
   "NL": {
+    "delta": {
+      "tested": 206
+    },
     "districts": {
       "Dimapur": {
         "total": {
@@ -3889,13 +3892,12 @@
     "meta": {
       "last_updated": "2020-05-31T10:44:06+05:30",
       "tested": {
-        "last_updated": "2020-05-31",
-        "source": "https://twitter.com/MyGovNagaland/status/1267086358004281347?s=20"
+        "last_updated": "2020-06-01"
       }
     },
     "total": {
       "confirmed": 43,
-      "tested": 2576
+      "tested": 2782
     }
   },
   "OR": {
@@ -4408,7 +4410,7 @@
           "recovered": 19
         }
       },
-      "Unassigned": {
+      "Unknown": {
         "delta": {
           "confirmed": 6
         },
@@ -5026,7 +5028,7 @@
           "recovered": 24
         }
       },
-      "Unassigned": {
+      "Unknown": {
         "delta": {
           "deceased": 6,
           "recovered": 63
@@ -5426,7 +5428,7 @@
           "recovered": 145
         }
       },
-      "Unassigned": {
+      "Unknown": {
         "total": {
           "deceased": 1,
           "recovered": -25
@@ -5517,7 +5519,7 @@
           "confirmed": 8
         }
       },
-      "Unassigned": {
+      "Unknown": {
         "delta": {
           "confirmed": 102
         },
@@ -5538,7 +5540,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-01T23:38:08+05:30",
+      "last_updated": "2020-06-01T23:43:08+05:30",
       "notes": "Two cases have migrated out of Tripura.",
       "tested": {
         "last_updated": "2020-05-31",
@@ -6461,7 +6463,7 @@
           "recovered": 39
         }
       },
-      "Unassigned": {
+      "Unknown": {
         "total": {
           "migrated": 3
         }
@@ -6724,7 +6726,7 @@
           "recovered": 82
         }
       },
-      "Unassigned": {
+      "Unknown": {
         "total": {
           "confirmed": -223,
           "deceased": -20,
