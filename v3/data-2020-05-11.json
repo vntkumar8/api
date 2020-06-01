@@ -58,6 +58,11 @@
           "recovered": 32
         }
       },
+      "Foreign Evacuees": {
+        "total": {
+          "confirmed": 1
+        }
+      },
       "Guntur": {
         "delta": {
           "confirmed": 5,
@@ -93,7 +98,7 @@
       },
       "Other State": {
         "total": {
-          "confirmed": 27
+          "confirmed": 55
         }
       },
       "Prakasam": {
@@ -162,7 +167,7 @@
       }
     },
     "total": {
-      "confirmed": 2094,
+      "confirmed": 2123,
       "deceased": 47,
       "recovered": 1032,
       "tested": 181144
@@ -199,6 +204,11 @@
       "tested": 1587
     },
     "districts": {
+      "Barpeta": {
+        "total": {
+          "confirmed": 11
+        }
+      },
       "Bongaigaon": {
         "delta": {
           "recovered": 5
@@ -214,9 +224,14 @@
           "recovered": 1
         }
       },
+      "Darrang": {
+        "total": {
+          "confirmed": 3
+        }
+      },
       "Dhubri": {
         "total": {
-          "confirmed": 5,
+          "confirmed": 8,
           "recovered": 5
         }
       },
@@ -297,10 +312,20 @@
           "recovered": 1
         }
       },
+      "Sonitpur": {
+        "total": {
+          "confirmed": 1
+        }
+      },
       "South Salmara Mankachar": {
         "total": {
           "confirmed": 1,
           "recovered": 1
+        }
+      },
+      "Udalguri": {
+        "total": {
+          "confirmed": 5
         }
       }
     },
@@ -311,7 +336,7 @@
       }
     },
     "total": {
-      "confirmed": 65,
+      "confirmed": 88,
       "deceased": 2,
       "recovered": 40,
       "tested": 19589
@@ -2445,6 +2470,11 @@
       "tested": 241
     },
     "districts": {
+      "Bishnupur": {
+        "total": {
+          "confirmed": 2
+        }
+      },
       "Imphal East": {
         "total": {
           "confirmed": 1,
@@ -2456,6 +2486,16 @@
           "confirmed": 1,
           "recovered": 1
         }
+      },
+      "Senapati": {
+        "total": {
+          "confirmed": 2
+        }
+      },
+      "Thoubal": {
+        "total": {
+          "confirmed": 3
+        }
       }
     },
     "meta": {
@@ -2465,7 +2505,7 @@
       }
     },
     "total": {
-      "confirmed": 2,
+      "confirmed": 9,
       "recovered": 2,
       "tested": 1337
     }
@@ -4263,6 +4303,11 @@
           "migrated": 0,
           "recovered": 1
         }
+      },
+      "Unassigned": {
+        "total": {
+          "confirmed": 5
+        }
       }
     },
     "meta": {
@@ -4272,7 +4317,7 @@
       }
     },
     "total": {
-      "confirmed": 152,
+      "confirmed": 157,
       "migrated": 0,
       "recovered": 2,
       "tested": 9596
@@ -4292,7 +4337,7 @@
       }
     },
     "total": {
-      "confirmed": 70847,
+      "confirmed": 70911,
       "deceased": 2297,
       "migrated": 4,
       "recovered": 22583,

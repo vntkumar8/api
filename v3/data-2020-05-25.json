@@ -58,7 +58,7 @@
           "confirmed": 62
         },
         "total": {
-          "confirmed": 62
+          "confirmed": 63
         }
       },
       "Guntur": {
@@ -87,7 +87,7 @@
           "recovered": 10
         },
         "total": {
-          "confirmed": 153,
+          "confirmed": 181,
           "recovered": 36
         }
       },
@@ -156,7 +156,7 @@
       }
     },
     "total": {
-      "confirmed": 2962,
+      "confirmed": 2991,
       "deceased": 58,
       "recovered": 1926,
       "tested": 314566
@@ -203,7 +203,7 @@
           "confirmed": 9
         },
         "total": {
-          "confirmed": 13
+          "confirmed": 24
         }
       },
       "Biswanath": {
@@ -233,7 +233,7 @@
       },
       "Darrang": {
         "total": {
-          "confirmed": 1
+          "confirmed": 4
         }
       },
       "Dhemaji": {
@@ -246,7 +246,7 @@
       },
       "Dhubri": {
         "total": {
-          "confirmed": 8,
+          "confirmed": 11,
           "recovered": 5
         }
       },
@@ -387,7 +387,7 @@
       },
       "Sonitpur": {
         "total": {
-          "confirmed": 14
+          "confirmed": 15
         }
       },
       "South Salmara Mankachar": {
@@ -409,7 +409,7 @@
       },
       "Udalguri": {
         "total": {
-          "confirmed": 2
+          "confirmed": 7
         }
       },
       "Unassigned": {
@@ -436,7 +436,7 @@
       }
     },
     "total": {
-      "confirmed": 549,
+      "confirmed": 572,
       "deceased": 4,
       "migrated": 3,
       "recovered": 63,
@@ -3127,6 +3127,11 @@
       "tested": 947
     },
     "districts": {
+      "Bishnupur": {
+        "total": {
+          "confirmed": 2
+        }
+      },
       "Churachandpur": {
         "delta": {
           "confirmed": 1
@@ -3155,6 +3160,16 @@
           "confirmed": 1
         }
       },
+      "Senapati": {
+        "total": {
+          "confirmed": 2
+        }
+      },
+      "Thoubal": {
+        "total": {
+          "confirmed": 3
+        }
+      },
       "Unassigned": {
         "delta": {
           "confirmed": 2
@@ -3172,7 +3187,7 @@
       }
     },
     "total": {
-      "confirmed": 36,
+      "confirmed": 43,
       "recovered": 4,
       "tested": 5041
     }
@@ -5277,7 +5292,7 @@
           "confirmed": 4
         },
         "total": {
-          "confirmed": 7
+          "confirmed": 12
         }
       },
       "Unokoti": {
@@ -5298,7 +5313,7 @@
       }
     },
     "total": {
-      "confirmed": 198,
+      "confirmed": 203,
       "migrated": 0,
       "recovered": 165,
       "tested": 20871
@@ -5319,7 +5334,7 @@
       }
     },
     "total": {
-      "confirmed": 145028,
+      "confirmed": 145092,
       "deceased": 4176,
       "migrated": 11,
       "recovered": 60740,

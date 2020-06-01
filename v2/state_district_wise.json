@@ -70,8 +70,8 @@
       {
         "district": "Foreign Evacuees",
         "notes": "",
-        "active": 111,
-        "confirmed": 111,
+        "active": 112,
+        "confirmed": 112,
         "deceased": 0,
         "recovered": 0,
         "delta": {
@@ -161,8 +161,8 @@
       {
         "district": "Other State",
         "notes": "",
-        "active": 221,
-        "confirmed": 418,
+        "active": 249,
+        "confirmed": 446,
         "deceased": 0,
         "recovered": 197,
         "delta": {
@@ -641,8 +641,8 @@
       {
         "district": "Barpeta",
         "notes": "",
-        "active": 23,
-        "confirmed": 31,
+        "active": 34,
+        "confirmed": 42,
         "deceased": 0,
         "recovered": 8,
         "delta": {
@@ -719,8 +719,8 @@
       {
         "district": "Darrang",
         "notes": "",
-        "active": 10,
-        "confirmed": 10,
+        "active": 13,
+        "confirmed": 13,
         "deceased": 0,
         "recovered": 0,
         "delta": {
@@ -745,8 +745,8 @@
       {
         "district": "Dhubri",
         "notes": "",
-        "active": 29,
-        "confirmed": 34,
+        "active": 32,
+        "confirmed": 37,
         "deceased": 0,
         "recovered": 5,
         "delta": {
@@ -1005,8 +1005,8 @@
       {
         "district": "Sonitpur",
         "notes": "",
-        "active": 19,
-        "confirmed": 19,
+        "active": 20,
+        "confirmed": 20,
         "deceased": 0,
         "recovered": 0,
         "delta": {
@@ -1044,8 +1044,8 @@
       {
         "district": "Udalguri",
         "notes": "",
-        "active": 19,
-        "confirmed": 19,
+        "active": 24,
+        "confirmed": 24,
         "deceased": 0,
         "recovered": 0,
         "delta": {
@@ -5091,8 +5091,8 @@
       {
         "district": "Bishnupur",
         "notes": "",
-        "active": 0,
-        "confirmed": 0,
+        "active": 2,
+        "confirmed": 2,
         "deceased": 0,
         "recovered": 0,
         "delta": {
@@ -5234,8 +5234,8 @@
       {
         "district": "Senapati",
         "notes": "",
-        "active": 0,
-        "confirmed": 0,
+        "active": 2,
+        "confirmed": 2,
         "deceased": 0,
         "recovered": 0,
         "delta": {
@@ -5273,8 +5273,8 @@
       {
         "district": "Thoubal",
         "notes": "",
-        "active": -2,
-        "confirmed": 0,
+        "active": 1,
+        "confirmed": 3,
         "deceased": 0,
         "recovered": 2,
         "delta": {
@@ -8695,6 +8695,19 @@
         "notes": "",
         "active": 19,
         "confirmed": 19,
+        "deceased": 0,
+        "recovered": 0,
+        "delta": {
+          "confirmed": 0,
+          "deceased": 0,
+          "recovered": 0
+        }
+      },
+      {
+        "district": "Unknown",
+        "notes": "",
+        "active": 5,
+        "confirmed": 5,
         "deceased": 0,
         "recovered": 0,
         "delta": {

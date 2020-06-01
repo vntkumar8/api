@@ -31,7 +31,7 @@
   },
   "AP": {
     "delta": {
-      "confirmed": 136,
+      "confirmed": 165,
       "deceased": 4,
       "recovered": 116,
       "tested": 7902
@@ -68,6 +68,14 @@
           "recovered": 18
         }
       },
+      "Foreign Evacuees": {
+        "delta": {
+          "confirmed": 1
+        },
+        "total": {
+          "confirmed": 1
+        }
+      },
       "Guntur": {
         "delta": {
           "confirmed": 26,
@@ -100,6 +108,14 @@
           "confirmed": 412,
           "deceased": 12,
           "recovered": 72
+        }
+      },
+      "Other State": {
+        "delta": {
+          "confirmed": 28
+        },
+        "total": {
+          "confirmed": 28
         }
       },
       "Prakasam": {
@@ -177,7 +193,7 @@
       }
     },
     "total": {
-      "confirmed": 1539,
+      "confirmed": 1568,
       "deceased": 35,
       "recovered": 437,
       "tested": 102460
@@ -209,9 +225,18 @@
   },
   "AS": {
     "delta": {
+      "confirmed": 23,
       "recovered": 4
     },
     "districts": {
+      "Barpeta": {
+        "delta": {
+          "confirmed": 11
+        },
+        "total": {
+          "confirmed": 11
+        }
+      },
       "Bongaigaon": {
         "total": {
           "confirmed": 5
@@ -223,9 +248,20 @@
           "recovered": 1
         }
       },
-      "Dhubri": {
+      "Darrang": {
+        "delta": {
+          "confirmed": 3
+        },
         "total": {
-          "confirmed": 5,
+          "confirmed": 3
+        }
+      },
+      "Dhubri": {
+        "delta": {
+          "confirmed": 3
+        },
+        "total": {
+          "confirmed": 8,
           "recovered": 4
         }
       },
@@ -297,10 +333,26 @@
           "recovered": 1
         }
       },
+      "Sonitpur": {
+        "delta": {
+          "confirmed": 1
+        },
+        "total": {
+          "confirmed": 1
+        }
+      },
       "South Salmara Mankachar": {
         "total": {
           "confirmed": 1,
           "recovered": 1
+        }
+      },
+      "Udalguri": {
+        "delta": {
+          "confirmed": 5
+        },
+        "total": {
+          "confirmed": 5
         }
       }
     },
@@ -311,7 +363,7 @@
       }
     },
     "total": {
-      "confirmed": 43,
+      "confirmed": 66,
       "deceased": 1,
       "recovered": 33,
       "tested": 9520
@@ -2269,9 +2321,18 @@
   },
   "MN": {
     "delta": {
+      "confirmed": 7,
       "tested": 2
     },
     "districts": {
+      "Bishnupur": {
+        "delta": {
+          "confirmed": 2
+        },
+        "total": {
+          "confirmed": 2
+        }
+      },
       "Imphal East": {
         "total": {
           "confirmed": 1,
@@ -2283,6 +2344,22 @@
           "confirmed": 1,
           "recovered": 1
         }
+      },
+      "Senapati": {
+        "delta": {
+          "confirmed": 2
+        },
+        "total": {
+          "confirmed": 2
+        }
+      },
+      "Thoubal": {
+        "delta": {
+          "confirmed": 3
+        },
+        "total": {
+          "confirmed": 3
+        }
       }
     },
     "meta": {
@@ -2292,7 +2369,7 @@
       }
     },
     "total": {
-      "confirmed": 2,
+      "confirmed": 9,
       "recovered": 2,
       "tested": 461
     }
@@ -3850,6 +3927,7 @@
   },
   "TR": {
     "delta": {
+      "confirmed": 5,
       "tested": 1613
     },
     "districts": {
@@ -3864,6 +3942,14 @@
           "confirmed": 1,
           "recovered": 1
         }
+      },
+      "Unassigned": {
+        "delta": {
+          "confirmed": 5
+        },
+        "total": {
+          "confirmed": 5
+        }
       }
     },
     "meta": {
@@ -3873,14 +3959,14 @@
       }
     },
     "total": {
-      "confirmed": 3,
+      "confirmed": 8,
       "recovered": 2,
       "tested": 4828
     }
   },
   "TT": {
     "delta": {
-      "confirmed": 2474,
+      "confirmed": 2538,
       "deceased": 79,
       "migrated": 1,
       "recovered": 996,
@@ -3893,7 +3979,7 @@
       }
     },
     "total": {
-      "confirmed": 37341,
+      "confirmed": 37405,
       "deceased": 1233,
       "migrated": 4,
       "recovered": 10055,

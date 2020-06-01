@@ -68,6 +68,11 @@
           "recovered": 18
         }
       },
+      "Foreign Evacuees": {
+        "total": {
+          "confirmed": 1
+        }
+      },
       "Guntur": {
         "delta": {
           "confirmed": 2
@@ -97,6 +102,11 @@
           "confirmed": 437,
           "deceased": 12,
           "recovered": 72
+        }
+      },
+      "Other State": {
+        "total": {
+          "confirmed": 28
         }
       },
       "Prakasam": {
@@ -170,7 +180,7 @@
       }
     },
     "total": {
-      "confirmed": 1601,
+      "confirmed": 1630,
       "deceased": 35,
       "recovered": 475,
       "tested": 108403
@@ -202,6 +212,11 @@
       "tested": 2103
     },
     "districts": {
+      "Barpeta": {
+        "total": {
+          "confirmed": 11
+        }
+      },
       "Bongaigaon": {
         "total": {
           "confirmed": 5
@@ -213,9 +228,14 @@
           "recovered": 1
         }
       },
+      "Darrang": {
+        "total": {
+          "confirmed": 3
+        }
+      },
       "Dhubri": {
         "total": {
-          "confirmed": 5,
+          "confirmed": 8,
           "recovered": 4
         }
       },
@@ -278,10 +298,20 @@
           "recovered": 1
         }
       },
+      "Sonitpur": {
+        "total": {
+          "confirmed": 1
+        }
+      },
       "South Salmara Mankachar": {
         "total": {
           "confirmed": 1,
           "recovered": 1
+        }
+      },
+      "Udalguri": {
+        "total": {
+          "confirmed": 5
         }
       }
     },
@@ -292,7 +322,7 @@
       }
     },
     "total": {
-      "confirmed": 43,
+      "confirmed": 66,
       "deceased": 1,
       "recovered": 33,
       "tested": 11623
@@ -2253,6 +2283,11 @@
       "tested": 7
     },
     "districts": {
+      "Bishnupur": {
+        "total": {
+          "confirmed": 2
+        }
+      },
       "Imphal East": {
         "total": {
           "confirmed": 1,
@@ -2264,6 +2299,16 @@
           "confirmed": 1,
           "recovered": 1
         }
+      },
+      "Senapati": {
+        "total": {
+          "confirmed": 2
+        }
+      },
+      "Thoubal": {
+        "total": {
+          "confirmed": 3
+        }
       }
     },
     "meta": {
@@ -2273,7 +2318,7 @@
       }
     },
     "total": {
-      "confirmed": 2,
+      "confirmed": 9,
       "recovered": 2,
       "tested": 468
     }
@@ -3892,6 +3937,11 @@
           "confirmed": 1,
           "recovered": 1
         }
+      },
+      "Unassigned": {
+        "total": {
+          "confirmed": 5
+        }
       }
     },
     "meta": {
@@ -3901,7 +3951,7 @@
       }
     },
     "total": {
-      "confirmed": 5,
+      "confirmed": 10,
       "recovered": 2,
       "tested": 4955
     }
@@ -3920,7 +3970,7 @@
       }
     },
     "total": {
-      "confirmed": 39905,
+      "confirmed": 39969,
       "deceased": 1325,
       "migrated": 4,
       "recovered": 10886,

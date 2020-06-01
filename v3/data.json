@@ -52,7 +52,7 @@
       },
       "Foreign Evacuees": {
         "total": {
-          "confirmed": 111
+          "confirmed": 112
         }
       },
       "Guntur": {
@@ -78,7 +78,7 @@
       },
       "Other State": {
         "total": {
-          "confirmed": 418,
+          "confirmed": 446,
           "recovered": 197
         }
       },
@@ -137,7 +137,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-01T14:13:06+05:30",
+      "last_updated": "2020-06-01T14:23:12+05:30",
       "notes": "Total includes patients from other states and a new category \"Foreign Evacuees\" which is now reported in AP bulletin. <br>\nAP district data updated to match state dashboard as of 27th May.",
       "tested": {
         "last_updated": "2020-05-31",
@@ -145,7 +145,7 @@
       }
     },
     "total": {
-      "confirmed": 3647,
+      "confirmed": 3676,
       "deceased": 64,
       "recovered": 2374,
       "tested": 372748
@@ -190,7 +190,7 @@
       },
       "Barpeta": {
         "total": {
-          "confirmed": 31,
+          "confirmed": 42,
           "recovered": 8
         }
       },
@@ -226,7 +226,7 @@
       },
       "Darrang": {
         "total": {
-          "confirmed": 10
+          "confirmed": 13
         }
       },
       "Dhemaji": {
@@ -239,7 +239,7 @@
       },
       "Dhubri": {
         "total": {
-          "confirmed": 34,
+          "confirmed": 37,
           "recovered": 5
         }
       },
@@ -350,7 +350,7 @@
       },
       "Sonitpur": {
         "total": {
-          "confirmed": 19
+          "confirmed": 20
         }
       },
       "South Salmara Mankachar": {
@@ -369,7 +369,7 @@
       },
       "Udalguri": {
         "total": {
-          "confirmed": 19
+          "confirmed": 24
         }
       },
       "Unassigned": {
@@ -387,7 +387,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-01T12:24:08+05:30",
+      "last_updated": "2020-06-01T14:23:15+05:30",
       "notes": "Includes one case from Nagaland <br>\nTotal of three* patients who migrated to other states has been reduced from Active count",
       "tested": {
         "last_updated": "2020-05-31",
@@ -395,7 +395,7 @@
       }
     },
     "total": {
-      "confirmed": 1362,
+      "confirmed": 1385,
       "deceased": 4,
       "migrated": 3,
       "recovered": 186,
@@ -2525,6 +2525,11 @@
   },
   "MN": {
     "districts": {
+      "Bishnupur": {
+        "total": {
+          "confirmed": 2
+        }
+      },
       "Chandel": {
         "total": {
           "confirmed": 1
@@ -2558,8 +2563,14 @@
           "confirmed": 3
         }
       },
+      "Senapati": {
+        "total": {
+          "confirmed": 2
+        }
+      },
       "Thoubal": {
         "total": {
+          "confirmed": 3,
           "recovered": 2
         }
       },
@@ -2576,14 +2587,14 @@
       }
     },
     "meta": {
-      "last_updated": "2020-05-31T18:35:08+05:30",
+      "last_updated": "2020-06-01T14:22:51+05:30",
       "tested": {
         "last_updated": "2020-05-29",
         "source": "https://twitter.com/DiprManipur/status/1266385249669222400?s=19"
       }
     },
     "total": {
-      "confirmed": 71,
+      "confirmed": 78,
       "recovered": 11,
       "tested": 8596
     }
@@ -4324,7 +4335,7 @@
       },
       "Unassigned": {
         "total": {
-          "confirmed": 0
+          "confirmed": 5
         }
       },
       "Unokoti": {
@@ -4340,7 +4351,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-01T06:16:24+05:30",
+      "last_updated": "2020-06-01T14:23:17+05:30",
       "notes": "Two cases have migrated out of Tripura.",
       "tested": {
         "last_updated": "2020-05-31",
@@ -4348,7 +4359,7 @@
       }
     },
     "total": {
-      "confirmed": 316,
+      "confirmed": 321,
       "migrated": 0,
       "recovered": 173,
       "tested": 27475
@@ -4362,14 +4373,14 @@
       "tested": 100180
     },
     "meta": {
-      "last_updated": "2020-06-01T14:13:03+05:30",
+      "last_updated": "2020-06-01T14:23:09+05:30",
       "tested": {
         "last_updated": "2020-06-01",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/253"
       }
     },
     "total": {
-      "confirmed": 191041,
+      "confirmed": 191105,
       "deceased": 5413,
       "migrated": 11,
       "recovered": 91907,
