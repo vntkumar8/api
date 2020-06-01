@@ -456,7 +456,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-01T17:13:07+05:30",
+      "last_updated": "2020-06-01T17:15:09+05:30",
       "notes": "Includes one case from Nagaland <br>\nTotal of three* patients who migrated to other states has been reduced from Active count",
       "tested": {
         "last_updated": "2020-05-31",
@@ -477,8 +477,11 @@
     },
     "districts": {
       "Araria": {
+        "delta": {
+          "confirmed": 5
+        },
         "total": {
-          "confirmed": 41,
+          "confirmed": 46,
           "recovered": 6
         }
       },
@@ -495,8 +498,11 @@
         }
       },
       "Banka": {
+        "delta": {
+          "confirmed": 5
+        },
         "total": {
-          "confirmed": 112,
+          "confirmed": 117,
           "recovered": 49
         }
       },
@@ -508,8 +514,11 @@
         }
       },
       "Bhagalpur": {
+        "delta": {
+          "confirmed": 6
+        },
         "total": {
-          "confirmed": 175,
+          "confirmed": 181,
           "deceased": 1,
           "recovered": 53
         }
@@ -528,8 +537,11 @@
         }
       },
       "Darbhanga": {
+        "delta": {
+          "confirmed": 14
+        },
         "total": {
-          "confirmed": 88,
+          "confirmed": 102,
           "recovered": 15
         }
       },
@@ -541,8 +553,11 @@
         }
       },
       "Gaya": {
+        "delta": {
+          "confirmed": 4
+        },
         "total": {
-          "confirmed": 79,
+          "confirmed": 83,
           "recovered": 15
         }
       },
@@ -553,14 +568,20 @@
         }
       },
       "Jamui": {
+        "delta": {
+          "confirmed": 2
+        },
         "total": {
-          "confirmed": 39,
+          "confirmed": 41,
           "recovered": 11
         }
       },
       "Jehanabad": {
+        "delta": {
+          "confirmed": 1
+        },
         "total": {
-          "confirmed": 157,
+          "confirmed": 158,
           "deceased": 1,
           "recovered": 51
         }
@@ -572,8 +593,11 @@
         }
       },
       "Katihar": {
+        "delta": {
+          "confirmed": 5
+        },
         "total": {
-          "confirmed": 136,
+          "confirmed": 141,
           "recovered": 30
         }
       },
@@ -585,8 +609,11 @@
         }
       },
       "Kishanganj": {
+        "delta": {
+          "confirmed": 4
+        },
         "total": {
-          "confirmed": 65,
+          "confirmed": 69,
           "recovered": 13
         }
       },
@@ -623,21 +650,30 @@
         }
       },
       "Nalanda": {
+        "delta": {
+          "confirmed": 1
+        },
         "total": {
-          "confirmed": 109,
+          "confirmed": 110,
           "deceased": 1,
           "recovered": 77
         }
       },
       "Nawada": {
+        "delta": {
+          "confirmed": 4
+        },
         "total": {
-          "confirmed": 87,
+          "confirmed": 91,
           "recovered": 35
         }
       },
       "Patna": {
+        "delta": {
+          "confirmed": 2
+        },
         "total": {
-          "confirmed": 251,
+          "confirmed": 253,
           "deceased": 2,
           "recovered": 102
         }
@@ -662,8 +698,11 @@
         }
       },
       "Samastipur": {
+        "delta": {
+          "confirmed": 2
+        },
         "total": {
-          "confirmed": 71,
+          "confirmed": 73,
           "deceased": 1,
           "recovered": 40
         }
@@ -695,8 +734,11 @@
         }
       },
       "Siwan": {
+        "delta": {
+          "confirmed": 8
+        },
         "total": {
-          "confirmed": 80,
+          "confirmed": 88,
           "deceased": 2,
           "recovered": 41
         }
@@ -707,17 +749,12 @@
           "recovered": 24
         }
       },
-      "Unassigned": {
+      "Vaishali": {
         "delta": {
-          "confirmed": 65
+          "confirmed": 2
         },
         "total": {
-          "confirmed": 65
-        }
-      },
-      "Vaishali": {
-        "total": {
-          "confirmed": 66,
+          "confirmed": 68,
           "deceased": 2,
           "recovered": 27
         }
@@ -4442,7 +4479,7 @@
       "tested": 100180
     },
     "meta": {
-      "last_updated": "2020-06-01T17:13:03+05:30",
+      "last_updated": "2020-06-01T17:15:03+05:30",
       "tested": {
         "last_updated": "2020-06-01",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/253"
