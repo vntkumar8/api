@@ -2990,7 +2990,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-01T21:01:05+05:30",
+      "last_updated": "2020-06-01T21:04:05+05:30",
       "tested": {
         "last_updated": "2020-06-01",
         "source": "https://twitter.com/Maha_MEDD/status/1267354947173007362?s=19"
@@ -4500,6 +4500,11 @@
     }
   },
   "TG": {
+    "delta": {
+      "confirmed": 94,
+      "deceased": 6,
+      "recovered": 63
+    },
     "districts": {
       "Adilabad": {
         "total": {
@@ -4522,8 +4527,11 @@
         }
       },
       "Hyderabad": {
+        "delta": {
+          "confirmed": 79
+        },
         "total": {
-          "confirmed": 1461,
+          "confirmed": 1540,
           "deceased": 23,
           "recovered": 305
         }
@@ -4535,8 +4543,11 @@
         }
       },
       "Jangaon": {
+        "delta": {
+          "confirmed": 1
+        },
         "total": {
-          "confirmed": 4,
+          "confirmed": 5,
           "recovered": 1
         }
       },
@@ -4577,8 +4588,11 @@
         }
       },
       "Mahabubabad": {
+        "delta": {
+          "confirmed": 1
+        },
         "total": {
-          "confirmed": 1,
+          "confirmed": 2,
           "recovered": 1
         }
       },
@@ -4595,14 +4609,20 @@
         }
       },
       "Medak": {
+        "delta": {
+          "confirmed": 2
+        },
         "total": {
-          "confirmed": 10,
+          "confirmed": 12,
           "recovered": 4
         }
       },
       "Medchal Malkajgiri": {
+        "delta": {
+          "confirmed": 3
+        },
         "total": {
-          "confirmed": 42,
+          "confirmed": 45,
           "deceased": 1,
           "recovered": 9
         }
@@ -4620,8 +4640,11 @@
         }
       },
       "Nalgonda": {
+        "delta": {
+          "confirmed": 2
+        },
         "total": {
-          "confirmed": 18,
+          "confirmed": 20,
           "recovered": 12
         }
       },
@@ -4649,8 +4672,11 @@
         }
       },
       "Peddapalli": {
+        "delta": {
+          "confirmed": 1
+        },
         "total": {
-          "confirmed": 2,
+          "confirmed": 3,
           "recovered": 1
         }
       },
@@ -4661,15 +4687,21 @@
         }
       },
       "Ranga Reddy": {
+        "delta": {
+          "confirmed": 3
+        },
         "total": {
-          "confirmed": 115,
+          "confirmed": 118,
           "deceased": 2,
           "recovered": 17
         }
       },
       "Sangareddy": {
+        "delta": {
+          "confirmed": 2
+        },
         "total": {
-          "confirmed": 14,
+          "confirmed": 16,
           "recovered": 6
         }
       },
@@ -4686,10 +4718,14 @@
         }
       },
       "Unassigned": {
+        "delta": {
+          "deceased": 6,
+          "recovered": 63
+        },
         "total": {
           "confirmed": 357,
-          "deceased": 52,
-          "recovered": 877
+          "deceased": 58,
+          "recovered": 940
         }
       },
       "Vikarabad": {
@@ -4717,16 +4753,16 @@
       }
     },
     "meta": {
-      "last_updated": "2020-05-31T22:14:06+05:30",
+      "last_updated": "2020-06-01T21:13:14+05:30",
       "tested": {
         "last_updated": "2020-05-16",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/42"
       }
     },
     "total": {
-      "confirmed": 2698,
-      "deceased": 82,
-      "recovered": 1428,
+      "confirmed": 2792,
+      "deceased": 88,
+      "recovered": 1491,
       "tested": 23388
     }
   },
@@ -5208,23 +5244,23 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 4052,
-      "deceased": 164,
-      "recovered": 2421,
+      "confirmed": 4146,
+      "deceased": 170,
+      "recovered": 2484,
       "tested": 100180
     },
     "meta": {
-      "last_updated": "2020-06-01T21:01:03+05:30",
+      "last_updated": "2020-06-01T21:13:05+05:30",
       "tested": {
         "last_updated": "2020-06-01",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/253"
       }
     },
     "total": {
-      "confirmed": 194700,
-      "deceased": 5571,
+      "confirmed": 194794,
+      "deceased": 5577,
       "migrated": 11,
-      "recovered": 94283,
+      "recovered": 94346,
       "tested": 3837207
     }
   },
