@@ -203,6 +203,9 @@
     }
   },
   "AR": {
+    "delta": {
+      "confirmed": 15
+    },
     "districts": {
       "Lohit": {
         "total": {
@@ -211,20 +214,23 @@
         }
       },
       "Unassigned": {
+        "delta": {
+          "confirmed": 15
+        },
         "total": {
-          "confirmed": 3
+          "confirmed": 18
         }
       }
     },
     "meta": {
-      "last_updated": "2020-05-31T10:35:08+05:30",
+      "last_updated": "2020-06-01T19:12:08+05:30",
       "tested": {
         "last_updated": "2020-05-31",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/254"
       }
     },
     "total": {
-      "confirmed": 4,
+      "confirmed": 19,
       "recovered": 1,
       "tested": 8283
     }
@@ -474,7 +480,8 @@
   "BR": {
     "delta": {
       "confirmed": 65,
-      "recovered": 221
+      "recovered": 221,
+      "tested": 2353
     },
     "districts": {
       "Araria": {
@@ -816,17 +823,17 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-01T19:03:07+05:30",
+      "last_updated": "2020-06-01T19:05:06+05:30",
       "tested": {
-        "last_updated": "2020-05-31",
-        "source": "https://twitter.com/PIB_Patna/status/1267055745993867264"
+        "last_updated": "2020-06-01",
+        "source": "https://twitter.com/PIB_Patna/status/1267426736121110528"
       }
     },
     "total": {
       "confirmed": 3872,
       "deceased": 23,
       "recovered": 1741,
-      "tested": 75737
+      "tested": 78090
     }
   },
   "CH": {
@@ -4661,20 +4668,20 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 957,
+      "confirmed": 972,
       "deceased": 8,
       "recovered": 612,
       "tested": 100180
     },
     "meta": {
-      "last_updated": "2020-06-01T19:03:04+05:30",
+      "last_updated": "2020-06-01T19:12:04+05:30",
       "tested": {
         "last_updated": "2020-06-01",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/253"
       }
     },
     "total": {
-      "confirmed": 191605,
+      "confirmed": 191620,
       "deceased": 5415,
       "migrated": 11,
       "recovered": 92474,
@@ -5326,7 +5333,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-01T19:03:10+05:30",
+      "last_updated": "2020-06-01T19:05:08+05:30",
       "notes": "Three migrated cases reduced from Active count",
       "tested": {
         "last_updated": "2020-05-31",
