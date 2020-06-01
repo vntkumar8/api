@@ -274,11 +274,12 @@
       },
       "Barpeta": {
         "delta": {
-          "confirmed": 12
+          "confirmed": 12,
+          "recovered": 2
         },
         "total": {
           "confirmed": 43,
-          "recovered": 8
+          "recovered": 10
         }
       },
       "Biswanath": {
@@ -294,11 +295,12 @@
       },
       "Cachar": {
         "delta": {
-          "confirmed": 12
+          "confirmed": 12,
+          "recovered": 8
         },
         "total": {
           "confirmed": 71,
-          "recovered": 34
+          "recovered": 42
         }
       },
       "Charaideo": {
@@ -341,10 +343,12 @@
       },
       "Dibrugarh": {
         "delta": {
-          "confirmed": 14
+          "confirmed": 14,
+          "recovered": 1
         },
         "total": {
-          "confirmed": 32
+          "confirmed": 32,
+          "recovered": 1
         }
       },
       "Dima Hasao": {
@@ -380,11 +384,12 @@
       },
       "Jorhat": {
         "delta": {
-          "confirmed": 1
+          "confirmed": 1,
+          "recovered": 7
         },
         "total": {
           "confirmed": 22,
-          "recovered": 11
+          "recovered": 18
         }
       },
       "Kamrup": {
@@ -397,10 +402,13 @@
         }
       },
       "Kamrup Metropolitan": {
+        "delta": {
+          "recovered": 68
+        },
         "total": {
           "confirmed": 343,
           "deceased": 3,
-          "recovered": 94
+          "recovered": 162
         }
       },
       "Karbi Anglong": {
@@ -467,10 +475,12 @@
       },
       "Sonitpur": {
         "delta": {
-          "confirmed": 1
+          "confirmed": 1,
+          "recovered": 13
         },
         "total": {
-          "confirmed": 20
+          "confirmed": 20,
+          "recovered": 13
         }
       },
       "South Salmara Mankachar": {
@@ -497,13 +507,11 @@
       },
       "Unknown": {
         "delta": {
-          "confirmed": 30,
-          "recovered": 99
+          "confirmed": 30
         },
         "total": {
           "confirmed": 30,
-          "migrated": 3,
-          "recovered": 99
+          "migrated": 3
         }
       },
       "West Karbi Anglong": {
