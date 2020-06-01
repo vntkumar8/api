@@ -1951,10 +1951,10 @@
       },
       "Unknown": {
         "notes": "",
-        "active": 10106,
-        "confirmed": 19056,
-        "deceased": 472,
-        "recovered": 8478,
+        "active": 10816,
+        "confirmed": 20046,
+        "deceased": 484,
+        "recovered": 8746,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
@@ -6270,14 +6270,14 @@
       },
       "Hoshiarpur": {
         "notes": "",
-        "active": 30,
+        "active": 23,
         "confirmed": 128,
         "deceased": 5,
-        "recovered": 93,
+        "recovered": 100,
         "delta": {
           "confirmed": 8,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 7
         }
       },
       "Jalandhar": {
@@ -6306,13 +6306,13 @@
       },
       "Ludhiana": {
         "notes": "",
-        "active": 37,
+        "active": 38,
         "confirmed": 197,
-        "deceased": 9,
+        "deceased": 8,
         "recovered": 151,
         "delta": {
           "confirmed": 8,
-          "deceased": 0,
+          "deceased": -1,
           "recovered": 0
         }
       },
@@ -6342,26 +6342,26 @@
       },
       "Pathankot": {
         "notes": "",
-        "active": 28,
+        "active": 22,
         "confirmed": 61,
         "deceased": 2,
-        "recovered": 31,
+        "recovered": 37,
         "delta": {
           "confirmed": 1,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 6
         }
       },
       "Patiala": {
         "notes": "",
-        "active": 15,
+        "active": 14,
         "confirmed": 122,
         "deceased": 2,
-        "recovered": 105,
+        "recovered": 106,
         "delta": {
           "confirmed": 4,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 1
         }
       },
       "Rupnagar": {
@@ -6378,14 +6378,14 @@
       },
       "S.A.S. Nagar": {
         "notes": "",
-        "active": 11,
+        "active": 10,
         "confirmed": 113,
         "deceased": 3,
-        "recovered": 99,
+        "recovered": 100,
         "delta": {
           "confirmed": 2,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 1
         }
       },
       "Sangrur": {
@@ -6402,14 +6402,14 @@
       },
       "Shahid Bhagat Singh Nagar": {
         "notes": "",
-        "active": 0,
+        "active": 2,
         "confirmed": 103,
         "deceased": 1,
-        "recovered": 102,
+        "recovered": 100,
         "delta": {
           "confirmed": -3,
           "deceased": 0,
-          "recovered": 0
+          "recovered": -2
         }
       },
       "Sri Muktsar Sahib": {
@@ -6467,12 +6467,12 @@
       },
       "Puducherry": {
         "notes": "",
-        "active": 45,
-        "confirmed": 64,
+        "active": 48,
+        "confirmed": 67,
         "deceased": 0,
         "recovered": 19,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 3,
           "deceased": 0,
           "recovered": 0
         }

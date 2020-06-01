@@ -2498,8 +2498,7 @@
   "PB": {
     "delta": {
       "confirmed": 12,
-      "recovered": 3,
-      "tested": 1505
+      "recovered": 3
     },
     "districts": {
       "Amritsar": {
@@ -2644,17 +2643,10 @@
         }
       }
     },
-    "meta": {
-      "tested": {
-        "last_updated": "2020-04-28",
-        "source": "https://twitter.com/kbssidhu1961/status/1255161106386968576/photo/1"
-      }
-    },
     "total": {
       "confirmed": 342,
       "deceased": 19,
-      "recovered": 101,
-      "tested": 17021
+      "recovered": 101
     }
   },
   "PY": {
@@ -2691,8 +2683,7 @@
     "delta": {
       "confirmed": 102,
       "deceased": 2,
-      "recovered": 26,
-      "tested": 4729
+      "recovered": 26
     },
     "districts": {
       "Ajmer": {
@@ -2927,24 +2918,16 @@
         }
       }
     },
-    "meta": {
-      "tested": {
-        "last_updated": "2020-04-28",
-        "source": "https://t.me/indiacovid/3478"
-      }
-    },
     "total": {
       "confirmed": 2364,
       "deceased": 52,
-      "recovered": 770,
-      "tested": 92506
+      "recovered": 770
     }
   },
   "TG": {
     "delta": {
       "confirmed": 6,
-      "recovered": 42,
-      "tested": 4101
+      "recovered": 42
     },
     "districts": {
       "Adilabad": {
@@ -3141,25 +3124,17 @@
         }
       }
     },
-    "meta": {
-      "tested": {
-        "last_updated": "2020-04-28",
-        "source": "https://www.thehindu.com/news/national/telangana/accuracy-of-tests-more-in-telangana-eatala/article31456895.ece"
-      }
-    },
     "total": {
       "confirmed": 1009,
       "deceased": 25,
-      "recovered": 374,
-      "tested": 19063
+      "recovered": 374
     }
   },
   "TN": {
     "delta": {
       "confirmed": 121,
       "deceased": 1,
-      "recovered": 54,
-      "tested": 7093
+      "recovered": 54
     },
     "districts": {
       "Ariyalur": {
@@ -3421,17 +3396,10 @@
         }
       }
     },
-    "meta": {
-      "tested": {
-        "last_updated": "2020-04-28",
-        "source": "https://stopcorona.tn.gov.in/wp-content/uploads/2020/03/Media-Bulletin-28.04.2020.pdf"
-      }
-    },
     "total": {
       "confirmed": 2058,
       "deceased": 25,
-      "recovered": 1128,
-      "tested": 101874
+      "recovered": 1128
     }
   },
   "TR": {
@@ -3449,16 +3417,9 @@
         }
       }
     },
-    "meta": {
-      "tested": {
-        "last_updated": "2020-04-22",
-        "source": "https://t.me/indiacovid/2983?single"
-      }
-    },
     "total": {
       "confirmed": 2,
-      "recovered": 2,
-      "tested": 3215
+      "recovered": 2
     }
   },
   "TT": {
@@ -3486,8 +3447,7 @@
     "delta": {
       "confirmed": 67,
       "deceased": 3,
-      "recovered": 63,
-      "tested": 3162
+      "recovered": 63
     },
     "districts": {
       "Agra": {
@@ -3931,23 +3891,15 @@
         }
       }
     },
-    "meta": {
-      "tested": {
-        "last_updated": "2020-04-28",
-        "source": "https://t.me/indiacovid/3474"
-      }
-    },
     "total": {
       "confirmed": 2053,
       "deceased": 34,
-      "recovered": 462,
-      "tested": 70307
+      "recovered": 462
     }
   },
   "UT": {
     "delta": {
-      "confirmed": 3,
-      "tested": 276
+      "confirmed": 3
     },
     "districts": {
       "Almora": {
@@ -3989,24 +3941,16 @@
         }
       }
     },
-    "meta": {
-      "tested": {
-        "last_updated": "2020-04-28",
-        "source": "https://twitter.com/ANI/status/1255131631137943552?s=09"
-      }
-    },
     "total": {
       "confirmed": 54,
-      "recovered": 26,
-      "tested": 5739
+      "recovered": 26
     }
   },
   "WB": {
     "delta": {
       "confirmed": 48,
       "deceased": 2,
-      "recovered": 4,
-      "tested": 1180
+      "recovered": 4
     },
     "districts": {
       "Darjeeling": {
@@ -4087,17 +4031,10 @@
         }
       }
     },
-    "meta": {
-      "tested": {
-        "last_updated": "2020-04-28",
-        "source": "https://www.wbhealth.gov.in/uploaded_files/corona/Bulletin_West_Bengal_28.04_.2020_.pdf"
-      }
-    },
     "total": {
       "confirmed": 697,
       "deceased": 22,
-      "recovered": 109,
-      "tested": 13223
+      "recovered": 109
     }
   }
 }

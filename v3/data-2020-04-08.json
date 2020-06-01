@@ -321,20 +321,12 @@
   "PB": {
     "delta": {
       "confirmed": 7,
-      "deceased": 1,
-      "tested": 1503
-    },
-    "meta": {
-      "tested": {
-        "last_updated": "2020-04-08",
-        "source": "https://twitter.com/kbssidhu1961/status/1247878360966901763/photo/1"
-      }
+      "deceased": 1
     },
     "total": {
       "confirmed": 106,
       "deceased": 9,
-      "recovered": 14,
-      "tested": 2937
+      "recovered": 14
     }
   },
   "PY": {
@@ -349,17 +341,10 @@
       "deceased": 1,
       "recovered": 20
     },
-    "meta": {
-      "tested": {
-        "last_updated": "2020-04-08",
-        "source": "http://www.rajswasthya.nic.in/"
-      }
-    },
     "total": {
       "confirmed": 383,
       "deceased": 3,
-      "recovered": 45,
-      "tested": 17638
+      "recovered": 45
     }
   },
   "TG": {
@@ -376,20 +361,12 @@
     "delta": {
       "confirmed": 48,
       "deceased": 1,
-      "recovered": 2,
-      "tested": 1621
-    },
-    "meta": {
-      "tested": {
-        "last_updated": "2020-04-08",
-        "source": "https://stopcorona.tn.gov.in/"
-      }
+      "recovered": 2
     },
     "total": {
       "confirmed": 738,
       "deceased": 8,
-      "recovered": 21,
-      "tested": 5305
+      "recovered": 21
     }
   },
   "TR": {
@@ -424,16 +401,10 @@
       "deceased": 1,
       "recovered": 10
     },
-    "meta": {
-      "tested": {
-        "last_updated": "2020-04-05"
-      }
-    },
     "total": {
       "confirmed": 361,
       "deceased": 4,
-      "recovered": 31,
-      "tested": 5255
+      "recovered": 31
     }
   },
   "UT": {
@@ -441,15 +412,9 @@
       "confirmed": 4,
       "recovered": 1
     },
-    "meta": {
-      "tested": {
-        "last_updated": "2020-04-07"
-      }
-    },
     "total": {
       "confirmed": 35,
-      "recovered": 5,
-      "tested": 1289
+      "recovered": 5
     }
   },
   "WB": {
@@ -457,17 +422,10 @@
       "confirmed": 8,
       "deceased": 2
     },
-    "meta": {
-      "tested": {
-        "last_updated": "2020-04-07",
-        "source": "https://www.wbhealth.gov.in/uploaded_files/corona/Bulletin_West_Bengal_07.04_.2020_.pdf"
-      }
-    },
     "total": {
       "confirmed": 99,
       "deceased": 5,
-      "recovered": 13,
-      "tested": 1487
+      "recovered": 13
     }
   }
 }
