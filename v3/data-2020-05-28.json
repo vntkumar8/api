@@ -203,6 +203,14 @@
       "tested": 548
     },
     "districts": {
+      "Changlang": {
+        "delta": {
+          "confirmed": 1
+        },
+        "total": {
+          "confirmed": 1
+        }
+      },
       "Lohit": {
         "total": {
           "confirmed": 1,
@@ -210,11 +218,8 @@
         }
       },
       "Unknown": {
-        "delta": {
-          "confirmed": 1
-        },
         "total": {
-          "confirmed": 2
+          "confirmed": 1
         }
       }
     },
