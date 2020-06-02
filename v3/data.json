@@ -1344,7 +1344,8 @@
     "delta": {
       "confirmed": 423,
       "deceased": 25,
-      "recovered": 861
+      "recovered": 861,
+      "tested": 4328
     },
     "districts": {
       "Ahmedabad": {
@@ -1657,15 +1658,14 @@
     "meta": {
       "last_updated": "2020-06-01T22:14:05+05:30",
       "tested": {
-        "last_updated": "2020-05-31",
-        "source": "https://gujcovid19.gujarat.gov.in/uploads/pressbrief3105312020094907621.pdf"
+        "last_updated": "2020-06-01"
       }
     },
     "total": {
       "confirmed": 17217,
       "deceased": 1063,
       "recovered": 10780,
-      "tested": 211930
+      "tested": 216258
     }
   },
   "HP": {
