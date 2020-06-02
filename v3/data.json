@@ -1568,14 +1568,17 @@
   "HP": {
     "delta": {
       "confirmed": 5,
-      "recovered": 6,
+      "recovered": 18,
       "tested": 1699
     },
     "districts": {
       "Bilaspur": {
+        "delta": {
+          "recovered": 1
+        },
         "total": {
           "confirmed": 18,
-          "recovered": 7
+          "recovered": 8
         }
       },
       "Chamba": {
@@ -1586,22 +1589,23 @@
       },
       "Hamirpur": {
         "delta": {
-          "recovered": 5
+          "recovered": 9
         },
         "total": {
           "confirmed": 112,
           "deceased": 1,
-          "recovered": 35
+          "recovered": 39
         }
       },
       "Kangra": {
         "delta": {
-          "confirmed": 3
+          "confirmed": 3,
+          "recovered": 1
         },
         "total": {
           "confirmed": 90,
           "deceased": 1,
-          "recovered": 32
+          "recovered": 33
         }
       },
       "Kullu": {
@@ -1612,12 +1616,13 @@
       },
       "Mandi": {
         "delta": {
-          "confirmed": 2
+          "confirmed": 2,
+          "recovered": 4
         },
         "total": {
           "confirmed": 15,
           "deceased": 2,
-          "recovered": 4
+          "recovered": 8
         }
       },
       "Shimla": {
@@ -1628,9 +1633,12 @@
         }
       },
       "Sirmaur": {
+        "delta": {
+          "recovered": 1
+        },
         "total": {
           "confirmed": 4,
-          "recovered": 2
+          "recovered": 3
         }
       },
       "Solan": {
@@ -1642,16 +1650,16 @@
       },
       "Una": {
         "delta": {
-          "recovered": 1
+          "recovered": 2
         },
         "total": {
           "confirmed": 39,
-          "recovered": 21
+          "recovered": 22
         }
       }
     },
     "meta": {
-      "last_updated": "2020-06-02T18:04:10+05:30",
+      "last_updated": "2020-06-02T21:43:05+05:30",
       "notes": "HP has 4 Migrated cases which are reduced from Active #. Also, death of Tibetan refugee is included in deceased numbers, but not in confirmed",
       "tested": {
         "last_updated": "2020-06-02",
@@ -1662,7 +1670,7 @@
       "confirmed": 345,
       "deceased": 6,
       "migrated": 3,
-      "recovered": 124,
+      "recovered": 136,
       "tested": 39596
     }
   },
@@ -3163,7 +3171,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-02T21:35:07+05:30",
+      "last_updated": "2020-06-02T21:39:05+05:30",
       "tested": {
         "last_updated": "2020-06-02",
         "source": "https://twitter.com/Maha_MEDD/status/1267698518459850752?s=19"
@@ -5399,11 +5407,11 @@
     "delta": {
       "confirmed": 6776,
       "deceased": 174,
-      "recovered": 3584,
+      "recovered": 3596,
       "tested": 128868
     },
     "meta": {
-      "last_updated": "2020-06-02T21:35:05+05:30",
+      "last_updated": "2020-06-02T21:43:03+05:30",
       "tested": {
         "last_updated": "2020-06-02",
         "source": "https://twitter.com/ICMRDELHI/status/1267665101781266433?s=20"
@@ -5413,7 +5421,7 @@
       "confirmed": 205147,
       "deceased": 5782,
       "migrated": 11,
-      "recovered": 99338,
+      "recovered": 99350,
       "tested": 3966075
     }
   },
