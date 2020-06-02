@@ -28,6 +28,10 @@
     }
   },
   "AP": {
+    "delta": {
+      "confirmed": 115,
+      "recovered": 40
+    },
     "districts": {
       "Anantapur": {
         "total": {
@@ -77,8 +81,11 @@
         }
       },
       "Other State": {
+        "delta": {
+          "confirmed": 33
+        },
         "total": {
-          "confirmed": 446,
+          "confirmed": 479,
           "recovered": 197
         }
       },
@@ -102,8 +109,13 @@
         }
       },
       "Unknown": {
+        "delta": {
+          "confirmed": 82,
+          "recovered": 40
+        },
         "total": {
-          "recovered": 8
+          "confirmed": 82,
+          "recovered": 48
         }
       },
       "Visakhapatnam": {
@@ -133,7 +145,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-01T14:35:06+05:30",
+      "last_updated": "2020-06-02T12:35:05+05:30",
       "notes": "Total includes patients from other states and a new category \"Foreign Evacuees\" which is now reported in AP bulletin. <br>\nAP district data updated to match state dashboard as of 27th May.",
       "tested": {
         "last_updated": "2020-06-01",
@@ -141,9 +153,9 @@
       }
     },
     "total": {
-      "confirmed": 3676,
+      "confirmed": 3791,
       "deceased": 64,
-      "recovered": 2374,
+      "recovered": 2414,
       "tested": 383315
     }
   },
@@ -1619,15 +1631,15 @@
     "meta": {
       "last_updated": "2020-06-02T00:35:08+05:30",
       "tested": {
-        "last_updated": "2020-05-31",
-        "source": "https://twitter.com/RanchiPIB/status/1267116210124021762"
+        "last_updated": "2020-06-01",
+        "source": "https://twitter.com/RanchiPIB/status/1267494189731700736?s=19"
       }
     },
     "total": {
       "confirmed": 661,
       "deceased": 5,
       "recovered": 296,
-      "tested": 65886
+      "tested": 69187
     }
   },
   "JK": {
@@ -4244,35 +4256,35 @@
       "last_updated": "2020-06-02T01:14:08+05:30",
       "notes": "Two cases have migrated out of Tripura.",
       "tested": {
-        "last_updated": "2020-05-31",
-        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/247"
+        "last_updated": "2020-06-01",
+        "source": "https://covid19.tripura.gov.in/Visitor/ViewStatus.aspx"
       }
     },
     "total": {
       "confirmed": 423,
       "recovered": 173,
-      "tested": 27475
+      "tested": 28360
     }
   },
   "TT": {
     "delta": {
-      "confirmed": 973,
+      "confirmed": 1088,
       "deceased": 2,
-      "recovered": 54,
+      "recovered": 94,
       "tested": 128868
     },
     "meta": {
-      "last_updated": "2020-06-02T11:14:03+05:30",
+      "last_updated": "2020-06-02T12:35:03+05:30",
       "tested": {
         "last_updated": "2020-06-02",
         "source": "https://twitter.com/ICMRDELHI/status/1267665101781266433?s=20"
       }
     },
     "total": {
-      "confirmed": 199343,
+      "confirmed": 199458,
       "deceased": 5610,
       "migrated": 11,
-      "recovered": 95808,
+      "recovered": 95848,
       "tested": 3966075
     }
   },
