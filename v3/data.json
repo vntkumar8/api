@@ -1392,7 +1392,8 @@
   "HP": {
     "delta": {
       "confirmed": 5,
-      "recovered": 6
+      "recovered": 6,
+      "tested": 1699
     },
     "districts": {
       "Bilaspur": {
@@ -1477,7 +1478,7 @@
       "last_updated": "2020-06-02T18:04:10+05:30",
       "notes": "HP has 4 Migrated cases which are reduced from Active #. Also, death of Tibetan refugee is included in deceased numbers, but not in confirmed",
       "tested": {
-        "last_updated": "2020-06-01",
+        "last_updated": "2020-06-02",
         "source": "https://twitter.com/nhm_hp/status/1267488143298748418?s=19"
       }
     },
@@ -1486,12 +1487,13 @@
       "deceased": 6,
       "migrated": 3,
       "recovered": 124,
-      "tested": 37897
+      "tested": 39596
     }
   },
   "HR": {
     "delta": {
-      "recovered": 2
+      "recovered": 2,
+      "tested": 1390
     },
     "districts": {
       "Ambala": {
@@ -1653,15 +1655,15 @@
     "meta": {
       "last_updated": "2020-06-02T14:38:05+05:30",
       "tested": {
-        "last_updated": "2020-06-01",
-        "source": "http://www.nhmharyana.gov.in/WriteReadData/userfiles/file/CoronaVirus/Media%20Bulleitin%2001-06-2020%20Evening.pdf"
+        "last_updated": "2020-06-02",
+        "source": "http://www.nhmharyana.gov.in/WriteReadData/userfiles/file/CoronaVirus/Daily%20Bulletin%20of%20COVID%20as%20on%20Morning%2002-06-2020.pdf"
       }
     },
     "total": {
       "confirmed": 2356,
       "deceased": 21,
       "recovered": 1057,
-      "tested": 121779
+      "tested": 123169
     }
   },
   "JH": {

@@ -9295,14 +9295,15 @@
     "2020-06-02": {
       "delta": {
         "confirmed": 5,
-        "recovered": 6
+        "recovered": 6,
+        "tested": 1699
       },
       "total": {
         "confirmed": 345,
         "deceased": 6,
         "migrated": 3,
         "recovered": 124,
-        "tested": 37897
+        "tested": 39596
       }
     }
   },
@@ -10300,13 +10301,14 @@
     },
     "2020-06-02": {
       "delta": {
-        "recovered": 2
+        "recovered": 2,
+        "tested": 1390
       },
       "total": {
         "confirmed": 2356,
         "deceased": 21,
         "recovered": 1057,
-        "tested": 121779
+        "tested": 123169
       }
     }
   },
