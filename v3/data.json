@@ -754,7 +754,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-02T14:53:06+05:30",
+      "last_updated": "2020-06-02T15:03:05+05:30",
       "tested": {
         "last_updated": "2020-06-01",
         "source": "https://twitter.com/PIB_Patna/status/1267426736121110528"
@@ -4445,20 +4445,20 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 1347,
+      "confirmed": 1387,
       "deceased": 2,
       "recovered": 100,
       "tested": 128868
     },
     "meta": {
-      "last_updated": "2020-06-02T14:53:04+05:30",
+      "last_updated": "2020-06-02T15:03:03+05:30",
       "tested": {
         "last_updated": "2020-06-02",
         "source": "https://twitter.com/ICMRDELHI/status/1267665101781266433?s=20"
       }
     },
     "total": {
-      "confirmed": 199717,
+      "confirmed": 199757,
       "deceased": 5610,
       "migrated": 11,
       "recovered": 95854,
@@ -4991,6 +4991,9 @@
     }
   },
   "UT": {
+    "delta": {
+      "confirmed": 40
+    },
     "districts": {
       "Almora": {
         "total": {
@@ -5005,8 +5008,11 @@
         }
       },
       "Chamoli": {
+        "delta": {
+          "confirmed": 3
+        },
         "total": {
-          "confirmed": 13
+          "confirmed": 16
         }
       },
       "Champawat": {
@@ -5016,15 +5022,21 @@
         }
       },
       "Dehradun": {
+        "delta": {
+          "confirmed": 25
+        },
         "total": {
-          "confirmed": 243,
+          "confirmed": 268,
           "deceased": 3,
           "recovered": 41
         }
       },
       "Haridwar": {
+        "delta": {
+          "confirmed": 1
+        },
         "total": {
-          "confirmed": 76,
+          "confirmed": 77,
           "recovered": 7
         }
       },
@@ -5053,8 +5065,11 @@
         }
       },
       "Tehri Garhwal": {
+        "delta": {
+          "confirmed": 11
+        },
         "total": {
-          "confirmed": 77
+          "confirmed": 88
         }
       },
       "Udham Singh Nagar": {
@@ -5076,7 +5091,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-01T21:34:11+05:30",
+      "last_updated": "2020-06-02T15:03:12+05:30",
       "notes": "Three migrated cases reduced from Active count",
       "tested": {
         "last_updated": "2020-06-01",
@@ -5084,7 +5099,7 @@
       }
     },
     "total": {
-      "confirmed": 959,
+      "confirmed": 999,
       "deceased": 5,
       "migrated": 3,
       "recovered": 222,
