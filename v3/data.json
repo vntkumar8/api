@@ -242,7 +242,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-02T23:35:23+05:30",
+      "last_updated": "2020-06-02T23:42:10+05:30",
       "tested": {
         "last_updated": "2020-06-01",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/261"
@@ -1091,7 +1091,8 @@
     "delta": {
       "confirmed": 1298,
       "deceased": 33,
-      "recovered": 497
+      "recovered": 497,
+      "tested": 6070
     },
     "districts": {
       "Central Delhi": {
@@ -1167,15 +1168,15 @@
       "last_updated": "2020-06-02T22:24:06+05:30",
       "notes": "[10-May]<br>\n\nDelhi bulletins in the morning, containing data of the previous day. We will add that data to the date on which the report is released, rather than the previous day.",
       "tested": {
-        "last_updated": "2020-06-01",
-        "source": "https://delhifightscorona.in/wp-content/uploads/2020/05/05-31.pdf"
+        "last_updated": "2020-06-02",
+        "source": "https://t.me/indiacovid/6188"
       }
     },
     "total": {
       "confirmed": 22132,
       "deceased": 556,
       "recovered": 9243,
-      "tested": 217537
+      "tested": 223607
     }
   },
   "DN": {
@@ -2101,7 +2102,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-02T23:35:21+05:30",
+      "last_updated": "2020-06-02T23:42:07+05:30",
       "tested": {
         "last_updated": "2020-06-01",
         "source": "https://twitter.com/RanchiPIB/status/1267494189731700736?s=19"
@@ -4774,7 +4775,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-02T23:35:06+05:30",
+      "last_updated": "2020-06-02T23:42:05+05:30",
       "tested": {
         "last_updated": "2020-06-01",
         "source": "https://t.me/indiacovid/6090"
@@ -5557,7 +5558,7 @@
       "tested": 128868
     },
     "meta": {
-      "last_updated": "2020-06-02T23:35:03+05:30",
+      "last_updated": "2020-06-02T23:42:03+05:30",
       "tested": {
         "last_updated": "2020-06-02",
         "source": "https://twitter.com/ICMRDELHI/status/1267665101781266433?s=20"
