@@ -1266,6 +1266,9 @@
     }
   },
   "HP": {
+    "delta": {
+      "recovered": 4
+    },
     "districts": {
       "Bilaspur": {
         "total": {
@@ -1280,10 +1283,13 @@
         }
       },
       "Hamirpur": {
+        "delta": {
+          "recovered": 4
+        },
         "total": {
           "confirmed": 112,
           "deceased": 1,
-          "recovered": 30
+          "recovered": 34
         }
       },
       "Kangra": {
@@ -1334,7 +1340,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-01T21:30:08+05:30",
+      "last_updated": "2020-06-02T13:13:14+05:30",
       "notes": "HP has 4 Migrated cases which are reduced from Active #. Also, death of Tibetan refugee is included in deceased numbers, but not in confirmed",
       "tested": {
         "last_updated": "2020-06-01",
@@ -1345,7 +1351,7 @@
       "confirmed": 340,
       "deceased": 6,
       "migrated": 3,
-      "recovered": 118,
+      "recovered": 122,
       "tested": 37897
     }
   },
@@ -1519,6 +1525,9 @@
     }
   },
   "JH": {
+    "delta": {
+      "confirmed": 14
+    },
     "districts": {
       "Bokaro": {
         "total": {
@@ -1656,6 +1665,14 @@
           "recovered": 2
         }
       },
+      "Unknown": {
+        "delta": {
+          "confirmed": 14
+        },
+        "total": {
+          "confirmed": 14
+        }
+      },
       "West Singhbhum": {
         "total": {
           "confirmed": 15,
@@ -1664,14 +1681,14 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-02T00:35:08+05:30",
+      "last_updated": "2020-06-02T13:13:11+05:30",
       "tested": {
         "last_updated": "2020-06-01",
         "source": "https://twitter.com/RanchiPIB/status/1267494189731700736?s=19"
       }
     },
     "total": {
-      "confirmed": 661,
+      "confirmed": 675,
       "deceased": 5,
       "recovered": 296,
       "tested": 69187
@@ -3239,7 +3256,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-02T13:03:05+05:30",
+      "last_updated": "2020-06-02T13:13:05+05:30",
       "tested": {
         "last_updated": "2020-06-01",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/256?single"
@@ -4360,23 +4377,23 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 1229,
+      "confirmed": 1243,
       "deceased": 2,
-      "recovered": 94,
+      "recovered": 98,
       "tested": 128868
     },
     "meta": {
-      "last_updated": "2020-06-02T13:03:03+05:30",
+      "last_updated": "2020-06-02T13:13:03+05:30",
       "tested": {
         "last_updated": "2020-06-02",
         "source": "https://twitter.com/ICMRDELHI/status/1267665101781266433?s=20"
       }
     },
     "total": {
-      "confirmed": 199599,
+      "confirmed": 199613,
       "deceased": 5610,
       "migrated": 11,
-      "recovered": 95848,
+      "recovered": 95852,
       "tested": 3966075
     }
   },

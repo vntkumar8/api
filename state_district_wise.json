@@ -2499,14 +2499,14 @@
       },
       "Hamirpur": {
         "notes": "",
-        "active": 81,
+        "active": 77,
         "confirmed": 112,
         "deceased": 1,
-        "recovered": 30,
+        "recovered": 34,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 4
         }
       },
       "Kangra": {
@@ -3197,6 +3197,18 @@
         "confirmed": 15,
         "deceased": 0,
         "recovered": 1,
+        "delta": {
+          "confirmed": 0,
+          "deceased": 0,
+          "recovered": 0
+        }
+      },
+      "Unknown": {
+        "notes": "",
+        "active": 14,
+        "confirmed": 14,
+        "deceased": 0,
+        "recovered": 0,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
