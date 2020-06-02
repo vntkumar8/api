@@ -1289,7 +1289,8 @@
   "GA": {
     "delta": {
       "confirmed": 2,
-      "recovered": 6
+      "recovered": 6,
+      "tested": 1289
     },
     "districts": {
       "North Goa": {
@@ -1317,14 +1318,14 @@
     },
     "meta": {
       "tested": {
-        "last_updated": "2020-05-31",
-        "source": "https://twitter.com/DHS_Goa/status/1267090834458984448/photo/1"
+        "last_updated": "2020-06-01",
+        "source": "https://twitter.com/DHS_Goa/status/1267468757120647168?s=09"
       }
     },
     "total": {
       "confirmed": 73,
       "recovered": 50,
-      "tested": 19491
+      "tested": 20780
     }
   },
   "GJ": {
@@ -1644,7 +1645,8 @@
     },
     "meta": {
       "tested": {
-        "last_updated": "2020-06-01"
+        "last_updated": "2020-06-01",
+        "source": "https://gujcovid19.gujarat.gov.in/uploads/pressbrief0106012020111410812.pdf"
       }
     },
     "total": {

@@ -7363,19 +7363,20 @@
     "2020-06-01": {
       "delta": {
         "confirmed": 2,
-        "recovered": 6
+        "recovered": 6,
+        "tested": 1289
       },
       "total": {
         "confirmed": 73,
         "recovered": 50,
-        "tested": 19491
+        "tested": 20780
       }
     },
     "2020-06-02": {
       "total": {
         "confirmed": 73,
         "recovered": 50,
-        "tested": 19491
+        "tested": 20780
       }
     }
   },
@@ -15878,11 +15879,14 @@
       }
     },
     "2020-06-02": {
+      "delta": {
+        "tested": 12440
+      },
       "total": {
         "confirmed": 70013,
         "deceased": 2362,
         "recovered": 30108,
-        "tested": 472344
+        "tested": 484784
       }
     }
   },
