@@ -3346,6 +3346,10 @@
     }
   },
   "RJ": {
+    "delta": {
+      "confirmed": 171,
+      "deceased": 2
+    },
     "districts": {
       "Ajmer": {
         "total": {
@@ -3355,8 +3359,11 @@
         }
       },
       "Alwar": {
+        "delta": {
+          "confirmed": 10
+        },
         "total": {
-          "confirmed": 59,
+          "confirmed": 69,
           "deceased": 2,
           "recovered": 52
         }
@@ -3388,9 +3395,13 @@
         }
       },
       "Bharatpur": {
+        "delta": {
+          "confirmed": 70,
+          "deceased": 1
+        },
         "total": {
-          "confirmed": 297,
-          "deceased": 4,
+          "confirmed": 367,
+          "deceased": 5,
           "recovered": 134
         }
       },
@@ -3421,22 +3432,31 @@
         }
       },
       "Churu": {
+        "delta": {
+          "confirmed": 2
+        },
         "total": {
-          "confirmed": 113,
+          "confirmed": 115,
           "deceased": 1,
           "recovered": 60
         }
       },
       "Dausa": {
+        "delta": {
+          "confirmed": 4
+        },
         "total": {
-          "confirmed": 52,
+          "confirmed": 56,
           "deceased": 1,
           "recovered": 41
         }
       },
       "Dholpur": {
+        "delta": {
+          "confirmed": 1
+        },
         "total": {
-          "confirmed": 60,
+          "confirmed": 61,
           "recovered": 38
         }
       },
@@ -3470,8 +3490,11 @@
         }
       },
       "Jaipur": {
+        "delta": {
+          "confirmed": 34
+        },
         "total": {
-          "confirmed": 2027,
+          "confirmed": 2061,
           "deceased": 94,
           "recovered": 1674
         }
@@ -3490,21 +3513,30 @@
         }
       },
       "Jhalawar": {
+        "delta": {
+          "confirmed": 23
+        },
         "total": {
-          "confirmed": 269,
+          "confirmed": 292,
           "recovered": 55
         }
       },
       "Jhunjhunu": {
+        "delta": {
+          "confirmed": 4
+        },
         "total": {
-          "confirmed": 137,
+          "confirmed": 141,
           "deceased": 1,
           "recovered": 89
         }
       },
       "Jodhpur": {
+        "delta": {
+          "confirmed": 12
+        },
         "total": {
-          "confirmed": 1562,
+          "confirmed": 1574,
           "deceased": 19,
           "recovered": 1130
         }
@@ -3517,9 +3549,13 @@
         }
       },
       "Kota": {
+        "delta": {
+          "confirmed": 10,
+          "deceased": 1
+        },
         "total": {
-          "confirmed": 477,
-          "deceased": 16,
+          "confirmed": 487,
+          "deceased": 17,
           "recovered": 355
         }
       },
@@ -3579,8 +3615,11 @@
         }
       },
       "Tonk": {
+        "delta": {
+          "confirmed": 1
+        },
         "total": {
-          "confirmed": 165,
+          "confirmed": 166,
           "deceased": 1,
           "recovered": 161
         }
@@ -3594,15 +3633,15 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-01T22:14:07+05:30",
+      "last_updated": "2020-06-02T10:53:10+05:30",
       "tested": {
         "last_updated": "2020-06-01",
         "source": "https://t.me/indiacovid/6090"
       }
     },
     "total": {
-      "confirmed": 9100,
-      "deceased": 199,
+      "confirmed": 9271,
+      "deceased": 201,
       "recovered": 6213,
       "tested": 425184
     }
@@ -4200,19 +4239,20 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 802,
+      "confirmed": 973,
+      "deceased": 2,
       "tested": 128868
     },
     "meta": {
-      "last_updated": "2020-06-02T10:24:03+05:30",
+      "last_updated": "2020-06-02T10:53:06+05:30",
       "tested": {
         "last_updated": "2020-06-02",
         "source": "https://twitter.com/ICMRDELHI/status/1267665101781266433?s=20"
       }
     },
     "total": {
-      "confirmed": 199172,
-      "deceased": 5608,
+      "confirmed": 199343,
+      "deceased": 5610,
       "migrated": 11,
       "recovered": 95754,
       "tested": 3966075
