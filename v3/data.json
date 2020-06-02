@@ -30,7 +30,8 @@
   "AP": {
     "delta": {
       "confirmed": 115,
-      "recovered": 40
+      "recovered": 40,
+      "tested": 12366
     },
     "districts": {
       "Anantapur": {
@@ -183,15 +184,15 @@
       "last_updated": "2020-06-02T12:39:05+05:30",
       "notes": "Total includes patients from other states and a new category \"Foreign Evacuees\" which is now reported in AP bulletin. <br>\nAP district data updated to match state dashboard as of 27th May.",
       "tested": {
-        "last_updated": "2020-06-01",
-        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/257"
+        "last_updated": "2020-06-02",
+        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/269"
       }
     },
     "total": {
       "confirmed": 3791,
       "deceased": 64,
       "recovered": 2414,
-      "tested": 383315
+      "tested": 395681
     }
   },
   "AR": {
@@ -1356,6 +1357,9 @@
     }
   },
   "HR": {
+    "delta": {
+      "recovered": 2
+    },
     "districts": {
       "Ambala": {
         "total": {
@@ -1447,9 +1451,12 @@
         }
       },
       "Mahendragarh": {
+        "delta": {
+          "recovered": 2
+        },
         "total": {
           "confirmed": 41,
-          "recovered": 19
+          "recovered": 21
         }
       },
       "Nuh": {
@@ -1511,7 +1518,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-01T20:35:08+05:30",
+      "last_updated": "2020-06-02T14:35:05+05:30",
       "tested": {
         "last_updated": "2020-06-01",
         "source": "http://www.nhmharyana.gov.in/WriteReadData/userfiles/file/CoronaVirus/Media%20Bulleitin%2001-06-2020%20Evening.pdf"
@@ -1520,7 +1527,7 @@
     "total": {
       "confirmed": 2356,
       "deceased": 21,
-      "recovered": 1055,
+      "recovered": 1057,
       "tested": 121779
     }
   },
@@ -4380,11 +4387,11 @@
     "delta": {
       "confirmed": 1243,
       "deceased": 2,
-      "recovered": 98,
+      "recovered": 100,
       "tested": 128868
     },
     "meta": {
-      "last_updated": "2020-06-02T13:21:03+05:30",
+      "last_updated": "2020-06-02T14:35:03+05:30",
       "tested": {
         "last_updated": "2020-06-02",
         "source": "https://twitter.com/ICMRDELHI/status/1267665101781266433?s=20"
@@ -4394,7 +4401,7 @@
       "confirmed": 199613,
       "deceased": 5610,
       "migrated": 11,
-      "recovered": 95852,
+      "recovered": 95854,
       "tested": 3966075
     }
   },
