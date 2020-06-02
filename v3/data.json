@@ -231,7 +231,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-02T17:44:11+05:30",
+      "last_updated": "2020-06-02T17:49:15+05:30",
       "tested": {
         "last_updated": "2020-06-01",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/261"
@@ -464,7 +464,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-02T17:44:07+05:30",
+      "last_updated": "2020-06-02T17:49:07+05:30",
       "notes": "Includes one case from Nagaland <br>\nTotal of three* patients who migrated to other states has been reduced from Active count",
       "tested": {
         "last_updated": "2020-05-31",
@@ -807,7 +807,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-02T17:44:05+05:30",
+      "last_updated": "2020-06-02T17:49:05+05:30",
       "tested": {
         "last_updated": "2020-06-01",
         "source": "https://twitter.com/PIB_Patna/status/1267426736121110528"
@@ -839,7 +839,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-02T17:44:09+05:30",
+      "last_updated": "2020-06-02T17:49:11+05:30",
       "tested": {
         "last_updated": "2020-06-01",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/260"
@@ -1389,7 +1389,8 @@
   },
   "HP": {
     "delta": {
-      "recovered": 4
+      "confirmed": 5,
+      "recovered": 6
     },
     "districts": {
       "Bilaspur": {
@@ -1406,17 +1407,20 @@
       },
       "Hamirpur": {
         "delta": {
-          "recovered": 4
+          "recovered": 5
         },
         "total": {
           "confirmed": 112,
           "deceased": 1,
-          "recovered": 34
+          "recovered": 35
         }
       },
       "Kangra": {
+        "delta": {
+          "confirmed": 3
+        },
         "total": {
-          "confirmed": 87,
+          "confirmed": 90,
           "deceased": 1,
           "recovered": 32
         }
@@ -1428,8 +1432,11 @@
         }
       },
       "Mandi": {
+        "delta": {
+          "confirmed": 2
+        },
         "total": {
-          "confirmed": 13,
+          "confirmed": 15,
           "deceased": 2,
           "recovered": 4
         }
@@ -1455,14 +1462,17 @@
         }
       },
       "Una": {
+        "delta": {
+          "recovered": 1
+        },
         "total": {
           "confirmed": 39,
-          "recovered": 20
+          "recovered": 21
         }
       }
     },
     "meta": {
-      "last_updated": "2020-06-02T13:21:07+05:30",
+      "last_updated": "2020-06-02T17:52:06+05:30",
       "notes": "HP has 4 Migrated cases which are reduced from Active #. Also, death of Tibetan refugee is included in deceased numbers, but not in confirmed",
       "tested": {
         "last_updated": "2020-06-01",
@@ -1470,10 +1480,10 @@
       }
     },
     "total": {
-      "confirmed": 340,
+      "confirmed": 345,
       "deceased": 6,
       "migrated": 3,
-      "recovered": 122,
+      "recovered": 124,
       "tested": 37897
     }
   },
@@ -2310,29 +2320,38 @@
     }
   },
   "LA": {
+    "delta": {
+      "confirmed": 4
+    },
     "districts": {
       "Kargil": {
+        "delta": {
+          "confirmed": 3
+        },
         "total": {
-          "confirmed": 36,
+          "confirmed": 39,
           "recovered": 13
         }
       },
       "Leh": {
+        "delta": {
+          "confirmed": 1
+        },
         "total": {
-          "confirmed": 41,
+          "confirmed": 42,
           "recovered": 34
         }
       }
     },
     "meta": {
-      "last_updated": "2020-05-31T18:43:08+05:30",
+      "last_updated": "2020-06-02T17:52:10+05:30",
       "tested": {
         "last_updated": "2020-05-31",
         "source": "https://twitter.com/ladags/status/1267085583823724546"
       }
     },
     "total": {
-      "confirmed": 77,
+      "confirmed": 81,
       "recovered": 47,
       "tested": 7354
     }
@@ -2656,6 +2675,9 @@
     }
   },
   "MN": {
+    "delta": {
+      "confirmed": 2
+    },
     "districts": {
       "Bishnupur": {
         "total": {
@@ -2680,8 +2702,11 @@
         }
       },
       "Imphal West": {
+        "delta": {
+          "confirmed": 2
+        },
         "total": {
-          "confirmed": 16,
+          "confirmed": 18,
           "recovered": 1
         }
       },
@@ -2720,14 +2745,14 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-01T21:34:15+05:30",
+      "last_updated": "2020-06-02T17:52:08+05:30",
       "tested": {
         "last_updated": "2020-05-29",
         "source": "https://twitter.com/DiprManipur/status/1266385249669222400?s=19"
       }
     },
     "total": {
-      "confirmed": 83,
+      "confirmed": 85,
       "recovered": 11,
       "tested": 8596
     }
@@ -4442,6 +4467,9 @@
     }
   },
   "TR": {
+    "delta": {
+      "confirmed": 23
+    },
     "districts": {
       "Dhalai": {
         "total": {
@@ -4478,6 +4506,14 @@
           "confirmed": 13
         }
       },
+      "Unknown": {
+        "delta": {
+          "confirmed": 23
+        },
+        "total": {
+          "confirmed": 23
+        }
+      },
       "Unokoti": {
         "total": {
           "confirmed": 45,
@@ -4499,30 +4535,30 @@
       }
     },
     "total": {
-      "confirmed": 423,
+      "confirmed": 446,
       "recovered": 173,
       "tested": 28360
     }
   },
   "TT": {
     "delta": {
-      "confirmed": 1424,
+      "confirmed": 1458,
       "deceased": 6,
-      "recovered": 223,
+      "recovered": 225,
       "tested": 128868
     },
     "meta": {
-      "last_updated": "2020-06-02T17:44:03+05:30",
+      "last_updated": "2020-06-02T17:53:03+05:30",
       "tested": {
         "last_updated": "2020-06-02",
         "source": "https://twitter.com/ICMRDELHI/status/1267665101781266433?s=20"
       }
     },
     "total": {
-      "confirmed": 199796,
+      "confirmed": 199830,
       "deceased": 5614,
       "migrated": 11,
-      "recovered": 95977,
+      "recovered": 95979,
       "tested": 3966075
     }
   },

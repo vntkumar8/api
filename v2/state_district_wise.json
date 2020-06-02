@@ -2717,25 +2717,25 @@
       {
         "district": "Hamirpur",
         "notes": "",
-        "active": 77,
+        "active": 76,
         "confirmed": 112,
         "deceased": 1,
-        "recovered": 34,
+        "recovered": 35,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 4
+          "recovered": 5
         }
       },
       {
         "district": "Kangra",
         "notes": "",
-        "active": 54,
-        "confirmed": 87,
+        "active": 57,
+        "confirmed": 90,
         "deceased": 1,
         "recovered": 32,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 3,
           "deceased": 0,
           "recovered": 0
         }
@@ -2782,12 +2782,12 @@
       {
         "district": "Mandi",
         "notes": "",
-        "active": 7,
-        "confirmed": 13,
+        "active": 9,
+        "confirmed": 15,
         "deceased": 2,
         "recovered": 4,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 2,
           "deceased": 0,
           "recovered": 0
         }
@@ -2834,14 +2834,14 @@
       {
         "district": "Una",
         "notes": "",
-        "active": 19,
+        "active": 18,
         "confirmed": 39,
         "deceased": 0,
-        "recovered": 20,
+        "recovered": 21,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 1
         }
       }
     ]
@@ -4417,12 +4417,12 @@
       {
         "district": "Kargil",
         "notes": "",
-        "active": 23,
-        "confirmed": 36,
+        "active": 26,
+        "confirmed": 39,
         "deceased": 0,
         "recovered": 13,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 3,
           "deceased": 0,
           "recovered": 0
         }
@@ -4430,12 +4430,12 @@
       {
         "district": "Leh",
         "notes": "",
-        "active": 7,
-        "confirmed": 41,
+        "active": 8,
+        "confirmed": 42,
         "deceased": 0,
         "recovered": 34,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
@@ -5169,12 +5169,12 @@
       {
         "district": "Imphal West",
         "notes": "",
-        "active": 15,
-        "confirmed": 16,
+        "active": 17,
+        "confirmed": 18,
         "deceased": 0,
         "recovered": 1,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 2,
           "deceased": 0,
           "recovered": 0
         }
@@ -8744,6 +8744,19 @@
       },
       {
         "district": "West Tripura",
+        "notes": "",
+        "active": 23,
+        "confirmed": 23,
+        "deceased": 0,
+        "recovered": 0,
+        "delta": {
+          "confirmed": 0,
+          "deceased": 0,
+          "recovered": 0
+        }
+      },
+      {
+        "district": "Unknown",
         "notes": "",
         "active": 23,
         "confirmed": 23,
