@@ -202,7 +202,7 @@
   },
   "AR": {
     "delta": {
-      "confirmed": 18,
+      "confirmed": 20,
       "tested": 485
     },
     "districts": {
@@ -238,10 +238,10 @@
       },
       "Unknown": {
         "delta": {
-          "confirmed": -1
+          "confirmed": 1
         },
         "total": {
-          "confirmed": 2
+          "confirmed": 4
         }
       }
     },
@@ -252,7 +252,7 @@
       }
     },
     "total": {
-      "confirmed": 22,
+      "confirmed": 24,
       "recovered": 1,
       "tested": 8768
     }
@@ -5572,7 +5572,7 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 7723,
+      "confirmed": 7725,
       "deceased": 201,
       "recovered": 3892,
       "tested": 100180
@@ -5584,7 +5584,7 @@
       }
     },
     "total": {
-      "confirmed": 198371,
+      "confirmed": 198373,
       "deceased": 5608,
       "migrated": 11,
       "recovered": 95754,
