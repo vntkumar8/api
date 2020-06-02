@@ -2376,7 +2376,8 @@
   },
   "LA": {
     "delta": {
-      "confirmed": 4
+      "confirmed": 4,
+      "tested": 910
     },
     "districts": {
       "Kargil": {
@@ -2401,14 +2402,14 @@
     "meta": {
       "last_updated": "2020-06-02T18:04:15+05:30",
       "tested": {
-        "last_updated": "2020-05-31",
-        "source": "https://twitter.com/ladags/status/1267085583823724546"
+        "last_updated": "2020-06-02",
+        "source": "https://twitter.com/ladags/status/1267782995483561985?s=20"
       }
     },
     "total": {
       "confirmed": 81,
       "recovered": 47,
-      "tested": 7354
+      "tested": 8264
     }
   },
   "LD": {
@@ -2681,6 +2682,9 @@
     }
   },
   "ML": {
+    "delta": {
+      "confirmed": 2
+    },
     "districts": {
       "East Khasi Hills": {
         "total": {
@@ -2705,8 +2709,11 @@
         }
       },
       "West Garo Hills": {
+        "delta": {
+          "confirmed": 2
+        },
         "total": {
-          "confirmed": 3
+          "confirmed": 5
         }
       },
       "West Khasi Hills": {
@@ -2716,14 +2723,14 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-01T23:26:18+05:30",
+      "last_updated": "2020-06-02T19:23:06+05:30",
       "tested": {
         "last_updated": "2020-06-01",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/259"
       }
     },
     "total": {
-      "confirmed": 28,
+      "confirmed": 30,
       "deceased": 1,
       "recovered": 12,
       "tested": 8127
@@ -4714,20 +4721,20 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 2635,
+      "confirmed": 2637,
       "deceased": 20,
       "recovered": 780,
       "tested": 128868
     },
     "meta": {
-      "last_updated": "2020-06-02T18:36:05+05:30",
+      "last_updated": "2020-06-02T19:23:03+05:30",
       "tested": {
         "last_updated": "2020-06-02",
         "source": "https://twitter.com/ICMRDELHI/status/1267665101781266433?s=20"
       }
     },
     "total": {
-      "confirmed": 201007,
+      "confirmed": 201009,
       "deceased": 5628,
       "migrated": 11,
       "recovered": 96534,
