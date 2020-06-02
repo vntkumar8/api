@@ -492,7 +492,7 @@
   },
   "BR": {
     "delta": {
-      "confirmed": 104,
+      "confirmed": 151,
       "deceased": 1,
       "recovered": 62,
       "tested": 3323
@@ -520,29 +520,32 @@
         }
       },
       "Banka": {
+        "delta": {
+          "confirmed": 5
+        },
         "total": {
-          "confirmed": 118,
+          "confirmed": 123,
           "recovered": 59
         }
       },
       "Begusarai": {
         "delta": {
-          "confirmed": 2,
+          "confirmed": 4,
           "recovered": 1
         },
         "total": {
-          "confirmed": 247,
+          "confirmed": 249,
           "deceased": 2,
           "recovered": 85
         }
       },
       "Bhagalpur": {
         "delta": {
-          "confirmed": 7,
+          "confirmed": 8,
           "recovered": 4
         },
         "total": {
-          "confirmed": 190,
+          "confirmed": 191,
           "deceased": 1,
           "recovered": 71
         }
@@ -574,20 +577,21 @@
       },
       "East Champaran": {
         "delta": {
+          "confirmed": 5,
           "recovered": 3
         },
         "total": {
-          "confirmed": 106,
+          "confirmed": 111,
           "deceased": 1,
           "recovered": 38
         }
       },
       "Gaya": {
         "delta": {
-          "confirmed": 3
+          "confirmed": 5
         },
         "total": {
-          "confirmed": 84,
+          "confirmed": 86,
           "recovered": 20
         }
       },
@@ -611,15 +615,21 @@
         }
       },
       "Jehanabad": {
+        "delta": {
+          "confirmed": 2
+        },
         "total": {
-          "confirmed": 161,
+          "confirmed": 163,
           "deceased": 1,
           "recovered": 83
         }
       },
       "Kaimur": {
+        "delta": {
+          "confirmed": 5
+        },
         "total": {
-          "confirmed": 78,
+          "confirmed": 83,
           "recovered": 35
         }
       },
@@ -652,10 +662,10 @@
       },
       "Lakhisarai": {
         "delta": {
-          "confirmed": 18
+          "confirmed": 19
         },
         "total": {
-          "confirmed": 56,
+          "confirmed": 57,
           "recovered": 15
         }
       },
@@ -670,8 +680,11 @@
         }
       },
       "Madhubani": {
+        "delta": {
+          "confirmed": 6
+        },
         "total": {
-          "confirmed": 195,
+          "confirmed": 201,
           "recovered": 63
         }
       },
@@ -686,14 +699,20 @@
         }
       },
       "Muzaffarpur": {
+        "delta": {
+          "confirmed": 1
+        },
         "total": {
-          "confirmed": 66,
+          "confirmed": 67,
           "recovered": 27
         }
       },
       "Nalanda": {
+        "delta": {
+          "confirmed": 1
+        },
         "total": {
-          "confirmed": 110,
+          "confirmed": 111,
           "deceased": 1,
           "recovered": 81
         }
@@ -706,11 +725,11 @@
       },
       "Patna": {
         "delta": {
-          "confirmed": 6,
+          "confirmed": 7,
           "recovered": 18
         },
         "total": {
-          "confirmed": 260,
+          "confirmed": 261,
           "deceased": 2,
           "recovered": 155
         }
@@ -780,17 +799,21 @@
       },
       "Sitamarhi": {
         "delta": {
+          "confirmed": 1,
           "deceased": 1
         },
         "total": {
-          "confirmed": 49,
+          "confirmed": 50,
           "deceased": 2,
           "recovered": 8
         }
       },
       "Siwan": {
+        "delta": {
+          "confirmed": 11
+        },
         "total": {
-          "confirmed": 89,
+          "confirmed": 100,
           "deceased": 2,
           "recovered": 48
         }
@@ -805,8 +828,11 @@
         }
       },
       "Vaishali": {
+        "delta": {
+          "confirmed": 3
+        },
         "total": {
-          "confirmed": 69,
+          "confirmed": 72,
           "deceased": 2,
           "recovered": 28
         }
@@ -819,14 +845,14 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-02T17:55:06+05:30",
+      "last_updated": "2020-06-02T20:53:16+05:30",
       "tested": {
         "last_updated": "2020-06-02",
         "source": "https://twitter.com/PIB_Patna/status/1267780351889268737"
       }
     },
     "total": {
-      "confirmed": 4049,
+      "confirmed": 4096,
       "deceased": 24,
       "recovered": 1803,
       "tested": 81413
@@ -1039,7 +1065,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-02T20:40:31+05:30",
+      "last_updated": "2020-06-02T20:46:38+05:30",
       "tested": {
         "last_updated": "2020-06-01",
         "source": "https://t.me/indiacovid/6107?single"
@@ -1198,12 +1224,22 @@
     }
   },
   "GJ": {
+    "delta": {
+      "confirmed": 415,
+      "deceased": 29,
+      "recovered": 1114
+    },
     "districts": {
       "Ahmedabad": {
+        "delta": {
+          "confirmed": 279,
+          "deceased": 24,
+          "recovered": 1019
+        },
         "total": {
-          "confirmed": 12494,
-          "deceased": 864,
-          "recovered": 7708
+          "confirmed": 12773,
+          "deceased": 888,
+          "recovered": 8727
         }
       },
       "Amreli": {
@@ -1214,36 +1250,52 @@
         }
       },
       "Anand": {
+        "delta": {
+          "recovered": 3
+        },
         "total": {
           "confirmed": 101,
           "deceased": 10,
-          "recovered": 84
+          "recovered": 87
         }
       },
       "Aravalli": {
+        "delta": {
+          "deceased": 2,
+          "recovered": 3
+        },
         "total": {
           "confirmed": 111,
-          "deceased": 5,
-          "recovered": 103
+          "deceased": 7,
+          "recovered": 106
         }
       },
       "Banaskantha": {
+        "delta": {
+          "confirmed": 1
+        },
         "total": {
-          "confirmed": 114,
+          "confirmed": 115,
           "deceased": 5,
           "recovered": 89
         }
       },
       "Bharuch": {
+        "delta": {
+          "confirmed": 4
+        },
         "total": {
-          "confirmed": 40,
+          "confirmed": 44,
           "deceased": 3,
           "recovered": 34
         }
       },
       "Bhavnagar": {
+        "delta": {
+          "confirmed": 4
+        },
         "total": {
-          "confirmed": 122,
+          "confirmed": 126,
           "deceased": 8,
           "recovered": 103
         }
@@ -1262,9 +1314,13 @@
         }
       },
       "Dahod": {
+        "delta": {
+          "confirmed": 4,
+          "recovered": 4
+        },
         "total": {
-          "confirmed": 36,
-          "recovered": 28
+          "confirmed": 40,
+          "recovered": 32
         }
       },
       "Dang": {
@@ -1280,16 +1336,23 @@
         }
       },
       "Gandhinagar": {
+        "delta": {
+          "confirmed": 15,
+          "recovered": 2
+        },
         "total": {
-          "confirmed": 285,
+          "confirmed": 300,
           "deceased": 14,
-          "recovered": 161
+          "recovered": 163
         }
       },
       "Gir Somnath": {
+        "delta": {
+          "recovered": 2
+        },
         "total": {
           "confirmed": 45,
-          "recovered": 34
+          "recovered": 36
         }
       },
       "Jamnagar": {
@@ -1300,23 +1363,36 @@
         }
       },
       "Junagadh": {
+        "delta": {
+          "deceased": 1,
+          "recovered": 1
+        },
         "total": {
           "confirmed": 30,
-          "recovered": 24
+          "deceased": 1,
+          "recovered": 25
         }
       },
       "Kheda": {
+        "delta": {
+          "confirmed": 3,
+          "recovered": 4
+        },
         "total": {
-          "confirmed": 79,
+          "confirmed": 82,
           "deceased": 4,
-          "recovered": 54
+          "recovered": 58
         }
       },
       "Kutch": {
+        "delta": {
+          "confirmed": 2,
+          "recovered": 7
+        },
         "total": {
-          "confirmed": 69,
+          "confirmed": 71,
           "deceased": 2,
-          "recovered": 48
+          "recovered": 55
         }
       },
       "Mahisagar": {
@@ -1327,10 +1403,15 @@
         }
       },
       "Mehsana": {
+        "delta": {
+          "confirmed": 5,
+          "deceased": 1,
+          "recovered": 3
+        },
         "total": {
-          "confirmed": 120,
-          "deceased": 5,
-          "recovered": 73
+          "confirmed": 125,
+          "deceased": 6,
+          "recovered": 76
         }
       },
       "Morbi": {
@@ -1340,14 +1421,20 @@
         }
       },
       "Narmada": {
+        "delta": {
+          "confirmed": 1
+        },
         "total": {
-          "confirmed": 18,
+          "confirmed": 19,
           "recovered": 15
         }
       },
       "Navsari": {
+        "delta": {
+          "confirmed": 1
+        },
         "total": {
-          "confirmed": 25,
+          "confirmed": 26,
           "recovered": 12
         }
       },
@@ -1357,17 +1444,24 @@
         }
       },
       "Panchmahal": {
+        "delta": {
+          "confirmed": 2
+        },
         "total": {
-          "confirmed": 89,
+          "confirmed": 91,
           "deceased": 10,
           "recovered": 72
         }
       },
       "Patan": {
+        "delta": {
+          "confirmed": 1,
+          "recovered": 1
+        },
         "total": {
-          "confirmed": 80,
+          "confirmed": 81,
           "deceased": 6,
-          "recovered": 63
+          "recovered": 64
         }
       },
       "Porbandar": {
@@ -1378,65 +1472,89 @@
         }
       },
       "Rajkot": {
+        "delta": {
+          "recovered": 2
+        },
         "total": {
           "confirmed": 115,
           "deceased": 3,
-          "recovered": 70
+          "recovered": 72
         }
       },
       "Sabarkantha": {
+        "delta": {
+          "recovered": 20
+        },
         "total": {
           "confirmed": 106,
           "deceased": 3,
-          "recovered": 52
+          "recovered": 72
         }
       },
       "Surat": {
+        "delta": {
+          "confirmed": 58,
+          "deceased": 1,
+          "recovered": 32
+        },
         "total": {
-          "confirmed": 1659,
-          "deceased": 71,
-          "recovered": 1128
+          "confirmed": 1717,
+          "deceased": 72,
+          "recovered": 1160
         }
       },
       "Surendranagar": {
+        "delta": {
+          "confirmed": 2
+        },
         "total": {
-          "confirmed": 39,
+          "confirmed": 41,
           "deceased": 1,
           "recovered": 16
         }
       },
       "Tapi": {
+        "delta": {
+          "recovered": 2
+        },
         "total": {
           "confirmed": 6,
-          "recovered": 3
+          "recovered": 5
         }
       },
       "Vadodara": {
+        "delta": {
+          "confirmed": 32,
+          "recovered": 9
+        },
         "total": {
-          "confirmed": 1074,
+          "confirmed": 1106,
           "deceased": 39,
-          "recovered": 616
+          "recovered": 625
         }
       },
       "Valsad": {
+        "delta": {
+          "confirmed": 1
+        },
         "total": {
-          "confirmed": 40,
+          "confirmed": 41,
           "deceased": 1,
           "recovered": 13
         }
       }
     },
     "meta": {
-      "last_updated": "2020-06-01T22:14:05+05:30",
+      "last_updated": "2020-06-02T20:53:10+05:30",
       "tested": {
         "last_updated": "2020-06-01",
         "source": "https://gujcovid19.gujarat.gov.in/uploads/pressbrief0106012020111410812.pdf"
       }
     },
     "total": {
-      "confirmed": 17217,
-      "deceased": 1063,
-      "recovered": 10780,
+      "confirmed": 17632,
+      "deceased": 1092,
+      "recovered": 11894,
       "tested": 216258
     }
   },
@@ -2424,7 +2542,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-02T20:43:34+05:30",
+      "last_updated": "2020-06-02T20:53:20+05:30",
       "notes": "Two active cases in KA reduced as these confirmed patients died of non-CoViD19 related reasons",
       "tested": {
         "last_updated": "2020-06-01",
@@ -3561,7 +3679,8 @@
   },
   "NL": {
     "delta": {
-      "confirmed": 6
+      "confirmed": 6,
+      "tested": 387
     },
     "districts": {
       "Dimapur": {
@@ -3586,13 +3705,12 @@
     "meta": {
       "last_updated": "2020-06-02T10:24:05+05:30",
       "tested": {
-        "last_updated": "2020-06-01",
-        "source": "https://twitter.com/MyGovNagaland/status/1267436748549873665?s=20"
+        "last_updated": "2020-06-02"
       }
     },
     "total": {
       "confirmed": 49,
-      "tested": 2870
+      "tested": 3257
     }
   },
   "OR": {
@@ -5132,23 +5250,23 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 4023,
-      "deceased": 42,
-      "recovered": 1229,
+      "confirmed": 4485,
+      "deceased": 71,
+      "recovered": 2343,
       "tested": 128868
     },
     "meta": {
-      "last_updated": "2020-06-02T20:43:20+05:30",
+      "last_updated": "2020-06-02T20:53:06+05:30",
       "tested": {
         "last_updated": "2020-06-02",
         "source": "https://twitter.com/ICMRDELHI/status/1267665101781266433?s=20"
       }
     },
     "total": {
-      "confirmed": 202394,
-      "deceased": 5650,
+      "confirmed": 202856,
+      "deceased": 5679,
       "migrated": 11,
-      "recovered": 96983,
+      "recovered": 98097,
       "tested": 3966075
     }
   },
