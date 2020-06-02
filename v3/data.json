@@ -242,7 +242,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-02T23:02:09+05:30",
+      "last_updated": "2020-06-02T23:13:08+05:30",
       "tested": {
         "last_updated": "2020-06-01",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/261"
@@ -257,7 +257,8 @@
   "AS": {
     "delta": {
       "confirmed": 28,
-      "recovered": 53
+      "recovered": 53,
+      "tested": 11278
     },
     "districts": {
       "Baksa": {
@@ -485,8 +486,8 @@
       "last_updated": "2020-06-02T21:15:35+05:30",
       "notes": "Includes one case from Nagaland <br>\nTotal of three* patients who migrated to other states has been reduced from Active count",
       "tested": {
-        "last_updated": "2020-05-31",
-        "source": "https://twitter.com/nhm_assam/status/1267131741149564928"
+        "last_updated": "2020-06-02",
+        "source": "https://twitter.com/nhm_assam/status/1267850997898137603"
       }
     },
     "total": {
@@ -494,7 +495,7 @@
       "deceased": 4,
       "migrated": 3,
       "recovered": 338,
-      "tested": 109097
+      "tested": 120375
     }
   },
   "BR": {
@@ -4739,7 +4740,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-02T23:02:05+05:30",
+      "last_updated": "2020-06-02T23:13:05+05:30",
       "tested": {
         "last_updated": "2020-06-01",
         "source": "https://t.me/indiacovid/6090"
@@ -5522,7 +5523,7 @@
       "tested": 128868
     },
     "meta": {
-      "last_updated": "2020-06-02T23:02:03+05:30",
+      "last_updated": "2020-06-02T23:13:03+05:30",
       "tested": {
         "last_updated": "2020-06-02",
         "source": "https://twitter.com/ICMRDELHI/status/1267665101781266433?s=20"
