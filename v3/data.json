@@ -483,7 +483,8 @@
     "delta": {
       "confirmed": 104,
       "deceased": 1,
-      "recovered": 62
+      "recovered": 62,
+      "tested": 3323
     },
     "districts": {
       "Araria": {
@@ -809,15 +810,15 @@
     "meta": {
       "last_updated": "2020-06-02T17:55:06+05:30",
       "tested": {
-        "last_updated": "2020-06-01",
-        "source": "https://twitter.com/PIB_Patna/status/1267426736121110528"
+        "last_updated": "2020-06-02",
+        "source": "https://twitter.com/PIB_Patna/status/1267780351889268737"
       }
     },
     "total": {
       "confirmed": 4049,
       "deceased": 24,
       "recovered": 1803,
-      "tested": 78090
+      "tested": 81413
     }
   },
   "CH": {
@@ -4620,7 +4621,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-02T18:23:11+05:30",
+      "last_updated": "2020-06-02T18:35:09+05:30",
       "notes": "2 deaths cross notified to other states from Chennai and Coimbatore.<br>1 patient died after turning negative for infection in Chengalpattu",
       "tested": {
         "last_updated": "2020-06-01",
@@ -4716,7 +4717,7 @@
       "tested": 128868
     },
     "meta": {
-      "last_updated": "2020-06-02T18:23:04+05:30",
+      "last_updated": "2020-06-02T18:35:04+05:30",
       "tested": {
         "last_updated": "2020-06-02",
         "source": "https://twitter.com/ICMRDELHI/status/1267665101781266433?s=20"
