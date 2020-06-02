@@ -202,7 +202,7 @@
     "districts": {
       "Changlang": {
         "total": {
-          "confirmed": 16
+          "confirmed": 14
         }
       },
       "Lohit": {
@@ -235,6 +235,9 @@
       "Unknown": {
         "delta": {
           "confirmed": -4
+        },
+        "total": {
+          "confirmed": 2
         }
       }
     },
@@ -4737,7 +4740,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-02T22:43:07+05:30",
+      "last_updated": "2020-06-02T22:45:06+05:30",
       "tested": {
         "last_updated": "2020-06-01",
         "source": "https://t.me/indiacovid/6090"
@@ -5499,7 +5502,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-02T22:43:15+05:30",
+      "last_updated": "2020-06-02T22:45:12+05:30",
       "notes": "Two cases have migrated out of Tripura.",
       "tested": {
         "last_updated": "2020-06-01",
@@ -5520,7 +5523,7 @@
       "tested": 128868
     },
     "meta": {
-      "last_updated": "2020-06-02T22:43:03+05:30",
+      "last_updated": "2020-06-02T22:51:03+05:30",
       "tested": {
         "last_updated": "2020-06-02",
         "source": "https://twitter.com/ICMRDELHI/status/1267665101781266433?s=20"
@@ -6271,7 +6274,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-02T22:43:10+05:30",
+      "last_updated": "2020-06-02T22:51:05+05:30",
       "tested": {
         "last_updated": "2020-06-01",
         "source": "https://t.me/indiacovid/6095?single"
