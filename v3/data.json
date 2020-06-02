@@ -242,7 +242,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-02T20:23:19+05:30",
+      "last_updated": "2020-06-02T20:35:17+05:30",
       "tested": {
         "last_updated": "2020-06-01",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/261"
@@ -867,16 +867,18 @@
   },
   "CT": {
     "delta": {
-      "confirmed": 9
+      "confirmed": 9,
+      "recovered": 9
     },
     "districts": {
       "Balod": {
         "delta": {
-          "confirmed": 3
+          "confirmed": 3,
+          "recovered": 1
         },
         "total": {
           "confirmed": 31,
-          "recovered": 11
+          "recovered": 12
         }
       },
       "Baloda Bazar": {
@@ -894,9 +896,12 @@
         }
       },
       "Bametara": {
+        "delta": {
+          "recovered": 4
+        },
         "total": {
           "confirmed": 20,
-          "recovered": 2
+          "recovered": 6
         }
       },
       "Bastar": {
@@ -980,9 +985,12 @@
         }
       },
       "Mungeli": {
+        "delta": {
+          "recovered": 4
+        },
         "total": {
           "confirmed": 84,
-          "recovered": 3
+          "recovered": 7
         }
       },
       "Raigarh": {
@@ -1025,22 +1033,22 @@
       },
       "Uttar Bastar Kanker": {
         "total": {
-          "confirmed": 21,
+          "confirmed": 20,
           "recovered": 3
         }
       }
     },
     "meta": {
-      "last_updated": "2020-06-02T20:23:14+05:30",
+      "last_updated": "2020-06-02T20:35:15+05:30",
       "tested": {
         "last_updated": "2020-06-01",
         "source": "https://t.me/indiacovid/6107?single"
       }
     },
     "total": {
-      "confirmed": 557,
+      "confirmed": 556,
       "deceased": 1,
-      "recovered": 121,
+      "recovered": 130,
       "tested": 74696
     }
   },
@@ -2127,7 +2135,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-02T20:23:11+05:30",
+      "last_updated": "2020-06-02T20:35:07+05:30",
       "tested": {
         "last_updated": "2020-06-01",
         "source": "https://twitter.com/diprjk/status/1267450626524409857/photo/2"
@@ -2364,7 +2372,8 @@
     "delta": {
       "confirmed": 86,
       "deceased": 1,
-      "recovered": 19
+      "recovered": 19,
+      "tested": 3720
     },
     "districts": {
       "Alappuzha": {
@@ -2521,15 +2530,14 @@
       "last_updated": "2020-06-02T18:13:05+05:30",
       "notes": "Mahe native who expired in Kannur included in Kerala's tally",
       "tested": {
-        "last_updated": "2020-06-01",
-        "source": "https://dhs.kerala.gov.in/wp-content/uploads/2020/06/Daily-Bulletin-HFWD-English-June-1.pdf"
+        "last_updated": "2020-06-02"
       }
     },
     "total": {
       "confirmed": 1413,
       "deceased": 12,
       "recovered": 627,
-      "tested": 82449
+      "tested": 86169
     }
   },
   "LA": {
@@ -5054,21 +5062,21 @@
     "delta": {
       "confirmed": 3635,
       "deceased": 42,
-      "recovered": 1145,
+      "recovered": 1154,
       "tested": 128868
     },
     "meta": {
-      "last_updated": "2020-06-02T20:23:04+05:30",
+      "last_updated": "2020-06-02T20:35:03+05:30",
       "tested": {
         "last_updated": "2020-06-02",
         "source": "https://twitter.com/ICMRDELHI/status/1267665101781266433?s=20"
       }
     },
     "total": {
-      "confirmed": 202007,
+      "confirmed": 202006,
       "deceased": 5650,
       "migrated": 11,
-      "recovered": 96899,
+      "recovered": 96908,
       "tested": 3966075
     }
   },
@@ -5967,7 +5975,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-02T20:23:09+05:30",
+      "last_updated": "2020-06-02T20:35:05+05:30",
       "notes": "- Cases updated as per WB bulletin.<br>\n- Deaths due to comorbidities added to total deceased<br>",
       "tested": {
         "last_updated": "2020-06-01",
