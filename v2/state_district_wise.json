@@ -297,8 +297,8 @@
       {
         "district": "Changlang",
         "notes": "",
-        "active": 14,
-        "confirmed": 14,
+        "active": 16,
+        "confirmed": 16,
         "deceased": 0,
         "recovered": 0,
         "delta": {
@@ -609,8 +609,8 @@
       {
         "district": "Unknown",
         "notes": "",
-        "active": 2,
-        "confirmed": 2,
+        "active": -2,
+        "confirmed": -2,
         "deceased": 0,
         "recovered": 0,
         "delta": {
@@ -7525,12 +7525,12 @@
       {
         "district": "Sawai Madhopur",
         "notes": "",
-        "active": 8,
-        "confirmed": 25,
+        "active": 3,
+        "confirmed": 20,
         "deceased": 1,
         "recovered": 16,
         "delta": {
-          "confirmed": 5,
+          "confirmed": 0,
           "deceased": 0,
           "recovered": 3
         }
@@ -7538,12 +7538,12 @@
       {
         "district": "Sikar",
         "notes": "",
-        "active": 111,
-        "confirmed": 231,
+        "active": 104,
+        "confirmed": 224,
         "deceased": 5,
         "recovered": 115,
         "delta": {
-          "confirmed": 12,
+          "confirmed": 5,
           "deceased": 0,
           "recovered": 10
         }
@@ -7551,12 +7551,12 @@
       {
         "district": "Sirohi",
         "notes": "",
-        "active": 103,
-        "confirmed": 165,
+        "active": 114,
+        "confirmed": 176,
         "deceased": 3,
         "recovered": 59,
         "delta": {
-          "confirmed": 1,
+          "confirmed": 12,
           "deceased": 0,
           "recovered": 16
         }
@@ -7564,12 +7564,12 @@
       {
         "district": "Tonk",
         "notes": "",
-        "active": 7,
-        "confirmed": 169,
+        "active": 4,
+        "confirmed": 166,
         "deceased": 1,
         "recovered": 161,
         "delta": {
-          "confirmed": 4,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
@@ -7577,12 +7577,12 @@
       {
         "district": "Udaipur",
         "notes": "",
-        "active": 138,
-        "confirmed": 563,
+        "active": 141,
+        "confirmed": 566,
         "deceased": 1,
         "recovered": 424,
         "delta": {
-          "confirmed": 1,
+          "confirmed": 4,
           "deceased": 0,
           "recovered": 0
         }

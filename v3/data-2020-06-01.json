@@ -202,16 +202,16 @@
   },
   "AR": {
     "delta": {
-      "confirmed": 20,
+      "confirmed": 18,
       "tested": 485
     },
     "districts": {
       "Changlang": {
         "delta": {
-          "confirmed": 14
+          "confirmed": 16
         },
         "total": {
-          "confirmed": 14
+          "confirmed": 16
         }
       },
       "Lohit": {
@@ -238,10 +238,10 @@
       },
       "Unknown": {
         "delta": {
-          "confirmed": 3
+          "confirmed": -1
         },
         "total": {
-          "confirmed": 6
+          "confirmed": 2
         }
       }
     },
@@ -252,7 +252,7 @@
       }
     },
     "total": {
-      "confirmed": 24,
+      "confirmed": 22,
       "recovered": 1,
       "tested": 8768
     }
@@ -5572,7 +5572,7 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 7725,
+      "confirmed": 7723,
       "deceased": 201,
       "recovered": 3892,
       "tested": 100180
@@ -5584,7 +5584,7 @@
       }
     },
     "total": {
-      "confirmed": 198373,
+      "confirmed": 198371,
       "deceased": 5608,
       "migrated": 11,
       "recovered": 95754,
