@@ -256,7 +256,7 @@
   },
   "AS": {
     "delta": {
-      "confirmed": 28,
+      "confirmed": 76,
       "recovered": 53,
       "tested": 11278
     },
@@ -276,8 +276,11 @@
         }
       },
       "Biswanath": {
-        "total": {
+        "delta": {
           "confirmed": 13
+        },
+        "total": {
+          "confirmed": 26
         }
       },
       "Bongaigaon": {
@@ -288,10 +291,11 @@
       },
       "Cachar": {
         "delta": {
+          "confirmed": 1,
           "recovered": 18
         },
         "total": {
-          "confirmed": 71,
+          "confirmed": 72,
           "recovered": 60
         }
       },
@@ -359,8 +363,11 @@
         }
       },
       "Hojai": {
+        "delta": {
+          "confirmed": 4
+        },
         "total": {
-          "confirmed": 55
+          "confirmed": 59
         }
       },
       "Jorhat": {
@@ -394,8 +401,11 @@
         }
       },
       "Karimganj": {
+        "delta": {
+          "confirmed": 7
+        },
         "total": {
-          "confirmed": 53,
+          "confirmed": 60,
           "recovered": 2
         }
       },
@@ -437,8 +447,11 @@
         }
       },
       "Sivasagar": {
+        "delta": {
+          "confirmed": 5
+        },
         "total": {
-          "confirmed": 21
+          "confirmed": 26
         }
       },
       "Sonitpur": {
@@ -465,25 +478,26 @@
       },
       "Unknown": {
         "delta": {
-          "confirmed": 5
+          "confirmed": 14
         },
         "total": {
-          "confirmed": 6,
+          "confirmed": 15,
           "migrated": 3
         }
       },
       "West Karbi Anglong": {
         "delta": {
+          "confirmed": 9,
           "recovered": 1
         },
         "total": {
-          "confirmed": 4,
+          "confirmed": 13,
           "recovered": 1
         }
       }
     },
     "meta": {
-      "last_updated": "2020-06-02T21:15:35+05:30",
+      "last_updated": "2020-06-03T00:43:05+05:30",
       "notes": "Includes one case from Nagaland <br>\nTotal of three* patients who migrated to other states has been reduced from Active count",
       "tested": {
         "last_updated": "2020-06-02",
@@ -491,7 +505,7 @@
       }
     },
     "total": {
-      "confirmed": 1514,
+      "confirmed": 1562,
       "deceased": 4,
       "migrated": 3,
       "recovered": 338,
@@ -5585,20 +5599,20 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 8764,
+      "confirmed": 8812,
       "deceased": 221,
       "recovered": 4531,
       "tested": 128868
     },
     "meta": {
-      "last_updated": "2020-06-03T00:19:03+05:30",
+      "last_updated": "2020-06-03T00:43:03+05:30",
       "tested": {
         "last_updated": "2020-06-02",
         "source": "https://twitter.com/ICMRDELHI/status/1267665101781266433?s=20"
       }
     },
     "total": {
-      "confirmed": 207135,
+      "confirmed": 207183,
       "deceased": 5829,
       "migrated": 11,
       "recovered": 100285,
