@@ -766,18 +766,18 @@
 			"statecode": "AS"
 		},
 		{
-			"active": "33",
+			"active": "31",
 			"confirmed": "43",
 			"deceased": "0",
-			"deltaactive": "0",
+			"deltaactive": "-2",
 			"deltaconfirmed": "0",
 			"deltadeceased": "0",
-			"deltarecovered": "0",
+			"deltarecovered": "2",
 			"district": "Barpeta",
 			"districtkey": "AS_Barpeta",
 			"districtnotes": "",
 			"lastupdated": "",
-			"recovered": "10",
+			"recovered": "12",
 			"slno": "43",
 			"state": "Assam",
 			"statecode": "AS"
@@ -1055,18 +1055,18 @@
 			"statecode": "AS"
 		},
 		{
-			"active": "203",
+			"active": "193",
 			"confirmed": "377",
 			"deceased": "3",
-			"deltaactive": "-9",
+			"deltaactive": "-19",
 			"deltaconfirmed": "0",
 			"deltadeceased": "0",
-			"deltarecovered": "9",
+			"deltarecovered": "19",
 			"district": "Kamrup Metropolitan",
 			"districtkey": "AS_Kamrup Metropolitan",
 			"districtnotes": "",
 			"lastupdated": "",
-			"recovered": "171",
+			"recovered": "181",
 			"slno": "60",
 			"state": "Assam",
 			"statecode": "AS"
@@ -1310,18 +1310,18 @@
 			"statecode": "AS"
 		},
 		{
-			"active": "4",
+			"active": "3",
 			"confirmed": "4",
 			"deceased": "0",
-			"deltaactive": "0",
+			"deltaactive": "-1",
 			"deltaconfirmed": "0",
 			"deltadeceased": "0",
-			"deltarecovered": "0",
+			"deltarecovered": "1",
 			"district": "West Karbi Anglong",
 			"districtkey": "AS_West Karbi Anglong",
 			"districtnotes": "",
 			"lastupdated": "",
-			"recovered": "0",
+			"recovered": "1",
 			"slno": "74",
 			"state": "Assam",
 			"statecode": "AS"
@@ -6410,11 +6410,11 @@
 			"statecode": "MN"
 		},
 		{
-			"active": "5",
-			"confirmed": "6",
+			"active": "9",
+			"confirmed": "10",
 			"deceased": "0",
-			"deltaactive": "0",
-			"deltaconfirmed": "0",
+			"deltaactive": "4",
+			"deltaconfirmed": "4",
 			"deltadeceased": "0",
 			"deltarecovered": "0",
 			"district": "Imphal East",
@@ -13227,7 +13227,7 @@
 			"statecode": "MH"
 		},
 		{
-			"active": "25",
+			"active": "22",
 			"confirmed": "28",
 			"deceased": "0",
 			"deltaactive": "0",
@@ -13238,7 +13238,7 @@
 			"districtkey": "MN_Unknown",
 			"districtnotes": "",
 			"lastupdated": "",
-			"recovered": "3",
+			"recovered": "6",
 			"slno": "750",
 			"state": "Manipur",
 			"statecode": "MN"

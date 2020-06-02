@@ -257,7 +257,7 @@
   "AS": {
     "delta": {
       "confirmed": 28,
-      "recovered": 40
+      "recovered": 53
     },
     "districts": {
       "Baksa": {
@@ -266,9 +266,12 @@
         }
       },
       "Barpeta": {
+        "delta": {
+          "recovered": 2
+        },
         "total": {
           "confirmed": 43,
-          "recovered": 10
+          "recovered": 12
         }
       },
       "Biswanath": {
@@ -376,12 +379,12 @@
       },
       "Kamrup Metropolitan": {
         "delta": {
-          "recovered": 9
+          "recovered": 19
         },
         "total": {
           "confirmed": 377,
           "deceased": 3,
-          "recovered": 171
+          "recovered": 181
         }
       },
       "Karbi Anglong": {
@@ -469,13 +472,17 @@
         }
       },
       "West Karbi Anglong": {
+        "delta": {
+          "recovered": 1
+        },
         "total": {
-          "confirmed": 4
+          "confirmed": 4,
+          "recovered": 1
         }
       }
     },
     "meta": {
-      "last_updated": "2020-06-02T17:55:08+05:30",
+      "last_updated": "2020-06-02T21:03:07+05:30",
       "notes": "Includes one case from Nagaland <br>\nTotal of three* patients who migrated to other states has been reduced from Active count",
       "tested": {
         "last_updated": "2020-05-31",
@@ -486,7 +493,7 @@
       "confirmed": 1514,
       "deceased": 4,
       "migrated": 3,
-      "recovered": 325,
+      "recovered": 338,
       "tested": 109097
     }
   },
@@ -845,7 +852,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-02T20:53:16+05:30",
+      "last_updated": "2020-06-02T20:59:08+05:30",
       "tested": {
         "last_updated": "2020-06-02",
         "source": "https://twitter.com/PIB_Patna/status/1267780351889268737"
@@ -1545,7 +1552,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-02T20:53:10+05:30",
+      "last_updated": "2020-06-02T20:59:06+05:30",
       "tested": {
         "last_updated": "2020-06-01",
         "source": "https://gujcovid19.gujarat.gov.in/uploads/pressbrief0106012020111410812.pdf"
@@ -2542,7 +2549,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-02T20:53:20+05:30",
+      "last_updated": "2020-06-02T20:56:06+05:30",
       "notes": "Two active cases in KA reduced as these confirmed patients died of non-CoViD19 related reasons",
       "tested": {
         "last_updated": "2020-06-01",
@@ -3094,7 +3101,8 @@
   },
   "MN": {
     "delta": {
-      "confirmed": 2
+      "confirmed": 6,
+      "recovered": 3
     },
     "districts": {
       "Bishnupur": {
@@ -3114,8 +3122,11 @@
         }
       },
       "Imphal East": {
+        "delta": {
+          "confirmed": 4
+        },
         "total": {
-          "confirmed": 6,
+          "confirmed": 10,
           "recovered": 1
         }
       },
@@ -3156,22 +3167,25 @@
         }
       },
       "Unknown": {
+        "delta": {
+          "recovered": 3
+        },
         "total": {
           "confirmed": 28,
-          "recovered": 3
+          "recovered": 6
         }
       }
     },
     "meta": {
-      "last_updated": "2020-06-02T18:04:13+05:30",
+      "last_updated": "2020-06-02T21:03:10+05:30",
       "tested": {
         "last_updated": "2020-05-29",
         "source": "https://twitter.com/DiprManipur/status/1266385249669222400?s=19"
       }
     },
     "total": {
-      "confirmed": 85,
-      "recovered": 11,
+      "confirmed": 89,
+      "recovered": 14,
       "tested": 8596
     }
   },
@@ -3705,7 +3719,8 @@
     "meta": {
       "last_updated": "2020-06-02T10:24:05+05:30",
       "tested": {
-        "last_updated": "2020-06-02"
+        "last_updated": "2020-06-02",
+        "source": "https://twitter.com/MyGovNagaland/status/1267818536296001544?s=20"
       }
     },
     "total": {
@@ -5250,23 +5265,23 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 4485,
+      "confirmed": 4489,
       "deceased": 71,
-      "recovered": 2343,
+      "recovered": 2359,
       "tested": 128868
     },
     "meta": {
-      "last_updated": "2020-06-02T20:53:06+05:30",
+      "last_updated": "2020-06-02T21:03:04+05:30",
       "tested": {
         "last_updated": "2020-06-02",
         "source": "https://twitter.com/ICMRDELHI/status/1267665101781266433?s=20"
       }
     },
     "total": {
-      "confirmed": 202856,
+      "confirmed": 202860,
       "deceased": 5679,
       "migrated": 11,
-      "recovered": 98097,
+      "recovered": 98113,
       "tested": 3966075
     }
   },
