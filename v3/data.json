@@ -915,7 +915,7 @@
   },
   "CT": {
     "delta": {
-      "confirmed": 9,
+      "confirmed": 17,
       "recovered": 9,
       "tested": 2472
     },
@@ -962,8 +962,11 @@
         }
       },
       "Bilaspur": {
+        "delta": {
+          "confirmed": 3
+        },
         "total": {
-          "confirmed": 61,
+          "confirmed": 64,
           "recovered": 6
         }
       },
@@ -983,8 +986,11 @@
         }
       },
       "Gariaband": {
+        "delta": {
+          "confirmed": 1
+        },
         "total": {
-          "confirmed": 6,
+          "confirmed": 7,
           "recovered": 4
         }
       },
@@ -1023,8 +1029,11 @@
         }
       },
       "Koriya": {
+        "delta": {
+          "confirmed": 1
+        },
         "total": {
-          "confirmed": 29,
+          "confirmed": 30,
           "recovered": 1
         }
       },
@@ -1035,10 +1044,11 @@
       },
       "Mungeli": {
         "delta": {
+          "confirmed": 1,
           "recovered": 4
         },
         "total": {
-          "confirmed": 84,
+          "confirmed": 85,
           "recovered": 7
         }
       },
@@ -1076,8 +1086,8 @@
         }
       },
       "Unknown": {
-        "delta": {
-          "confirmed": -2
+        "total": {
+          "confirmed": 2
         }
       },
       "Uttar Bastar Kanker": {
@@ -1088,14 +1098,14 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-02T20:46:38+05:30",
+      "last_updated": "2020-06-03T05:23:05+05:30",
       "tested": {
         "last_updated": "2020-06-02",
         "source": "https://twitter.com/TS_SinghDeo/status/1267858264877760512"
       }
     },
     "total": {
-      "confirmed": 556,
+      "confirmed": 564,
       "deceased": 1,
       "recovered": 130,
       "tested": 77168
@@ -5602,20 +5612,20 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 8812,
+      "confirmed": 8820,
       "deceased": 221,
       "recovered": 4531,
       "tested": 128868
     },
     "meta": {
-      "last_updated": "2020-06-03T00:55:03+05:30",
+      "last_updated": "2020-06-03T05:23:03+05:30",
       "tested": {
         "last_updated": "2020-06-02",
         "source": "https://twitter.com/ICMRDELHI/status/1267665101781266433?s=20"
       }
     },
     "total": {
-      "confirmed": 207183,
+      "confirmed": 207191,
       "deceased": 5829,
       "migrated": 11,
       "recovered": 100285,
