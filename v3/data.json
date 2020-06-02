@@ -238,6 +238,9 @@
     }
   },
   "AS": {
+    "delta": {
+      "confirmed": 28
+    },
     "districts": {
       "Baksa": {
         "total": {
@@ -311,8 +314,11 @@
         }
       },
       "Golaghat": {
+        "delta": {
+          "confirmed": 10
+        },
         "total": {
-          "confirmed": 179,
+          "confirmed": 189,
           "recovered": 9
         }
       },
@@ -328,8 +334,11 @@
         }
       },
       "Jorhat": {
+        "delta": {
+          "confirmed": 1
+        },
         "total": {
-          "confirmed": 22,
+          "confirmed": 23,
           "recovered": 18
         }
       },
@@ -375,8 +384,11 @@
         }
       },
       "Nagaon": {
+        "delta": {
+          "confirmed": 12
+        },
         "total": {
-          "confirmed": 42
+          "confirmed": 54
         }
       },
       "Nalbari": {
@@ -419,8 +431,11 @@
         }
       },
       "Unknown": {
+        "delta": {
+          "confirmed": 5
+        },
         "total": {
-          "confirmed": 1,
+          "confirmed": 6,
           "migrated": 3
         }
       },
@@ -431,7 +446,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-02T01:14:06+05:30",
+      "last_updated": "2020-06-02T16:23:07+05:30",
       "notes": "Includes one case from Nagaland <br>\nTotal of three* patients who migrated to other states has been reduced from Active count",
       "tested": {
         "last_updated": "2020-05-31",
@@ -439,7 +454,7 @@
       }
     },
     "total": {
-      "confirmed": 1486,
+      "confirmed": 1514,
       "deceased": 4,
       "migrated": 3,
       "recovered": 285,
@@ -4445,20 +4460,20 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 1387,
+      "confirmed": 1415,
       "deceased": 4,
       "recovered": 121,
       "tested": 128868
     },
     "meta": {
-      "last_updated": "2020-06-02T15:24:03+05:30",
+      "last_updated": "2020-06-02T16:23:03+05:30",
       "tested": {
         "last_updated": "2020-06-02",
         "source": "https://twitter.com/ICMRDELHI/status/1267665101781266433?s=20"
       }
     },
     "total": {
-      "confirmed": 199757,
+      "confirmed": 199785,
       "deceased": 5612,
       "migrated": 11,
       "recovered": 95875,
