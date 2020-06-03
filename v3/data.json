@@ -3056,6 +3056,9 @@
     }
   },
   "OR": {
+    "delta": {
+      "confirmed": 1
+    },
     "districts": {
       "Angul": {
         "total": {
@@ -3064,8 +3067,11 @@
         }
       },
       "Balangir": {
+        "delta": {
+          "confirmed": 1
+        },
         "total": {
-          "confirmed": 89,
+          "confirmed": 90,
           "recovered": 9
         }
       },
@@ -3235,14 +3241,14 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-03T00:19:05+05:30",
+      "last_updated": "2020-06-03T14:23:08+05:30",
       "tested": {
         "last_updated": "2020-06-02",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/265?single"
       }
     },
     "total": {
-      "confirmed": 2245,
+      "confirmed": 2246,
       "deceased": 9,
       "recovered": 1325,
       "tested": 159567
@@ -4364,20 +4370,20 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 1061,
+      "confirmed": 1062,
       "deceased": 4,
       "recovered": 121,
       "tested": 137158
     },
     "meta": {
-      "last_updated": "2020-06-03T13:53:03+05:30",
+      "last_updated": "2020-06-03T14:23:04+05:30",
       "tested": {
         "last_updated": "2020-06-03",
         "source": "https://twitter.com/ICMRDELHI/status/1268030064467165184?s=19"
       }
     },
     "total": {
-      "confirmed": 208252,
+      "confirmed": 208253,
       "deceased": 5833,
       "migrated": 11,
       "recovered": 100406,
