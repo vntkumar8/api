@@ -194,7 +194,7 @@
   },
   "AR": {
     "delta": {
-      "confirmed": 6,
+      "confirmed": 5,
       "tested": 311
     },
     "districts": {
@@ -213,8 +213,11 @@
         }
       },
       "Namsai": {
+        "delta": {
+          "confirmed": -1
+        },
         "total": {
-          "confirmed": 2
+          "confirmed": 1
         }
       },
       "Pakke Kessang": {
@@ -256,7 +259,7 @@
       }
     },
     "total": {
-      "confirmed": 28,
+      "confirmed": 27,
       "recovered": 1,
       "tested": 9079
     }
@@ -918,7 +921,7 @@
   },
   "CT": {
     "delta": {
-      "confirmed": 17,
+      "confirmed": 15,
       "recovered": 9,
       "tested": 2472
     },
@@ -1089,8 +1092,8 @@
         }
       },
       "Unknown": {
-        "total": {
-          "confirmed": 2
+        "delta": {
+          "confirmed": -2
         }
       },
       "Uttar Bastar Kanker": {
@@ -1107,7 +1110,7 @@
       }
     },
     "total": {
-      "confirmed": 564,
+      "confirmed": 562,
       "deceased": 1,
       "recovered": 130,
       "tested": 77168
@@ -5585,7 +5588,7 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 8820,
+      "confirmed": 8817,
       "deceased": 221,
       "recovered": 4531,
       "tested": 128868
@@ -5597,7 +5600,7 @@
       }
     },
     "total": {
-      "confirmed": 207191,
+      "confirmed": 207188,
       "deceased": 5829,
       "migrated": 11,
       "recovered": 100285,
