@@ -520,7 +520,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-03T21:45:10+05:30",
+      "last_updated": "2020-06-03T23:23:07+05:30",
       "notes": "Includes one case from Nagaland\nTotal of three* patients who migrated to other states has been reduced from Active count",
       "tested": {
         "last_updated": "2020-06-02",
@@ -970,22 +970,34 @@
     }
   },
   "CT": {
+    "delta": {
+      "confirmed": 62
+    },
     "districts": {
       "Balod": {
+        "delta": {
+          "confirmed": 3
+        },
         "total": {
-          "confirmed": 31,
+          "confirmed": 34,
           "recovered": 12
         }
       },
       "Baloda Bazar": {
+        "delta": {
+          "confirmed": 36
+        },
         "total": {
-          "confirmed": 23,
+          "confirmed": 59,
           "recovered": 7
         }
       },
       "Balrampur": {
+        "delta": {
+          "confirmed": 1
+        },
         "total": {
-          "confirmed": 16
+          "confirmed": 17
         }
       },
       "Bametara": {
@@ -1000,8 +1012,11 @@
         }
       },
       "Bilaspur": {
+        "delta": {
+          "confirmed": 2
+        },
         "total": {
-          "confirmed": 64,
+          "confirmed": 66,
           "recovered": 6
         }
       },
@@ -1012,8 +1027,11 @@
         }
       },
       "Durg": {
+        "delta": {
+          "confirmed": 1
+        },
         "total": {
-          "confirmed": 13,
+          "confirmed": 14,
           "recovered": 10
         }
       },
@@ -1029,19 +1047,28 @@
         }
       },
       "Janjgir Champa": {
+        "delta": {
+          "confirmed": 2
+        },
         "total": {
-          "confirmed": 16,
+          "confirmed": 18,
           "recovered": 12
         }
       },
       "Jashpur": {
+        "delta": {
+          "confirmed": 5
+        },
         "total": {
-          "confirmed": 41
+          "confirmed": 46
         }
       },
       "Kabeerdham": {
+        "delta": {
+          "confirmed": 4
+        },
         "total": {
-          "confirmed": 19,
+          "confirmed": 23,
           "recovered": 12
         }
       },
@@ -1052,8 +1079,11 @@
         }
       },
       "Koriya": {
+        "delta": {
+          "confirmed": 8
+        },
         "total": {
-          "confirmed": 30,
+          "confirmed": 38,
           "recovered": 1
         }
       },
@@ -1063,14 +1093,20 @@
         }
       },
       "Mungeli": {
+        "delta": {
+          "confirmed": 1
+        },
         "total": {
-          "confirmed": 85,
+          "confirmed": 86,
           "recovered": 7
         }
       },
       "Raigarh": {
+        "delta": {
+          "confirmed": 1
+        },
         "total": {
-          "confirmed": 19
+          "confirmed": 20
         }
       },
       "Raipur": {
@@ -1099,8 +1135,8 @@
         }
       },
       "Unknown": {
-        "total": {
-          "confirmed": 2
+        "delta": {
+          "confirmed": -2
         }
       },
       "Uttar Bastar Kanker": {
@@ -1111,14 +1147,14 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-03T05:35:06+05:30",
+      "last_updated": "2020-06-03T23:23:09+05:30",
       "tested": {
         "last_updated": "2020-06-02",
         "source": "https://twitter.com/TS_SinghDeo/status/1267858264877760512"
       }
     },
     "total": {
-      "confirmed": 564,
+      "confirmed": 626,
       "deceased": 1,
       "recovered": 130,
       "tested": 77168
@@ -5729,20 +5765,20 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 9462,
+      "confirmed": 9524,
       "deceased": 259,
       "recovered": 3745,
       "tested": 137158
     },
     "meta": {
-      "last_updated": "2020-06-03T23:12:04+05:30",
+      "last_updated": "2020-06-03T23:23:04+05:30",
       "tested": {
         "last_updated": "2020-06-03",
         "source": "https://twitter.com/ICMRDELHI/status/1268030064467165184?s=19"
       }
     },
     "total": {
-      "confirmed": 216653,
+      "confirmed": 216715,
       "deceased": 6088,
       "migrated": 11,
       "recovered": 104030,
