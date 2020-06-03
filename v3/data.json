@@ -184,14 +184,14 @@
     "meta": {
       "last_updated": "2020-06-02T23:45:17+05:30",
       "tested": {
-        "last_updated": "2020-06-01",
-        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/261"
+        "last_updated": "2020-06-02",
+        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/281"
       }
     },
     "total": {
       "confirmed": 28,
       "recovered": 1,
-      "tested": 8768
+      "tested": 9079
     }
   },
   "AS": {
@@ -249,8 +249,11 @@
         }
       },
       "Dhubri": {
+        "delta": {
+          "confirmed": 38
+        },
         "total": {
-          "confirmed": 37,
+          "confirmed": 75,
           "recovered": 5
         }
       },
@@ -272,8 +275,11 @@
         }
       },
       "Golaghat": {
+        "delta": {
+          "confirmed": 18
+        },
         "total": {
-          "confirmed": 189,
+          "confirmed": 207,
           "recovered": 21
         }
       },
@@ -336,8 +342,11 @@
         }
       },
       "Nagaon": {
+        "delta": {
+          "confirmed": 4
+        },
         "total": {
-          "confirmed": 54
+          "confirmed": 58
         }
       },
       "Nalbari": {
@@ -380,11 +389,8 @@
         }
       },
       "Unknown": {
-        "delta": {
-          "confirmed": 60
-        },
         "total": {
-          "confirmed": 75,
+          "confirmed": 15,
           "migrated": 3
         }
       },
@@ -2183,6 +2189,9 @@
     }
   },
   "MH": {
+    "delta": {
+      "tested": 13793
+    },
     "districts": {
       "Ahmednagar": {
         "total": {
@@ -2432,15 +2441,15 @@
     "meta": {
       "last_updated": "2020-06-02T21:44:06+05:30",
       "tested": {
-        "last_updated": "2020-06-02",
-        "source": "https://twitter.com/Maha_MEDD/status/1267698518459850752?s=19"
+        "last_updated": "2020-06-03",
+        "source": "https://twitter.com/Maha_MEDD/status/1268054528882028544?s=19"
       }
     },
     "total": {
       "confirmed": 72300,
       "deceased": 2465,
       "recovered": 31333,
-      "tested": 484784
+      "tested": 498577
     }
   },
   "ML": {
@@ -3689,7 +3698,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-03T12:13:04+05:30",
+      "last_updated": "2020-06-03T12:23:05+05:30",
       "tested": {
         "last_updated": "2020-06-02",
         "source": "https://t.me/indiacovid/6167"
@@ -4305,7 +4314,7 @@
       "tested": 137158
     },
     "meta": {
-      "last_updated": "2020-06-03T12:13:02+05:30",
+      "last_updated": "2020-06-03T12:23:03+05:30",
       "tested": {
         "last_updated": "2020-06-03",
         "source": "https://twitter.com/ICMRDELHI/status/1268030064467165184?s=19"
