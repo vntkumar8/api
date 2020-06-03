@@ -256,7 +256,7 @@
   },
   "AS": {
     "delta": {
-      "confirmed": 60
+      "confirmed": 111
     },
     "districts": {
       "Baksa": {
@@ -298,8 +298,11 @@
         }
       },
       "Darrang": {
-        "total": {
+        "delta": {
           "confirmed": 13
+        },
+        "total": {
+          "confirmed": 26
         }
       },
       "Dhemaji": {
@@ -310,10 +313,10 @@
       },
       "Dhubri": {
         "delta": {
-          "confirmed": 38
+          "confirmed": 66
         },
         "total": {
-          "confirmed": 75,
+          "confirmed": 103,
           "recovered": 5
         }
       },
@@ -379,8 +382,11 @@
         }
       },
       "Karimganj": {
+        "delta": {
+          "confirmed": 5
+        },
         "total": {
-          "confirmed": 60,
+          "confirmed": 65,
           "recovered": 2
         }
       },
@@ -390,8 +396,11 @@
         }
       },
       "Lakhimpur": {
+        "delta": {
+          "confirmed": 2
+        },
         "total": {
-          "confirmed": 48,
+          "confirmed": 50,
           "recovered": 1
         }
       },
@@ -427,8 +436,11 @@
         }
       },
       "Sonitpur": {
+        "delta": {
+          "confirmed": 3
+        },
         "total": {
-          "confirmed": 20,
+          "confirmed": 23,
           "recovered": 13
         }
       },
@@ -462,7 +474,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-03T12:06:32+05:30",
+      "last_updated": "2020-06-03T14:43:06+05:30",
       "notes": "Includes one case from Nagaland <br>\nTotal of three* patients who migrated to other states has been reduced from Active count",
       "tested": {
         "last_updated": "2020-06-02",
@@ -470,7 +482,7 @@
       }
     },
     "total": {
-      "confirmed": 1622,
+      "confirmed": 1673,
       "deceased": 4,
       "migrated": 3,
       "recovered": 338,
@@ -3501,7 +3513,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-03T14:35:06+05:30",
+      "last_updated": "2020-06-03T14:43:09+05:30",
       "tested": {
         "last_updated": "2020-05-31",
         "source": "https://t.me/indiacovid/5972"
@@ -4428,20 +4440,20 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 1213,
+      "confirmed": 1264,
       "deceased": 4,
       "recovered": 126,
       "tested": 137158
     },
     "meta": {
-      "last_updated": "2020-06-03T14:35:03+05:30",
+      "last_updated": "2020-06-03T14:43:03+05:30",
       "tested": {
         "last_updated": "2020-06-03",
         "source": "https://twitter.com/ICMRDELHI/status/1268030064467165184?s=19"
       }
     },
     "total": {
-      "confirmed": 208404,
+      "confirmed": 208455,
       "deceased": 5833,
       "migrated": 11,
       "recovered": 100411,
