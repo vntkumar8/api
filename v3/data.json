@@ -880,7 +880,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-03T18:53:16+05:30",
+      "last_updated": "2020-06-03T19:00:06+05:30",
       "tested": {
         "last_updated": "2020-06-03",
         "source": "https://twitter.com/PIB_Patna/status/1268140984656957441"
@@ -1563,7 +1563,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-03T18:53:19+05:30",
+      "last_updated": "2020-06-03T19:00:20+05:30",
       "notes": "HP has 4 Migrated cases which are reduced from Active #. Also, death of Tibetan refugee is included in deceased numbers, but not in confirmed",
       "tested": {
         "last_updated": "2020-06-03",
@@ -1770,7 +1770,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-03T18:53:17+05:30",
+      "last_updated": "2020-06-03T19:00:08+05:30",
       "tested": {
         "last_updated": "2020-06-02",
         "source": "http://http://www.nhmharyana.gov.in/WriteReadData/userfiles/file/CoronaVirus/Daily%20Bulleitin%20of%20COVID%20as%20on%2002-06-2020%20Evening.pdf"
@@ -4191,22 +4191,33 @@
     }
   },
   "SK": {
+    "delta": {
+      "confirmed": 1
+    },
     "districts": {
       "South Sikkim": {
+        "total": {
+          "confirmed": 1
+        }
+      },
+      "Unknown": {
+        "delta": {
+          "confirmed": 1
+        },
         "total": {
           "confirmed": 1
         }
       }
     },
     "meta": {
-      "last_updated": "2020-05-23T19:42:35+05:30",
+      "last_updated": "2020-06-03T19:03:13+05:30",
       "tested": {
         "last_updated": "2020-06-02",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/274"
       }
     },
     "total": {
-      "confirmed": 1,
+      "confirmed": 2,
       "tested": 3788
     }
   },
@@ -4790,20 +4801,20 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 1810,
+      "confirmed": 1811,
       "deceased": 6,
       "recovered": 560,
       "tested": 137158
     },
     "meta": {
-      "last_updated": "2020-06-03T18:53:14+05:30",
+      "last_updated": "2020-06-03T19:03:07+05:30",
       "tested": {
         "last_updated": "2020-06-03",
         "source": "https://twitter.com/ICMRDELHI/status/1268030064467165184?s=19"
       }
     },
     "total": {
-      "confirmed": 209001,
+      "confirmed": 209002,
       "deceased": 5835,
       "migrated": 11,
       "recovered": 100845,
