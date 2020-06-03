@@ -208,13 +208,21 @@
           "confirmed": 1
         },
         "total": {
-          "confirmed": 2,
+          "confirmed": 1,
           "recovered": 1
         }
       },
       "Namsai": {
         "total": {
           "confirmed": 2
+        }
+      },
+      "Pakke Kessang": {
+        "delta": {
+          "confirmed": 1
+        },
+        "total": {
+          "confirmed": 1
         }
       },
       "Papum Pare": {
@@ -231,7 +239,12 @@
         }
       },
       "Unknown": {
-        "delta": {
+        "total": {
+          "confirmed": -1
+        }
+      },
+      "Upper Siang": {
+        "total": {
           "confirmed": 1
         }
       }

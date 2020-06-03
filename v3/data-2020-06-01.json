@@ -215,8 +215,10 @@
         }
       },
       "Lohit": {
+        "delta": {
+          "confirmed": -1
+        },
         "total": {
-          "confirmed": 1,
           "recovered": 1
         }
       },
@@ -250,6 +252,14 @@
         },
         "total": {
           "confirmed": -1
+        }
+      },
+      "Upper Siang": {
+        "delta": {
+          "confirmed": 1
+        },
+        "total": {
+          "confirmed": 1
         }
       }
     },
