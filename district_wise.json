@@ -6206,18 +6206,18 @@
 			"statecode": "ML"
 		},
 		{
-			"active": "1",
+			"active": "0",
 			"confirmed": "14",
 			"deceased": "1",
-			"deltaactive": "0",
+			"deltaactive": "-1",
 			"deltaconfirmed": "0",
 			"deltadeceased": "0",
-			"deltarecovered": "0",
+			"deltarecovered": "1",
 			"district": "East Khasi Hills",
 			"districtkey": "ML_East Khasi Hills",
 			"districtnotes": "",
 			"lastupdated": "",
-			"recovered": "12",
+			"recovered": "13",
 			"slno": "423",
 			"state": "Meghalaya",
 			"statecode": "ML"
@@ -13244,7 +13244,7 @@
 			"statecode": "MN"
 		},
 		{
-			"active": "4",
+			"active": "5",
 			"confirmed": "5",
 			"deceased": "0",
 			"deltaactive": "0",
@@ -13255,7 +13255,7 @@
 			"districtkey": "ML_Unknown",
 			"districtnotes": "",
 			"lastupdated": "",
-			"recovered": "1",
+			"recovered": "0",
 			"slno": "751",
 			"state": "Meghalaya",
 			"statecode": "ML"
