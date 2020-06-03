@@ -231,7 +231,7 @@
       },
       "Papum Pare": {
         "total": {
-          "confirmed": 4
+          "confirmed": 7
         }
       },
       "Tawang": {
@@ -244,7 +244,7 @@
           "confirmed": 1
         },
         "total": {
-          "confirmed": 4
+          "confirmed": 1
         }
       }
     },
@@ -1612,8 +1612,8 @@
   },
   "HP": {
     "delta": {
-      "confirmed": 12,
-      "recovered": 8,
+      "confirmed": 14,
+      "recovered": 10,
       "tested": 1623
     },
     "districts": {
@@ -1627,9 +1627,13 @@
         }
       },
       "Chamba": {
+        "delta": {
+          "confirmed": 1,
+          "recovered": 2
+        },
         "total": {
-          "confirmed": 24,
-          "recovered": 11
+          "confirmed": 25,
+          "recovered": 13
         }
       },
       "Hamirpur": {
@@ -1706,10 +1710,11 @@
       },
       "Una": {
         "delta": {
+          "confirmed": 1,
           "recovered": 2
         },
         "total": {
-          "confirmed": 39,
+          "confirmed": 40,
           "recovered": 24
         }
       },
@@ -1723,7 +1728,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-03T19:05:17+05:30",
+      "last_updated": "2020-06-03T22:01:05+05:30",
       "notes": "HP has 4 Migrated cases which are reduced from Active #. Also, death of Tibetan refugee is included in deceased numbers, but not in confirmed",
       "tested": {
         "last_updated": "2020-06-03",
@@ -1731,10 +1736,10 @@
       }
     },
     "total": {
-      "confirmed": 357,
+      "confirmed": 359,
       "deceased": 6,
       "migrated": 3,
-      "recovered": 144,
+      "recovered": 146,
       "tested": 41243
     }
   },
@@ -1954,7 +1959,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-03T21:52:05+05:30",
+      "last_updated": "2020-06-03T22:00:05+05:30",
       "tested": {
         "last_updated": "2020-06-02",
         "source": "http://http://www.nhmharyana.gov.in/WriteReadData/userfiles/file/CoronaVirus/Daily%20Bulleitin%20of%20COVID%20as%20on%2002-06-2020%20Evening.pdf"
@@ -4546,7 +4551,7 @@
     "delta": {
       "confirmed": 279,
       "deceased": 6,
-      "recovered": 309
+      "recovered": 79
     },
     "districts": {
       "Ajmer": {
@@ -4856,11 +4861,11 @@
       "Unknown": {
         "delta": {
           "confirmed": 177,
-          "recovered": 238
+          "recovered": 8
         },
         "total": {
           "confirmed": 177,
-          "recovered": 238
+          "recovered": 8
         }
       }
     },
@@ -4874,7 +4879,7 @@
     "total": {
       "confirmed": 9652,
       "deceased": 209,
-      "recovered": 6744,
+      "recovered": 6514,
       "tested": 440789
     }
   },
@@ -5651,23 +5656,23 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 9236,
+      "confirmed": 9238,
       "deceased": 258,
-      "recovered": 3662,
+      "recovered": 3434,
       "tested": 137158
     },
     "meta": {
-      "last_updated": "2020-06-03T21:52:03+05:30",
+      "last_updated": "2020-06-03T22:01:03+05:30",
       "tested": {
         "last_updated": "2020-06-03",
         "source": "https://twitter.com/ICMRDELHI/status/1268030064467165184?s=19"
       }
     },
     "total": {
-      "confirmed": 216427,
+      "confirmed": 216429,
       "deceased": 6087,
       "migrated": 11,
-      "recovered": 103947,
+      "recovered": 103719,
       "tested": 4103233
     }
   },
