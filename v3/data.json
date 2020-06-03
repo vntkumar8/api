@@ -3410,7 +3410,8 @@
   "ML": {
     "delta": {
       "confirmed": 3,
-      "recovered": 1
+      "recovered": 1,
+      "tested": 291
     },
     "districts": {
       "East Khasi Hills": {
@@ -3461,15 +3462,15 @@
     "meta": {
       "last_updated": "2020-06-03T21:17:10+05:30",
       "tested": {
-        "last_updated": "2020-06-02",
-        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/276"
+        "last_updated": "2020-06-03",
+        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/290"
       }
     },
     "total": {
       "confirmed": 33,
       "deceased": 1,
       "recovered": 13,
-      "tested": 8734
+      "tested": 9025
     }
   },
   "MN": {
