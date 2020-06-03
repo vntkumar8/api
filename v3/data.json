@@ -498,16 +498,17 @@
   "BR": {
     "delta": {
       "confirmed": 177,
+      "deceased": 1,
       "recovered": 222,
       "tested": 3316
     },
     "districts": {
       "Araria": {
         "delta": {
-          "confirmed": 4
+          "confirmed": 3
         },
         "total": {
-          "confirmed": 63,
+          "confirmed": 62,
           "recovered": 12
         }
       },
@@ -621,10 +622,12 @@
       },
       "Jamui": {
         "delta": {
-          "confirmed": 1
+          "confirmed": 1,
+          "deceased": 1
         },
         "total": {
           "confirmed": 43,
+          "deceased": 1,
           "recovered": 18
         }
       },
@@ -640,11 +643,11 @@
       },
       "Kaimur": {
         "delta": {
-          "confirmed": 5,
+          "confirmed": 6,
           "recovered": 4
         },
         "total": {
-          "confirmed": 88,
+          "confirmed": 89,
           "recovered": 39
         }
       },
@@ -789,11 +792,11 @@
       },
       "Samastipur": {
         "delta": {
-          "confirmed": 11,
+          "confirmed": 10,
           "recovered": 6
         },
         "total": {
-          "confirmed": 92,
+          "confirmed": 91,
           "deceased": 1,
           "recovered": 48
         }
@@ -811,11 +814,11 @@
       },
       "Sheikhpura": {
         "delta": {
-          "confirmed": 2,
+          "confirmed": 3,
           "recovered": 5
         },
         "total": {
-          "confirmed": 106,
+          "confirmed": 107,
           "recovered": 19
         }
       },
@@ -877,7 +880,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-03T18:35:09+05:30",
+      "last_updated": "2020-06-03T18:53:16+05:30",
       "tested": {
         "last_updated": "2020-06-03",
         "source": "https://twitter.com/PIB_Patna/status/1268140984656957441"
@@ -885,7 +888,7 @@
     },
     "total": {
       "confirmed": 4273,
-      "deceased": 24,
+      "deceased": 25,
       "recovered": 2025,
       "tested": 84729
     }
@@ -1461,12 +1464,17 @@
   },
   "HP": {
     "delta": {
+      "confirmed": 12,
+      "recovered": 8,
       "tested": 1623
     },
     "districts": {
       "Bilaspur": {
+        "delta": {
+          "confirmed": 1
+        },
         "total": {
-          "confirmed": 18,
+          "confirmed": 19,
           "recovered": 8
         }
       },
@@ -1477,17 +1485,32 @@
         }
       },
       "Hamirpur": {
+        "delta": {
+          "confirmed": 2
+        },
         "total": {
-          "confirmed": 112,
+          "confirmed": 114,
           "deceased": 1,
           "recovered": 39
         }
       },
       "Kangra": {
+        "delta": {
+          "confirmed": 4,
+          "recovered": 6
+        },
         "total": {
-          "confirmed": 90,
+          "confirmed": 94,
           "deceased": 1,
-          "recovered": 33
+          "recovered": 39
+        }
+      },
+      "Kinnaur": {
+        "delta": {
+          "confirmed": 2
+        },
+        "total": {
+          "confirmed": 2
         }
       },
       "Kullu": {
@@ -1497,15 +1520,21 @@
         }
       },
       "Mandi": {
+        "delta": {
+          "confirmed": 2
+        },
         "total": {
-          "confirmed": 15,
+          "confirmed": 17,
           "deceased": 2,
           "recovered": 8
         }
       },
       "Shimla": {
+        "delta": {
+          "confirmed": 1
+        },
         "total": {
-          "confirmed": 9,
+          "confirmed": 10,
           "deceased": 1,
           "recovered": 1
         }
@@ -1524,14 +1553,17 @@
         }
       },
       "Una": {
+        "delta": {
+          "recovered": 2
+        },
         "total": {
           "confirmed": 39,
-          "recovered": 22
+          "recovered": 24
         }
       }
     },
     "meta": {
-      "last_updated": "2020-06-02T21:52:06+05:30",
+      "last_updated": "2020-06-03T18:53:19+05:30",
       "notes": "HP has 4 Migrated cases which are reduced from Active #. Also, death of Tibetan refugee is included in deceased numbers, but not in confirmed",
       "tested": {
         "last_updated": "2020-06-03",
@@ -1539,18 +1571,25 @@
       }
     },
     "total": {
-      "confirmed": 345,
+      "confirmed": 357,
       "deceased": 6,
       "migrated": 3,
-      "recovered": 136,
+      "recovered": 144,
       "tested": 41243
     }
   },
   "HR": {
+    "delta": {
+      "confirmed": 189,
+      "recovered": 13
+    },
     "districts": {
       "Ambala": {
+        "delta": {
+          "confirmed": 8
+        },
         "total": {
-          "confirmed": 61,
+          "confirmed": 69,
           "deceased": 2,
           "recovered": 40
         }
@@ -1568,8 +1607,11 @@
         }
       },
       "Faridabad": {
+        "delta": {
+          "confirmed": 69
+        },
         "total": {
-          "confirmed": 418,
+          "confirmed": 487,
           "deceased": 10,
           "recovered": 168
         }
@@ -1587,15 +1629,22 @@
         }
       },
       "Gurugram": {
+        "delta": {
+          "confirmed": 55,
+          "recovered": 4
+        },
         "total": {
-          "confirmed": 1063,
+          "confirmed": 1118,
           "deceased": 4,
-          "recovered": 284
+          "recovered": 288
         }
       },
       "Hisar": {
+        "delta": {
+          "confirmed": 7
+        },
         "total": {
-          "confirmed": 53,
+          "confirmed": 60,
           "recovered": 5
         }
       },
@@ -1625,21 +1674,30 @@
         }
       },
       "Karnal": {
+        "delta": {
+          "confirmed": 10
+        },
         "total": {
-          "confirmed": 56,
+          "confirmed": 66,
           "deceased": 1,
           "recovered": 20
         }
       },
       "Kurukshetra": {
+        "delta": {
+          "confirmed": 1
+        },
         "total": {
-          "confirmed": 36,
+          "confirmed": 37,
           "recovered": 17
         }
       },
       "Mahendragarh": {
+        "delta": {
+          "confirmed": 18
+        },
         "total": {
-          "confirmed": 42,
+          "confirmed": 60,
           "recovered": 21
         }
       },
@@ -1656,14 +1714,20 @@
         }
       },
       "Panchkula": {
+        "delta": {
+          "confirmed": 1
+        },
         "total": {
-          "confirmed": 26,
+          "confirmed": 27,
           "recovered": 25
         }
       },
       "Panipat": {
+        "delta": {
+          "confirmed": 1
+        },
         "total": {
-          "confirmed": 64,
+          "confirmed": 65,
           "deceased": 3,
           "recovered": 46
         }
@@ -1688,10 +1752,14 @@
         }
       },
       "Sonipat": {
+        "delta": {
+          "confirmed": 19,
+          "recovered": 9
+        },
         "total": {
-          "confirmed": 233,
+          "confirmed": 252,
           "deceased": 1,
-          "recovered": 148
+          "recovered": 157
         }
       },
       "Yamunanagar": {
@@ -1702,16 +1770,16 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-02T19:55:05+05:30",
+      "last_updated": "2020-06-03T18:53:17+05:30",
       "tested": {
         "last_updated": "2020-06-02",
         "source": "http://http://www.nhmharyana.gov.in/WriteReadData/userfiles/file/CoronaVirus/Daily%20Bulleitin%20of%20COVID%20as%20on%2002-06-2020%20Evening.pdf"
       }
     },
     "total": {
-      "confirmed": 2652,
+      "confirmed": 2841,
       "deceased": 23,
-      "recovered": 1069,
+      "recovered": 1082,
       "tested": 124564
     }
   },
@@ -2425,7 +2493,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-03T18:35:11+05:30",
+      "last_updated": "2020-06-03T18:36:23+05:30",
       "notes": "Mahe native who expired in Kannur included in Kerala's tally",
       "tested": {
         "last_updated": "2020-06-02",
@@ -4722,23 +4790,23 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 1609,
-      "deceased": 5,
-      "recovered": 539,
+      "confirmed": 1810,
+      "deceased": 6,
+      "recovered": 560,
       "tested": 137158
     },
     "meta": {
-      "last_updated": "2020-06-03T18:35:07+05:30",
+      "last_updated": "2020-06-03T18:53:14+05:30",
       "tested": {
         "last_updated": "2020-06-03",
         "source": "https://twitter.com/ICMRDELHI/status/1268030064467165184?s=19"
       }
     },
     "total": {
-      "confirmed": 208800,
-      "deceased": 5834,
+      "confirmed": 209001,
+      "deceased": 5835,
       "migrated": 11,
-      "recovered": 100824,
+      "recovered": 100845,
       "tested": 4103233
     }
   },
@@ -5388,7 +5456,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-03T18:35:13+05:30",
+      "last_updated": "2020-06-03T18:36:25+05:30",
       "notes": "Four migrated cases reduced from Active count",
       "tested": {
         "last_updated": "2020-06-03",
