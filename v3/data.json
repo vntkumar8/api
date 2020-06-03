@@ -510,7 +510,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-03T21:35:08+05:30",
+      "last_updated": "2020-06-03T21:41:13+05:30",
       "notes": "Includes one case from Nagaland\nTotal of three* patients who migrated to other states has been reduced from Active count",
       "tested": {
         "last_updated": "2020-06-02",
@@ -919,7 +919,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-03T21:35:06+05:30",
+      "last_updated": "2020-06-03T21:41:11+05:30",
       "tested": {
         "last_updated": "2020-06-03",
         "source": "https://twitter.com/PIB_Patna/status/1268140984656957441"
@@ -1191,7 +1191,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-03T21:35:04+05:30",
+      "last_updated": "2020-06-03T21:41:09+05:30",
       "notes": "[10-May]\nDelhi bulletins in the morning, containing data of the previous day. We will add that data to the date on which the report is released, rather than the previous day.\nAlso, backdated deaths reported are added to the day in which they are announced",
       "tested": {
         "last_updated": "2020-06-02",
@@ -1740,7 +1740,7 @@
   },
   "HR": {
     "delta": {
-      "confirmed": 189,
+      "confirmed": 301,
       "recovered": 13
     },
     "districts": {
@@ -1755,8 +1755,11 @@
         }
       },
       "Bhiwani": {
+        "delta": {
+          "confirmed": 1
+        },
         "total": {
-          "confirmed": 44,
+          "confirmed": 45,
           "recovered": 6
         }
       },
@@ -1777,8 +1780,11 @@
         }
       },
       "Fatehabad": {
+        "delta": {
+          "confirmed": 1
+        },
         "total": {
-          "confirmed": 24,
+          "confirmed": 25,
           "recovered": 7
         }
       },
@@ -1790,21 +1796,21 @@
       },
       "Gurugram": {
         "delta": {
-          "confirmed": 55,
+          "confirmed": 132,
           "recovered": 4
         },
         "total": {
-          "confirmed": 1118,
+          "confirmed": 1195,
           "deceased": 4,
           "recovered": 288
         }
       },
       "Hisar": {
         "delta": {
-          "confirmed": 7
+          "confirmed": 8
         },
         "total": {
-          "confirmed": 60,
+          "confirmed": 61,
           "recovered": 5
         }
       },
@@ -1854,16 +1860,19 @@
       },
       "Mahendragarh": {
         "delta": {
-          "confirmed": 18
+          "confirmed": 28
         },
         "total": {
-          "confirmed": 60,
+          "confirmed": 70,
           "recovered": 21
         }
       },
       "Nuh": {
+        "delta": {
+          "confirmed": 6
+        },
         "total": {
-          "confirmed": 72,
+          "confirmed": 78,
           "recovered": 65
         }
       },
@@ -1899,8 +1908,11 @@
         }
       },
       "Rohtak": {
+        "delta": {
+          "confirmed": 7
+        },
         "total": {
-          "confirmed": 90,
+          "confirmed": 97,
           "deceased": 1,
           "recovered": 11
         }
@@ -1913,11 +1925,11 @@
       },
       "Sonipat": {
         "delta": {
-          "confirmed": 19,
+          "confirmed": 28,
           "recovered": 9
         },
         "total": {
-          "confirmed": 252,
+          "confirmed": 261,
           "deceased": 1,
           "recovered": 157
         }
@@ -1930,14 +1942,14 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-03T19:05:15+05:30",
+      "last_updated": "2020-06-03T21:43:06+05:30",
       "tested": {
         "last_updated": "2020-06-02",
         "source": "http://http://www.nhmharyana.gov.in/WriteReadData/userfiles/file/CoronaVirus/Daily%20Bulleitin%20of%20COVID%20as%20on%2002-06-2020%20Evening.pdf"
       }
     },
     "total": {
-      "confirmed": 2841,
+      "confirmed": 2953,
       "deceased": 23,
       "recovered": 1082,
       "tested": 124564
@@ -5627,20 +5639,20 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 9123,
+      "confirmed": 9235,
       "deceased": 258,
       "recovered": 3655,
       "tested": 137158
     },
     "meta": {
-      "last_updated": "2020-06-03T21:35:03+05:30",
+      "last_updated": "2020-06-03T21:43:03+05:30",
       "tested": {
         "last_updated": "2020-06-03",
         "source": "https://twitter.com/ICMRDELHI/status/1268030064467165184?s=19"
       }
     },
     "total": {
-      "confirmed": 216314,
+      "confirmed": 216426,
       "deceased": 6087,
       "migrated": 11,
       "recovered": 103940,
