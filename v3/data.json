@@ -3194,7 +3194,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-03T20:42:04+05:30",
+      "last_updated": "2020-06-03T20:46:04+05:30",
       "tested": {
         "last_updated": "2020-06-03",
         "source": "https://twitter.com/Maha_MEDD/status/1268054528882028544?s=19"
@@ -3272,6 +3272,10 @@
     }
   },
   "MN": {
+    "delta": {
+      "confirmed": 6,
+      "recovered": 12
+    },
     "districts": {
       "Bishnupur": {
         "total": {
@@ -3284,15 +3288,21 @@
         }
       },
       "Churachandpur": {
+        "delta": {
+          "recovered": 1
+        },
         "total": {
           "confirmed": 18,
-          "recovered": 2
+          "recovered": 3
         }
       },
       "Imphal East": {
+        "delta": {
+          "recovered": 11
+        },
         "total": {
           "confirmed": 10,
-          "recovered": 1
+          "recovered": 12
         }
       },
       "Imphal West": {
@@ -3301,9 +3311,20 @@
           "recovered": 1
         }
       },
-      "Kamjong": {
+      "Kakching": {
+        "delta": {
+          "confirmed": 2
+        },
         "total": {
-          "confirmed": 1,
+          "confirmed": 2
+        }
+      },
+      "Kamjong": {
+        "delta": {
+          "confirmed": 1
+        },
+        "total": {
+          "confirmed": 2,
           "recovered": 2
         }
       },
@@ -3317,9 +3338,20 @@
           "confirmed": 2
         }
       },
-      "Thoubal": {
+      "Tamenglong": {
+        "delta": {
+          "confirmed": 2
+        },
         "total": {
-          "confirmed": 3,
+          "confirmed": 2
+        }
+      },
+      "Thoubal": {
+        "delta": {
+          "confirmed": 1
+        },
+        "total": {
+          "confirmed": 4,
           "recovered": 2
         }
       },
@@ -3336,15 +3368,15 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-02T21:15:38+05:30",
+      "last_updated": "2020-06-03T20:55:05+05:30",
       "tested": {
         "last_updated": "2020-05-29",
         "source": "https://twitter.com/DiprManipur/status/1266385249669222400?s=19"
       }
     },
     "total": {
-      "confirmed": 89,
-      "recovered": 14,
+      "confirmed": 95,
+      "recovered": 26,
       "tested": 8596
     }
   },
@@ -5027,7 +5059,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-03T20:43:05+05:30",
+      "last_updated": "2020-06-03T20:54:04+05:30",
       "tested": {
         "last_updated": "2020-05-16",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/42"
@@ -5518,23 +5550,23 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 7268,
+      "confirmed": 7274,
       "deceased": 193,
-      "recovered": 3094,
+      "recovered": 3106,
       "tested": 137158
     },
     "meta": {
-      "last_updated": "2020-06-03T20:43:03+05:30",
+      "last_updated": "2020-06-03T20:55:03+05:30",
       "tested": {
         "last_updated": "2020-06-03",
         "source": "https://twitter.com/ICMRDELHI/status/1268030064467165184?s=19"
       }
     },
     "total": {
-      "confirmed": 214459,
+      "confirmed": 214465,
       "deceased": 6022,
       "migrated": 11,
-      "recovered": 103379,
+      "recovered": 103391,
       "tested": 4103233
     }
   },
@@ -6444,7 +6476,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-03T20:42:06+05:30",
+      "last_updated": "2020-06-03T20:46:06+05:30",
       "notes": "Deaths due to comorbidities added to total deceased",
       "tested": {
         "last_updated": "2020-06-02",
