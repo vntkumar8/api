@@ -31,7 +31,8 @@
     "delta": {
       "confirmed": 180,
       "deceased": 4,
-      "recovered": 50
+      "recovered": 50,
+      "tested": 8066
     },
     "districts": {
       "Anantapur": {
@@ -196,15 +197,15 @@
       "last_updated": "2020-06-03T13:53:05+05:30",
       "notes": "Total includes patients from other states and a new category \"Foreign Evacuees\" which is now reported in AP bulletin. <br>\nAP district data updated to match state dashboard as of 27th May.",
       "tested": {
-        "last_updated": "2020-06-02",
-        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/269"
+        "last_updated": "2020-06-03",
+        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/282"
       }
     },
     "total": {
       "confirmed": 3971,
       "deceased": 68,
       "recovered": 2464,
-      "tested": 395681
+      "tested": 403747
     }
   },
   "AR": {
@@ -474,7 +475,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-03T14:43:06+05:30",
+      "last_updated": "2020-06-03T14:53:06+05:30",
       "notes": "Includes one case from Nagaland <br>\nTotal of three* patients who migrated to other states has been reduced from Active count",
       "tested": {
         "last_updated": "2020-06-02",
@@ -3069,7 +3070,8 @@
   },
   "OR": {
     "delta": {
-      "confirmed": 143
+      "confirmed": 143,
+      "tested": 3324
     },
     "districts": {
       "Angul": {
@@ -3305,15 +3307,15 @@
     "meta": {
       "last_updated": "2020-06-03T14:27:05+05:30",
       "tested": {
-        "last_updated": "2020-06-02",
-        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/265?single"
+        "last_updated": "2020-06-03",
+        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/284?single"
       }
     },
     "total": {
       "confirmed": 2388,
       "deceased": 9,
       "recovered": 1325,
-      "tested": 159567
+      "tested": 162891
     }
   },
   "PB": {
@@ -3513,7 +3515,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-03T14:43:09+05:30",
+      "last_updated": "2020-06-03T14:45:08+05:30",
       "tested": {
         "last_updated": "2020-05-31",
         "source": "https://t.me/indiacovid/5972"
@@ -4446,7 +4448,7 @@
       "tested": 137158
     },
     "meta": {
-      "last_updated": "2020-06-03T14:43:03+05:30",
+      "last_updated": "2020-06-03T14:53:03+05:30",
       "tested": {
         "last_updated": "2020-06-03",
         "source": "https://twitter.com/ICMRDELHI/status/1268030064467165184?s=19"
