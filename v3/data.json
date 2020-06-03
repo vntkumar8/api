@@ -1571,6 +1571,9 @@
     }
   },
   "JH": {
+    "delta": {
+      "confirmed": 15
+    },
     "districts": {
       "Bokaro": {
         "total": {
@@ -1592,20 +1595,29 @@
         }
       },
       "Dhanbad": {
+        "delta": {
+          "confirmed": 9
+        },
         "total": {
-          "confirmed": 61,
+          "confirmed": 70,
           "recovered": 10
         }
       },
       "Dumka": {
+        "delta": {
+          "confirmed": 2
+        },
         "total": {
-          "confirmed": 2,
+          "confirmed": 4,
           "recovered": 2
         }
       },
       "East Singhbhum": {
+        "delta": {
+          "confirmed": 3
+        },
         "total": {
-          "confirmed": 119,
+          "confirmed": 122,
           "recovered": 1
         }
       },
@@ -1634,8 +1646,11 @@
         }
       },
       "Hazaribagh": {
+        "delta": {
+          "confirmed": 2
+        },
         "total": {
-          "confirmed": 80,
+          "confirmed": 82,
           "recovered": 35
         }
       },
@@ -1681,8 +1696,11 @@
         }
       },
       "Ramgarh": {
+        "delta": {
+          "confirmed": -1
+        },
         "total": {
-          "confirmed": 45
+          "confirmed": 44
         }
       },
       "Ranchi": {
@@ -1721,14 +1739,14 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-02T23:45:15+05:30",
+      "last_updated": "2020-06-03T16:02:06+05:30",
       "tested": {
         "last_updated": "2020-06-02",
         "source": "https://twitter.com/RanchiPIB/status/1267845619772616704?s=19"
       }
     },
     "total": {
-      "confirmed": 722,
+      "confirmed": 737,
       "deceased": 5,
       "recovered": 296,
       "tested": 71296
@@ -4453,7 +4471,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-03T15:52:05+05:30",
+      "last_updated": "2020-06-03T16:02:07+05:30",
       "notes": "Two cases have migrated out of Tripura.",
       "tested": {
         "last_updated": "2020-06-02",
@@ -4468,20 +4486,20 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 1337,
+      "confirmed": 1352,
       "deceased": 5,
       "recovered": 134,
       "tested": 137158
     },
     "meta": {
-      "last_updated": "2020-06-03T15:52:03+05:30",
+      "last_updated": "2020-06-03T16:02:03+05:30",
       "tested": {
         "last_updated": "2020-06-03",
         "source": "https://twitter.com/ICMRDELHI/status/1268030064467165184?s=19"
       }
     },
     "total": {
-      "confirmed": 208528,
+      "confirmed": 208543,
       "deceased": 5834,
       "migrated": 11,
       "recovered": 100419,
