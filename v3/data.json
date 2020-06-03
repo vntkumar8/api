@@ -1974,7 +1974,8 @@
     "delta": {
       "confirmed": 139,
       "deceased": 1,
-      "recovered": 54
+      "recovered": 54,
+      "tested": 6297
     },
     "districts": {
       "Anantnag": {
@@ -2170,24 +2171,24 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-03T19:43:09+05:30",
+      "last_updated": "2020-06-03T19:50:05+05:30",
       "tested": {
-        "last_updated": "2020-06-02",
-        "source": "https://twitter.com/diprjk/status/1267816496635342857"
+        "last_updated": "2020-06-03"
       }
     },
     "total": {
       "confirmed": 2857,
       "deceased": 34,
       "recovered": 1007,
-      "tested": 183067
+      "tested": 189364
     }
   },
   "KA": {
     "delta": {
       "confirmed": 267,
       "deceased": 1,
-      "recovered": 111
+      "recovered": 111,
+      "tested": 15197
     },
     "districts": {
       "Bagalkote": {
@@ -2466,11 +2467,11 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-03T19:43:06+05:30",
+      "last_updated": "2020-06-03T19:45:05+05:30",
       "notes": "Two active cases in KA reduced as these confirmed patients died of non-CoViD19 related reasons",
       "tested": {
-        "last_updated": "2020-06-02",
-        "source": "https://covid19.karnataka.gov.in/storage/pdf-files/Media-Bulletin/02-06-2020%20EMB%20Kannada.pdf"
+        "last_updated": "2020-06-03",
+        "source": "https://t.me/Karnataka_KoViD19_Broadcast/3790"
       }
     },
     "total": {
@@ -2478,7 +2479,7 @@
       "deceased": 53,
       "migrated": 2,
       "recovered": 1514,
-      "tested": 319628
+      "tested": 334825
     }
   },
   "KL": {
@@ -3931,7 +3932,8 @@
     "delta": {
       "confirmed": 34,
       "deceased": 1,
-      "recovered": 12
+      "recovered": 12,
+      "tested": 4707
     },
     "districts": {
       "Amritsar": {
@@ -4123,15 +4125,15 @@
     "meta": {
       "last_updated": "2020-06-03T19:35:23+05:30",
       "tested": {
-        "last_updated": "2020-06-02",
-        "source": "https://twitter.com/kbssidhu1961/status/1267817929132748807"
+        "last_updated": "2020-06-03",
+        "source": "https://twitter.com/kbssidhu1961/status/1268175385046536197?s=19"
       }
     },
     "total": {
       "confirmed": 2376,
       "deceased": 47,
       "recovered": 2029,
-      "tested": 96329
+      "tested": 101036
     }
   },
   "PY": {
@@ -5120,7 +5122,7 @@
       "tested": 137158
     },
     "meta": {
-      "last_updated": "2020-06-03T19:43:03+05:30",
+      "last_updated": "2020-06-03T19:50:03+05:30",
       "tested": {
         "last_updated": "2020-06-03",
         "source": "https://twitter.com/ICMRDELHI/status/1268030064467165184?s=19"
