@@ -5497,14 +5497,20 @@
     },
     "districts": {
       "Dhalai": {
+        "delta": {
+          "confirmed": 19
+        },
         "total": {
-          "confirmed": 175,
+          "confirmed": 194,
           "recovered": 163
         }
       },
       "Gomati": {
+        "delta": {
+          "confirmed": 10
+        },
         "total": {
-          "confirmed": 41,
+          "confirmed": 51,
           "recovered": 2
         }
       },
@@ -5521,33 +5527,37 @@
         }
       },
       "Sipahijala": {
+        "delta": {
+          "confirmed": 1
+        },
         "total": {
-          "confirmed": 101,
+          "confirmed": 102,
           "recovered": 2
         }
       },
       "South Tripura": {
-        "total": {
-          "confirmed": 13
-        }
-      },
-      "Unknown": {
         "delta": {
-          "confirmed": 48
+          "confirmed": 17
         },
         "total": {
-          "confirmed": 48
+          "confirmed": 30
         }
       },
       "Unokoti": {
+        "delta": {
+          "confirmed": 2
+        },
         "total": {
-          "confirmed": 45,
+          "confirmed": 47,
           "recovered": 1
         }
       },
       "West Tripura": {
+        "delta": {
+          "confirmed": -1
+        },
         "total": {
-          "confirmed": 23
+          "confirmed": 22
         }
       }
     },
