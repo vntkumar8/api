@@ -1267,8 +1267,8 @@
       "last_updated": "2020-06-03T21:45:04+05:30",
       "notes": "[10-May]\nDelhi bulletins in the morning, containing data of the previous day. We will add that data to the date on which the report is released, rather than the previous day.\nAlso, backdated deaths reported are added to the day in which they are announced",
       "tested": {
-        "last_updated": "2020-06-02",
-        "source": "https://t.me/indiacovid/6188"
+        "last_updated": "2020-06-03",
+        "source": "https://t.me/indiacovid/6265?single"
       }
     },
     "total": {
@@ -1309,7 +1309,8 @@
   },
   "GA": {
     "delta": {
-      "confirmed": 47
+      "confirmed": 47,
+      "tested": 1438
     },
     "districts": {
       "North Goa": {
@@ -1337,14 +1338,14 @@
     "meta": {
       "last_updated": "2020-06-03T20:36:10+05:30",
       "tested": {
-        "last_updated": "2020-06-02",
-        "source": "https://twitter.com/DHS_Goa/status/1267856232464871424"
+        "last_updated": "2020-06-03",
+        "source": "https://twitter.com/DHS_Goa/status/1268188781745602560?s=19"
       }
     },
     "total": {
       "confirmed": 126,
       "recovered": 57,
-      "tested": 22378
+      "tested": 23816
     }
   },
   "GJ": {
@@ -1688,7 +1689,7 @@
     "delta": {
       "confirmed": 14,
       "recovered": 10,
-      "tested": 1623
+      "tested": 1731
     },
     "districts": {
       "Bilaspur": {
@@ -1806,7 +1807,7 @@
       "notes": "HP has 4 Migrated cases which are reduced from Active #. Also, death of Tibetan refugee is included in deceased numbers, but not in confirmed",
       "tested": {
         "last_updated": "2020-06-03",
-        "source": "https://twitter.com/nhm_hp/status/1268156466801700864?s=19"
+        "source": "https://twitter.com/nhm_hp/status/1268208746729295878?s=19"
       }
     },
     "total": {
@@ -1814,13 +1815,14 @@
       "deceased": 6,
       "migrated": 3,
       "recovered": 146,
-      "tested": 41243
+      "tested": 41351
     }
   },
   "HR": {
     "delta": {
       "confirmed": 302,
-      "recovered": 20
+      "recovered": 20,
+      "tested": 3331
     },
     "districts": {
       "Ambala": {
@@ -2035,21 +2037,22 @@
     "meta": {
       "last_updated": "2020-06-03T22:05:04+05:30",
       "tested": {
-        "last_updated": "2020-06-02",
-        "source": "http://http://www.nhmharyana.gov.in/WriteReadData/userfiles/file/CoronaVirus/Daily%20Bulleitin%20of%20COVID%20as%20on%2002-06-2020%20Evening.pdf"
+        "last_updated": "2020-06-03",
+        "source": "http://www.nhmharyana.gov.in/WriteReadData/userfiles/file/CoronaVirus/Daily%20Bulletin%20of%20COVID%2019%20as%20on%203-06-2020%20Evening.pdf"
       }
     },
     "total": {
       "confirmed": 2954,
       "deceased": 23,
       "recovered": 1089,
-      "tested": 124564
+      "tested": 127895
     }
   },
   "JH": {
     "delta": {
       "confirmed": 42,
-      "recovered": 1
+      "recovered": 1,
+      "tested": 3203
     },
     "districts": {
       "Bokaro": {
@@ -2247,17 +2250,17 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-03T23:49:23+05:30",
+      "last_updated": "2020-06-03T23:55:06+05:30",
       "tested": {
-        "last_updated": "2020-06-02",
-        "source": "https://twitter.com/RanchiPIB/status/1267845619772616704?s=19"
+        "last_updated": "2020-06-03",
+        "source": "https://twitter.com/RanchiPIB/status/1268229061140082688?s=09"
       }
     },
     "total": {
       "confirmed": 764,
       "deceased": 5,
       "recovered": 297,
-      "tested": 71296
+      "tested": 74499
     }
   },
   "JK": {
@@ -2776,7 +2779,8 @@
   "KL": {
     "delta": {
       "confirmed": 82,
-      "recovered": 24
+      "recovered": 24,
+      "tested": 9179
     },
     "districts": {
       "Alappuzha": {
@@ -2934,15 +2938,14 @@
       "last_updated": "2020-06-03T18:36:23+05:30",
       "notes": "Mahe native who expired in Kannur included in Kerala's tally",
       "tested": {
-        "last_updated": "2020-06-02",
-        "source": "https://dhs.kerala.gov.in/wp-content/uploads/2020/06/Daily-Bulletin-HFWD-English-June-2.pdf"
+        "last_updated": "2020-06-03"
       }
     },
     "total": {
       "confirmed": 1495,
       "deceased": 12,
       "recovered": 651,
-      "tested": 86169
+      "tested": 95348
     }
   },
   "LA": {
@@ -5831,7 +5834,7 @@
       "tested": 137158
     },
     "meta": {
-      "last_updated": "2020-06-03T23:49:18+05:30",
+      "last_updated": "2020-06-03T23:55:03+05:30",
       "tested": {
         "last_updated": "2020-06-03",
         "source": "https://twitter.com/ICMRDELHI/status/1268030064467165184?s=19"
