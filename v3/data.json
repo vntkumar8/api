@@ -1166,15 +1166,15 @@
   },
   "DN": {
     "delta": {
-      "confirmed": 1
+      "confirmed": 8
     },
     "districts": {
       "Dadra and Nagar Haveli": {
         "delta": {
-          "confirmed": 1
+          "confirmed": 8
         },
         "total": {
-          "confirmed": 4,
+          "confirmed": 11,
           "recovered": 1
         }
       }
@@ -1187,7 +1187,7 @@
       }
     },
     "total": {
-      "confirmed": 4,
+      "confirmed": 11,
       "recovered": 1,
       "tested": 11693
     }
@@ -3259,7 +3259,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-03T21:05:08+05:30",
+      "last_updated": "2020-06-03T21:12:09+05:30",
       "tested": {
         "last_updated": "2020-06-02",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/276"
@@ -3390,7 +3390,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-03T21:05:06+05:30",
+      "last_updated": "2020-06-03T21:12:07+05:30",
       "tested": {
         "last_updated": "2020-05-29",
         "source": "https://twitter.com/DiprManipur/status/1266385249669222400?s=19"
@@ -4479,8 +4479,9 @@
   },
   "RJ": {
     "delta": {
-      "confirmed": 102,
-      "recovered": 71
+      "confirmed": 279,
+      "deceased": 6,
+      "recovered": 309
     },
     "districts": {
       "Ajmer": {
@@ -4515,11 +4516,12 @@
       },
       "Baran": {
         "delta": {
-          "confirmed": 3
+          "confirmed": 3,
+          "deceased": 1
         },
         "total": {
           "confirmed": 45,
-          "deceased": 1,
+          "deceased": 2,
           "recovered": 6
         }
       },
@@ -4632,11 +4634,12 @@
       },
       "Jaipur": {
         "delta": {
-          "confirmed": 28
+          "confirmed": 28,
+          "deceased": 4
         },
         "total": {
           "confirmed": 2097,
-          "deceased": 96,
+          "deceased": 100,
           "recovered": 1683
         }
       },
@@ -4671,11 +4674,12 @@
       },
       "Jodhpur": {
         "delta": {
+          "deceased": 1,
           "recovered": 40
         },
         "total": {
           "confirmed": 1606,
-          "deceased": 19,
+          "deceased": 20,
           "recovered": 1170
         }
       },
@@ -4783,19 +4787,29 @@
           "deceased": 1,
           "recovered": 424
         }
+      },
+      "Unknown": {
+        "delta": {
+          "confirmed": 177,
+          "recovered": 238
+        },
+        "total": {
+          "confirmed": 177,
+          "recovered": 238
+        }
       }
     },
     "meta": {
-      "last_updated": "2020-06-03T12:26:05+05:30",
+      "last_updated": "2020-06-03T21:15:05+05:30",
       "tested": {
         "last_updated": "2020-06-02",
         "source": "https://t.me/indiacovid/6167"
       }
     },
     "total": {
-      "confirmed": 9475,
-      "deceased": 203,
-      "recovered": 6506,
+      "confirmed": 9652,
+      "deceased": 209,
+      "recovered": 6744,
       "tested": 440789
     }
   },
@@ -5572,23 +5586,23 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 7289,
-      "deceased": 193,
-      "recovered": 3118,
+      "confirmed": 7473,
+      "deceased": 199,
+      "recovered": 3356,
       "tested": 137158
     },
     "meta": {
-      "last_updated": "2020-06-03T21:05:03+05:30",
+      "last_updated": "2020-06-03T21:15:03+05:30",
       "tested": {
         "last_updated": "2020-06-03",
         "source": "https://twitter.com/ICMRDELHI/status/1268030064467165184?s=19"
       }
     },
     "total": {
-      "confirmed": 214480,
-      "deceased": 6022,
+      "confirmed": 214664,
+      "deceased": 6028,
       "migrated": 11,
-      "recovered": 103403,
+      "recovered": 103641,
       "tested": 4103233
     }
   },

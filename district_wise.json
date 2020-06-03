@@ -2809,11 +2809,11 @@
 			"statecode": "DL"
 		},
 		{
-			"active": "3",
-			"confirmed": "4",
+			"active": "10",
+			"confirmed": "11",
 			"deceased": "0",
-			"deltaactive": "1",
-			"deltaconfirmed": "1",
+			"deltaactive": "8",
+			"deltaconfirmed": "8",
 			"deltadeceased": "0",
 			"deltarecovered": "0",
 			"district": "Dadra and Nagar Haveli",
@@ -9433,12 +9433,12 @@
 			"statecode": "RJ"
 		},
 		{
-			"active": "38",
+			"active": "37",
 			"confirmed": "45",
-			"deceased": "1",
-			"deltaactive": "3",
+			"deceased": "2",
+			"deltaactive": "2",
 			"deltaconfirmed": "3",
-			"deltadeceased": "0",
+			"deltadeceased": "1",
 			"deltarecovered": "0",
 			"district": "Baran",
 			"districtkey": "RJ_Baran",
@@ -9721,12 +9721,12 @@
 			"statecode": "RJ"
 		},
 		{
-			"active": "318",
+			"active": "314",
 			"confirmed": "2097",
-			"deceased": "96",
-			"deltaactive": "28",
+			"deceased": "100",
+			"deltaactive": "24",
 			"deltaconfirmed": "28",
-			"deltadeceased": "0",
+			"deltadeceased": "4",
 			"deltarecovered": "0",
 			"district": "Jaipur",
 			"districtkey": "RJ_Jaipur",
@@ -9811,12 +9811,12 @@
 			"statecode": "RJ"
 		},
 		{
-			"active": "417",
+			"active": "416",
 			"confirmed": "1606",
-			"deceased": "19",
-			"deltaactive": "-40",
+			"deceased": "20",
+			"deltaactive": "-41",
 			"deltaconfirmed": "0",
-			"deltadeceased": "0",
+			"deltadeceased": "1",
 			"deltarecovered": "40",
 			"district": "Jodhpur",
 			"districtkey": "RJ_Jodhpur",
@@ -14131,8 +14131,8 @@
 			"statecode": "PB"
 		},
 		{
-			"active": "0",
-			"confirmed": "0",
+			"active": "-61",
+			"confirmed": "177",
 			"deceased": "0",
 			"deltaactive": "0",
 			"deltaconfirmed": "0",
@@ -14143,7 +14143,7 @@
 			"districtnotes": "",
 			"lastupdated": "",
 			"migratedother": "",
-			"recovered": "0",
+			"recovered": "238",
 			"slno": "757",
 			"state": "Rajasthan",
 			"statecode": "RJ"
