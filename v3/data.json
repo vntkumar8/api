@@ -3209,16 +3209,17 @@
   },
   "ML": {
     "delta": {
-      "confirmed": 1,
+      "confirmed": 3,
       "recovered": 1
     },
     "districts": {
       "East Khasi Hills": {
         "delta": {
+          "confirmed": 2,
           "recovered": 1
         },
         "total": {
-          "confirmed": 14,
+          "confirmed": 16,
           "deceased": 1,
           "recovered": 13
         }
@@ -3258,14 +3259,14 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-02T19:32:19+05:30",
+      "last_updated": "2020-06-03T21:05:08+05:30",
       "tested": {
         "last_updated": "2020-06-02",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/276"
       }
     },
     "total": {
-      "confirmed": 31,
+      "confirmed": 33,
       "deceased": 1,
       "recovered": 13,
       "tested": 8734
@@ -3273,13 +3274,16 @@
   },
   "MN": {
     "delta": {
-      "confirmed": 6,
-      "recovered": 12
+      "confirmed": 19,
+      "recovered": 24
     },
     "districts": {
       "Bishnupur": {
+        "delta": {
+          "confirmed": 1
+        },
         "total": {
-          "confirmed": 2
+          "confirmed": 3
         }
       },
       "Chandel": {
@@ -3289,10 +3293,11 @@
       },
       "Churachandpur": {
         "delta": {
+          "confirmed": 1,
           "recovered": 1
         },
         "total": {
-          "confirmed": 18,
+          "confirmed": 19,
           "recovered": 3
         }
       },
@@ -3334,16 +3339,27 @@
         }
       },
       "Senapati": {
+        "delta": {
+          "confirmed": 3
+        },
         "total": {
-          "confirmed": 2
+          "confirmed": 5
         }
       },
       "Tamenglong": {
         "delta": {
-          "confirmed": 2
+          "confirmed": 4
         },
         "total": {
-          "confirmed": 2
+          "confirmed": 4
+        }
+      },
+      "Tengnoupal": {
+        "delta": {
+          "confirmed": 4
+        },
+        "total": {
+          "confirmed": 4
         }
       },
       "Thoubal": {
@@ -3356,27 +3372,33 @@
         }
       },
       "Ukhrul": {
+        "delta": {
+          "confirmed": 2
+        },
         "total": {
-          "confirmed": 3
+          "confirmed": 5
         }
       },
       "Unknown": {
+        "delta": {
+          "recovered": 12
+        },
         "total": {
           "confirmed": 28,
-          "recovered": 6
+          "recovered": 18
         }
       }
     },
     "meta": {
-      "last_updated": "2020-06-03T20:55:05+05:30",
+      "last_updated": "2020-06-03T21:05:06+05:30",
       "tested": {
         "last_updated": "2020-05-29",
         "source": "https://twitter.com/DiprManipur/status/1266385249669222400?s=19"
       }
     },
     "total": {
-      "confirmed": 95,
-      "recovered": 26,
+      "confirmed": 108,
+      "recovered": 38,
       "tested": 8596
     }
   },
@@ -5059,7 +5081,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-03T20:54:04+05:30",
+      "last_updated": "2020-06-03T20:57:14+05:30",
       "tested": {
         "last_updated": "2020-05-16",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/42"
@@ -5550,23 +5572,23 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 7274,
+      "confirmed": 7289,
       "deceased": 193,
-      "recovered": 3106,
+      "recovered": 3118,
       "tested": 137158
     },
     "meta": {
-      "last_updated": "2020-06-03T20:55:03+05:30",
+      "last_updated": "2020-06-03T21:05:03+05:30",
       "tested": {
         "last_updated": "2020-06-03",
         "source": "https://twitter.com/ICMRDELHI/status/1268030064467165184?s=19"
       }
     },
     "total": {
-      "confirmed": 214465,
+      "confirmed": 214480,
       "deceased": 6022,
       "migrated": 11,
-      "recovered": 103391,
+      "recovered": 103403,
       "tested": 4103233
     }
   },
