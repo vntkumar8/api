@@ -266,7 +266,7 @@
   },
   "AS": {
     "delta": {
-      "confirmed": 76,
+      "confirmed": 91,
       "recovered": 53,
       "tested": 11278
     },
@@ -390,17 +390,21 @@
         }
       },
       "Kamrup": {
+        "delta": {
+          "confirmed": 1
+        },
         "total": {
-          "confirmed": 92,
+          "confirmed": 93,
           "recovered": 1
         }
       },
       "Kamrup Metropolitan": {
         "delta": {
+          "confirmed": 14,
           "recovered": 19
         },
         "total": {
-          "confirmed": 377,
+          "confirmed": 391,
           "deceased": 3,
           "recovered": 181
         }
@@ -513,7 +517,7 @@
       }
     },
     "total": {
-      "confirmed": 1562,
+      "confirmed": 1577,
       "deceased": 4,
       "migrated": 3,
       "recovered": 338,
@@ -5588,7 +5592,7 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 8817,
+      "confirmed": 8832,
       "deceased": 221,
       "recovered": 4531,
       "tested": 128868
@@ -5600,7 +5604,7 @@
       }
     },
     "total": {
-      "confirmed": 207188,
+      "confirmed": 207203,
       "deceased": 5829,
       "migrated": 11,
       "recovered": 100285,

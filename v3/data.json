@@ -273,7 +273,7 @@
   },
   "AS": {
     "delta": {
-      "confirmed": 269,
+      "confirmed": 271,
       "recovered": 76
     },
     "districts": {
@@ -283,9 +283,12 @@
         }
       },
       "Barpeta": {
+        "delta": {
+          "recovered": 10
+        },
         "total": {
           "confirmed": 43,
-          "recovered": 12
+          "recovered": 22
         }
       },
       "Biswanath": {
@@ -304,11 +307,12 @@
       },
       "Cachar": {
         "delta": {
-          "confirmed": 1
+          "confirmed": 1,
+          "recovered": 2
         },
         "total": {
           "confirmed": 73,
-          "recovered": 60
+          "recovered": 62
         }
       },
       "Charaideo": {
@@ -355,10 +359,12 @@
       },
       "Dima Hasao": {
         "delta": {
-          "confirmed": 30
+          "confirmed": 30,
+          "recovered": 7
         },
         "total": {
-          "confirmed": 38
+          "confirmed": 38,
+          "recovered": 7
         }
       },
       "Goalpara": {
@@ -370,11 +376,11 @@
       "Golaghat": {
         "delta": {
           "confirmed": 18,
-          "recovered": 4
+          "recovered": 5
         },
         "total": {
           "confirmed": 207,
-          "recovered": 25
+          "recovered": 26
         }
       },
       "Hailakandi": {
@@ -392,30 +398,42 @@
         }
       },
       "Jorhat": {
+        "delta": {
+          "recovered": 3
+        },
         "total": {
           "confirmed": 23,
-          "recovered": 18
+          "recovered": 21
         }
       },
       "Kamrup": {
         "delta": {
-          "confirmed": 3
+          "confirmed": 3,
+          "recovered": 5
         },
         "total": {
-          "confirmed": 95,
-          "recovered": 1
+          "confirmed": 96,
+          "recovered": 6
         }
       },
       "Kamrup Metropolitan": {
+        "delta": {
+          "confirmed": 2,
+          "recovered": 39
+        },
         "total": {
-          "confirmed": 377,
+          "confirmed": 393,
           "deceased": 3,
-          "recovered": 181
+          "recovered": 220
         }
       },
       "Karbi Anglong": {
+        "delta": {
+          "recovered": 1
+        },
         "total": {
-          "confirmed": 8
+          "confirmed": 8,
+          "recovered": 1
         }
       },
       "Karimganj": {
@@ -503,19 +521,19 @@
       },
       "Unknown": {
         "delta": {
-          "confirmed": 2,
-          "recovered": 67
+          "confirmed": 2
         },
         "total": {
           "confirmed": 17,
-          "migrated": 3,
-          "recovered": 67
+          "migrated": 3
         }
       },
       "West Karbi Anglong": {
+        "delta": {
+          "recovered": -1
+        },
         "total": {
-          "confirmed": 13,
-          "recovered": 1
+          "confirmed": 13
         }
       }
     },
@@ -528,7 +546,7 @@
       }
     },
     "total": {
-      "confirmed": 1831,
+      "confirmed": 1848,
       "deceased": 4,
       "migrated": 3,
       "recovered": 414,
@@ -1262,7 +1280,8 @@
   },
   "DN": {
     "delta": {
-      "confirmed": 8
+      "confirmed": 8,
+      "tested": 371
     },
     "districts": {
       "Dadra and Nagar Haveli": {
@@ -1278,14 +1297,14 @@
     "meta": {
       "last_updated": "2020-06-03T21:23:10+05:30",
       "tested": {
-        "last_updated": "2020-06-01",
-        "source": "https://twitter.com/DnhPublicity/status/1267485602360016896/photo/1"
+        "last_updated": "2020-06-03",
+        "source": "https://twitter.com/DnhPublicity/status/1268205772565024776/photo/1"
       }
     },
     "total": {
       "confirmed": 11,
       "recovered": 1,
-      "tested": 11693
+      "tested": 12064
     }
   },
   "GA": {
@@ -2228,7 +2247,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-03T23:43:06+05:30",
+      "last_updated": "2020-06-03T23:49:23+05:30",
       "tested": {
         "last_updated": "2020-06-02",
         "source": "https://twitter.com/RanchiPIB/status/1267845619772616704?s=19"
@@ -4046,7 +4065,8 @@
   },
   "MZ": {
     "delta": {
-      "confirmed": 1
+      "confirmed": 1,
+      "tested": 83
     },
     "districts": {
       "Aizawl": {
@@ -4067,14 +4087,14 @@
     "meta": {
       "last_updated": "2020-06-03T19:26:12+05:30",
       "tested": {
-        "last_updated": "2020-06-02",
-        "source": "https://dipr.mizoram.gov.in/post/status-of-state-surveillance-of-covid-19-time-162020-500pm-262020-500-pm"
+        "last_updated": "2020-06-03",
+        "source": "https://dipr.mizoram.gov.in/post/status-of-state-surveillance-of-covid-19-time-262020-500pm-362020-500-pm"
       }
     },
     "total": {
       "confirmed": 14,
       "recovered": 1,
-      "tested": 1012
+      "tested": 1095
     }
   },
   "NL": {
@@ -4657,7 +4677,8 @@
     "delta": {
       "confirmed": 279,
       "deceased": 6,
-      "recovered": 309
+      "recovered": 309,
+      "tested": 13999
     },
     "districts": {
       "Ajmer": {
@@ -5019,15 +5040,15 @@
     "meta": {
       "last_updated": "2020-06-03T21:23:04+05:30",
       "tested": {
-        "last_updated": "2020-06-02",
-        "source": "https://t.me/indiacovid/6167"
+        "last_updated": "2020-06-03",
+        "source": "https://twitter.com/ANI/status/1268203032644251649?s=19"
       }
     },
     "total": {
       "confirmed": 9652,
       "deceased": 209,
       "recovered": 6744,
-      "tested": 440789
+      "tested": 454788
     }
   },
   "SK": {
@@ -5804,20 +5825,20 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 9564,
+      "confirmed": 9566,
       "deceased": 259,
       "recovered": 3786,
       "tested": 137158
     },
     "meta": {
-      "last_updated": "2020-06-03T23:43:03+05:30",
+      "last_updated": "2020-06-03T23:49:18+05:30",
       "tested": {
         "last_updated": "2020-06-03",
         "source": "https://twitter.com/ICMRDELHI/status/1268030064467165184?s=19"
       }
     },
     "total": {
-      "confirmed": 216752,
+      "confirmed": 216769,
       "deceased": 6088,
       "migrated": 11,
       "recovered": 104071,
