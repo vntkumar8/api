@@ -28,6 +28,11 @@
     }
   },
   "AP": {
+    "delta": {
+      "confirmed": 180,
+      "deceased": 4,
+      "recovered": 42
+    },
     "districts": {
       "Anantapur": {
         "total": {
@@ -37,9 +42,12 @@
         }
       },
       "Chittoor": {
+        "delta": {
+          "deceased": 2
+        },
         "total": {
           "confirmed": 264,
-          "deceased": 2,
+          "deceased": 4,
           "recovered": 194
         }
       },
@@ -51,8 +59,13 @@
         }
       },
       "Foreign Evacuees": {
+        "delta": {
+          "confirmed": 7,
+          "recovered": 1
+        },
         "total": {
-          "confirmed": 112
+          "confirmed": 119,
+          "recovered": 1
         }
       },
       "Guntur": {
@@ -63,23 +76,33 @@
         }
       },
       "Krishna": {
+        "delta": {
+          "deceased": 1
+        },
         "total": {
           "confirmed": 481,
-          "deceased": 18,
+          "deceased": 19,
           "recovered": 334
         }
       },
       "Kurnool": {
+        "delta": {
+          "deceased": 1
+        },
         "total": {
           "confirmed": 728,
-          "deceased": 25,
+          "deceased": 26,
           "recovered": 566
         }
       },
       "Other State": {
+        "delta": {
+          "confirmed": 94,
+          "recovered": 14
+        },
         "total": {
-          "confirmed": 479,
-          "recovered": 197
+          "confirmed": 573,
+          "recovered": 211
         }
       },
       "Prakasam": {
@@ -102,8 +125,13 @@
         }
       },
       "Unknown": {
+        "delta": {
+          "confirmed": 79,
+          "recovered": 27
+        },
         "total": {
-          "recovered": 8
+          "confirmed": 79,
+          "recovered": 35
         }
       },
       "Visakhapatnam": {
@@ -133,7 +161,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-02T12:39:05+05:30",
+      "last_updated": "2020-06-03T12:36:05+05:30",
       "notes": "Total includes patients from other states and a new category \"Foreign Evacuees\" which is now reported in AP bulletin. <br>\nAP district data updated to match state dashboard as of 27th May.",
       "tested": {
         "last_updated": "2020-06-02",
@@ -141,9 +169,9 @@
       }
     },
     "total": {
-      "confirmed": 3791,
-      "deceased": 64,
-      "recovered": 2414,
+      "confirmed": 3971,
+      "deceased": 68,
+      "recovered": 2456,
       "tested": 395681
     }
   },
@@ -3698,7 +3726,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-03T12:23:05+05:30",
+      "last_updated": "2020-06-03T12:26:05+05:30",
       "tested": {
         "last_updated": "2020-06-02",
         "source": "https://t.me/indiacovid/6167"
@@ -4309,22 +4337,23 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 881,
-      "recovered": 71,
+      "confirmed": 1061,
+      "deceased": 4,
+      "recovered": 113,
       "tested": 137158
     },
     "meta": {
-      "last_updated": "2020-06-03T12:23:03+05:30",
+      "last_updated": "2020-06-03T12:36:03+05:30",
       "tested": {
         "last_updated": "2020-06-03",
         "source": "https://twitter.com/ICMRDELHI/status/1268030064467165184?s=19"
       }
     },
     "total": {
-      "confirmed": 208072,
-      "deceased": 5829,
+      "confirmed": 208252,
+      "deceased": 5833,
       "migrated": 11,
-      "recovered": 100356,
+      "recovered": 100398,
       "tested": 4103233
     }
   },

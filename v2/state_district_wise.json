@@ -70,14 +70,14 @@
       {
         "district": "Foreign Evacuees",
         "notes": "",
-        "active": 112,
-        "confirmed": 112,
+        "active": 118,
+        "confirmed": 119,
         "deceased": 0,
-        "recovered": 0,
+        "recovered": 1,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 7,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 1
         }
       },
       {
@@ -96,13 +96,13 @@
       {
         "district": "Chittoor",
         "notes": "",
-        "active": 68,
+        "active": 66,
         "confirmed": 264,
-        "deceased": 2,
+        "deceased": 4,
         "recovered": 194,
         "delta": {
           "confirmed": 0,
-          "deceased": 0,
+          "deceased": 2,
           "recovered": 0
         }
       },
@@ -135,40 +135,40 @@
       {
         "district": "Krishna",
         "notes": "",
-        "active": 129,
+        "active": 128,
         "confirmed": 481,
-        "deceased": 18,
+        "deceased": 19,
         "recovered": 334,
         "delta": {
           "confirmed": 0,
-          "deceased": 0,
+          "deceased": 1,
           "recovered": 0
         }
       },
       {
         "district": "Kurnool",
         "notes": "",
-        "active": 137,
+        "active": 136,
         "confirmed": 728,
-        "deceased": 25,
+        "deceased": 26,
         "recovered": 566,
         "delta": {
           "confirmed": 0,
-          "deceased": 0,
+          "deceased": 1,
           "recovered": 0
         }
       },
       {
         "district": "Other State",
         "notes": "",
-        "active": 282,
-        "confirmed": 479,
+        "active": 362,
+        "confirmed": 573,
         "deceased": 0,
-        "recovered": 197,
+        "recovered": 211,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 94,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 14
         }
       },
       {
@@ -265,10 +265,10 @@
       {
         "district": "Unknown",
         "notes": "",
-        "active": -8,
-        "confirmed": 0,
+        "active": 44,
+        "confirmed": 79,
         "deceased": 0,
-        "recovered": 8,
+        "recovered": 35,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
