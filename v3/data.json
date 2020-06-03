@@ -274,7 +274,8 @@
   "AS": {
     "delta": {
       "confirmed": 271,
-      "recovered": 76
+      "recovered": 76,
+      "tested": 6351
     },
     "districts": {
       "Baksa": {
@@ -541,8 +542,8 @@
       "last_updated": "2020-06-03T23:23:07+05:30",
       "notes": "Includes one case from Nagaland\nTotal of three* patients who migrated to other states has been reduced from Active count",
       "tested": {
-        "last_updated": "2020-06-02",
-        "source": "https://twitter.com/nhm_assam/status/1267850997898137603"
+        "last_updated": "2020-06-03",
+        "source": "https://twitter.com/nhm_assam/status/1268230494988230656?s=19"
       }
     },
     "total": {
@@ -550,7 +551,7 @@
       "deceased": 4,
       "migrated": 3,
       "recovered": 414,
-      "tested": 120375
+      "tested": 126726
     }
   },
   "BR": {
