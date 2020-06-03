@@ -257,7 +257,8 @@
   },
   "AS": {
     "delta": {
-      "confirmed": 111
+      "confirmed": 111,
+      "recovered": 67
     },
     "districts": {
       "Baksa": {
@@ -462,9 +463,13 @@
         }
       },
       "Unknown": {
+        "delta": {
+          "recovered": 67
+        },
         "total": {
           "confirmed": 15,
-          "migrated": 3
+          "migrated": 3,
+          "recovered": 67
         }
       },
       "West Karbi Anglong": {
@@ -475,7 +480,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-03T14:55:07+05:30",
+      "last_updated": "2020-06-03T17:52:05+05:30",
       "notes": "Includes one case from Nagaland <br>\nTotal of three* patients who migrated to other states has been reduced from Active count",
       "tested": {
         "last_updated": "2020-06-02",
@@ -486,7 +491,7 @@
       "confirmed": 1673,
       "deceased": 4,
       "migrated": 3,
-      "recovered": 338,
+      "recovered": 405,
       "tested": 120375
     }
   },
@@ -4597,11 +4602,11 @@
     "delta": {
       "confirmed": 1518,
       "deceased": 5,
-      "recovered": 225,
+      "recovered": 292,
       "tested": 137158
     },
     "meta": {
-      "last_updated": "2020-06-03T17:32:03+05:30",
+      "last_updated": "2020-06-03T17:52:03+05:30",
       "tested": {
         "last_updated": "2020-06-03",
         "source": "https://twitter.com/ICMRDELHI/status/1268030064467165184?s=19"
@@ -4611,7 +4616,7 @@
       "confirmed": 208709,
       "deceased": 5834,
       "migrated": 11,
-      "recovered": 100510,
+      "recovered": 100577,
       "tested": 4103233
     }
   },
