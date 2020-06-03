@@ -927,23 +927,29 @@
     }
   },
   "DN": {
+    "delta": {
+      "confirmed": 1
+    },
     "districts": {
       "Dadra and Nagar Haveli": {
+        "delta": {
+          "confirmed": 1
+        },
         "total": {
-          "confirmed": 3,
+          "confirmed": 4,
           "recovered": 1
         }
       }
     },
     "meta": {
-      "last_updated": "2020-06-01T22:43:09+05:30",
+      "last_updated": "2020-06-03T09:52:09+05:30",
       "tested": {
         "last_updated": "2020-06-01",
         "source": "https://twitter.com/DnhPublicity/status/1267485602360016896/photo/1"
       }
     },
     "total": {
-      "confirmed": 3,
+      "confirmed": 4,
       "recovered": 1,
       "tested": 11693
     }
@@ -2963,7 +2969,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-03T09:42:07+05:30",
+      "last_updated": "2020-06-03T09:46:06+05:30",
       "tested": {
         "last_updated": "2020-06-02",
         "source": "https://twitter.com/MyGovNagaland/status/1267818536296001544?s=20"
@@ -4229,17 +4235,17 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 9
+      "confirmed": 719
     },
     "meta": {
-      "last_updated": "2020-06-03T09:42:03+05:30",
+      "last_updated": "2020-06-03T09:52:03+05:30",
       "tested": {
         "last_updated": "2020-06-02",
         "source": "https://twitter.com/ICMRDELHI/status/1267665101781266433?s=20"
       }
     },
     "total": {
-      "confirmed": 207200,
+      "confirmed": 207910,
       "deceased": 5829,
       "migrated": 11,
       "recovered": 100285,
@@ -4247,12 +4253,15 @@
     }
   },
   "UN": {
+    "delta": {
+      "confirmed": 709
+    },
     "meta": {
-      "last_updated": "2020-06-02T09:26:05+05:30",
+      "last_updated": "2020-06-03T09:52:06+05:30",
       "notes": "MoHFW website reports that these are the \"cases that are being reassigned to states\""
     },
     "total": {
-      "confirmed": 6414
+      "confirmed": 7123
     }
   },
   "UP": {
