@@ -31,31 +31,41 @@
     "delta": {
       "confirmed": 180,
       "deceased": 4,
-      "recovered": 42
+      "recovered": 50
     },
     "districts": {
       "Anantapur": {
+        "delta": {
+          "confirmed": 8,
+          "recovered": 2
+        },
         "total": {
-          "confirmed": 223,
+          "confirmed": 231,
           "deceased": 4,
-          "recovered": 162
+          "recovered": 164
         }
       },
       "Chittoor": {
         "delta": {
-          "deceased": 2
+          "confirmed": 8,
+          "deceased": 2,
+          "recovered": 4
         },
         "total": {
-          "confirmed": 264,
+          "confirmed": 272,
           "deceased": 4,
-          "recovered": 194
+          "recovered": 198
         }
       },
       "East Godavari": {
+        "delta": {
+          "confirmed": 7,
+          "recovered": 11
+        },
         "total": {
-          "confirmed": 243,
+          "confirmed": 250,
           "deceased": 2,
-          "recovered": 53
+          "recovered": 64
         }
       },
       "Foreign Evacuees": {
@@ -69,30 +79,37 @@
         }
       },
       "Guntur": {
+        "delta": {
+          "confirmed": 8
+        },
         "total": {
-          "confirmed": 519,
+          "confirmed": 527,
           "deceased": 8,
           "recovered": 390
         }
       },
       "Krishna": {
         "delta": {
-          "deceased": 1
+          "confirmed": 5,
+          "deceased": 1,
+          "recovered": 3
         },
         "total": {
-          "confirmed": 481,
+          "confirmed": 486,
           "deceased": 19,
-          "recovered": 334
+          "recovered": 337
         }
       },
       "Kurnool": {
         "delta": {
-          "deceased": 1
+          "confirmed": 12,
+          "deceased": 1,
+          "recovered": 11
         },
         "total": {
-          "confirmed": 728,
+          "confirmed": 740,
           "deceased": 26,
-          "recovered": 566
+          "recovered": 577
         }
       },
       "Other State": {
@@ -106,9 +123,13 @@
         }
       },
       "Prakasam": {
+        "delta": {
+          "confirmed": 1,
+          "recovered": 1
+        },
         "total": {
-          "confirmed": 80,
-          "recovered": 66
+          "confirmed": 81,
+          "recovered": 67
         }
       },
       "S.P.S. Nellore": {
@@ -119,49 +140,60 @@
         }
       },
       "Srikakulam": {
+        "delta": {
+          "confirmed": 1,
+          "recovered": 2
+        },
         "total": {
-          "confirmed": 28,
-          "recovered": 9
+          "confirmed": 29,
+          "recovered": 11
         }
       },
       "Unknown": {
-        "delta": {
-          "confirmed": 79,
-          "recovered": 27
-        },
         "total": {
-          "confirmed": 79,
-          "recovered": 35
+          "recovered": 8
         }
       },
       "Visakhapatnam": {
+        "delta": {
+          "confirmed": 2
+        },
         "total": {
-          "confirmed": 105,
+          "confirmed": 107,
           "deceased": 1,
           "recovered": 73
         }
       },
       "Vizianagaram": {
+        "delta": {
+          "recovered": 1
+        },
         "total": {
           "confirmed": 26,
-          "recovered": 12
+          "recovered": 13
         }
       },
       "West Godavari": {
+        "delta": {
+          "confirmed": 12
+        },
         "total": {
-          "confirmed": 123,
+          "confirmed": 135,
           "recovered": 57
         }
       },
       "Y.S.R. Kadapa": {
+        "delta": {
+          "confirmed": 15
+        },
         "total": {
-          "confirmed": 119,
+          "confirmed": 134,
           "recovered": 114
         }
       }
     },
     "meta": {
-      "last_updated": "2020-06-03T12:45:05+05:30",
+      "last_updated": "2020-06-03T13:43:07+05:30",
       "notes": "Total includes patients from other states and a new category \"Foreign Evacuees\" which is now reported in AP bulletin. <br>\nAP district data updated to match state dashboard as of 27th May.",
       "tested": {
         "last_updated": "2020-06-02",
@@ -171,7 +203,7 @@
     "total": {
       "confirmed": 3971,
       "deceased": 68,
-      "recovered": 2456,
+      "recovered": 2464,
       "tested": 395681
     }
   },
@@ -4334,11 +4366,11 @@
     "delta": {
       "confirmed": 1061,
       "deceased": 4,
-      "recovered": 113,
+      "recovered": 121,
       "tested": 137158
     },
     "meta": {
-      "last_updated": "2020-06-03T12:45:03+05:30",
+      "last_updated": "2020-06-03T13:43:03+05:30",
       "tested": {
         "last_updated": "2020-06-03",
         "source": "https://twitter.com/ICMRDELHI/status/1268030064467165184?s=19"
@@ -4348,7 +4380,7 @@
       "confirmed": 208252,
       "deceased": 5833,
       "migrated": 11,
-      "recovered": 100398,
+      "recovered": 100406,
       "tested": 4103233
     }
   },
