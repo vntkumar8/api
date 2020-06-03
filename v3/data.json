@@ -833,6 +833,9 @@
     }
   },
   "CH": {
+    "delta": {
+      "tested": 75
+    },
     "districts": {
       "Chandigarh": {
         "total": {
@@ -845,15 +848,15 @@
     "meta": {
       "last_updated": "2020-06-02T17:55:14+05:30",
       "tested": {
-        "last_updated": "2020-06-02",
-        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/273"
+        "last_updated": "2020-06-03",
+        "source": "https://t.me/indiacovid/6205"
       }
     },
     "total": {
       "confirmed": 301,
       "deceased": 5,
       "recovered": 214,
-      "tested": 4902
+      "tested": 4977
     }
   },
   "CT": {
@@ -1399,6 +1402,9 @@
     }
   },
   "HP": {
+    "delta": {
+      "tested": 1623
+    },
     "districts": {
       "Bilaspur": {
         "total": {
@@ -1470,8 +1476,8 @@
       "last_updated": "2020-06-02T21:52:06+05:30",
       "notes": "HP has 4 Migrated cases which are reduced from Active #. Also, death of Tibetan refugee is included in deceased numbers, but not in confirmed",
       "tested": {
-        "last_updated": "2020-06-02",
-        "source": "https://twitter.com/nhm_hp/status/1267846904345497601"
+        "last_updated": "2020-06-03",
+        "source": "https://twitter.com/nhm_hp/status/1268156466801700864?s=19"
       }
     },
     "total": {
@@ -1479,7 +1485,7 @@
       "deceased": 6,
       "migrated": 3,
       "recovered": 136,
-      "tested": 39620
+      "tested": 41243
     }
   },
   "HR": {
@@ -2325,17 +2331,28 @@
     }
   },
   "LA": {
+    "delta": {
+      "confirmed": 9,
+      "recovered": 1
+    },
     "districts": {
       "Kargil": {
+        "delta": {
+          "confirmed": 7
+        },
         "total": {
-          "confirmed": 39,
+          "confirmed": 46,
           "recovered": 13
         }
       },
       "Leh": {
+        "delta": {
+          "confirmed": 2,
+          "recovered": 1
+        },
         "total": {
-          "confirmed": 42,
-          "recovered": 34
+          "confirmed": 44,
+          "recovered": 35
         }
       },
       "Unknown": {
@@ -2345,16 +2362,16 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-02T22:24:12+05:30",
+      "last_updated": "2020-06-03T18:12:05+05:30",
       "tested": {
         "last_updated": "2020-06-02",
         "source": "https://twitter.com/ladags/status/1267782995483561985?s=20"
       }
     },
     "total": {
-      "confirmed": 81,
+      "confirmed": 90,
       "deceased": 1,
-      "recovered": 47,
+      "recovered": 48,
       "tested": 8264
     }
   },
@@ -4600,23 +4617,23 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 1518,
+      "confirmed": 1527,
       "deceased": 5,
-      "recovered": 292,
+      "recovered": 293,
       "tested": 137158
     },
     "meta": {
-      "last_updated": "2020-06-03T18:00:03+05:30",
+      "last_updated": "2020-06-03T18:12:03+05:30",
       "tested": {
         "last_updated": "2020-06-03",
         "source": "https://twitter.com/ICMRDELHI/status/1268030064467165184?s=19"
       }
     },
     "total": {
-      "confirmed": 208709,
+      "confirmed": 208718,
       "deceased": 5834,
       "migrated": 11,
-      "recovered": 100577,
+      "recovered": 100578,
       "tested": 4103233
     }
   },
@@ -5149,7 +5166,8 @@
     "delta": {
       "confirmed": 23,
       "deceased": 1,
-      "recovered": 7
+      "recovered": 7,
+      "tested": 1332
     },
     "districts": {
       "Almora": {
@@ -5268,8 +5286,8 @@
       "last_updated": "2020-06-03T15:32:06+05:30",
       "notes": "Three migrated cases reduced from Active count",
       "tested": {
-        "last_updated": "2020-06-02",
-        "source": "https://t.me/indiacovid/6122?single"
+        "last_updated": "2020-06-03",
+        "source": "https://t.me/indiacovid/6207?single"
       }
     },
     "total": {
@@ -5277,7 +5295,7 @@
       "deceased": 8,
       "migrated": 3,
       "recovered": 259,
-      "tested": 33081
+      "tested": 34413
     }
   },
   "WB": {
