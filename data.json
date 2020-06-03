@@ -1128,15 +1128,15 @@
 	],
 	"statewise": [
 		{
-			"active": "102499",
-			"confirmed": "209611",
-			"deaths": "5845",
-			"deltaconfirmed": "2420",
-			"deltadeaths": "16",
-			"deltarecovered": "970",
-			"lastupdatedtime": "03/06/2020 19:50:03",
+			"active": "102637",
+			"confirmed": "210097",
+			"deaths": "5875",
+			"deltaconfirmed": "2906",
+			"deltadeaths": "46",
+			"deltarecovered": "1288",
+			"lastupdatedtime": "03/06/2020 20:04:02",
 			"migratedother": "",
-			"recovered": "101255",
+			"recovered": "101573",
 			"state": "Total",
 			"statecode": "TT",
 			"statenotes": ""
@@ -1184,15 +1184,15 @@
 			"statenotes": "[10-May]\nDelhi bulletins in the morning, containing data of the previous day. We will add that data to the date on which the report is released, rather than the previous day."
 		},
 		{
-			"active": "4646",
-			"confirmed": "17632",
-			"deaths": "1092",
-			"deltaconfirmed": "0",
-			"deltadeaths": "0",
-			"deltarecovered": "0",
-			"lastupdatedtime": "02/06/2020 21:07:06",
+			"active": "4783",
+			"confirmed": "18117",
+			"deaths": "1122",
+			"deltaconfirmed": "485",
+			"deltadeaths": "30",
+			"deltarecovered": "318",
+			"lastupdatedtime": "03/06/2020 20:04:04",
 			"migratedother": "",
-			"recovered": "11894",
+			"recovered": "12212",
 			"state": "Gujarat",
 			"statecode": "GJ",
 			"statenotes": ""
@@ -1212,20 +1212,6 @@
 			"statenotes": ""
 		},
 		{
-			"active": "2772",
-			"confirmed": "8588",
-			"deaths": "371",
-			"deltaconfirmed": "168",
-			"deltadeaths": "7",
-			"deltarecovered": "224",
-			"lastupdatedtime": "03/06/2020 19:26:05",
-			"migratedother": "",
-			"recovered": "5445",
-			"state": "Madhya Pradesh",
-			"statecode": "MP",
-			"statenotes": ""
-		},
-		{
 			"active": "3324",
 			"confirmed": "8729",
 			"deaths": "229",
@@ -1240,18 +1226,18 @@
 			"statenotes": ""
 		},
 		{
-			"active": "3423",
-			"confirmed": "6168",
-			"deaths": "335",
-			"deltaconfirmed": "0",
-			"deltadeaths": "0",
-			"deltarecovered": "0",
-			"lastupdatedtime": "02/06/2020 20:35:05",
+			"active": "2772",
+			"confirmed": "8588",
+			"deaths": "371",
+			"deltaconfirmed": "168",
+			"deltadeaths": "7",
+			"deltarecovered": "224",
+			"lastupdatedtime": "03/06/2020 19:26:05",
 			"migratedother": "",
-			"recovered": "2410",
-			"state": "West Bengal",
-			"statecode": "WB",
-			"statenotes": "Deaths due to comorbidities added to total deceased"
+			"recovered": "5445",
+			"state": "Madhya Pradesh",
+			"statecode": "MP",
+			"statenotes": ""
 		},
 		{
 			"active": "7123",
@@ -1268,6 +1254,20 @@
 			"statenotes": "MoHFW website reports that these are the \"cases that are being reassigned to states\""
 		},
 		{
+			"active": "3423",
+			"confirmed": "6168",
+			"deaths": "335",
+			"deltaconfirmed": "0",
+			"deltadeaths": "0",
+			"deltarecovered": "0",
+			"lastupdatedtime": "02/06/2020 20:35:05",
+			"migratedother": "",
+			"recovered": "2410",
+			"state": "West Bengal",
+			"statecode": "WB",
+			"statenotes": "Deaths due to comorbidities added to total deceased"
+		},
+		{
 			"active": "2223",
 			"confirmed": "4273",
 			"deaths": "25",
@@ -1282,20 +1282,6 @@
 			"statenotes": ""
 		},
 		{
-			"active": "1439",
-			"confirmed": "3971",
-			"deaths": "68",
-			"deltaconfirmed": "180",
-			"deltadeaths": "4",
-			"deltarecovered": "50",
-			"lastupdatedtime": "03/06/2020 13:53:05",
-			"migratedother": "",
-			"recovered": "2464",
-			"state": "Andhra Pradesh",
-			"statecode": "AP",
-			"statenotes": "Total includes patients from other states and a new category \"Foreign Evacuees\" which is now reported in AP bulletin."
-		},
-		{
 			"active": "2494",
 			"confirmed": "4063",
 			"deaths": "53",
@@ -1308,6 +1294,20 @@
 			"state": "Karnataka",
 			"statecode": "KA",
 			"statenotes": "Two active cases in KA reduced as these confirmed patients died of non-CoViD19 related reasons"
+		},
+		{
+			"active": "1439",
+			"confirmed": "3971",
+			"deaths": "68",
+			"deltaconfirmed": "180",
+			"deltadeaths": "4",
+			"deltarecovered": "50",
+			"lastupdatedtime": "03/06/2020 13:53:05",
+			"migratedother": "",
+			"recovered": "2464",
+			"state": "Andhra Pradesh",
+			"statecode": "AP",
+			"statenotes": "Total includes patients from other states and a new category \"Foreign Evacuees\" which is now reported in AP bulletin."
 		},
 		{
 			"active": "1273",
@@ -1330,7 +1330,7 @@
 			"deltaconfirmed": "139",
 			"deltadeaths": "1",
 			"deltarecovered": "54",
-			"lastupdatedtime": "03/06/2020 19:50:05",
+			"lastupdatedtime": "03/06/2020 19:54:05",
 			"migratedother": "",
 			"recovered": "1007",
 			"state": "Jammu and Kashmir",
@@ -1352,20 +1352,6 @@
 			"statenotes": ""
 		},
 		{
-			"active": "300",
-			"confirmed": "2376",
-			"deaths": "47",
-			"deltaconfirmed": "34",
-			"deltadeaths": "1",
-			"deltarecovered": "12",
-			"lastupdatedtime": "03/06/2020 19:35:23",
-			"migratedother": "",
-			"recovered": "2029",
-			"state": "Punjab",
-			"statecode": "PB",
-			"statenotes": ""
-		},
-		{
 			"active": "963",
 			"confirmed": "2388",
 			"deaths": "9",
@@ -1377,6 +1363,20 @@
 			"recovered": "1416",
 			"state": "Odisha",
 			"statecode": "OR",
+			"statenotes": ""
+		},
+		{
+			"active": "300",
+			"confirmed": "2376",
+			"deaths": "47",
+			"deltaconfirmed": "34",
+			"deltadeaths": "1",
+			"deltarecovered": "12",
+			"lastupdatedtime": "03/06/2020 19:35:23",
+			"migratedother": "",
+			"recovered": "2029",
+			"state": "Punjab",
+			"statecode": "PB",
 			"statenotes": ""
 		},
 		{
@@ -1450,20 +1450,6 @@
 			"statenotes": ""
 		},
 		{
-			"active": "204",
-			"confirmed": "357",
-			"deaths": "6",
-			"deltaconfirmed": "12",
-			"deltadeaths": "0",
-			"deltarecovered": "8",
-			"lastupdatedtime": "03/06/2020 19:05:17",
-			"migratedother": "3",
-			"recovered": "144",
-			"state": "Himachal Pradesh",
-			"statecode": "HP",
-			"statenotes": "HP has 4 Migrated cases which are reduced from Active #. Also, death of Tibetan refugee is included in deceased numbers, but not in confirmed"
-		},
-		{
 			"active": "347",
 			"confirmed": "520",
 			"deaths": "0",
@@ -1478,6 +1464,20 @@
 			"statenotes": ""
 		},
 		{
+			"active": "204",
+			"confirmed": "357",
+			"deaths": "6",
+			"deltaconfirmed": "12",
+			"deltadeaths": "0",
+			"deltarecovered": "8",
+			"lastupdatedtime": "03/06/2020 19:05:17",
+			"migratedother": "3",
+			"recovered": "144",
+			"state": "Himachal Pradesh",
+			"statecode": "HP",
+			"statenotes": "HP has 4 Migrated cases which are reduced from Active #. Also, death of Tibetan refugee is included in deceased numbers, but not in confirmed"
+		},
+		{
 			"active": "82",
 			"confirmed": "301",
 			"deaths": "5",
@@ -1489,20 +1489,6 @@
 			"recovered": "214",
 			"state": "Chandigarh",
 			"statecode": "CH",
-			"statenotes": ""
-		},
-		{
-			"active": "75",
-			"confirmed": "89",
-			"deaths": "0",
-			"deltaconfirmed": "0",
-			"deltadeaths": "0",
-			"deltarecovered": "0",
-			"lastupdatedtime": "02/06/2020 21:15:38",
-			"migratedother": "",
-			"recovered": "14",
-			"state": "Manipur",
-			"statecode": "MN",
 			"statenotes": ""
 		},
 		{
@@ -1520,17 +1506,17 @@
 			"statenotes": ""
 		},
 		{
-			"active": "22",
-			"confirmed": "79",
+			"active": "75",
+			"confirmed": "89",
 			"deaths": "0",
 			"deltaconfirmed": "0",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
-			"lastupdatedtime": "02/06/2020 20:16:17",
+			"lastupdatedtime": "02/06/2020 21:15:38",
 			"migratedother": "",
-			"recovered": "57",
-			"state": "Goa",
-			"statecode": "GA",
+			"recovered": "14",
+			"state": "Manipur",
+			"statecode": "MN",
 			"statenotes": ""
 		},
 		{
@@ -1545,6 +1531,20 @@
 			"recovered": "30",
 			"state": "Puducherry",
 			"statecode": "PY",
+			"statenotes": ""
+		},
+		{
+			"active": "22",
+			"confirmed": "79",
+			"deaths": "0",
+			"deltaconfirmed": "0",
+			"deltadeaths": "0",
+			"deltarecovered": "0",
+			"lastupdatedtime": "02/06/2020 20:16:17",
+			"migratedother": "",
+			"recovered": "57",
+			"state": "Goa",
+			"statecode": "GA",
 			"statenotes": ""
 		},
 		{
@@ -1590,31 +1590,17 @@
 			"statenotes": ""
 		},
 		{
-			"active": "27",
-			"confirmed": "28",
-			"deaths": "0",
-			"deltaconfirmed": "0",
-			"deltadeaths": "0",
-			"deltarecovered": "0",
-			"lastupdatedtime": "02/06/2020 23:45:17",
-			"migratedother": "",
-			"recovered": "1",
-			"state": "Arunachal Pradesh",
-			"statecode": "AR",
-			"statenotes": ""
-		},
-		{
-			"active": "3",
-			"confirmed": "4",
+			"active": "28",
+			"confirmed": "29",
 			"deaths": "0",
 			"deltaconfirmed": "1",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
-			"lastupdatedtime": "03/06/2020 09:58:10",
+			"lastupdatedtime": "03/06/2020 20:04:06",
 			"migratedother": "",
 			"recovered": "1",
-			"state": "Dadra and Nagar Haveli and Daman and Diu",
-			"statecode": "DN",
+			"state": "Arunachal Pradesh",
+			"statecode": "AR",
 			"statenotes": ""
 		},
 		{
@@ -1629,6 +1615,20 @@
 			"recovered": "1",
 			"state": "Mizoram",
 			"statecode": "MZ",
+			"statenotes": ""
+		},
+		{
+			"active": "3",
+			"confirmed": "4",
+			"deaths": "0",
+			"deltaconfirmed": "1",
+			"deltadeaths": "0",
+			"deltarecovered": "0",
+			"lastupdatedtime": "03/06/2020 09:58:10",
+			"migratedother": "",
+			"recovered": "1",
+			"state": "Dadra and Nagar Haveli and Daman and Diu",
+			"statecode": "DN",
 			"statenotes": ""
 		},
 		{
