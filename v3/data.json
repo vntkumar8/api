@@ -4463,7 +4463,7 @@
       "tested": 137158
     },
     "meta": {
-      "last_updated": "2020-06-03T15:23:07+05:30",
+      "last_updated": "2020-06-03T15:32:03+05:30",
       "tested": {
         "last_updated": "2020-06-03",
         "source": "https://twitter.com/ICMRDELHI/status/1268030064467165184?s=19"
@@ -5040,11 +5040,13 @@
         "delta": {
           "confirmed": 8,
           "deceased": 1,
+          "migrated": 3,
           "recovered": 3
         },
         "total": {
           "confirmed": 287,
           "deceased": 5,
+          "migrated": 3,
           "recovered": 44
         }
       },
@@ -5108,8 +5110,8 @@
         }
       },
       "Unknown": {
-        "total": {
-          "migrated": 3
+        "delta": {
+          "migrated": -3
         }
       },
       "Uttarkashi": {
@@ -5120,7 +5122,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-03T15:23:09+05:30",
+      "last_updated": "2020-06-03T15:32:06+05:30",
       "notes": "Three migrated cases reduced from Active count",
       "tested": {
         "last_updated": "2020-06-02",
