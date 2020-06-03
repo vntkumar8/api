@@ -1128,15 +1128,15 @@
 	],
 	"statewise": [
 		{
-			"active": "102295",
-			"confirmed": "208718",
+			"active": "102352",
+			"confirmed": "208800",
 			"deaths": "5834",
-			"deltaconfirmed": "1527",
+			"deltaconfirmed": "1609",
 			"deltadeaths": "5",
-			"deltarecovered": "293",
-			"lastupdatedtime": "03/06/2020 18:12:03",
+			"deltarecovered": "317",
+			"lastupdatedtime": "03/06/2020 18:23:03",
 			"migratedother": "",
-			"recovered": "100578",
+			"recovered": "100602",
 			"state": "Total",
 			"statecode": "TT",
 			"statenotes": ""
@@ -1167,7 +1167,7 @@
 			"recovered": "13706",
 			"state": "Tamil Nadu",
 			"statecode": "TN",
-			"statenotes": "2 deaths cross notified to other states from Chennai and Coimbatore.<br>1 patient died after turning negative for infection in Chengalpattu"
+			"statenotes": "2 deaths cross notified to other states from Chennai and Coimbatore.\n1 patient died after turning negative for infection in Chengalpattu"
 		},
 		{
 			"active": "12333",
@@ -1181,7 +1181,7 @@
 			"recovered": "9243",
 			"state": "Delhi",
 			"statecode": "DL",
-			"statenotes": "[10-May]<br>\n\nDelhi bulletins in the morning, containing data of the previous day. We will add that data to the date on which the report is released, rather than the previous day."
+			"statenotes": "[10-May]\nDelhi bulletins in the morning, containing data of the previous day. We will add that data to the date on which the report is released, rather than the previous day."
 		},
 		{
 			"active": "4646",
@@ -1251,7 +1251,7 @@
 			"recovered": "2410",
 			"state": "West Bengal",
 			"statecode": "WB",
-			"statenotes": "- Cases updated as per WB bulletin.<br>\n- Deaths due to comorbidities added to total deceased<br>"
+			"statenotes": "Deaths due to comorbidities added to total deceased"
 		},
 		{
 			"active": "7123",
@@ -1293,7 +1293,7 @@
 			"recovered": "2464",
 			"state": "Andhra Pradesh",
 			"statecode": "AP",
-			"statenotes": "Total includes patients from other states and a new category \"Foreign Evacuees\" which is now reported in AP bulletin. <br>\nAP district data updated to match state dashboard as of 27th May. "
+			"statenotes": "Total includes patients from other states and a new category \"Foreign Evacuees\" which is now reported in AP bulletin."
 		},
 		{
 			"active": "2339",
@@ -1391,35 +1391,35 @@
 			"recovered": "405",
 			"state": "Assam",
 			"statecode": "AS",
-			"statenotes": "Includes one case from Nagaland <br>\nTotal of three* patients who migrated to other states has been reduced from Active count"
+			"statenotes": "Includes one case from Nagaland\nTotal of three* patients who migrated to other states has been reduced from Active count"
 		},
 		{
-			"active": "774",
-			"confirmed": "1413",
+			"active": "832",
+			"confirmed": "1495",
 			"deaths": "12",
-			"deltaconfirmed": "0",
+			"deltaconfirmed": "82",
 			"deltadeaths": "0",
-			"deltarecovered": "0",
-			"lastupdatedtime": "02/06/2020 18:13:05",
+			"deltarecovered": "24",
+			"lastupdatedtime": "03/06/2020 18:23:05",
 			"migratedother": "",
-			"recovered": "627",
+			"recovered": "651",
 			"state": "Kerala",
 			"statecode": "KL",
 			"statenotes": "Mahe native who expired in Kannur included in Kerala's tally"
 		},
 		{
-			"active": "796",
+			"active": "795",
 			"confirmed": "1066",
 			"deaths": "8",
 			"deltaconfirmed": "23",
 			"deltadeaths": "1",
 			"deltarecovered": "7",
-			"lastupdatedtime": "03/06/2020 15:32:06",
-			"migratedother": "3",
+			"lastupdatedtime": "03/06/2020 18:23:07",
+			"migratedother": "4",
 			"recovered": "259",
 			"state": "Uttarakhand",
 			"statecode": "UT",
-			"statenotes": "Three migrated cases reduced from Active count"
+			"statenotes": "Four migrated cases reduced from Active count"
 		},
 		{
 			"active": "425",
@@ -1475,7 +1475,7 @@
 			"recovered": "173",
 			"state": "Tripura",
 			"statecode": "TR",
-			"statenotes": "Two cases have migrated out of Tripura."
+			"statenotes": ""
 		},
 		{
 			"active": "82",
@@ -1512,7 +1512,7 @@
 			"deltaconfirmed": "9",
 			"deltadeaths": "0",
 			"deltarecovered": "1",
-			"lastupdatedtime": "03/06/2020 18:12:05",
+			"lastupdatedtime": "03/06/2020 18:16:07",
 			"migratedother": "",
 			"recovered": "48",
 			"state": "Ladakh",

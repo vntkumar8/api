@@ -195,7 +195,7 @@
     },
     "meta": {
       "last_updated": "2020-06-03T13:53:05+05:30",
-      "notes": "Total includes patients from other states and a new category \"Foreign Evacuees\" which is now reported in AP bulletin. <br>\nAP district data updated to match state dashboard as of 27th May.",
+      "notes": "Total includes patients from other states and a new category \"Foreign Evacuees\" which is now reported in AP bulletin.",
       "tested": {
         "last_updated": "2020-06-03",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/282"
@@ -481,7 +481,7 @@
     },
     "meta": {
       "last_updated": "2020-06-03T18:00:06+05:30",
-      "notes": "Includes one case from Nagaland <br>\nTotal of three* patients who migrated to other states has been reduced from Active count",
+      "notes": "Includes one case from Nagaland\nTotal of three* patients who migrated to other states has been reduced from Active count",
       "tested": {
         "last_updated": "2020-06-02",
         "source": "https://twitter.com/nhm_assam/status/1267850997898137603"
@@ -1082,7 +1082,7 @@
     },
     "meta": {
       "last_updated": "2020-06-02T22:24:06+05:30",
-      "notes": "[10-May]<br>\n\nDelhi bulletins in the morning, containing data of the previous day. We will add that data to the date on which the report is released, rather than the previous day.",
+      "notes": "[10-May]\nDelhi bulletins in the morning, containing data of the previous day. We will add that data to the date on which the report is released, rather than the previous day.",
       "tested": {
         "last_updated": "2020-06-02",
         "source": "https://t.me/indiacovid/6188"
@@ -2210,63 +2210,100 @@
     }
   },
   "KL": {
+    "delta": {
+      "confirmed": 82,
+      "recovered": 24
+    },
     "districts": {
       "Alappuzha": {
+        "delta": {
+          "confirmed": 7,
+          "recovered": 1
+        },
         "total": {
-          "confirmed": 59,
+          "confirmed": 66,
           "deceased": 1,
-          "recovered": 7
+          "recovered": 8
         }
       },
       "Ernakulam": {
+        "delta": {
+          "confirmed": 5
+        },
         "total": {
-          "confirmed": 56,
+          "confirmed": 61,
           "deceased": 1,
           "recovered": 28
         }
       },
       "Idukki": {
+        "delta": {
+          "confirmed": 9
+        },
         "total": {
-          "confirmed": 33,
+          "confirmed": 42,
           "recovered": 24
         }
       },
       "Kannur": {
+        "delta": {
+          "confirmed": 2,
+          "recovered": 2
+        },
         "total": {
-          "confirmed": 232,
+          "confirmed": 234,
           "deceased": 2,
-          "recovered": 126
+          "recovered": 128
         }
       },
       "Kasaragod": {
+        "delta": {
+          "confirmed": 3,
+          "recovered": 4
+        },
         "total": {
-          "confirmed": 300,
-          "recovered": 201
+          "confirmed": 303,
+          "recovered": 205
         }
       },
       "Kollam": {
+        "delta": {
+          "confirmed": 5,
+          "recovered": 2
+        },
         "total": {
-          "confirmed": 73,
-          "recovered": 23
+          "confirmed": 78,
+          "recovered": 25
         }
       },
       "Kottayam": {
+        "delta": {
+          "confirmed": 8,
+          "recovered": 3
+        },
         "total": {
-          "confirmed": 51,
+          "confirmed": 59,
           "deceased": 1,
-          "recovered": 35
+          "recovered": 38
         }
       },
       "Kozhikode": {
+        "delta": {
+          "confirmed": 7,
+          "recovered": 5
+        },
         "total": {
-          "confirmed": 71,
+          "confirmed": 78,
           "deceased": 1,
-          "recovered": 33
+          "recovered": 38
         }
       },
       "Malappuram": {
+        "delta": {
+          "confirmed": 11
+        },
         "total": {
-          "confirmed": 127,
+          "confirmed": 138,
           "deceased": 1,
           "recovered": 50
         }
@@ -2277,29 +2314,43 @@
         }
       },
       "Palakkad": {
+        "delta": {
+          "confirmed": 5
+        },
         "total": {
-          "confirmed": 162,
+          "confirmed": 167,
           "recovered": 17
         }
       },
       "Pathanamthitta": {
+        "delta": {
+          "confirmed": 2
+        },
         "total": {
-          "confirmed": 53,
+          "confirmed": 55,
           "recovered": 21
         }
       },
       "Thiruvananthapuram": {
+        "delta": {
+          "confirmed": 14,
+          "recovered": 6
+        },
         "total": {
-          "confirmed": 71,
+          "confirmed": 85,
           "deceased": 3,
-          "recovered": 23
+          "recovered": 29
         }
       },
       "Thrissur": {
+        "delta": {
+          "confirmed": 4,
+          "recovered": 1
+        },
         "total": {
-          "confirmed": 79,
+          "confirmed": 83,
           "deceased": 1,
-          "recovered": 18
+          "recovered": 19
         }
       },
       "Unknown": {
@@ -2316,7 +2367,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-02T18:13:05+05:30",
+      "last_updated": "2020-06-03T18:23:05+05:30",
       "notes": "Mahe native who expired in Kannur included in Kerala's tally",
       "tested": {
         "last_updated": "2020-06-02",
@@ -2324,9 +2375,9 @@
       }
     },
     "total": {
-      "confirmed": 1413,
+      "confirmed": 1495,
       "deceased": 12,
-      "recovered": 627,
+      "recovered": 651,
       "tested": 86169
     }
   },
@@ -2362,7 +2413,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-03T18:12:05+05:30",
+      "last_updated": "2020-06-03T18:16:07+05:30",
       "tested": {
         "last_updated": "2020-06-02",
         "source": "https://twitter.com/ladags/status/1267782995483561985?s=20"
@@ -4048,9 +4099,6 @@
         }
       },
       "Foreign Evacuees": {
-        "meta": {
-          "notes": "Category added in Telangana State Bulletin"
-        },
         "total": {
           "confirmed": 33
         }
@@ -4528,7 +4576,7 @@
     },
     "meta": {
       "last_updated": "2020-06-02T18:36:17+05:30",
-      "notes": "2 deaths cross notified to other states from Chennai and Coimbatore.<br>1 patient died after turning negative for infection in Chengalpattu",
+      "notes": "2 deaths cross notified to other states from Chennai and Coimbatore.\n1 patient died after turning negative for infection in Chengalpattu",
       "tested": {
         "last_updated": "2020-06-02",
         "source": "https://stopcorona.tn.gov.in/wp-content/uploads/2020/03/Media-Bulletin-02.06.020.pdf"
@@ -4603,7 +4651,6 @@
     },
     "meta": {
       "last_updated": "2020-06-03T16:04:06+05:30",
-      "notes": "Two cases have migrated out of Tripura.",
       "tested": {
         "last_updated": "2020-06-02",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/275"
@@ -4617,23 +4664,23 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 1527,
+      "confirmed": 1609,
       "deceased": 5,
-      "recovered": 293,
+      "recovered": 317,
       "tested": 137158
     },
     "meta": {
-      "last_updated": "2020-06-03T18:12:03+05:30",
+      "last_updated": "2020-06-03T18:23:03+05:30",
       "tested": {
         "last_updated": "2020-06-03",
         "source": "https://twitter.com/ICMRDELHI/status/1268030064467165184?s=19"
       }
     },
     "total": {
-      "confirmed": 208718,
+      "confirmed": 208800,
       "deceased": 5834,
       "migrated": 11,
-      "recovered": 100578,
+      "recovered": 100602,
       "tested": 4103233
     }
   },
@@ -5283,8 +5330,8 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-03T15:32:06+05:30",
-      "notes": "Three migrated cases reduced from Active count",
+      "last_updated": "2020-06-03T18:23:07+05:30",
+      "notes": "Four migrated cases reduced from Active count",
       "tested": {
         "last_updated": "2020-06-03",
         "source": "https://t.me/indiacovid/6207?single"
@@ -5458,7 +5505,7 @@
     },
     "meta": {
       "last_updated": "2020-06-02T20:35:05+05:30",
-      "notes": "- Cases updated as per WB bulletin.<br>\n- Deaths due to comorbidities added to total deceased<br>",
+      "notes": "Deaths due to comorbidities added to total deceased",
       "tested": {
         "last_updated": "2020-06-02",
         "source": "https://www.wbhealth.gov.in/uploaded_files/corona/WB_DHFW_Bulletin_2nd_JUNE_REPORT_FINAL.pdf"
