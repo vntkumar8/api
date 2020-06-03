@@ -492,7 +492,8 @@
   },
   "BR": {
     "delta": {
-      "confirmed": 177
+      "confirmed": 177,
+      "tested": 3316
     },
     "districts": {
       "Araria": {
@@ -534,10 +535,10 @@
       },
       "Bhagalpur": {
         "delta": {
-          "confirmed": 3
+          "confirmed": 4
         },
         "total": {
-          "confirmed": 194,
+          "confirmed": 195,
           "deceased": 1,
           "recovered": 71
         }
@@ -754,14 +755,6 @@
           "recovered": 19
         }
       },
-      "Shajapur": {
-        "delta": {
-          "confirmed": 1
-        },
-        "total": {
-          "confirmed": 1
-        }
-      },
       "Sheikhpura": {
         "delta": {
           "confirmed": 2
@@ -823,15 +816,14 @@
     "meta": {
       "last_updated": "2020-06-03T17:03:06+05:30",
       "tested": {
-        "last_updated": "2020-06-02",
-        "source": "https://twitter.com/PIB_Patna/status/1267780351889268737"
+        "last_updated": "2020-06-03"
       }
     },
     "total": {
       "confirmed": 4273,
       "deceased": 24,
       "recovered": 1803,
-      "tested": 81413
+      "tested": 84729
     }
   },
   "CH": {
@@ -3454,7 +3446,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-03T17:23:07+05:30",
+      "last_updated": "2020-06-03T17:32:05+05:30",
       "tested": {
         "last_updated": "2020-06-03",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/284?single"
@@ -4608,7 +4600,7 @@
       "tested": 137158
     },
     "meta": {
-      "last_updated": "2020-06-03T17:23:05+05:30",
+      "last_updated": "2020-06-03T17:32:03+05:30",
       "tested": {
         "last_updated": "2020-06-03",
         "source": "https://twitter.com/ICMRDELHI/status/1268030064467165184?s=19"
